@@ -1,0 +1,81 @@
+{
+  "version": 3,
+  "status": "local-government residential controls; estimated workplaces and OD",
+  "points": 24943,
+  "commuter_groups": 126467,
+  "commuters": 12646700,
+  "seed": 20261107,
+  "grid_m": 500,
+  "population_total": 32615007.0,
+  "official_population_controls": 446,
+  "villages": 1502,
+  "reported_population_years": [
+    "2022",
+    "2025"
+  ],
+  "default_participation_ratio_when_missing": 0.3891186367704876,
+  "residents_meaning": "Modelled working trip-makers. Working-resident weights use reported SIAK occupations where available; missing areas use the median reported participation ratio. Not total inhabitants.",
+  "jobs_meaning": "Estimated workplace capacity; regional JUTPI2018 shares scaled to modelled working residents. DKI city split updated with deduplicated registered Jamsostek202406 membership. Not a current workplace census.",
+  "within_region_jobs": "OSM land-use with official Bekasi Regency industrial point locations, Bekasi city company-count kecamatan proxies2025, Tangerang city large-industry kecamatan proxies2023. No per-company staffing invented.",
+  "od_model": "Synthetic doubly constrained regional gravity,18km decay; local distance-weighted sampling. No observed home-work links.",
+  "driving_model": "1.35 straight-line detour,24km/h plus180s; no road routing or measured congestion.",
+  "source_level_population_checks_passed": true,
+  "output_region_checks_passed": true,
+  "region_checks": {
+    "Bekasi": {
+      "model_residents": 1350000,
+      "model_jobs": 1255400
+    },
+    "Bogor": {
+      "model_residents": 2129800,
+      "model_jobs": 1963600
+    },
+    "Kota Bekasi": {
+      "model_residents": 1010100,
+      "model_jobs": 840200
+    },
+    "Kota Bogor": {
+      "model_residents": 450000,
+      "model_jobs": 437400
+    },
+    "Kota Depok": {
+      "model_residents": 793200,
+      "model_jobs": 529100
+    },
+    "Kota Jakarta Barat": {
+      "model_residents": 980800,
+      "model_jobs": 634000
+    },
+    "Kota Jakarta Pusat": {
+      "model_residents": 408600,
+      "model_jobs": 1199200
+    },
+    "Kota Jakarta Selatan": {
+      "model_residents": 923000,
+      "model_jobs": 2080800
+    },
+    "Kota Jakarta Timur": {
+      "model_residents": 1212200,
+      "model_jobs": 582700
+    },
+    "Kota Jakarta Utara": {
+      "model_residents": 667100,
+      "model_jobs": 706600
+    },
+    "Kota Tangerang": {
+      "model_residents": 769100,
+      "model_jobs": 852700
+    },
+    "Kota Tangerang Selatan": {
+      "model_residents": 564600,
+      "model_jobs": 522100
+    },
+    "Tangerang": {
+      "model_residents": 1388200,
+      "model_jobs": 1042900
+    }
+  },
+  "sources_manifest": "sources/government/source_manifest.json",
+  "quality_issues": "sources/government/quality_issues.json",
+  "kelurahan_audit": "sources/government/kelurahan_estimates.csv"
+}

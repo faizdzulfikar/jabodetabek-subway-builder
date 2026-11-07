@@ -1,0 +1,7 @@
+{
+  "allocation_sha256": "cbf0545cb81fecb22e30d2319112e8e9ffe38052f05c331ed8ab24a3cf466a5e",
+  "previous_sha256": "cbf0545cb81fecb22e30d2319112e8e9ffe38052f05c331ed8ab24a3cf466a5e",
+  "byte_identical_repeated_cached_generation": true,
+  "seed": 20261107,
+  "scope": "Two complete cached allocation runs over the same full-inventory candidate arrays; production unchanged"
+}

@@ -1,81 +1,70 @@
 {
-  "version": 3,
-  "status": "local-government residential controls; estimated workplaces and OD",
-  "points": 24943,
-  "commuter_groups": 126467,
-  "commuters": 12646700,
+  "version": 4,
+  "stage": "B_FINAL_VERIFIED",
   "seed": 20261107,
-  "grid_m": 500,
-  "population_total": 32615007.0,
+  "population": 32615007,
+  "allocation_anchors": 115929,
+  "engine_points": 78404,
+  "onsite_clone_points": 1002,
+  "groups": 126467,
+  "workers": 12646700,
+  "regional_origins_exact": true,
+  "regional_destinations_exact": true,
+  "all_point_origins_exact": true,
+  "all_point_jobs_exact": true,
+  "cross_region_workers": 5058600,
+  "cross_region_fraction": 0.39999367423912957,
+  "decay_km": 18,
+  "diagonal_preference": 8.579544601671426,
+  "within_region_distance_noise_km": 6,
+  "sparse_candidate_k_max": 32,
+  "straight_distance_km_p10_p50_p90_p95_p99": [
+    0.4113798223738548,
+    5.781505921672172,
+    27.16445171984939,
+    34.5140970643141,
+    48.35360050493338
+  ],
+  "proxy_travel_minutes_p50_p90_p95": [
+    22.516666666666666,
+    94.68333333333334,
+    119.48333333333333
+  ],
+  "onsite_worker_fraction": 0.011164967936299588,
+  "candidate_gzip_bytes": 3895853,
+  "seconds": 5.973989249992883,
+  "travel_time_status": "Proxy:1.35*straight distance,24km/h+180s; network-routing sample audited separately, not measured congestion",
+  "od_status": "Synthetic reviewed40% cross-region scenario, not an observed2026 OD census",
+  "transport_method": "Entropy-kernel IPF + integer min-cost rounding for point-to-region marginals; perturbed sparse min-cost matching within each regional pair. All point and regional margins exact.",
+  "points": 78404,
+  "commuters": 12646700,
+  "commuter_groups": 126467,
+  "population_total": 32615007,
   "official_population_controls": 446,
   "villages": 1502,
-  "reported_population_years": [
+  "grid_m": null,
+  "coordinate_method": "actual full-inventory building point-on-surface; developed-parcel fallback for missing residential coverage; no jitter or final grid",
+  "population_years": [
     "2022",
     "2025"
   ],
-  "default_participation_ratio_when_missing": 0.3891186367704876,
-  "residents_meaning": "Modelled working trip-makers. Working-resident weights use reported SIAK occupations where available; missing areas use the median reported participation ratio. Not total inhabitants.",
-  "jobs_meaning": "Estimated workplace capacity; regional JUTPI2018 shares scaled to modelled working residents. DKI city split updated with deduplicated registered Jamsostek202406 membership. Not a current workplace census.",
-  "within_region_jobs": "OSM land-use with official Bekasi Regency industrial point locations, Bekasi city company-count kecamatan proxies2025, Tangerang city large-industry kecamatan proxies2023. No per-company staffing invented.",
-  "od_model": "Synthetic doubly constrained regional gravity,18km decay; local distance-weighted sampling. No observed home-work links.",
-  "driving_model": "1.35 straight-line detour,24km/h plus180s; no road routing or measured congestion.",
-  "source_level_population_checks_passed": true,
-  "output_region_checks_passed": true,
-  "region_checks": {
-    "Bekasi": {
-      "model_residents": 1350000,
-      "model_jobs": 1255400
-    },
-    "Bogor": {
-      "model_residents": 2129800,
-      "model_jobs": 1963600
-    },
-    "Kota Bekasi": {
-      "model_residents": 1010100,
-      "model_jobs": 840200
-    },
-    "Kota Bogor": {
-      "model_residents": 450000,
-      "model_jobs": 437400
-    },
-    "Kota Depok": {
-      "model_residents": 793200,
-      "model_jobs": 529100
-    },
-    "Kota Jakarta Barat": {
-      "model_residents": 980800,
-      "model_jobs": 634000
-    },
-    "Kota Jakarta Pusat": {
-      "model_residents": 408600,
-      "model_jobs": 1199200
-    },
-    "Kota Jakarta Selatan": {
-      "model_residents": 923000,
-      "model_jobs": 2080800
-    },
-    "Kota Jakarta Timur": {
-      "model_residents": 1212200,
-      "model_jobs": 582700
-    },
-    "Kota Jakarta Utara": {
-      "model_residents": 667100,
-      "model_jobs": 706600
-    },
-    "Kota Tangerang": {
-      "model_residents": 769100,
-      "model_jobs": 852700
-    },
-    "Kota Tangerang Selatan": {
-      "model_residents": 564600,
-      "model_jobs": 522100
-    },
-    "Tangerang": {
-      "model_residents": 1388200,
-      "model_jobs": 1042900
-    }
-  },
+  "fallback_source_year": 2021,
+  "population_meaning": "all inhabitants; controlled at317kelurahan+129kecamatan; derived village estimates retained and rounded within kecamatan",
+  "residents_meaning": "modelled working tripmakers; not all inhabitants; baseline village working margins preserved",
+  "jobs_meaning": "estimated workplace distribution; unchanged historical/registered regional margins; floor-capacity regularizer and unclassified neighborhood-work prior; not observed staffing",
+  "capacity_regularization": "floor component<=2*relative capacity; residual allocated by residential/mixed activity capacity; see docs/organic-stage-b/employment_capacity_regularization.json",
   "sources_manifest": "sources/government/source_manifest.json",
-  "quality_issues": "sources/government/quality_issues.json",
-  "kelurahan_audit": "sources/government/kelurahan_estimates.csv"
+  "additional_source": "ESA WorldCover2021 v200, class50 built-up; https://esa-worldcover.org/en/data-access",
+  "fallback_attribution": "\u00a9ESA WorldCover project2021; contains modified Copernicus Sentinel data2021 processed by ESA WorldCover consortium; CC BY4.0",
+  "allocation_provenance": "docs/organic-stage-b/proposed_allocations.json.gz",
+  "spatial_validation": "docs/organic-stage-b/validation.json",
+  "limitations": [
+    "Historical regional job controls and working participation priors retained",
+    "Fallback built-up evidence is2021, not observed2026 building function",
+    "Most building levels/functions still inferred; local job counts not observed",
+    "Driving times remain proxy; mapped-road sample median detour1.33,p901.84,95/96reachable; no turn/access restrictions or measured congestion"
+  ],
+  "parameters": "docs/organic-stage-b/organic_parameters.json",
+  "runtime_verification": "docs/organic-stage-b/runtime_verification.json",
+  "government_inputs_usage": "v3 preparation cells retained as source/prior audit only; v4 coordinates use full building/parcel inventory"
 }

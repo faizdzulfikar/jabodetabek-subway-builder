@@ -1,0 +1,1503 @@
+admin_id,region,kecamatan,kelurahan,population_status,source_year,population_located,population_unlocated,population_total,model_residents_located,model_residents_unlocated,jobs,anchors,baseline_model_residents,baseline_jobs
+32.75.10.1002,Kota Bekasi,Jatisampurna,Jatikarya,observed_kelurahan,2025,16995,0,16995,7600,0,11800,49,7600,14200
+32.75.10.1001,Kota Bekasi,Jatisampurna,Jatisampurna,observed_kelurahan,2025,32047,0,32047,15500,0,12800,64,15500,16900
+32.75.10.1004,Kota Bekasi,Jatisampurna,Jatirangga,observed_kelurahan,2025,20146,0,20146,7700,0,600,43,7700,7700
+32.75.07.1007,Kota Bekasi,Bantargebang,Ciketingudik,observed_kelurahan,2025,26933,0,26933,11200,0,1800,56,11200,8600
+32.75.10.1005,Kota Bekasi,Jatisampurna,Jatiraden,observed_kelurahan,2025,23366,0,23366,9100,0,3000,49,9100,1700
+32.75.07.1008,Kota Bekasi,Bantargebang,Sumurbatu,observed_kelurahan,2025,28128,0,28128,10700,0,3700,56,10700,3700
+32.75.10.1003,Kota Bekasi,Jatisampurna,Jatiranggon,observed_kelurahan,2025,30177,0,30177,11600,0,4800,53,11600,8600
+32.75.07.1004,Kota Bekasi,Bantargebang,Cikiwul,observed_kelurahan,2025,29726,0,29726,10400,0,3100,35,10400,19500
+32.75.09.1006,Kota Bekasi,Jatiasih,Jatisari,observed_kelurahan,2025,43967,0,43967,18400,0,7700,84,18400,10400
+32.75.12.1004,Kota Bekasi,Pondokmelati,Jatimurni,observed_kelurahan,2025,28413,0,28413,10600,0,1600,51,10600,2200
+32.75.09.1005,Kota Bekasi,Jatiasih,Jatiluhur,observed_kelurahan,2025,37181,0,37181,12600,0,1700,67,12600,6700
+32.75.12.1003,Kota Bekasi,Pondokmelati,Jatimelati,observed_kelurahan,2025,22487,0,22487,9400,0,600,48,9400,3300
+32.75.11.1001,Kota Bekasi,Mustikajaya,Padurenan,observed_kelurahan,2025,60127,0,60127,23800,0,8800,90,23800,6000
+32.75.07.1003,Kota Bekasi,Bantargebang,Bantargebang,observed_kelurahan,2025,35145,0,35145,14500,0,9400,39,14500,15400
+32.75.12.1002,Kota Bekasi,Pondokmelati,Jatiwarna,observed_kelurahan,2025,23722,0,23722,9600,0,1500,51,9600,1900
+32.75.12.1001,Kota Bekasi,Pondokmelati,Jatirahayu,observed_kelurahan,2025,58806,0,58806,20200,0,11600,76,20200,17900
+32.75.09.1002,Kota Bekasi,Jatiasih,Jatiasih,observed_kelurahan,2025,38639,0,38639,13500,0,8700,67,13500,32400
+32.75.09.1001,Kota Bekasi,Jatiasih,Jatimekar,observed_kelurahan,2025,41937,0,41937,14400,0,1400,62,14400,12800
+32.75.09.1004,Kota Bekasi,Jatiasih,Jatirasa,observed_kelurahan,2025,41994,0,41994,16700,0,4200,69,16700,24100
+32.75.08.1003,Kota Bekasi,Pondokgede,Jatimakmur,observed_kelurahan,2025,62613,0,62613,25700,0,6000,76,25700,16700
+32.75.08.1001,Kota Bekasi,Pondokgede,Jatiwaringin,observed_kelurahan,2025,48055,0,48055,18500,0,17400,71,18500,17500
+32.75.09.1003,Kota Bekasi,Jatiasih,Jatikramat,observed_kelurahan,2025,47423,0,47423,18600,0,3800,68,18600,9000
+32.75.04.1003,Kota Bekasi,Bekasi Selatan,Jakamulya,observed_kelurahan,2025,37736,0,37736,14500,0,3400,63,14500,8800
+32.75.08.1006,Kota Bekasi,Pondokgede,Jatibening Baru,observed_kelurahan,2025,39483,0,39483,17300,0,1500,63,17300,3000
+32.75.08.1007,Kota Bekasi,Pondokgede,Jaticempaka,observed_kelurahan,2025,46111,0,46111,18200,0,11500,77,18200,14900
+32.75.08.1002,Kota Bekasi,Pondokgede,Jatibening,observed_kelurahan,2025,38260,0,38260,14000,0,4900,58,14000,6500
+32.75.04.1004,Kota Bekasi,Bekasi Selatan,Jakasetia,observed_kelurahan,2025,45041,0,45041,17100,0,32100,77,17100,49500
+32.75.04.1001,Kota Bekasi,Bekasi Selatan,Pekayonjaya,observed_kelurahan,2025,60614,0,60614,25900,0,73500,76,25900,44100
+32.75.04.1002,Kota Bekasi,Bekasi Selatan,Margajaya,observed_kelurahan,2025,17710,0,17710,8100,0,51500,47,8100,22200
+32.75.02.1005,Kota Bekasi,Bekasi Barat,Jakasampurna,observed_kelurahan,2025,75551,0,75551,27500,0,9000,86,27500,16900
+32.75.02.1004,Kota Bekasi,Bekasi Barat,Bintarajaya,observed_kelurahan,2025,35569,0,35569,13300,0,700,62,13300,3100
+32.75.04.1005,Kota Bekasi,Bekasi Selatan,Kayuringinjaya,observed_kelurahan,2025,58870,0,58870,22500,0,30800,75,22500,29700
+32.75.02.1002,Kota Bekasi,Bekasi Barat,Kranji,observed_kelurahan,2025,50011,0,50011,17900,0,4300,71,17900,10700
+32.75.06.1002,Kota Bekasi,Medansatria,Harapanmulya,observed_kelurahan,2025,25298,0,25298,9500,0,26500,54,9500,21000
+32.75.02.1001,Kota Bekasi,Bekasi Barat,Bintara,observed_kelurahan,2025,65454,0,65454,25400,0,8100,88,25400,10300
+32.75.03.1005,Kota Bekasi,Bekasi Utara,Margamulya,observed_kelurahan,2025,24916,0,24916,9100,0,47400,65,9100,35000
+32.75.06.1004,Kota Bekasi,Medansatria,Kalibaru,observed_kelurahan,2025,30980,0,30980,10900,0,6200,57,10900,13700
+32.75.02.1003,Kota Bekasi,Bekasi Barat,Kotabaru,observed_kelurahan,2025,45440,0,45440,18900,0,12300,69,18900,16900
+32.75.03.1003,Kota Bekasi,Bekasi Utara,Harapanbaru,observed_kelurahan,2025,28801,0,28801,13900,0,14200,57,13900,2300
+32.75.03.1006,Kota Bekasi,Bekasi Utara,Harapanjaya,observed_kelurahan,2025,84286,0,84286,32600,0,34300,96,32600,25800
+32.75.03.1004,Kota Bekasi,Bekasi Utara,Teluk Pucung,observed_kelurahan,2025,71704,0,71704,28100,0,16500,91,28100,4200
+32.75.03.1002,Kota Bekasi,Bekasi Utara,Perwira,observed_kelurahan,2025,40598,0,40598,16300,0,7700,65,16300,3200
+32.75.06.1001,Kota Bekasi,Medansatria,Medansatria,observed_kelurahan,2025,28352,0,28352,11600,0,85900,65,11600,77000
+32.75.06.1003,Kota Bekasi,Medansatria,Pejuang,observed_kelurahan,2025,77649,0,77649,30200,0,43400,95,30200,45700
+32.75.03.1001,Kota Bekasi,Bekasi Utara,Kaliabang Tengah,observed_kelurahan,2025,97382,0,97382,38100,0,14600,102,38100,7900
+32.75.11.1003,Kota Bekasi,Mustikajaya,Mustikajaya,observed_kelurahan,2025,81281,0,81281,28700,0,17100,112,28700,6300
+32.75.11.1002,Kota Bekasi,Mustikajaya,Cimuning,observed_kelurahan,2025,46955,0,46955,19700,0,6900,77,19700,3400
+32.75.05.1004,Kota Bekasi,Rawalumbu,Bojongmenteng,observed_kelurahan,2025,45542,0,45542,18000,0,3300,67,18000,16500
+32.75.11.1004,Kota Bekasi,Mustikajaya,Mustikasari,observed_kelurahan,2025,40820,0,40820,15700,0,11500,75,15700,6100
+32.75.05.1001,Kota Bekasi,Rawalumbu,Bojong Rawalumbu,observed_kelurahan,2025,80505,0,80505,32600,0,21000,105,32600,25400
+32.75.05.1002,Kota Bekasi,Rawalumbu,Pengasinan,observed_kelurahan,2025,63425,0,63425,22900,0,13800,97,22900,5600
+32.75.05.1003,Kota Bekasi,Rawalumbu,Sepanjangjaya,observed_kelurahan,2025,37650,0,37650,13600,0,6300,66,13600,4700
+32.75.01.1002,Kota Bekasi,Bekasi Timur,Margahayu,observed_kelurahan,2025,66714,0,66714,27600,0,55800,93,27600,24600
+32.75.01.1004,Kota Bekasi,Bekasi Timur,Arenjaya,observed_kelurahan,2025,66633,0,66633,26200,0,10900,81,26200,3400
+32.75.01.1003,Kota Bekasi,Bekasi Timur,Durenjaya,observed_kelurahan,2025,76258,0,76258,29400,0,11500,92,29400,8400
+32.75.01.1001,Kota Bekasi,Bekasi Timur,Bekasijaya,observed_kelurahan,2025,66301,0,66301,24500,0,15800,88,24500,6200
+32.16.23.2002,Bekasi,Bojongmangu,Karangindah,estimated_from_kecamatan,2025,3046,0,3046,1000,0,200,41,1000,100
+32.16.23.2001,Bekasi,Bojongmangu,Karangmulya,estimated_from_kecamatan,2025,5449,0,5449,3000,0,1000,42,3000,400
+32.16.22.2001,Bekasi,Cibarusah,Sirnajati,estimated_from_kecamatan,2025,11020,0,11020,3400,0,1500,35,3400,1300
+32.16.22.2002,Bekasi,Cibarusah,Ridogalih,estimated_from_kecamatan,2025,7986,0,7986,4000,0,1500,58,4000,200
+32.16.23.2003,Bekasi,Bojongmangu,Bojongmangu,estimated_from_kecamatan,2025,6736,0,6736,3000,0,900,45,3000,400
+32.16.22.2006,Bekasi,Cibarusah,Cibarusah Jaya,estimated_from_kecamatan,2025,15152,0,15152,5300,0,2000,38,5300,1000
+32.16.22.2005,Bekasi,Cibarusah,Cibarusah Kota,estimated_from_kecamatan,2025,18874,0,18874,7000,0,1700,42,7000,1600
+32.16.22.2003,Bekasi,Cibarusah,Ridomanah,estimated_from_kecamatan,2025,3280,0,3280,1300,0,800,29,1300,300
+32.16.23.2006,Bekasi,Bojongmangu,Medalkrisna,estimated_from_kecamatan,2025,3283,0,3283,1300,0,600,25,1300,600
+32.16.21.2005,Bekasi,Serang Baru,Nagacipta,estimated_from_kecamatan,2025,7765,0,7765,4000,0,1200,34,4000,500
+32.16.22.2007,Bekasi,Cibarusah,Sindangmulya,estimated_from_kecamatan,2025,36030,0,36030,14000,0,4200,59,14000,3600
+32.16.22.2004,Bekasi,Cibarusah,Wibawamulya,estimated_from_kecamatan,2025,19042,0,19042,7800,0,2100,45,7800,1600
+32.16.23.2005,Bekasi,Bojongmangu,Sukamukti,estimated_from_kecamatan,2025,5639,0,5639,2200,0,15800,34,2200,7700
+32.16.21.2004,Bekasi,Serang Baru,Jayamulya,estimated_from_kecamatan,2025,14359,0,14359,4800,0,2400,45,4800,1200
+32.16.23.2004,Bekasi,Bojongmangu,Sukabungah,estimated_from_kecamatan,2025,7550,0,7550,3900,0,800,27,3900,300
+32.16.21.2002,Bekasi,Serang Baru,Sirnajaya,estimated_from_kecamatan,2025,23608,0,23608,9800,0,3000,55,9800,1700
+32.16.18.2010,Bekasi,Setu,Muktijaya,estimated_from_kecamatan,2025,8085,0,8085,3800,0,600,33,3800,700
+32.16.18.2009,Bekasi,Setu,Ragemanunggal,estimated_from_kecamatan,2025,8909,0,8909,3200,0,1000,35,3200,4000
+32.16.21.2006,Bekasi,Serang Baru,Nagasari,estimated_from_kecamatan,2025,13041,0,13041,5700,0,22500,46,5700,19300
+32.16.21.2001,Bekasi,Serang Baru,Sukaragam,estimated_from_kecamatan,2025,41297,0,41297,16500,0,6700,70,16500,3600
+32.16.21.2007,Bekasi,Serang Baru,Cilangkara,estimated_from_kecamatan,2025,16836,0,16836,6500,0,2300,44,6500,1600
+32.16.21.2003,Bekasi,Serang Baru,Sukasari,estimated_from_kecamatan,2025,39629,0,39629,17900,0,6400,65,17900,5100
+32.16.18.2008,Bekasi,Setu,Cikarageman,estimated_from_kecamatan,2025,16006,0,16006,7200,0,1500,57,7200,1500
+32.16.18.2011,Bekasi,Setu,Kertarahayu,estimated_from_kecamatan,2025,8907,0,8907,3500,0,100,37,3500,800
+32.16.21.2008,Bekasi,Serang Baru,Jayasampurna,estimated_from_kecamatan,2025,20443,0,20443,7100,0,2400,63,7100,1800
+32.16.20.2002,Bekasi,Cikarang Pusat,Sukamahi,estimated_from_kecamatan,2025,14405,0,14405,6900,0,47200,59,6900,59200
+32.16.18.2006,Bekasi,Setu,Taman Sari,estimated_from_kecamatan,2025,13512,0,13512,4500,0,1400,37,4500,900
+32.16.18.2007,Bekasi,Setu,Taman Rahayu,estimated_from_kecamatan,2025,17500,0,17500,7500,0,600,45,7500,1500
+32.16.20.2001,Bekasi,Cikarang Pusat,Cicau,estimated_from_kecamatan,2025,11749,0,11749,4400,0,40900,56,4400,26000
+32.16.20.2003,Bekasi,Cikarang Pusat,Pasiranji,estimated_from_kecamatan,2025,6372,0,6372,1600,0,27100,36,1600,20000
+32.16.19.2004,Bekasi,Cikarang Selatan,Sukadami,estimated_from_kecamatan,2025,30440,0,30440,12200,0,6700,65,12200,4800
+32.16.19.2006,Bekasi,Cikarang Selatan,Serang,estimated_from_kecamatan,2025,19875,0,19875,7100,0,11100,50,7100,11700
+32.16.18.2004,Bekasi,Setu,Ciledug,estimated_from_kecamatan,2025,21361,0,21361,7700,0,3900,49,7700,1700
+32.16.19.2003,Bekasi,Cikarang Selatan,Ciantra,estimated_from_kecamatan,2025,25937,0,25937,9100,0,3700,57,9100,5600
+32.16.18.2005,Bekasi,Setu,Cibening,estimated_from_kecamatan,2025,16481,0,16481,7800,0,1100,41,7800,1600
+32.16.19.2002,Bekasi,Cikarang Selatan,Sukasejati,estimated_from_kecamatan,2025,10140,0,10140,3500,0,4700,36,3500,2600
+32.16.18.2003,Bekasi,Setu,Burangkeng,estimated_from_kecamatan,2025,32353,0,32353,13400,0,3400,59,13400,2900
+32.16.08.2011,Bekasi,Cikarang Barat,Cikedokan,estimated_from_kecamatan,2025,13671,0,13671,5300,0,11300,37,5300,10800
+32.16.20.2006,Bekasi,Cikarang Pusat,Pasirtanjung,estimated_from_kecamatan,2025,8741,0,8741,4000,0,1500,37,4000,4400
+32.16.20.2004,Bekasi,Cikarang Pusat,Hegarmukti,estimated_from_kecamatan,2025,13925,0,13925,5000,0,20600,54,5000,16700
+32.16.19.2001,Bekasi,Cikarang Selatan,Cibatu,estimated_from_kecamatan,2025,40506,0,40506,15300,0,70400,103,15300,60400
+32.16.08.2010,Bekasi,Cikarang Barat,Telajung,estimated_from_kecamatan,2025,26688,0,26688,12000,0,11300,58,12000,5500
+32.16.19.2005,Bekasi,Cikarang Selatan,Sukaresmi,estimated_from_kecamatan,2025,27512,0,27512,7600,0,76900,74,7600,53500
+32.16.18.2002,Bekasi,Setu,Lubangbuaya,estimated_from_kecamatan,2025,24997,0,24997,11100,0,3300,62,11100,2600
+32.16.18.2001,Bekasi,Setu,Cijengkol,estimated_from_kecamatan,2025,19760,0,19760,8000,0,1000,46,8000,3200
+32.16.08.2003,Bekasi,Cikarang Barat,Jatiwangi,estimated_from_kecamatan,2025,22602,0,22602,9100,0,39800,48,9100,38600
+32.16.08.2002,Bekasi,Cikarang Barat,Mekarwangi,estimated_from_kecamatan,2025,21845,0,21845,7400,0,30900,45,7400,24600
+32.16.20.2005,Bekasi,Cikarang Pusat,Jayamukti,estimated_from_kecamatan,2025,17084,0,17084,5400,0,17200,62,5400,24300
+32.16.11.2003,Bekasi,Cikarang Timur,Hegarmanah,estimated_from_kecamatan,2025,10641,0,10641,4900,0,1100,39,4900,400
+32.16.19.2007,Bekasi,Cikarang Selatan,Pasirsari,estimated_from_kecamatan,2025,32204,0,32204,10400,0,26300,76,10400,44500
+32.16.08.2004,Bekasi,Cikarang Barat,Danau Indah,estimated_from_kecamatan,2025,11388,0,11388,4400,0,22200,31,4400,16700
+32.16.11.2002,Bekasi,Cikarang Timur,Cipayung,estimated_from_kecamatan,2025,17985,0,17985,6400,0,2000,46,6400,1200
+32.16.09.2011,Bekasi,Cikarang Utara,Wangunharja,estimated_from_kecamatan,2025,22875,0,22875,7500,0,51500,56,7500,9800
+32.16.11.1007,Bekasi,Cikarang Timur,Sertajaya,estimated_from_kecamatan,2025,22458,0,22458,8600,0,11100,63,8600,9900
+32.16.09.2010,Bekasi,Cikarang Utara,Mekarmukti,estimated_from_kecamatan,2025,31335,0,31335,14600,0,16800,69,14600,58400
+32.16.08.2005,Bekasi,Cikarang Barat,Gandamekar,estimated_from_kecamatan,2025,16946,0,16946,6200,0,44900,51,6200,39600
+32.16.06.2003,Bekasi,Tambun Selatan,Lambangjaya,estimated_from_kecamatan,2025,20569,0,20569,6900,0,11600,53,6900,4900
+32.16.11.2006,Bekasi,Cikarang Timur,Labansari,estimated_from_kecamatan,2025,5955,0,5955,2800,0,100,25,2800,400
+32.16.11.2004,Bekasi,Cikarang Timur,Jatireja,estimated_from_kecamatan,2025,21668,0,21668,7700,0,5000,56,7700,3400
+32.16.11.2005,Bekasi,Cikarang Timur,Jatibaru,estimated_from_kecamatan,2025,8027,0,8027,3300,0,400,33,3300,1600
+32.16.08.2007,Bekasi,Cikarang Barat,Sukadanau,estimated_from_kecamatan,2025,28074,0,28074,11300,0,57200,73,11300,15100
+32.16.08.2006,Bekasi,Cikarang Barat,Gandasari,estimated_from_kecamatan,2025,15311,0,15311,5300,0,12300,42,5300,17000
+32.16.09.2006,Bekasi,Cikarang Utara,Pasirgombong,estimated_from_kecamatan,2025,33662,0,33662,11600,0,46500,68,11600,46100
+32.16.06.2002,Bekasi,Tambun Selatan,Lambangsari,estimated_from_kecamatan,2025,31777,0,31777,13800,0,5500,61,13800,12300
+32.16.09.2009,Bekasi,Cikarang Utara,Harjamekar,estimated_from_kecamatan,2025,20568,0,20568,8500,0,76300,47,8500,12800
+32.16.07.2007,Bekasi,Cibitung,Cibuntu,estimated_from_kecamatan,2025,56870,0,56870,19900,0,8400,75,19900,17800
+32.16.12.2006,Bekasi,Kedung Waringin,Bojongsari,estimated_from_kecamatan,2025,9036,0,9036,3400,0,500,33,3400,500
+32.16.09.2007,Bekasi,Cikarang Utara,Simpangan,estimated_from_kecamatan,2025,27683,0,27683,11200,0,10700,67,11200,20800
+32.16.11.2001,Bekasi,Cikarang Timur,Tanjungbaru,estimated_from_kecamatan,2025,16441,0,16441,5500,0,1100,44,5500,2100
+32.16.06.2004,Bekasi,Tambun Selatan,Tambun,estimated_from_kecamatan,2025,33741,0,33741,12100,0,3300,59,12100,4600
+32.16.06.2005,Bekasi,Tambun Selatan,Setiadarma,estimated_from_kecamatan,2025,20191,0,20191,9100,0,1700,43,9100,2800
+32.16.08.1008,Bekasi,Cikarang Barat,Telaga Asih,estimated_from_kecamatan,2025,22236,0,22236,8800,0,2800,56,8800,16300
+32.16.09.2008,Bekasi,Cikarang Utara,Tanjungsari,estimated_from_kecamatan,2025,11535,0,11535,4700,0,4200,38,4700,3100
+32.16.09.2001,Bekasi,Cikarang Utara,Cikarangkota,estimated_from_kecamatan,2025,17190,0,17190,7900,0,12600,46,7900,30400
+32.16.09.2002,Bekasi,Cikarang Utara,Karangbaru,estimated_from_kecamatan,2025,10467,0,10467,3400,0,10100,32,3400,3600
+32.16.06.1001,Bekasi,Tambun Selatan,Jatimulya,estimated_from_kecamatan,2025,83898,0,83898,32900,0,10200,102,32900,11100
+32.16.06.2007,Bekasi,Tambun Selatan,Mekarsari,estimated_from_kecamatan,2025,31539,0,31539,12300,0,3700,59,12300,3700
+32.16.12.2007,Bekasi,Kedung Waringin,Kedungwaringin,estimated_from_kecamatan,2025,16475,0,16475,7100,0,2900,50,7100,600
+32.16.12.2002,Bekasi,Kedung Waringin,Waringinjaya,estimated_from_kecamatan,2025,18470,0,18470,7000,0,300,43,7000,1500
+32.16.08.2001,Bekasi,Cikarang Barat,Telagamurni,estimated_from_kecamatan,2025,24749,0,24749,9600,0,5900,59,9600,3100
+32.16.12.2001,Bekasi,Kedung Waringin,Karangsambung,estimated_from_kecamatan,2025,15675,0,15675,6400,0,1100,38,6400,2300
+32.16.09.2004,Bekasi,Cikarang Utara,Waluya,estimated_from_kecamatan,2025,17398,0,17398,7000,0,2700,49,7000,4000
+32.16.09.2003,Bekasi,Cikarang Utara,Karangasih,estimated_from_kecamatan,2025,34591,0,34591,15700,0,8000,61,15700,4900
+32.16.09.2005,Bekasi,Cikarang Utara,Karangraharja,estimated_from_kecamatan,2025,25031,0,25031,10500,0,6100,65,10500,1900
+32.16.08.2009,Bekasi,Cikarang Barat,Kalijaya,estimated_from_kecamatan,2025,19580,0,19580,7900,0,12300,50,7900,5200
+32.16.06.2008,Bekasi,Tambun Selatan,Tridaya Sakti,estimated_from_kecamatan,2025,34822,0,34822,13500,0,3100,56,13500,3700
+32.16.06.2006,Bekasi,Tambun Selatan,Setiamekar,estimated_from_kecamatan,2025,53439,0,53439,21500,0,6400,75,21500,7600
+32.16.12.2005,Bekasi,Kedung Waringin,Karangharum,estimated_from_kecamatan,2025,6045,0,6045,2200,0,100,27,2200,300
+32.16.11.2008,Bekasi,Cikarang Timur,Karangsari,estimated_from_kecamatan,2025,12983,0,12983,3800,0,3800,45,3800,9200
+32.16.07.2002,Bekasi,Cibitung,Wanajaya,estimated_from_kecamatan,2025,55256,0,55256,20800,0,6200,88,20800,5800
+32.16.07.1001,Bekasi,Cibitung,Wanasari,estimated_from_kecamatan,2025,117493,0,117493,43000,0,14800,122,43000,22800
+32.16.10.2002,Bekasi,Karang Bahagia,Karangrahayu,estimated_from_kecamatan,2025,13726,0,13726,5800,0,500,35,5800,600
+32.16.07.2006,Bekasi,Cibitung,Sukajaya,estimated_from_kecamatan,2025,25928,0,25928,9500,0,2900,53,9500,5700
+32.16.12.2003,Bekasi,Kedung Waringin,Karangmekar,estimated_from_kecamatan,2025,9493,0,9493,3700,0,900,29,3700,300
+32.16.06.2009,Bekasi,Tambun Selatan,Mangunjaya,estimated_from_kecamatan,2025,65468,0,65468,28600,0,7300,86,28600,7900
+32.16.10.2001,Bekasi,Karang Bahagia,Sukaraya,estimated_from_kecamatan,2025,54161,0,54161,21200,0,4800,72,21200,5600
+32.16.12.2004,Bekasi,Kedung Waringin,Mekarjaya,estimated_from_kecamatan,2025,8166,0,8166,2900,0,300,30,2900,200
+32.16.15.2005,Bekasi,Sukatani,Sukarukun,estimated_from_kecamatan,2025,26549,0,26549,10800,0,1100,54,10800,1100
+32.16.05.2008,Bekasi,Tambun Utara,Karangsatria,estimated_from_kecamatan,2025,83043,0,83043,30800,0,16100,96,30800,12200
+32.16.10.2003,Bekasi,Karang Bahagia,Karangsetia,estimated_from_kecamatan,2025,10912,0,10912,5100,0,100,32,5100,500
+32.16.07.2003,Bekasi,Cibitung,Kertamukti,estimated_from_kecamatan,2025,14314,0,14314,6300,0,1700,48,6300,1700
+32.16.05.2001,Bekasi,Tambun Utara,Satriajaya,estimated_from_kecamatan,2025,25160,0,25160,10000,0,3200,53,10000,2600
+32.16.10.2008,Bekasi,Karang Bahagia,Karangmukti,estimated_from_kecamatan,2025,14787,0,14787,5500,0,500,42,5500,1200
+32.16.15.2004,Bekasi,Sukatani,Sukaasih,estimated_from_kecamatan,2025,10104,0,10104,4100,0,300,35,4100,1200
+32.16.07.2004,Bekasi,Cibitung,Muktiwari,estimated_from_kecamatan,2025,14288,0,14288,6200,0,1000,48,6200,2400
+32.16.10.2004,Bekasi,Karang Bahagia,Karanganyar,estimated_from_kecamatan,2025,15195,0,15195,4800,0,400,37,4800,1000
+32.16.13.2013,Bekasi,Pebayuran,Bantarjaya,estimated_from_kecamatan,2025,16718,0,16718,5300,0,1800,50,5300,900
+32.16.10.2007,Bekasi,Karang Bahagia,Karangsatu,estimated_from_kecamatan,2025,12879,0,12879,4800,0,900,40,4800,1100
+32.16.06.2010,Bekasi,Tambun Selatan,Sumberjaya,estimated_from_kecamatan,2025,79323,0,79323,27800,0,7400,94,27800,9500
+32.16.13.2012,Bekasi,Pebayuran,Bantarsari,estimated_from_kecamatan,2025,4703,0,4703,1700,0,900,37,1700,100
+32.16.04.2003,Bekasi,Tambelang,Sukaraja,estimated_from_kecamatan,2025,5542,0,5542,1900,0,300,23,1900,300
+32.16.05.2002,Bekasi,Tambun Utara,Jejalenjaya,estimated_from_kecamatan,2025,26443,0,26443,9900,0,2700,58,9900,3500
+32.16.05.2003,Bekasi,Tambun Utara,Satriamekar,estimated_from_kecamatan,2025,16502,0,16502,7200,0,1800,44,7200,2200
+32.16.13.1011,Bekasi,Pebayuran,Kertasari,estimated_from_kecamatan,2025,11252,0,11252,4400,0,4200,44,4400,1800
+32.16.07.2005,Bekasi,Cibitung,Sarimukti,estimated_from_kecamatan,2025,4844,0,4844,1600,0,0,24,1600,400
+32.16.10.2005,Bekasi,Karang Bahagia,Karangbahagia,estimated_from_kecamatan,2025,7801,0,7801,2800,0,500,29,2800,800
+32.16.13.2010,Bekasi,Pebayuran,Kertajaya,estimated_from_kecamatan,2025,12122,0,12122,3400,0,1000,32,3400,500
+32.16.10.2006,Bekasi,Karang Bahagia,Karangsentosa,estimated_from_kecamatan,2025,17412,0,17412,8000,0,600,42,8000,1100
+32.16.02.1007,Bekasi,Babelan,Kebalen,estimated_from_kecamatan,2025,63983,0,63983,23400,0,8800,104,23400,9200
+32.16.14.2007,Bekasi,Sukakarya,Sukamakmur,estimated_from_kecamatan,2025,10965,0,10965,3200,0,400,37,3200,1000
+32.16.04.2004,Bekasi,Tambelang,Sukarapih,estimated_from_kecamatan,2025,10465,0,10465,4700,0,600,32,4700,800
+32.16.15.2002,Bekasi,Sukatani,Sukamanah,estimated_from_kecamatan,2025,20178,0,20178,8100,0,700,46,8100,2000
+32.16.13.2008,Bekasi,Pebayuran,Karangpatri,estimated_from_kecamatan,2025,10391,0,10391,4100,0,900,47,4100,600
+32.16.02.1006,Bekasi,Babelan,Bahagia,estimated_from_kecamatan,2025,101568,0,101568,41700,0,13700,119,41700,24300
+32.16.15.2003,Bekasi,Sukatani,Sukahurip,estimated_from_kecamatan,2025,10565,0,10565,4100,0,1000,36,4100,1100
+32.16.15.2006,Bekasi,Sukatani,Banjarsari,estimated_from_kecamatan,2025,11810,0,11810,5100,0,400,35,5100,800
+32.16.13.2009,Bekasi,Pebayuran,Karanghaur,estimated_from_kecamatan,2025,5307,0,5307,2100,0,100,22,2100,200
+32.16.04.2005,Bekasi,Tambelang,Sukarahayu,estimated_from_kecamatan,2025,6997,0,6997,3300,0,100,27,3300,600
+32.16.04.2002,Bekasi,Tambelang,Sukamaju,estimated_from_kecamatan,2025,6261,0,6261,3100,0,500,27,3100,3400
+32.16.05.2004,Bekasi,Tambun Utara,Sriamur,estimated_from_kecamatan,2025,31952,0,31952,11800,0,4900,71,11800,2700
+32.16.05.2005,Bekasi,Tambun Utara,Srimukti,estimated_from_kecamatan,2025,9769,0,9769,4100,0,1100,37,4100,700
+32.16.02.2008,Bekasi,Babelan,Babelankota,estimated_from_kecamatan,2025,49659,0,49659,18300,0,7400,92,18300,5400
+32.16.15.2007,Bekasi,Sukatani,Sukadarma,estimated_from_kecamatan,2025,12714,0,12714,5100,0,700,38,5100,1200
+32.16.15.2001,Bekasi,Sukatani,Sukamulya,estimated_from_kecamatan,2025,20767,0,20767,7200,0,1200,45,7200,1400
+32.16.04.2007,Bekasi,Tambelang,Sukabakti,estimated_from_kecamatan,2025,6167,0,6167,2600,0,0,26,2600,500
+32.16.04.2001,Bekasi,Tambelang,Sukawijaya,estimated_from_kecamatan,2025,4661,0,4661,1700,0,0,25,1700,300
+32.16.13.2007,Bekasi,Pebayuran,Sumbersari,estimated_from_kecamatan,2025,9383,0,9383,3100,0,600,41,3100,400
+32.16.14.2005,Bekasi,Sukakarya,Sukajadi,estimated_from_kecamatan,2025,11085,0,11085,4300,0,700,39,4300,700
+32.16.13.2005,Bekasi,Pebayuran,Karangreja,estimated_from_kecamatan,2025,8565,0,8565,3600,0,1700,45,3600,600
+32.16.14.2004,Bekasi,Sukakarya,Sukalaksana,estimated_from_kecamatan,2025,8668,0,8668,3100,0,500,34,3100,800
+32.16.13.2006,Bekasi,Pebayuran,Karangjaya,estimated_from_kecamatan,2025,7339,0,7339,3600,0,1100,26,3600,1100
+32.16.04.2006,Bekasi,Tambelang,Sukamantri,estimated_from_kecamatan,2025,5660,0,5660,3000,0,0,30,3000,600
+32.16.13.2004,Bekasi,Pebayuran,Sumbereja,estimated_from_kecamatan,2025,7472,0,7472,3400,0,600,30,3400,200
+32.16.01.2003,Bekasi,Tarumajaya,Pusaka Rakyat,estimated_from_kecamatan,2025,26957,0,26957,10300,0,12800,90,10300,126900
+32.16.02.2009,Bekasi,Babelan,Kedungjaya,estimated_from_kecamatan,2025,13024,0,13024,3800,0,1900,40,3800,2600
+32.16.01.2004,Bekasi,Tarumajaya,Pahlawan Setia,estimated_from_kecamatan,2025,12295,0,12295,4000,0,2300,42,4000,1300
+32.16.01.2005,Bekasi,Tarumajaya,Setia Mulya,estimated_from_kecamatan,2025,15164,0,15164,6700,0,1700,47,6700,1600
+32.16.02.2003,Bekasi,Babelan,Kedung Pengawas,estimated_from_kecamatan,2025,16667,0,16667,6600,0,2400,41,6600,1600
+32.16.03.2003,Bekasi,Sukawangi,Sukadaya,estimated_from_kecamatan,2025,7434,0,7434,2100,0,300,31,2100,600
+32.16.03.2004,Bekasi,Sukawangi,Sukawangi,estimated_from_kecamatan,2025,2950,0,2950,1500,0,200,20,1500,500
+32.16.14.2006,Bekasi,Sukakarya,Sukakarsa,estimated_from_kecamatan,2025,2702,0,2702,1200,0,0,22,1200,300
+32.16.03.2002,Bekasi,Sukawangi,Sukabudi,estimated_from_kecamatan,2025,5780,0,5780,2000,0,0,31,2000,900
+32.16.14.2003,Bekasi,Sukakarya,Sukakarya,estimated_from_kecamatan,2025,7108,0,7108,3300,0,300,30,3300,600
+32.16.13.2003,Bekasi,Pebayuran,Sumberurip,estimated_from_kecamatan,2025,5820,0,5820,2100,0,400,25,2100,100
+32.16.13.2002,Bekasi,Pebayuran,Karangsegar,estimated_from_kecamatan,2025,6918,0,6918,3000,0,1500,41,3000,0
+32.16.14.2001,Bekasi,Sukakarya,Sukamurni,estimated_from_kecamatan,2025,10324,0,10324,3400,0,800,35,3400,1100
+32.16.14.2002,Bekasi,Sukakarya,Sukaindah,estimated_from_kecamatan,2025,9330,0,9330,3400,0,400,31,3400,900
+32.16.13.2001,Bekasi,Pebayuran,Karangharja,estimated_from_kecamatan,2025,9887,0,9887,3700,0,800,59,3700,700
+32.16.02.2002,Bekasi,Babelan,Muarabakti,estimated_from_kecamatan,2025,16556,0,16556,7300,0,1600,43,7300,3500
+32.16.03.2005,Bekasi,Sukawangi,Sukakerta,estimated_from_kecamatan,2025,8158,0,8158,2900,0,800,31,2900,800
+32.16.16.2003,Bekasi,Cabangbungin,Sindangsari,estimated_from_kecamatan,2025,6061,0,6061,3200,0,500,24,3200,300
+32.16.01.2001,Bekasi,Tarumajaya,Sagara Makmur,estimated_from_kecamatan,2025,16185,0,16185,6300,0,21900,64,6300,24800
+32.16.02.2001,Bekasi,Babelan,Bunibakti,estimated_from_kecamatan,2025,12345,0,12345,3000,0,100,40,3000,1800
+32.16.01.2008,Bekasi,Tarumajaya,Pantai Makmur,estimated_from_kecamatan,2025,10229,0,10229,4400,0,12500,44,4400,8700
+32.16.16.2002,Bekasi,Cabangbungin,Jayalaksana,estimated_from_kecamatan,2025,10285,0,10285,3300,0,1600,46,3300,500
+32.16.01.2002,Bekasi,Tarumajaya,Segarajaya,estimated_from_kecamatan,2025,18402,0,18402,7400,0,1400,55,7400,2100
+32.16.16.2004,Bekasi,Cabangbungin,Sindangjaya,estimated_from_kecamatan,2025,5331,0,5331,1500,0,300,22,1500,500
+32.16.16.2005,Bekasi,Cabangbungin,Setialaksana,estimated_from_kecamatan,2025,7439,0,7439,2800,0,300,30,2800,500
+32.16.01.2006,Bekasi,Tarumajaya,Samudra Jaya,estimated_from_kecamatan,2025,6589,0,6589,1900,0,1000,36,1900,900
+32.16.16.2007,Bekasi,Cabangbungin,Lenggahjaya,estimated_from_kecamatan,2025,6233,0,6233,2400,0,400,32,2400,400
+32.16.16.2001,Bekasi,Cabangbungin,Jayabakti,estimated_from_kecamatan,2025,11022,0,11022,5000,0,8500,51,5000,1200
+32.16.03.2001,Bekasi,Sukawangi,Sukaringin,estimated_from_kecamatan,2025,6332,0,6332,2500,0,500,27,2500,700
+32.16.16.2006,Bekasi,Cabangbungin,Setiajaya,estimated_from_kecamatan,2025,5629,0,5629,2400,0,0,23,2400,800
+32.16.02.2004,Bekasi,Babelan,Hurip Jaya,estimated_from_kecamatan,2025,4784,0,4784,2200,0,200,26,2200,900
+32.16.02.2005,Bekasi,Babelan,Pantaihurip,estimated_from_kecamatan,2025,6095,0,6095,1900,0,500,27,1900,500
+32.16.16.2008,Bekasi,Cabangbungin,Lenggahsari,estimated_from_kecamatan,2025,11557,0,11557,5000,0,600,48,5000,800
+32.16.17.2004,Bekasi,Muaragembong,Pantai Harapanjaya,estimated_from_kecamatan,2025,11214,0,11214,6500,0,300,61,6500,800
+32.16.17.2006,Bekasi,Muaragembong,Jayasakti,estimated_from_kecamatan,2025,11353,0,11353,5200,0,700,41,5200,900
+32.16.17.2001,Bekasi,Muaragembong,Pantai Mekar,estimated_from_kecamatan,2025,8604,0,8604,2900,0,900,44,2900,500
+32.16.17.2005,Bekasi,Muaragembong,Pantai Sederhana,estimated_from_kecamatan,2025,3259,0,3259,1300,0,300,26,1300,200
+32.16.17.2003,Bekasi,Muaragembong,Pantai Bakti,estimated_from_kecamatan,2025,7798,0,7798,3800,0,900,50,3800,300
+32.16.17.2002,Bekasi,Muaragembong,Pantai Bahagia,estimated_from_kecamatan,2025,3248,0,3248,1100,0,500,31,1100,0
+32.16.01.1007,Bekasi,Tarumajaya,Setia Asih,estimated_from_kecamatan,2025,29482,0,29482,10300,0,5000,70,10300,3500
+32.71.03.1008,Kota Bogor,Bogor Tengah,Babakan Pasar,estimated_from_kecamatan,2025,4858,0,4858,2300,0,2400,24,2300,600
+32.71.03.1005,Kota Bogor,Bogor Tengah,Babakan,estimated_from_kecamatan,2025,20770,0,20770,7900,0,25700,50,7900,36700
+32.71.04.1005,Kota Bogor,Bogor Barat,Balumbang Jaya,estimated_from_kecamatan,2025,11861,0,11861,6000,0,3200,41,6000,7600
+32.71.05.1001,Kota Bogor,Bogor Utara,Bantarjati,estimated_from_kecamatan,2025,24775,0,24775,10000,0,18000,58,10000,19900
+32.71.02.1002,Kota Bogor,Bogor Timur,Baranangsiang,estimated_from_kecamatan,2025,34823,0,34823,13800,0,20000,78,13800,30400
+32.71.01.1001,Kota Bogor,Bogor Selatan,Batu Tulis,estimated_from_kecamatan,2025,9313,0,9313,4000,0,5300,32,4000,6600
+32.71.01.1009,Kota Bogor,Bogor Selatan,Bojong Kerta,estimated_from_kecamatan,2025,14427,0,14427,7200,0,2600,44,7200,700
+32.71.01.1002,Kota Bogor,Bogor Selatan,Bondongan,estimated_from_kecamatan,2025,9739,0,9739,3800,0,2700,36,3800,600
+32.71.04.1003,Kota Bogor,Bogor Barat,Bubulak,estimated_from_kecamatan,2025,18640,0,18640,7300,0,3900,58,7300,11900
+32.71.06.1011,Kota Bogor,Tanah Sareal,Cibadak,estimated_from_kecamatan,2025,39872,0,39872,18300,0,10500,75,18300,3600
+32.71.03.1004,Kota Bogor,Bogor Tengah,Cibogor,estimated_from_kecamatan,2025,6063,0,6063,2400,0,10600,35,2400,400
+32.71.05.1005,Kota Bogor,Bogor Utara,Cibuluh,estimated_from_kecamatan,2025,20147,0,20147,7600,0,2700,52,7600,5100
+32.71.01.1008,Kota Bogor,Bogor Selatan,Cikaret,estimated_from_kecamatan,2025,14146,0,14146,5800,0,1600,39,5800,1100
+32.71.04.1008,Kota Bogor,Bogor Barat,Cilendek Barat,estimated_from_kecamatan,2025,21338,0,21338,7800,0,4800,56,7800,1800
+32.71.04.1009,Kota Bogor,Bogor Barat,Cilendek Timur,estimated_from_kecamatan,2025,21448,0,21448,7800,0,2100,50,7800,2100
+32.71.05.1006,Kota Bogor,Bogor Utara,Ciluar,estimated_from_kecamatan,2025,14385,0,14385,5300,0,500,39,5300,3100
+32.71.05.1008,Kota Bogor,Bogor Utara,Cimahpar,estimated_from_kecamatan,2025,26606,0,26606,10200,0,2300,58,10200,2100
+32.71.01.1016,Kota Bogor,Bogor Selatan,Cipaku,estimated_from_kecamatan,2025,16830,0,16830,5700,0,800,47,5700,2400
+32.71.05.1004,Kota Bogor,Bogor Utara,Ciparigi,estimated_from_kecamatan,2025,30737,0,30737,13400,0,1300,57,13400,1900
+32.71.03.1010,Kota Bogor,Bogor Tengah,Ciwaringin,estimated_from_kecamatan,2025,12340,0,12340,5300,0,17800,45,5300,4200
+32.71.04.1010,Kota Bogor,Bogor Barat,Curug Mekar,estimated_from_kecamatan,2025,20132,0,20132,7400,0,6100,55,7400,1400
+32.71.04.1011,Kota Bogor,Bogor Barat,Curug,estimated_from_kecamatan,2025,16573,0,16573,7000,0,700,41,7000,1400
+32.71.01.1003,Kota Bogor,Bogor Selatan,Empang,estimated_from_kecamatan,2025,14037,0,14037,4500,0,4600,45,4500,800
+32.71.01.1014,Kota Bogor,Bogor Selatan,Genteng,estimated_from_kecamatan,2025,13494,0,13494,4200,0,300,42,4200,1200
+32.71.03.1001,Kota Bogor,Bogor Tengah,Gudang,estimated_from_kecamatan,2025,4900,0,4900,2500,0,4900,27,2500,400
+32.71.04.1015,Kota Bogor,Bogor Barat,Gunung Batu,estimated_from_kecamatan,2025,15235,0,15235,6100,0,4600,48,6100,900
+32.71.01.1012,Kota Bogor,Bogor Selatan,Harjasari,estimated_from_kecamatan,2025,14352,0,14352,5400,0,9800,44,5400,900
+32.71.02.1003,Kota Bogor,Bogor Timur,Katulampa,estimated_from_kecamatan,2025,35124,0,35124,13000,0,6400,83,13000,3200
+32.71.06.1010,Kota Bogor,Tanah Sareal,Kayu Manis,estimated_from_kecamatan,2025,20895,0,20895,8200,0,1500,49,8200,2300
+32.71.03.1011,Kota Bogor,Bogor Tengah,Kebon Kalapa,estimated_from_kecamatan,2025,7858,0,7858,3200,0,10100,33,3200,1100
+32.71.06.1002,Kota Bogor,Tanah Sareal,Kebon Pedes,estimated_from_kecamatan,2025,15990,0,15990,5300,0,6900,47,5300,18000
+32.71.06.1003,Kota Bogor,Tanah Sareal,Kedung Badak,estimated_from_kecamatan,2025,32134,0,32134,10400,0,13100,66,10400,16200
+32.71.05.1003,Kota Bogor,Bogor Utara,Kedung Halang,estimated_from_kecamatan,2025,27199,0,27199,10600,0,3000,61,10600,1900
+32.71.06.1006,Kota Bogor,Tanah Sareal,Kedung Jaya,estimated_from_kecamatan,2025,14089,0,14089,4100,0,3200,44,4100,1800
+32.71.06.1005,Kota Bogor,Tanah Sareal,Kedung Waringin,estimated_from_kecamatan,2025,23740,0,23740,8200,0,3100,54,8200,2200
+32.71.06.1009,Kota Bogor,Tanah Sareal,Kencana,estimated_from_kecamatan,2025,23621,0,23621,8700,0,4100,59,8700,2300
+32.71.01.1011,Kota Bogor,Bogor Selatan,Kertamaya,estimated_from_kecamatan,2025,14469,0,14469,5900,0,1200,48,5900,600
+32.71.01.1004,Kota Bogor,Bogor Selatan,Lawanggintung,estimated_from_kecamatan,2025,9179,0,9179,4600,0,3400,32,4600,11100
+32.71.04.1016,Kota Bogor,Bogor Barat,Loji,estimated_from_kecamatan,2025,17508,0,17508,4500,0,3500,49,4500,1300
+32.71.04.1004,Kota Bogor,Bogor Barat,Marga jaya,estimated_from_kecamatan,2025,12080,0,12080,4300,0,9100,41,4300,16100
+32.71.06.1008,Kota Bogor,Tanah Sareal,Mekar Wangi,estimated_from_kecamatan,2025,23156,0,23156,9400,0,5000,55,9400,2400
+32.71.04.1001,Kota Bogor,Bogor Barat,Menteng,estimated_from_kecamatan,2025,20076,0,20076,8200,0,43300,58,8200,32300
+32.71.01.1013,Kota Bogor,Bogor Selatan,Muara Sari,estimated_from_kecamatan,2025,10179,0,10179,4300,0,2300,38,4300,5700
+32.71.01.1007,Kota Bogor,Bogor Selatan,Mulya Harja,estimated_from_kecamatan,2025,30962,0,30962,12100,0,5100,66,12100,2500
+32.71.03.1003,Kota Bogor,Bogor Tengah,Pabaton,estimated_from_kecamatan,2025,8466,0,8466,2900,0,19000,33,2900,10100
+32.71.01.1015,Kota Bogor,Bogor Selatan,Pakuan,estimated_from_kecamatan,2025,12066,0,12066,5000,0,5900,41,5000,23500
+32.71.03.1002,Kota Bogor,Bogor Tengah,Paledang,estimated_from_kecamatan,2025,11303,0,11303,4700,0,16800,47,4700,4800
+32.71.01.1005,Kota Bogor,Bogor Selatan,Pamoyanan,estimated_from_kecamatan,2025,19053,0,19053,7800,0,2100,45,7800,1100
+32.71.03.1009,Kota Bogor,Bogor Tengah,Panaragan,estimated_from_kecamatan,2025,4851,0,4851,2100,0,2800,25,2100,700
+32.71.04.1012,Kota Bogor,Bogor Barat,Pasir Jaya,estimated_from_kecamatan,2025,16738,0,16738,7600,0,2900,52,7600,7700
+32.71.04.1013,Kota Bogor,Bogor Barat,Pasir Kuda,estimated_from_kecamatan,2025,15595,0,15595,5500,0,2500,42,5500,3200
+32.71.04.1014,Kota Bogor,Bogor Barat,Pasir Mulya,estimated_from_kecamatan,2025,9322,0,9322,3200,0,2700,38,3200,500
+32.71.01.1010,Kota Bogor,Bogor Selatan,Rancamaya,estimated_from_kecamatan,2025,6985,0,6985,2900,0,600,27,2900,800
+32.71.01.1006,Kota Bogor,Bogor Selatan,Rangga Mekar,estimated_from_kecamatan,2025,17233,0,17233,5900,0,500,40,5900,1200
+32.71.04.1007,Kota Bogor,Bogor Barat,Semplak,estimated_from_kecamatan,2025,12776,0,12776,5200,0,900,39,5200,1500
+32.71.03.1006,Kota Bogor,Bogor Tengah,Sempur,estimated_from_kecamatan,2025,9845,0,9845,4600,0,4600,36,4600,3800
+32.71.04.1002,Kota Bogor,Bogor Barat,Sindang Barang,estimated_from_kecamatan,2025,21530,0,21530,8500,0,2800,60,8500,1600
+32.71.02.1005,Kota Bogor,Bogor Timur,Sindangrasa,estimated_from_kecamatan,2025,13431,0,13431,5400,0,3100,37,5400,12600
+32.71.02.1004,Kota Bogor,Bogor Timur,Sindangsari,estimated_from_kecamatan,2025,12022,0,12022,4500,0,1300,36,4500,500
+32.71.04.1006,Kota Bogor,Bogor Barat,Situ Gede,estimated_from_kecamatan,2025,10182,0,10182,4500,0,1200,46,4500,1000
+32.71.06.1007,Kota Bogor,Tanah Sareal,Sukadamai,estimated_from_kecamatan,2025,16515,0,16515,5900,0,2400,40,5900,1600
+32.71.06.1004,Kota Bogor,Tanah Sareal,Sukaresmi,estimated_from_kecamatan,2025,12167,0,12167,4100,0,1900,40,4100,1200
+32.71.02.1001,Kota Bogor,Bogor Timur,Sukasari,estimated_from_kecamatan,2025,8675,0,8675,2800,0,9700,33,2800,10500
+32.71.02.1006,Kota Bogor,Bogor Timur,Tajur,estimated_from_kecamatan,2025,6826,0,6826,2800,0,7300,31,2800,800
+32.71.05.1007,Kota Bogor,Bogor Utara,Tanah Baru,estimated_from_kecamatan,2025,33855,0,33855,13500,0,5000,69,13500,6000
+32.71.06.1001,Kota Bogor,Tanah Sareal,Tanah Sareal,estimated_from_kecamatan,2025,16769,0,16769,7000,0,18700,52,7000,31700
+32.71.05.1002,Kota Bogor,Bogor Utara,Tegal Gundil,estimated_from_kecamatan,2025,31814,0,31814,12200,0,7300,67,12200,2400
+32.71.03.1007,Kota Bogor,Bogor Tengah,Tegallega,estimated_from_kecamatan,2025,18424,0,18424,7400,0,21300,49,7400,37800
+32.76.08.1005,Kota Depok,Cilodong,Jatimulya,estimated_from_kecamatan,2025,27593,0,27593,10500,0,700,53,10500,1200
+32.76.10.1007,Kota Depok,Tapos,Cimpaeun,estimated_from_kecamatan,2025,28165,0,28165,12400,0,6100,67,12400,2900
+32.76.07.1004,Kota Depok,Cipayung,Bojong Pondok Terong,estimated_from_kecamatan,2025,36663,0,36663,14300,0,2500,63,14300,2200
+32.76.07.1002,Kota Depok,Cipayung,Cipayung Jaya,estimated_from_kecamatan,2025,23392,0,23392,9400,0,300,52,9400,1000
+32.76.07.1005,Kota Depok,Cipayung,Pondok Jaya,estimated_from_kecamatan,2025,28699,0,28699,12500,0,1400,54,12500,1400
+32.76.08.1002,Kota Depok,Cilodong,Cilodong,estimated_from_kecamatan,2025,19325,0,19325,8200,0,800,42,8200,1200
+32.76.08.1003,Kota Depok,Cilodong,Kalibaru,estimated_from_kecamatan,2025,37687,0,37687,13900,0,1200,58,13900,2100
+32.76.08.1004,Kota Depok,Cilodong,Kalimulya,estimated_from_kecamatan,2025,33909,0,33909,13700,0,5000,63,13700,2100
+32.76.11.1007,Kota Depok,Bojongsari,Duren Seribu,estimated_from_kecamatan,2025,17848,0,17848,6500,0,2200,51,6500,700
+32.76.07.1001,Kota Depok,Cipayung,Cipayung,estimated_from_kecamatan,2025,41420,0,41420,16400,0,1900,69,16400,4200
+32.76.07.1003,Kota Depok,Cipayung,Ratu Jaya,estimated_from_kecamatan,2025,43581,0,43581,16700,0,2700,71,16700,1700
+32.76.11.1006,Kota Depok,Bojongsari,Duren Mekar,estimated_from_kecamatan,2025,16225,0,16225,6500,0,5400,46,6500,1000
+32.76.03.1001,Kota Depok,Sawangan,Pasir Putih,estimated_from_kecamatan,2025,34725,0,34725,14000,0,3400,67,14000,3000
+32.76.03.1003,Kota Depok,Sawangan,Pengasinan,estimated_from_kecamatan,2025,25653,0,25653,9500,0,1800,60,9500,1200
+32.76.10.1005,Kota Depok,Tapos,Jatijajar,estimated_from_kecamatan,2025,33273,0,33273,12900,0,17600,68,12900,6800
+32.76.10.1006,Kota Depok,Tapos,Cilangkap,estimated_from_kecamatan,2025,57736,0,57736,23800,0,8100,94,23800,7700
+32.76.05.1001,Kota Depok,Sukmajaya,Sukmajaya,estimated_from_kecamatan,2025,48755,0,48755,17900,0,5800,76,17900,4800
+32.76.05.1010,Kota Depok,Sukmajaya,Tirtajaya,estimated_from_kecamatan,2025,38317,0,38317,15100,0,3100,72,15100,2400
+32.76.03.1002,Kota Depok,Sawangan,Bedahan,estimated_from_kecamatan,2025,43204,0,43204,15500,0,3500,72,15500,2800
+32.76.10.1001,Kota Depok,Tapos,Tapos,estimated_from_kecamatan,2025,20475,0,20475,7500,0,6000,62,7500,3100
+32.76.10.1002,Kota Depok,Tapos,Leuwinanggung,estimated_from_kecamatan,2025,23177,0,23177,8900,0,1200,50,8900,900
+32.76.08.1001,Kota Depok,Cilodong,Sukamaju,estimated_from_kecamatan,2025,52470,0,52470,22000,0,17500,89,22000,18000
+32.76.03.1011,Kota Depok,Sawangan,Sawangan Baru,estimated_from_kecamatan,2025,19328,0,19328,8000,0,3300,53,8000,1300
+32.76.10.1004,Kota Depok,Tapos,Sukamaju Baru,estimated_from_kecamatan,2025,40701,0,40701,14000,0,8200,66,14000,9500
+32.76.01.1008,Kota Depok,Pancoran Mas,Pancoran Mas,estimated_from_kecamatan,2025,54882,0,54882,21600,0,8700,85,21600,4800
+32.76.01.1006,Kota Depok,Pancoran Mas,Depok,estimated_from_kecamatan,2025,50281,0,50281,19100,0,49600,90,19100,28000
+32.76.01.1007,Kota Depok,Pancoran Mas,Depok Jaya,estimated_from_kecamatan,2025,19570,0,19570,7600,0,3200,46,7600,1600
+32.76.05.1003,Kota Depok,Sukmajaya,Abadijaya,estimated_from_kecamatan,2025,45208,0,45208,16400,0,6000,73,16400,5000
+32.76.01.1010,Kota Depok,Pancoran Mas,Rangkapan Jaya Baru,estimated_from_kecamatan,2025,46236,0,46236,17800,0,4200,74,17800,4000
+32.76.10.1003,Kota Depok,Tapos,Sukatani,estimated_from_kecamatan,2025,64468,0,64468,25000,0,8900,105,25000,5100
+32.76.01.1011,Kota Depok,Pancoran Mas,Rangkapan Jaya,estimated_from_kecamatan,2025,47374,0,47374,17400,0,5800,74,17400,6500
+32.76.01.1009,Kota Depok,Pancoran Mas,Mampang,estimated_from_kecamatan,2025,29907,0,29907,12200,0,3700,59,12200,2000
+32.76.11.1001,Kota Depok,Bojongsari,Bojongsari,estimated_from_kecamatan,2025,13380,0,13380,4600,0,10600,46,4600,10400
+32.76.03.1010,Kota Depok,Sawangan,Sawangan,estimated_from_kecamatan,2025,21406,0,21406,8400,0,5200,60,8400,1700
+32.76.11.1002,Kota Depok,Bojongsari,Bojongsari Baru,estimated_from_kecamatan,2025,11676,0,11676,4200,0,2200,38,4200,300
+32.76.02.1008,Kota Depok,Cimanggis,Curug,estimated_from_kecamatan,2025,16589,0,16589,5600,0,6900,48,5600,8700
+32.76.11.1005,Kota Depok,Bojongsari,Curug,estimated_from_kecamatan,2025,24924,0,24924,9000,0,3100,57,9000,1400
+32.76.05.1004,Kota Depok,Sukmajaya,Mekarjaya,estimated_from_kecamatan,2025,57620,0,57620,23400,0,11000,84,23400,9500
+32.76.06.1006,Kota Depok,Beji,Beji Timur,estimated_from_kecamatan,2025,12995,0,12995,3400,0,1200,40,3400,400
+32.76.06.1001,Kota Depok,Beji,Beji,estimated_from_kecamatan,2025,31259,0,31259,11000,0,4100,65,11000,2000
+32.76.05.1005,Kota Depok,Sukmajaya,Baktijaya,estimated_from_kecamatan,2025,44696,0,44696,18000,0,11000,77,18000,4600
+32.76.05.1008,Kota Depok,Sukmajaya,Cisalak,estimated_from_kecamatan,2025,19102,0,19102,7500,0,7800,55,7500,79400
+32.76.02.1012,Kota Depok,Cimanggis,Cisalak Pasar,estimated_from_kecamatan,2025,22553,0,22553,9200,0,3200,52,9200,2200
+32.76.06.1004,Kota Depok,Beji,Kemiri Muka,estimated_from_kecamatan,2025,25565,0,25565,8600,0,30000,61,8600,28500
+32.76.04.1001,Kota Depok,Limo,Meruyung,estimated_from_kecamatan,2025,21601,0,21601,10200,0,2500,51,10200,800
+32.76.04.1002,Kota Depok,Limo,Grogol,estimated_from_kecamatan,2025,28567,0,28567,11600,0,2200,57,11600,1600
+32.76.06.1003,Kota Depok,Beji,Tanah Baru,estimated_from_kecamatan,2025,43602,0,43602,17500,0,3800,75,17500,2400
+32.76.03.1009,Kota Depok,Sawangan,Cinangka,estimated_from_kecamatan,2025,28321,0,28321,11300,0,2200,58,11300,3300
+32.76.03.1012,Kota Depok,Sawangan,Kedaung,estimated_from_kecamatan,2025,14887,0,14887,5400,0,6800,49,5400,12400
+32.76.02.1007,Kota Depok,Cimanggis,Harjamukti,estimated_from_kecamatan,2025,49133,0,49133,17900,0,18400,89,17900,8700
+32.76.11.1004,Kota Depok,Bojongsari,Pondok Petir,estimated_from_kecamatan,2025,27097,0,27097,9800,0,3600,61,9800,2800
+32.76.11.1003,Kota Depok,Bojongsari,Serua,estimated_from_kecamatan,2025,26011,0,26011,10000,0,21700,60,10000,15000
+32.76.06.1002,Kota Depok,Beji,Kukusan,estimated_from_kecamatan,2025,28448,0,28448,11900,0,14900,74,11900,59700
+32.76.06.1005,Kota Depok,Beji,Pondok Cina,estimated_from_kecamatan,2025,20018,0,20018,6900,0,34600,72,6900,90300
+32.76.02.1010,Kota Depok,Cimanggis,Mekarsari,estimated_from_kecamatan,2025,51107,0,51107,21100,0,9600,83,21100,6200
+32.76.02.1009,Kota Depok,Cimanggis,Tugu,estimated_from_kecamatan,2025,70048,0,70048,29500,0,18600,102,29500,10800
+32.76.04.1004,Kota Depok,Limo,Limo,estimated_from_kecamatan,2025,39093,0,39093,15100,0,5500,77,15100,2800
+32.76.04.1003,Kota Depok,Limo,Krukut,estimated_from_kecamatan,2025,17973,0,17973,8200,0,1100,48,8200,2500
+32.76.02.1011,Kota Depok,Cimanggis,Pasir Gunung Selatan,estimated_from_kecamatan,2025,33329,0,33329,12800,0,52800,67,12800,6200
+32.76.09.1002,Kota Depok,Cinere,Gandul,estimated_from_kecamatan,2025,22066,0,22066,7600,0,12400,56,7600,8600
+32.76.09.1001,Kota Depok,Cinere,Cinere,estimated_from_kecamatan,2025,31920,0,31920,12100,0,2800,57,12100,2200
+32.76.09.1004,Kota Depok,Cinere,Pangkalan Jati Baru,estimated_from_kecamatan,2025,13277,0,13277,5100,0,600,37,5100,900
+32.76.09.1003,Kota Depok,Cinere,Pangkalan Jati,estimated_from_kecamatan,2025,19844,0,19844,9100,0,18900,48,9100,2600
+32.01.07.2003,Bogor,Cileungsi,Mampir,estimated_from_kecamatan,2022,17254,0,17254,6000,0,15000,44,6000,1500
+32.01.07.2009,Bogor,Cileungsi,Situsari,estimated_from_kecamatan,2022,19572,0,19572,8000,0,8700,58,8000,2200
+32.01.07.2004,Bogor,Cileungsi,Dayeuh,estimated_from_kecamatan,2022,30004,0,30004,11900,0,4000,55,11900,24400
+32.01.07.2008,Bogor,Cileungsi,Cipeucang,estimated_from_kecamatan,2022,14395,0,14395,5700,0,12300,47,5700,3800
+32.01.07.2005,Bogor,Cileungsi,Gandoang,estimated_from_kecamatan,2022,20201,0,20201,7500,0,4200,52,7500,1800
+32.01.07.2007,Bogor,Cileungsi,Cileungsi Kidul,estimated_from_kecamatan,2022,26955,0,26955,12000,0,25700,66,12000,38400
+32.01.07.2006,Bogor,Cileungsi,Jatisari,estimated_from_kecamatan,2022,6834,0,6834,2000,0,2800,36,2000,5200
+32.01.07.2012,Bogor,Cileungsi,Cileungsi,estimated_from_kecamatan,2022,19726,0,19726,6900,0,4900,45,6900,11900
+32.01.07.2002,Bogor,Cileungsi,Mekarsari,estimated_from_kecamatan,2022,12060,0,12060,5600,0,10100,39,5600,6700
+32.01.07.2010,Bogor,Cileungsi,Cipenjo,estimated_from_kecamatan,2022,26186,0,26186,9400,0,9600,59,9400,2900
+32.01.07.2001,Bogor,Cileungsi,Pasirangin,estimated_from_kecamatan,2022,37028,0,37028,12900,0,54200,68,12900,22900
+32.01.07.2011,Bogor,Cileungsi,Limusnunggal,estimated_from_kecamatan,2022,39436,0,39436,15000,0,120000,78,15000,60100
+32.01.02.2006,Bogor,Gunungputri,Tlajung Udik,estimated_from_kecamatan,2022,28494,0,28494,10700,0,4700,55,10700,2600
+32.01.02.2007,Bogor,Gunungputri,Cicadas,estimated_from_kecamatan,2022,33049,0,33049,13200,0,38400,59,13200,4900
+32.01.02.2005,Bogor,Gunungputri,Bojongnangka,estimated_from_kecamatan,2022,22235,0,22235,7700,0,9400,57,7700,5100
+32.01.02.2001,Bogor,Gunungputri,Wanaherang,estimated_from_kecamatan,2022,34243,0,34243,14100,0,22300,63,14100,37700
+32.01.02.2002,Bogor,Gunungputri,Bojongkulur,estimated_from_kecamatan,2022,43578,0,43578,16800,0,16200,71,16800,8000
+32.01.32.2008,Bogor,Klapanunggal,Leuwikaret,estimated_from_kecamatan,2022,0,3659,3659,0,1400,0,0,1400,200
+32.01.32.2004,Bogor,Klapanunggal,Lulut,estimated_from_kecamatan,2022,12642,0,12642,4300,0,100,35,4300,1500
+32.01.32.2009,Bogor,Klapanunggal,Ligarmukti,estimated_from_kecamatan,2022,2094,0,2094,1500,0,0,4,1500,100
+32.01.32.2007,Bogor,Klapanunggal,Bantarjati,estimated_from_kecamatan,2022,10702,0,10702,4300,0,16300,34,4300,23500
+32.01.32.2003,Bogor,Klapanunggal,Nambo,estimated_from_kecamatan,2022,10300,0,10300,3900,0,17500,40,3900,17200
+32.01.32.2005,Bogor,Klapanunggal,Cikahuripan,estimated_from_kecamatan,2022,15868,0,15868,8700,0,2000,40,8700,12100
+32.01.32.2002,Bogor,Klapanunggal,Bojong,estimated_from_kecamatan,2022,11055,0,11055,4700,0,1800,37,4700,800
+32.01.32.2001,Bogor,Klapanunggal,Klapanunggal,estimated_from_kecamatan,2022,22480,0,22480,8900,0,6000,50,8900,4300
+32.01.32.2006,Bogor,Klapanunggal,Kembangkuning,estimated_from_kecamatan,2022,19256,0,19256,7000,0,12000,43,7000,22400
+32.01.03.2011,Bogor,Citeureup,Tangkil,estimated_from_kecamatan,2022,4637,0,4637,1900,0,18500,20,1900,120600
+32.01.03.2004,Bogor,Citeureup,Tajur,estimated_from_kecamatan,2022,11062,0,11062,3600,0,600,37,3600,700
+32.01.03.2012,Bogor,Citeureup,Sukahati,estimated_from_kecamatan,2022,12489,0,12489,4900,0,18900,41,4900,188400
+32.01.03.2014,Bogor,Citeureup,Pasir Mukti,estimated_from_kecamatan,2022,10295,0,10295,3900,0,0,30,3900,900
+32.01.03.2009,Bogor,Citeureup,Tarikolot,estimated_from_kecamatan,2022,23510,0,23510,8900,0,4700,46,8900,1700
+32.01.03.2010,Bogor,Citeureup,Gunungsari,estimated_from_kecamatan,2022,16174,0,16174,6400,0,0,2,6400,3000
+32.01.04.2006,Bogor,Sukaraja,Sukatani,estimated_from_kecamatan,2022,3189,0,3189,900,0,700,18,900,100
+32.01.04.2008,Bogor,Sukaraja,Cikeas,estimated_from_kecamatan,2022,10274,0,10274,4200,0,2500,37,4200,1100
+32.01.04.2012,Bogor,Sukaraja,Cadasngampar,estimated_from_kecamatan,2022,9310,0,9310,4200,0,2100,31,4200,8100
+32.01.04.2013,Bogor,Sukaraja,Pasirlaja,estimated_from_kecamatan,2022,11043,0,11043,4100,0,3500,34,4100,800
+32.01.04.2003,Bogor,Sukaraja,Cilebut Barat,estimated_from_kecamatan,2022,36172,0,36172,12700,0,14300,69,12700,3500
+32.01.05.2007,Bogor,Babakan Madang,Citaringgul,estimated_from_kecamatan,2022,14337,0,14337,5900,0,62900,51,5900,40000
+32.01.05.2005,Bogor,Babakan Madang,Cipambuan,estimated_from_kecamatan,2022,5885,0,5885,2100,0,26200,22,2100,16300
+32.01.05.2006,Bogor,Babakan Madang,Kadumanggu,estimated_from_kecamatan,2022,14920,0,14920,6700,0,1200,36,6700,2100
+32.01.19.2002,Bogor,Jasinga,Pangradin,estimated_from_kecamatan,2022,0,5121,5121,0,2100,100,2,2100,200
+32.01.19.2008,Bogor,Jasinga,Setu,estimated_from_kecamatan,2022,6966,0,6966,3600,0,0,2,3600,600
+32.01.19.2015,Bogor,Jasinga,Neglasari,estimated_from_kecamatan,2022,3339,0,3339,1400,0,200,18,1400,100
+32.01.19.2007,Bogor,Jasinga,Cikopomayak,estimated_from_kecamatan,2022,0,7123,7123,0,2800,200,2,2800,500
+32.01.19.2010,Bogor,Jasinga,Bagoang,estimated_from_kecamatan,2022,0,7618,7618,0,2700,100,1,2700,400
+32.01.29.2009,Bogor,Ciomas,Kotabatu,estimated_from_kecamatan,2022,28220,0,28220,10400,0,6300,53,10400,2700
+32.01.29.2004,Bogor,Ciomas,Parakan,estimated_from_kecamatan,2022,9006,0,9006,3300,0,0,29,3300,600
+32.01.29.2001,Bogor,Ciomas,Mekarjaya,estimated_from_kecamatan,2022,8986,0,8986,2900,0,1300,31,2900,600
+32.01.29.2005,Bogor,Ciomas,Ciomas,estimated_from_kecamatan,2022,11470,0,11470,3500,0,2800,36,3500,1500
+32.01.29.2002,Bogor,Ciomas,Sukaharja,estimated_from_kecamatan,2022,5032,0,5032,1800,0,600,23,1800,400
+32.01.30.2006,Bogor,Dramaga,Purwasari,estimated_from_kecamatan,2022,0,5715,5715,0,1900,0,0,1900,500
+32.01.30.2004,Bogor,Dramaga,Sukawening,estimated_from_kecamatan,2022,7496,0,7496,3700,0,200,13,3700,1300
+32.01.30.2005,Bogor,Dramaga,Petir,estimated_from_kecamatan,2022,0,11308,11308,0,4300,0,0,4300,900
+32.01.30.2010,Bogor,Dramaga,Neglasari,estimated_from_kecamatan,2022,7880,0,7880,2400,0,500,5,2400,500
+32.01.30.2002,Bogor,Dramaga,Ciherang,estimated_from_kecamatan,2022,22151,0,22151,8100,0,5000,57,8100,2100
+32.01.30.2003,Bogor,Dramaga,Sinarsari,estimated_from_kecamatan,2022,9601,0,9601,2100,0,1300,32,2100,800
+32.01.30.2009,Bogor,Dramaga,Dramaga,estimated_from_kecamatan,2022,13784,0,13784,6500,0,10100,46,6500,2500
+32.01.30.2008,Bogor,Dramaga,Babakan,estimated_from_kecamatan,2022,19048,0,19048,7900,0,18900,69,7900,279300
+32.01.30.2007,Bogor,Dramaga,Cikarawang,estimated_from_kecamatan,2022,8517,0,8517,3000,0,2800,37,3000,17700
+32.01.30.2001,Bogor,Dramaga,Sukadamai,estimated_from_kecamatan,2022,0,6765,6765,0,2500,0,0,2500,700
+32.01.15.2013,Bogor,Ciampea,Ciampea Udik,estimated_from_kecamatan,2022,0,8747,8747,0,3500,0,0,3500,600
+32.01.15.2006,Bogor,Ciampea,Cibuntu,estimated_from_kecamatan,2022,0,7479,7479,0,3600,0,0,3600,800
+32.01.15.2002,Bogor,Ciampea,Cinangka,estimated_from_kecamatan,2022,0,14861,14861,0,6400,0,1,6400,1100
+32.01.15.2007,Bogor,Ciampea,Cicadas,estimated_from_kecamatan,2022,0,10118,10118,0,3600,800,4,3600,700
+32.01.15.2010,Bogor,Ciampea,Cihideung Ilir,estimated_from_kecamatan,2022,13273,0,13273,5100,0,2900,41,5100,3000
+32.01.15.2003,Bogor,Ciampea,Cihideung Udik,estimated_from_kecamatan,2022,17771,0,17771,6700,0,300,19,6700,1700
+32.01.15.2005,Bogor,Ciampea,Tegalwaru,estimated_from_kecamatan,2022,15497,0,15497,7400,0,2200,17,7400,1800
+32.01.15.2004,Bogor,Ciampea,Bojongjengkol,estimated_from_kecamatan,2022,0,11211,11211,0,5700,1000,8,5700,1300
+32.01.15.2008,Bogor,Ciampea,Cibadak,estimated_from_kecamatan,2022,14284,0,14284,5200,0,2900,26,5200,800
+32.01.15.2009,Bogor,Ciampea,Bojongrangkas,estimated_from_kecamatan,2022,14602,0,14602,4800,0,4900,35,4800,1300
+32.01.15.2011,Bogor,Ciampea,Cibanteng,estimated_from_kecamatan,2022,19606,0,19606,6900,0,1900,46,6900,6900
+32.01.15.2012,Bogor,Ciampea,Benteng,estimated_from_kecamatan,2022,13069,0,13069,5600,0,2800,39,5600,1500
+32.01.15.2001,Bogor,Ciampea,Ciampea,estimated_from_kecamatan,2022,12942,0,12942,4200,0,800,34,4200,1100
+32.01.21.2002,Bogor,Nanggung,Curugbitung,estimated_from_kecamatan,2022,0,11076,11076,0,5300,0,0,5300,400
+32.01.21.2004,Bogor,Nanggung,Bantarkaret,estimated_from_kecamatan,2022,15066,0,15066,4900,0,400,45,4900,1400
+32.01.21.2009,Bogor,Nanggung,Pangkaljaya,estimated_from_kecamatan,2022,0,7523,7523,0,3000,0,0,3000,1100
+32.01.21.2008,Bogor,Nanggung,Parakanmuncang,estimated_from_kecamatan,2022,6734,0,6734,2700,0,0,20,2700,200
+32.01.21.2005,Bogor,Nanggung,Hambaro,estimated_from_kecamatan,2022,0,5408,5408,0,1500,0,0,1500,300
+32.01.21.2011,Bogor,Nanggung,Batu Tulis,estimated_from_kecamatan,2022,7216,0,7216,3000,0,2100,25,3000,400
+32.01.21.2001,Bogor,Nanggung,Malasari,estimated_from_kecamatan,2022,9790,0,9790,3900,0,2800,49,3900,500
+32.01.21.2003,Bogor,Nanggung,Cisarua,estimated_from_kecamatan,2022,0,13760,13760,0,4600,300,2,4600,600
+32.01.21.2007,Bogor,Nanggung,Nanggung,estimated_from_kecamatan,2022,0,8399,8399,0,2300,0,0,2300,400
+32.01.16.2001,Bogor,Cibungbulang,Situ Udik,estimated_from_kecamatan,2022,0,15260,15260,0,4900,0,0,4900,600
+32.01.16.2002,Bogor,Cibungbulang,Situ Ilir,estimated_from_kecamatan,2022,0,9982,9982,0,3200,0,0,3200,1000
+32.01.16.2005,Bogor,Cibungbulang,Ciaruteun Udik,estimated_from_kecamatan,2022,0,6962,6962,0,3400,0,0,3400,600
+32.01.16.2012,Bogor,Cibungbulang,Cibatok II,estimated_from_kecamatan,2022,0,7878,7878,0,3100,0,0,3100,900
+32.01.16.2013,Bogor,Cibungbulang,Sukamaju,estimated_from_kecamatan,2022,0,9613,9613,0,3100,0,0,3100,700
+32.01.16.2004,Bogor,Cibungbulang,Cibatok I,estimated_from_kecamatan,2022,9512,0,9512,3200,0,0,28,3200,700
+32.01.16.2003,Bogor,Cibungbulang,Cemplang,estimated_from_kecamatan,2022,15020,0,15020,6400,0,100,6,6400,800
+32.01.16.2015,Bogor,Cibungbulang,Girimulya,estimated_from_kecamatan,2022,11308,0,11308,5400,0,200,32,5400,1000
+32.01.16.2008,Bogor,Cibungbulang,Cimanggu II,estimated_from_kecamatan,2022,9344,0,9344,3900,0,0,28,3900,1300
+32.01.16.2009,Bogor,Cibungbulang,Dukuh,estimated_from_kecamatan,2022,0,7352,7352,0,2300,0,0,2300,800
+32.01.16.2014,Bogor,Cibungbulang,Galuga,estimated_from_kecamatan,2022,0,8239,8239,0,3800,0,0,3800,400
+32.01.16.2007,Bogor,Cibungbulang,Cimanggu I,estimated_from_kecamatan,2022,10620,0,10620,3200,0,100,5,3200,400
+32.01.16.2006,Bogor,Cibungbulang,Leuweungkolot,estimated_from_kecamatan,2022,10058,0,10058,3500,0,600,26,3500,800
+32.01.16.2010,Bogor,Cibungbulang,Cijujung,estimated_from_kecamatan,2022,8143,0,8143,2700,0,100,21,2700,1000
+32.01.16.2011,Bogor,Cibungbulang,Ciaruteun Ilir,estimated_from_kecamatan,2022,11501,0,11501,4500,0,200,32,4500,700
+32.01.18.2014,Bogor,Rumpin,Mekarjaya,estimated_from_kecamatan,2022,3190,0,3190,1300,0,400,24,1300,300
+32.01.18.2003,Bogor,Rumpin,Cidokom,estimated_from_kecamatan,2022,5560,0,5560,2400,0,100,25,2400,200
+32.01.18.2002,Bogor,Rumpin,Leuwibatu,estimated_from_kecamatan,2022,6855,0,6855,3500,0,2000,45,3500,100
+32.01.18.2004,Bogor,Rumpin,Gobang,estimated_from_kecamatan,2022,6508,0,6508,2100,0,3000,32,2100,900
+32.01.18.2005,Bogor,Rumpin,Cibodas,estimated_from_kecamatan,2022,8898,0,8898,2000,0,5500,37,2000,900
+32.01.18.2006,Bogor,Rumpin,Rabak,estimated_from_kecamatan,2022,11426,0,11426,3900,0,2200,43,3900,1000
+32.01.18.2007,Bogor,Rumpin,Kampung Sawah,estimated_from_kecamatan,2022,11019,0,11019,4500,0,2500,44,4500,1000
+32.01.18.2008,Bogor,Rumpin,Cipinang,estimated_from_kecamatan,2022,14955,0,14955,5700,0,400,48,5700,1300
+32.01.18.2001,Bogor,Rumpin,Rumpin,estimated_from_kecamatan,2022,6605,0,6605,2300,0,1300,28,2300,400
+32.01.18.2009,Bogor,Rumpin,Sukasari,estimated_from_kecamatan,2022,14406,0,14406,5800,0,4400,78,5800,1300
+32.01.18.2010,Bogor,Rumpin,Tamansari,estimated_from_kecamatan,2022,14494,0,14494,6200,0,2800,43,6200,3200
+32.01.18.2011,Bogor,Rumpin,Kertajaya,estimated_from_kecamatan,2022,8874,0,8874,2400,0,2100,39,2400,1100
+32.01.18.2012,Bogor,Rumpin,Sukamulya,estimated_from_kecamatan,2022,31045,0,31045,10100,0,16900,80,10100,10600
+32.01.18.2013,Bogor,Rumpin,Mekarsari,estimated_from_kecamatan,2022,9376,0,9376,3100,0,2100,37,3100,800
+32.01.39.2001,Bogor,Leuwisadeng,Leuwisadeng,estimated_from_kecamatan,2022,15149,0,15149,5000,0,1200,39,5000,1500
+32.01.39.2007,Bogor,Leuwisadeng,Sadeng,estimated_from_kecamatan,2022,0,13283,13283,0,5500,0,2,5500,700
+32.01.39.2008,Bogor,Leuwisadeng,Sibanteng,estimated_from_kecamatan,2022,11171,0,11171,3300,0,2700,31,3300,1200
+32.01.39.2004,Bogor,Leuwisadeng,Wangunjaya,estimated_from_kecamatan,2022,0,7472,7472,0,2900,0,0,2900,400
+32.01.39.2003,Bogor,Leuwisadeng,Sadengkolot,estimated_from_kecamatan,2022,0,13241,13241,0,4900,100,1,4900,1100
+32.01.39.2002,Bogor,Leuwisadeng,Babakan Sadeng,estimated_from_kecamatan,2022,0,8269,8269,0,3200,0,0,3200,400
+32.01.23.2007,Bogor,Tenjo,Singabraja,estimated_from_kecamatan,2022,4821,0,4821,1400,0,5500,27,1400,200
+32.01.23.2006,Bogor,Tenjo,Cilaku,estimated_from_kecamatan,2022,10177,0,10177,3700,0,6100,56,3700,700
+32.01.23.2003,Bogor,Tenjo,Batok,estimated_from_kecamatan,2022,11779,0,11779,4100,0,2700,42,4100,800
+32.01.23.2008,Bogor,Tenjo,Singabangsa,estimated_from_kecamatan,2022,6324,0,6324,1600,0,14000,30,1600,3800
+32.01.23.2005,Bogor,Tenjo,Tenjo,estimated_from_kecamatan,2022,13946,0,13946,6500,0,27000,77,6500,1600
+32.01.33.2006,Bogor,Ciseeng,Karihkil,estimated_from_kecamatan,2022,8111,0,8111,4100,0,200,26,4100,500
+32.01.33.2005,Bogor,Ciseeng,Cibeuteung Udik,estimated_from_kecamatan,2022,10593,0,10593,4500,0,1900,8,4500,1700
+32.01.33.2007,Bogor,Ciseeng,Babakan,estimated_from_kecamatan,2022,24182,0,24182,9700,0,100,40,9700,2900
+32.01.33.2001,Bogor,Ciseeng,Putat Nutug,estimated_from_kecamatan,2022,16149,0,16149,6600,0,1700,43,6600,6500
+32.01.33.2003,Bogor,Ciseeng,Parigi Mekar,estimated_from_kecamatan,2022,11897,0,11897,4400,0,100,15,4400,1000
+32.01.33.2002,Bogor,Ciseeng,Ciseeng,estimated_from_kecamatan,2022,10373,0,10373,3900,0,0,30,3900,1000
+32.01.33.2009,Bogor,Ciseeng,Cibeuteung Muara,estimated_from_kecamatan,2022,10008,0,10008,3800,0,300,16,3800,6500
+32.01.33.2004,Bogor,Ciseeng,Cibentang,estimated_from_kecamatan,2022,12353,0,12353,5400,0,300,31,5400,1500
+32.01.33.2008,Bogor,Ciseeng,Cihowe,estimated_from_kecamatan,2022,0,7115,7115,0,2500,0,0,2500,800
+32.01.33.2010,Bogor,Ciseeng,Kuripan,estimated_from_kecamatan,2022,7977,0,7977,2700,0,2200,33,2700,1200
+32.01.10.2002,Bogor,Parung,Iwul,estimated_from_kecamatan,2022,0,7356,7356,0,3100,0,0,3100,700
+32.01.10.2009,Bogor,Parung,Jabon Mekar,estimated_from_kecamatan,2022,12370,0,12370,3800,0,1500,33,3800,1000
+32.01.10.2003,Bogor,Parung,Bojong Sempu,estimated_from_kecamatan,2022,0,7992,7992,0,2600,0,0,2600,1100
+32.01.10.2006,Bogor,Parung,Pamegarsari,estimated_from_kecamatan,2022,20997,0,20997,7500,0,200,43,7500,2400
+32.01.10.2008,Bogor,Parung,Bojong Indah,estimated_from_kecamatan,2022,8263,0,8263,2600,0,0,6,2600,1300
+32.01.10.2004,Bogor,Parung,Waru,estimated_from_kecamatan,2022,21660,0,21660,7200,0,1700,47,7200,2600
+32.01.10.2007,Bogor,Parung,Waru Jaya,estimated_from_kecamatan,2022,13797,0,13797,5700,0,0,15,5700,1600
+32.01.10.2005,Bogor,Parung,Cogreg,estimated_from_kecamatan,2022,16304,0,16304,6400,0,1300,28,6400,1100
+32.01.10.2001,Bogor,Parung,Parung,estimated_from_kecamatan,2022,17950,0,17950,6000,0,11100,46,6000,6500
+32.01.34.2003,Bogor,Rancabungur,Pasirgaok,estimated_from_kecamatan,2022,9565,0,9565,3800,0,1000,30,3800,9600
+32.01.34.2001,Bogor,Rancabungur,Bantarjaya,estimated_from_kecamatan,2022,12302,0,12302,4000,0,1200,32,4000,1400
+32.01.34.2002,Bogor,Rancabungur,Bantarsari,estimated_from_kecamatan,2022,8517,0,8517,2700,0,5100,18,2700,900
+32.01.34.2007,Bogor,Rancabungur,Cimulang,estimated_from_kecamatan,2022,6190,0,6190,2800,0,100,22,2800,300
+32.01.34.2006,Bogor,Rancabungur,Candali,estimated_from_kecamatan,2022,7434,0,7434,3000,0,500,26,3000,600
+32.01.34.2004,Bogor,Rancabungur,Rancabungur,estimated_from_kecamatan,2022,11870,0,11870,5900,0,400,37,5900,500
+32.01.34.2005,Bogor,Rancabungur,Mekarsari,estimated_from_kecamatan,2022,6836,0,6836,3000,0,400,20,3000,700
+32.01.12.2001,Bogor,Kemang,Bojong,estimated_from_kecamatan,2022,12457,0,12457,5700,0,300,37,5700,1100
+32.01.12.2007,Bogor,Kemang,Jampang,estimated_from_kecamatan,2022,17441,0,17441,7700,0,0,39,7700,2000
+32.01.12.2003,Bogor,Kemang,Kemang,estimated_from_kecamatan,2022,17179,0,17179,6500,0,5300,45,6500,1800
+32.01.12.2004,Bogor,Kemang,Pabuaran,estimated_from_kecamatan,2022,13035,0,13035,5700,0,500,20,5700,1500
+32.01.12.2002,Bogor,Kemang,Parakanjaya,estimated_from_kecamatan,2022,14164,0,14164,5100,0,9700,41,5100,1400
+32.01.12.2008,Bogor,Kemang,Pondok Udik,estimated_from_kecamatan,2022,12108,0,12108,4400,0,1400,31,4400,1000
+32.01.12.2005,Bogor,Kemang,Semplak Barat,estimated_from_kecamatan,2022,5124,0,5124,2100,0,500,27,2100,500
+32.01.12.2009,Bogor,Kemang,Tegal,estimated_from_kecamatan,2022,26230,0,26230,12800,0,1900,48,12800,12500
+32.01.12.1006,Bogor,Kemang,Atang Senjaya,estimated_from_kecamatan,2022,7903,0,7903,2800,0,5900,27,2800,1200
+32.01.14.2006,Bogor,Leuwiliang,Barengkok,estimated_from_kecamatan,2022,14110,0,14110,5800,0,0,15,5800,800
+32.01.14.2009,Bogor,Leuwiliang,Cibeber I,estimated_from_kecamatan,2022,16107,0,16107,7000,0,600,37,7000,900
+32.01.14.2010,Bogor,Leuwiliang,Cibeber II,estimated_from_kecamatan,2022,7901,0,7901,3200,0,0,9,3200,300
+32.01.14.2005,Bogor,Leuwiliang,Karacak,estimated_from_kecamatan,2022,0,11111,11111,0,3800,0,0,3800,800
+32.01.14.2011,Bogor,Leuwiliang,Karehkel,estimated_from_kecamatan,2022,11841,0,11841,5000,0,300,32,5000,700
+32.01.14.2003,Bogor,Leuwiliang,Karyasari,estimated_from_kecamatan,2022,0,7810,7810,0,3600,0,0,3600,600
+32.01.14.2001,Bogor,Leuwiliang,Leuwiliang,estimated_from_kecamatan,2022,22204,0,22204,8700,0,2200,44,8700,1500
+32.01.14.2007,Bogor,Leuwiliang,Leuwimekar,estimated_from_kecamatan,2022,16474,0,16474,5400,0,0,37,5400,1200
+32.01.14.2004,Bogor,Leuwiliang,Pabangbon,estimated_from_kecamatan,2022,4690,0,4690,2200,0,0,5,2200,200
+32.01.14.2002,Bogor,Leuwiliang,Purasari,estimated_from_kecamatan,2022,12123,0,12123,4100,0,1100,48,4100,800
+32.01.14.2008,Bogor,Leuwiliang,Puraseda,estimated_from_kecamatan,2022,6981,0,6981,3000,0,0,24,3000,600
+32.01.17.2013,Bogor,Pamijahan,Ciasihan,estimated_from_kecamatan,2022,12934,0,12934,5700,0,0,16,5700,1500
+32.01.17.2015,Bogor,Pamijahan,Ciasmara,estimated_from_kecamatan,2022,8497,0,8497,3500,0,0,27,3500,500
+32.01.17.2009,Bogor,Pamijahan,Cibening,estimated_from_kecamatan,2022,0,15473,15473,0,4600,0,0,4600,1200
+32.01.17.2011,Bogor,Pamijahan,Cibitung Kulon,estimated_from_kecamatan,2022,0,5815,5815,0,2500,0,0,2500,300
+32.01.17.2003,Bogor,Pamijahan,Cibitung Wetan,estimated_from_kecamatan,2022,0,6658,6658,0,2000,0,3,2000,400
+32.01.17.2002,Bogor,Pamijahan,Cibunian,estimated_from_kecamatan,2022,10444,0,10444,4400,0,1200,40,4400,300
+32.01.17.2007,Bogor,Pamijahan,Cimayang,estimated_from_kecamatan,2022,0,6326,6326,0,2800,0,0,2800,200
+32.01.17.2010,Bogor,Pamijahan,Gunung Bunder I,estimated_from_kecamatan,2022,0,10440,10440,0,4300,0,1,4300,700
+32.01.17.2005,Bogor,Pamijahan,Gunung Bunder II,estimated_from_kecamatan,2022,12283,0,12283,5300,0,300,14,5300,800
+32.01.17.2004,Bogor,Pamijahan,Gunung Menyan,estimated_from_kecamatan,2022,7705,0,7705,3100,0,0,3,3100,1000
+32.01.17.2008,Bogor,Pamijahan,Pamijahan,estimated_from_kecamatan,2022,12905,0,12905,5400,0,0,1,5400,900
+32.01.17.2006,Bogor,Pamijahan,Pasarean,estimated_from_kecamatan,2022,0,11729,11729,0,3900,0,0,3900,500
+32.01.17.2001,Bogor,Pamijahan,Purwabakti,estimated_from_kecamatan,2022,7451,0,7451,2900,0,1900,29,2900,1200
+32.01.13.2002,Bogor,Bojonggede,Cimanggis,estimated_from_kecamatan,2022,26998,0,26998,11700,0,10500,70,11700,2900
+32.01.13.2003,Bogor,Bojonggede,Susukan,estimated_from_kecamatan,2022,32992,0,32992,13000,0,0,57,13000,4100
+32.01.38.2002,Bogor,Cigombong,Wates Jaya,estimated_from_kecamatan,2022,12464,0,12464,4500,0,21600,42,4500,12200
+32.01.38.2001,Bogor,Cigombong,Cigombong,estimated_from_kecamatan,2022,11911,0,11911,4800,0,500,32,4800,400
+32.01.27.2010,Bogor,Caringin,Pasirbuncir,estimated_from_kecamatan,2022,6824,0,6824,2400,0,14900,31,2400,12300
+32.01.38.2004,Bogor,Cigombong,Srogol,estimated_from_kecamatan,2022,8006,0,8006,3800,0,100,26,3800,11700
+32.01.38.2005,Bogor,Cigombong,Cisalada,estimated_from_kecamatan,2022,6186,0,6186,3000,0,0,10,3000,300
+32.01.38.2003,Bogor,Cigombong,Ciburuy,estimated_from_kecamatan,2022,13725,0,13725,5600,0,500,10,5600,2800
+32.01.27.2006,Bogor,Caringin,Cinagara,estimated_from_kecamatan,2022,10473,0,10473,3800,0,1800,36,3800,500
+32.01.38.2006,Bogor,Cigombong,Tugujaya,estimated_from_kecamatan,2022,15833,0,15833,5900,0,200,41,5900,700
+32.01.27.2001,Bogor,Caringin,Pasirmuncang,estimated_from_kecamatan,2022,8769,0,8769,3000,0,100,27,3000,400
+32.01.38.2007,Bogor,Cigombong,Pasirjaya,estimated_from_kecamatan,2022,7937,0,7937,2600,0,0,2,2600,500
+32.01.38.2008,Bogor,Cigombong,Ciburayut,estimated_from_kecamatan,2022,12325,0,12325,5100,0,0,4,5100,600
+32.01.27.2009,Bogor,Caringin,Muarajaya,estimated_from_kecamatan,2022,7952,0,7952,3100,0,100,4,3100,600
+32.01.27.2008,Bogor,Caringin,Pancawati,estimated_from_kecamatan,2022,15936,0,15936,5200,0,2500,40,5200,1000
+32.01.27.2004,Bogor,Caringin,Caringin,estimated_from_kecamatan,2022,13916,0,13916,5300,0,300,34,5300,1100
+32.01.27.2007,Bogor,Caringin,Cimande,estimated_from_kecamatan,2022,6492,0,6492,2800,0,0,26,2800,100
+32.01.38.2009,Bogor,Cigombong,Ciadeg,estimated_from_kecamatan,2022,0,12003,12003,0,3900,100,2,3900,500
+32.01.28.2001,Bogor,Cijeruk,Cijeruk,estimated_from_kecamatan,2022,10639,0,10639,4600,0,100,7,4600,300
+32.01.24.2001,Bogor,Ciawi,Cileungsi,estimated_from_kecamatan,2022,6682,0,6682,3400,0,100,27,3400,200
+32.01.28.2003,Bogor,Cijeruk,Warungmenteng,estimated_from_kecamatan,2022,11668,0,11668,5500,0,0,28,5500,900
+32.01.24.2010,Bogor,Ciawi,Bojongmurni,estimated_from_kecamatan,2022,4442,0,4442,1200,0,1100,22,1200,200
+32.01.24.2003,Bogor,Ciawi,Cibedug,estimated_from_kecamatan,2022,6420,0,6420,3400,0,2300,26,3400,500
+32.01.27.2003,Bogor,Caringin,Ciderum,estimated_from_kecamatan,2022,15486,0,15486,4900,0,300,36,4900,800
+32.01.26.2011,Bogor,Megamendung,Sukaresmi,estimated_from_kecamatan,2022,4020,0,4020,1200,0,1000,26,1200,200
+32.01.24.2002,Bogor,Ciawi,Citapen,estimated_from_kecamatan,2022,6186,0,6186,2100,0,400,27,2100,500
+32.01.27.2002,Bogor,Caringin,Cimande Hilir,estimated_from_kecamatan,2022,10359,0,10359,3800,0,4300,19,3800,1200
+32.01.25.2006,Bogor,Cisarua,Tugu Selatan,estimated_from_kecamatan,2022,21178,0,21178,9700,0,5300,59,9700,600
+32.01.24.2004,Bogor,Ciawi,Jambuluwuk,estimated_from_kecamatan,2022,6107,0,6107,1700,0,0,12,1700,500
+32.01.28.2002,Bogor,Cijeruk,Cipelang,estimated_from_kecamatan,2022,12910,0,12910,4400,0,600,33,4400,700
+32.01.26.2007,Bogor,Megamendung,Sukamanah,estimated_from_kecamatan,2022,7457,0,7457,3000,0,2000,27,3000,400
+32.01.24.2013,Bogor,Ciawi,Bitungsari,estimated_from_kecamatan,2022,10110,0,10110,4300,0,3300,30,4300,500
+32.01.24.2011,Bogor,Ciawi,Banjarwangi,estimated_from_kecamatan,2022,8789,0,8789,2900,0,0,27,2900,700
+32.01.24.2005,Bogor,Ciawi,Banjarsari,estimated_from_kecamatan,2022,9121,0,9121,3800,0,0,29,3800,700
+32.01.26.2008,Bogor,Megamendung,Sukagalih,estimated_from_kecamatan,2022,8259,0,8259,3200,0,1700,31,3200,400
+32.01.26.2002,Bogor,Megamendung,Kuta,estimated_from_kecamatan,2022,7376,0,7376,2600,0,1500,31,2600,600
+32.01.27.2005,Bogor,Caringin,Ciherang Pondok,estimated_from_kecamatan,2022,17964,0,17964,7500,0,700,39,7500,1100
+32.01.26.2001,Bogor,Megamendung,Sukamaju,estimated_from_kecamatan,2022,5323,0,5323,2000,0,4000,22,2000,500
+32.01.24.2006,Bogor,Ciawi,Telukpinang,estimated_from_kecamatan,2022,10859,0,10859,4600,0,2400,31,4600,800
+32.01.28.2006,Bogor,Cijeruk,Cibalung,estimated_from_kecamatan,2022,9372,0,9372,4300,0,200,31,4300,900
+32.01.28.2009,Bogor,Cijeruk,Tanjungsari,estimated_from_kecamatan,2022,5026,0,5026,2200,0,100,22,2200,100
+32.01.24.2007,Bogor,Ciawi,Banjarwaru,estimated_from_kecamatan,2022,10671,0,10671,3400,0,4900,32,3400,900
+32.01.26.2004,Bogor,Megamendung,Sukakarya,estimated_from_kecamatan,2022,6106,0,6106,2100,0,2300,30,2100,400
+32.01.28.2004,Bogor,Cijeruk,Tajurhalang,estimated_from_kecamatan,2022,6276,0,6276,2900,0,0,24,2900,300
+32.01.26.2010,Bogor,Megamendung,Sukamahi,estimated_from_kecamatan,2022,13935,0,13935,5700,0,10500,41,5700,5600
+32.01.24.2008,Bogor,Ciawi,Bendungan,estimated_from_kecamatan,2022,13013,0,13013,5500,0,17000,44,5500,5600
+32.01.28.2005,Bogor,Cijeruk,Cipicung,estimated_from_kecamatan,2022,11304,0,11304,5500,0,300,31,5500,400
+32.01.28.2007,Bogor,Cijeruk,Sukaharja,estimated_from_kecamatan,2022,13333,0,13333,4600,0,2400,40,4600,900
+32.01.26.2003,Bogor,Megamendung,Gadog,estimated_from_kecamatan,2022,8785,0,8785,3500,0,5100,32,3500,500
+32.01.24.2012,Bogor,Ciawi,Ciawi,estimated_from_kecamatan,2022,10263,0,10263,4000,0,2700,32,4000,800
+32.01.25.2004,Bogor,Cisarua,Cilember,estimated_from_kecamatan,2022,7470,0,7470,3100,0,200,25,3100,500
+32.01.40.2006,Bogor,Tenjolaya,Gunung Malang,estimated_from_kecamatan,2022,0,9494,9494,0,4700,0,0,4700,500
+32.01.31.2004,Bogor,Tamansari,Tamansari,estimated_from_kecamatan,2022,14391,0,14391,5400,0,0,36,5400,1300
+32.01.28.2008,Bogor,Cijeruk,Palasari,estimated_from_kecamatan,2022,14548,0,14548,5500,0,2500,39,5500,500
+32.01.40.2001,Bogor,Tenjolaya,Tapos I,estimated_from_kecamatan,2022,10558,0,10558,3400,0,0,26,3400,600
+32.01.31.2001,Bogor,Tamansari,Sukamantri,estimated_from_kecamatan,2022,25832,0,25832,9400,0,5700,56,9400,2500
+32.01.24.2009,Bogor,Ciawi,Pandansari,estimated_from_kecamatan,2022,14116,0,14116,5200,0,20900,38,5200,8700
+32.01.35.2002,Bogor,Sukajaya,Kiarasari,estimated_from_kecamatan,2022,9831,0,9831,4100,0,500,26,4100,400
+32.01.26.2012,Bogor,Megamendung,Pasir Angin,estimated_from_kecamatan,2022,12046,0,12046,4100,0,4800,43,4100,600
+32.01.40.2007,Bogor,Tenjolaya,Gunung Mulya,estimated_from_kecamatan,2022,0,7693,7693,0,2800,0,0,2800,3300
+32.01.31.2008,Bogor,Tamansari,Sukajadi,estimated_from_kecamatan,2022,8405,0,8405,3400,0,300,28,3400,400
+32.01.40.2002,Bogor,Tenjolaya,Tapos II,estimated_from_kecamatan,2022,0,7914,7914,0,2700,0,0,2700,600
+32.01.31.2002,Bogor,Tamansari,Sirnagalih,estimated_from_kecamatan,2022,18912,0,18912,6800,0,1200,41,6800,1700
+32.01.31.2003,Bogor,Tamansari,Pasir Eurih,estimated_from_kecamatan,2022,14142,0,14142,5800,0,600,40,5800,700
+32.01.31.2005,Bogor,Tamansari,Sukaluyu,estimated_from_kecamatan,2022,8105,0,8105,3400,0,0,26,3400,800
+32.01.31.2007,Bogor,Tamansari,Sukajaya,estimated_from_kecamatan,2022,8806,0,8806,3600,0,0,4,3600,300
+32.01.31.2006,Bogor,Tamansari,Sukaresmi,estimated_from_kecamatan,2022,12441,0,12441,5800,0,100,33,5800,900
+32.01.35.2010,Bogor,Sukajaya,Urug,estimated_from_kecamatan,2022,5089,0,5089,2300,0,300,16,2300,200
+32.01.40.2003,Bogor,Tenjolaya,Cibitung Tengah,estimated_from_kecamatan,2022,0,11433,11433,0,4200,0,0,4200,600
+32.01.40.2004,Bogor,Tenjolaya,Situdaun,estimated_from_kecamatan,2022,0,9994,9994,0,4000,400,1,4000,900
+32.01.35.2006,Bogor,Sukajaya,Kiarapandak,estimated_from_kecamatan,2022,6457,0,6457,2500,0,0,13,2500,300
+32.01.35.2007,Bogor,Sukajaya,Harkatjaya,estimated_from_kecamatan,2022,8448,0,8448,3600,0,2100,27,3600,1600
+32.01.40.2005,Bogor,Tenjolaya,Cinangneng,estimated_from_kecamatan,2022,0,10592,10592,0,3500,0,0,3500,1100
+32.01.35.2011,Bogor,Sukajaya,Jayaraharja,estimated_from_kecamatan,2022,3744,0,3744,1200,0,0,20,1200,0
+32.01.35.2003,Bogor,Sukajaya,Sukajaya,estimated_from_kecamatan,2022,5165,0,5165,2500,0,0,21,2500,400
+32.01.22.2011,Bogor,Cigudeg,Sukaraksa,estimated_from_kecamatan,2022,0,9302,9302,0,2900,100,1,2900,500
+32.01.35.2004,Bogor,Sukajaya,Sipayung,estimated_from_kecamatan,2022,6928,0,6928,3600,0,0,24,3600,600
+32.01.35.2009,Bogor,Sukajaya,Pasir Madang,estimated_from_kecamatan,2022,0,4371,4371,0,1300,700,1,1300,300
+32.01.35.2008,Bogor,Sukajaya,Sukamulih,estimated_from_kecamatan,2022,5868,0,5868,3100,0,0,22,3100,200
+32.01.22.2001,Bogor,Cigudeg,Sukamaju,estimated_from_kecamatan,2022,0,7260,7260,0,1900,200,2,1900,300
+32.01.22.2003,Bogor,Cigudeg,Bunar,estimated_from_kecamatan,2022,8597,0,8597,3800,0,1200,27,3800,200
+32.01.22.2010,Bogor,Cigudeg,Wargajaya,estimated_from_kecamatan,2022,0,5228,5228,0,3100,0,0,3100,400
+32.01.22.2005,Bogor,Cigudeg,Cintamanik,estimated_from_kecamatan,2022,7430,0,7430,2200,0,100,25,2200,500
+32.01.22.2013,Bogor,Cigudeg,Banyuasih,estimated_from_kecamatan,2022,3023,0,3023,1600,0,600,15,1600,200
+32.01.22.2015,Bogor,Cigudeg,Tegallega,estimated_from_kecamatan,2022,9340,0,9340,3600,0,500,33,3600,1000
+32.01.22.2009,Bogor,Cigudeg,Batujajar,estimated_from_kecamatan,2022,10093,0,10093,4400,0,1400,36,4400,1300
+32.01.20.2003,Bogor,Parungpanjang,Dago,estimated_from_kecamatan,2022,4599,0,4599,1900,0,1800,25,1900,800
+32.01.11.2006,Bogor,Gunungsindur,Jampang,estimated_from_kecamatan,2022,2329,0,2329,1600,0,700,17,1600,900
+32.01.11.2002,Bogor,Gunungsindur,Padurenan,estimated_from_kecamatan,2022,7975,0,7975,4400,0,500,17,4400,5800
+32.01.11.2008,Bogor,Gunungsindur,Cibinong,estimated_from_kecamatan,2022,12612,0,12612,5900,0,4000,38,5900,900
+32.01.11.2005,Bogor,Gunungsindur,Gunungsindur,estimated_from_kecamatan,2022,13800,0,13800,6300,0,10000,46,6300,8200
+32.01.20.2004,Bogor,Parungpanjang,Pingku,estimated_from_kecamatan,2022,8795,0,8795,4200,0,0,5,4200,1100
+32.01.11.2003,Bogor,Gunungsindur,Pengasinan,estimated_from_kecamatan,2022,14727,0,14727,6500,0,3600,37,6500,11500
+32.01.11.2009,Bogor,Gunungsindur,Rawakalong,estimated_from_kecamatan,2022,21575,0,21575,9900,0,2800,57,9900,3200
+32.01.20.2005,Bogor,Parungpanjang,Cikuda,estimated_from_kecamatan,2022,6340,0,6340,2000,0,400,26,2000,400
+32.01.20.2010,Bogor,Parungpanjang,Gintungcilejet,estimated_from_kecamatan,2022,6593,0,6593,3100,0,1700,32,3100,900
+32.01.20.2008,Bogor,Parungpanjang,Cibunar,estimated_from_kecamatan,2022,13202,0,13202,6400,0,5800,40,6400,1200
+32.01.20.2009,Bogor,Parungpanjang,Jagabita,estimated_from_kecamatan,2022,4240,0,4240,900,0,1600,23,900,200
+32.01.11.2001,Bogor,Gunungsindur,Cidokom,estimated_from_kecamatan,2022,7014,0,7014,3100,0,0,24,3100,1800
+32.01.11.2007,Bogor,Gunungsindur,Cibadung,estimated_from_kecamatan,2022,6174,0,6174,2300,0,3700,25,2300,700
+32.01.11.2004,Bogor,Gunungsindur,Curug,estimated_from_kecamatan,2022,20245,0,20245,7400,0,23800,56,7400,24900
+32.01.22.2006,Bogor,Cigudeg,Argapura,estimated_from_kecamatan,2022,12938,0,12938,5500,0,12400,47,5500,20500
+32.01.19.2009,Bogor,Jasinga,Barengkok,estimated_from_kecamatan,2022,10461,0,10461,4000,0,0,31,4000,900
+32.01.23.2001,Bogor,Tenjo,Tapos,estimated_from_kecamatan,2022,6559,0,6559,2200,0,0,24,2200,100
+32.01.23.2009,Bogor,Tenjo,Bojong,estimated_from_kecamatan,2022,8305,0,8305,3500,0,0,29,3500,500
+32.01.23.2004,Bogor,Tenjo,Babakan,estimated_from_kecamatan,2022,10356,0,10356,3100,0,4500,51,3100,900
+32.01.19.2011,Bogor,Jasinga,Pangaur,estimated_from_kecamatan,2022,0,6027,6027,0,3200,0,0,3200,400
+32.01.11.2010,Bogor,Gunungsindur,Pabuaran,estimated_from_kecamatan,2022,12130,0,12130,4500,0,33400,48,4500,25700
+32.01.19.2014,Bogor,Jasinga,Tegalwangi,estimated_from_kecamatan,2022,6775,0,6775,2400,0,2500,31,2400,800
+32.01.06.2012,Bogor,Jonggol,Balekambang,estimated_from_kecamatan,2022,0,6363,6363,0,2100,0,0,2100,200
+32.01.06.2010,Bogor,Jonggol,Bendungan,estimated_from_kecamatan,2022,5227,0,5227,1600,0,400,22,1600,100
+32.01.06.2008,Bogor,Jonggol,Cibodas,estimated_from_kecamatan,2022,2679,0,2679,1000,0,0,15,1000,300
+32.01.06.2009,Bogor,Jonggol,Jonggol,estimated_from_kecamatan,2022,15384,0,15384,5300,0,5100,41,5300,800
+32.01.06.2003,Bogor,Jonggol,Singajaya,estimated_from_kecamatan,2022,25520,0,25520,9500,0,12000,59,9500,1600
+32.01.06.2011,Bogor,Jonggol,Singasari,estimated_from_kecamatan,2022,11703,0,11703,5600,0,0,3,5600,800
+32.01.06.2002,Bogor,Jonggol,Sirnagalih,estimated_from_kecamatan,2022,5527,0,5527,2300,0,2200,26,2300,400
+32.01.06.2014,Bogor,Jonggol,Sukagalih,estimated_from_kecamatan,2022,3977,0,3977,1300,0,1400,20,1300,100
+32.01.06.2001,Bogor,Jonggol,Sukamaju,estimated_from_kecamatan,2022,31240,0,31240,10400,0,20000,64,10400,2600
+32.01.06.2006,Bogor,Jonggol,Sukamanah,estimated_from_kecamatan,2022,12705,0,12705,5400,0,3300,39,5400,1000
+32.01.06.2005,Bogor,Jonggol,Sukanegara,estimated_from_kecamatan,2022,0,3545,3545,0,1300,0,0,1300,100
+32.01.06.2004,Bogor,Jonggol,Sukasirna,estimated_from_kecamatan,2022,13021,0,13021,4400,0,1700,35,4400,300
+32.01.06.2007,Bogor,Jonggol,Weninggalih,estimated_from_kecamatan,2022,4610,0,4610,2100,0,1600,25,2100,200
+32.01.06.2013,Bogor,Jonggol,Sukajaya,estimated_from_kecamatan,2022,0,3531,3531,0,1600,0,0,1600,300
+32.01.08.2002,Bogor,Cariu,Babakanraden,estimated_from_kecamatan,2022,7386,0,7386,2400,0,900,26,2400,400
+32.01.08.2007,Bogor,Cariu,Bantarkuning,estimated_from_kecamatan,2022,0,4569,4569,0,2300,0,0,2300,300
+32.01.08.2005,Bogor,Cariu,Cariu,estimated_from_kecamatan,2022,11984,0,11984,5100,0,400,2,5100,400
+32.01.08.2010,Bogor,Cariu,Cibatutiga,estimated_from_kecamatan,2022,0,3800,3800,0,1900,0,0,1900,0
+32.01.08.2003,Bogor,Cariu,Cikutamahi,estimated_from_kecamatan,2022,4092,0,4092,1200,0,0,7,1200,200
+32.01.08.2001,Bogor,Cariu,Karyamekar,estimated_from_kecamatan,2022,0,3778,3778,0,1200,0,0,1200,0
+32.01.08.2004,Bogor,Cariu,Kutamekar,estimated_from_kecamatan,2022,0,3053,3053,0,1100,0,0,1100,200
+32.01.08.2006,Bogor,Cariu,Mekarwangi,estimated_from_kecamatan,2022,0,4562,4562,0,1400,0,0,1400,200
+32.01.08.2008,Bogor,Cariu,Sukajadi,estimated_from_kecamatan,2022,3823,0,3823,1600,0,400,19,1600,100
+32.01.08.2009,Bogor,Cariu,Tegalpanjang,estimated_from_kecamatan,2022,7030,0,7030,2000,0,300,25,2000,300
+32.01.09.2001,Bogor,Sukamakmur,Wargajaya,estimated_from_kecamatan,2022,9743,0,9743,2600,0,100,33,2600,600
+32.01.09.2008,Bogor,Sukamakmur,Sukaharja,estimated_from_kecamatan,2022,10311,0,10311,3500,0,200,33,3500,400
+32.01.09.2003,Bogor,Sukamakmur,Sukadamai,estimated_from_kecamatan,2022,8446,0,8446,3200,0,0,1,3200,600
+32.01.09.2006,Bogor,Sukamakmur,Sukaresmi,estimated_from_kecamatan,2022,0,8944,8944,0,3700,100,1,3700,200
+32.01.36.2004,Bogor,Tanjungsari,Antajaya,estimated_from_kecamatan,2022,4966,0,4966,3100,0,0,2,3100,100
+32.01.36.2009,Bogor,Tanjungsari,Buanajaya,estimated_from_kecamatan,2022,5571,0,5571,2500,0,0,29,2500,100
+32.01.36.2005,Bogor,Tanjungsari,Pasirtanjung,estimated_from_kecamatan,2022,0,3928,3928,0,1300,0,0,1300,100
+32.01.36.2002,Bogor,Tanjungsari,Selawangi,estimated_from_kecamatan,2022,0,9142,9142,0,3300,0,0,3300,300
+32.01.36.2010,Bogor,Tanjungsari,Sirnarasa,estimated_from_kecamatan,2022,6230,0,6230,2600,0,100,36,2600,0
+32.01.36.2008,Bogor,Tanjungsari,Sirnasari,estimated_from_kecamatan,2022,3961,0,3961,1700,0,0,5,1700,0
+32.01.36.2007,Bogor,Tanjungsari,Sukarasa,estimated_from_kecamatan,2022,0,6607,6607,0,3200,0,0,3200,500
+32.01.36.2003,Bogor,Tanjungsari,Tanjungrasa,estimated_from_kecamatan,2022,0,6796,6796,0,2400,0,0,2400,300
+32.01.37.2001,Bogor,Tajurhalang,Tajurhalang,estimated_from_kecamatan,2022,21248,0,21248,7100,0,6000,57,7100,2900
+32.01.37.2002,Bogor,Tajurhalang,Citayam,estimated_from_kecamatan,2022,16786,0,16786,7500,0,4300,40,7500,1700
+32.01.37.2003,Bogor,Tajurhalang,Sasak Panjang,estimated_from_kecamatan,2022,26039,0,26039,10900,0,4300,49,10900,2400
+32.01.37.2004,Bogor,Tajurhalang,Nanggerang,estimated_from_kecamatan,2022,11866,0,11866,4400,0,0,32,4400,800
+32.01.37.2005,Bogor,Tajurhalang,Sukmajaya,estimated_from_kecamatan,2022,9530,0,9530,4500,0,200,31,4500,800
+32.01.37.2006,Bogor,Tajurhalang,Tonjong,estimated_from_kecamatan,2022,13348,0,13348,4300,0,4000,39,4300,1400
+32.01.37.2007,Bogor,Tajurhalang,Kalisuren,estimated_from_kecamatan,2022,23672,0,23672,8300,0,0,46,8300,2200
+32.01.02.2008,Bogor,Gunungputri,Cikeas Udik,estimated_from_kecamatan,2022,26505,0,26505,9100,0,31500,58,9100,12200
+32.01.21.2006,Bogor,Nanggung,Kalongliud,estimated_from_kecamatan,2022,0,9845,9845,0,4000,0,0,4000,700
+32.01.21.2010,Bogor,Nanggung,Sukaluyu,estimated_from_kecamatan,2022,0,4668,4668,0,2400,0,0,2400,600
+32.01.20.2001,Bogor,Parungpanjang,Jagabaya,estimated_from_kecamatan,2022,8476,0,8476,4000,0,300,23,4000,3000
+32.01.20.2002,Bogor,Parungpanjang,Gorowong,estimated_from_kecamatan,2022,0,12596,12596,0,3400,200,2,3400,1700
+32.01.20.2007,Bogor,Parungpanjang,Lumpang,estimated_from_kecamatan,2022,22259,0,22259,8900,0,10200,50,8900,7700
+32.01.17.2012,Bogor,Pamijahan,Gunung Picung,estimated_from_kecamatan,2022,16276,0,16276,6700,0,0,25,6700,1200
+32.01.17.2014,Bogor,Pamijahan,Gunung Sari,estimated_from_kecamatan,2022,18250,0,18250,5500,0,0,1,5500,1600
+32.01.35.2001,Bogor,Sukajaya,Cisarua,estimated_from_kecamatan,2022,4747,0,4747,1800,0,0,26,1800,0
+32.01.35.2005,Bogor,Sukajaya,Cileuksa,estimated_from_kecamatan,2022,9430,0,9430,3900,0,2100,38,3900,800
+32.01.19.2013,Bogor,Jasinga,Jugalajaya,estimated_from_kecamatan,2022,4719,0,4719,1500,0,0,4,1500,700
+32.01.19.2001,Bogor,Jasinga,Curug,estimated_from_kecamatan,2022,5967,0,5967,2300,0,0,15,2300,400
+32.01.19.2012,Bogor,Jasinga,Pamagersari,estimated_from_kecamatan,2022,8617,0,8617,2900,0,4100,29,2900,700
+32.01.19.2005,Bogor,Jasinga,Jasinga,estimated_from_kecamatan,2022,6559,0,6559,1900,0,600,15,1900,500
+32.01.19.2016,Bogor,Jasinga,Wirajaya,estimated_from_kecamatan,2022,3709,0,3709,2000,0,300,22,2000,100
+32.01.19.2006,Bogor,Jasinga,Koleang,estimated_from_kecamatan,2022,6714,0,6714,2500,0,100,25,2500,200
+32.01.19.2004,Bogor,Jasinga,Sipak,estimated_from_kecamatan,2022,10975,0,10975,3800,0,200,13,3800,400
+32.01.19.2003,Bogor,Jasinga,Kalongsawah,estimated_from_kecamatan,2022,10660,0,10660,4500,0,0,2,4500,400
+32.01.22.2014,Bogor,Cigudeg,Mekarjaya,estimated_from_kecamatan,2022,9108,0,9108,3300,0,0,14,3300,700
+32.01.39.2006,Bogor,Leuwisadeng,Kalong II,estimated_from_kecamatan,2022,0,5485,5485,0,2200,100,4,2200,400
+32.01.39.2005,Bogor,Leuwisadeng,Kalong I,estimated_from_kecamatan,2022,0,7487,7487,0,2700,0,0,2700,600
+32.01.22.2002,Bogor,Cigudeg,Cigudeg,estimated_from_kecamatan,2022,16914,0,16914,6400,0,0,2,6400,700
+32.01.22.2004,Bogor,Cigudeg,Banyuresmi,estimated_from_kecamatan,2022,6776,0,6776,2500,0,3500,27,2500,700
+32.01.22.2012,Bogor,Cigudeg,Banyuwangi,estimated_from_kecamatan,2022,5999,0,5999,2200,0,800,29,2200,400
+32.01.22.2007,Bogor,Cigudeg,Bangunjaya,estimated_from_kecamatan,2022,11656,0,11656,3700,0,400,36,3700,800
+32.01.22.2008,Bogor,Cigudeg,Rengasjajar,estimated_from_kecamatan,2022,0,16743,16743,0,5700,700,5,5700,400
+32.01.23.2002,Bogor,Tenjo,Ciomas,estimated_from_kecamatan,2022,5222,0,5222,2200,0,0,3,2200,1000
+32.01.20.2011,Bogor,Parungpanjang,Kabasiran,estimated_from_kecamatan,2022,14551,0,14551,5200,0,3600,40,5200,1600
+32.01.20.2006,Bogor,Parungpanjang,Parungpanjang,estimated_from_kecamatan,2022,21312,0,21312,7200,0,8100,52,7200,1700
+32.01.29.2007,Bogor,Ciomas,Sukamakmur,estimated_from_kecamatan,2022,10681,0,10681,3900,0,2800,32,3900,800
+32.01.29.2008,Bogor,Ciomas,Ciapus,estimated_from_kecamatan,2022,12562,0,12562,4900,0,3300,45,4900,900
+32.01.27.2012,Bogor,Caringin,Tangkil,estimated_from_kecamatan,2022,9131,0,9131,3600,0,5300,38,3600,800
+32.01.27.2011,Bogor,Caringin,Lemah Duhur,estimated_from_kecamatan,2022,13141,0,13141,4500,0,200,36,4500,600
+32.01.25.2009,Bogor,Cisarua,Tugu Utara,estimated_from_kecamatan,2022,13682,0,13682,5300,0,2400,45,5300,600
+32.01.09.2004,Bogor,Sukamakmur,Sukawangi,estimated_from_kecamatan,2022,9964,0,9964,3700,0,4200,79,3700,500
+32.01.36.2006,Bogor,Tanjungsari,Cibadak,estimated_from_kecamatan,2022,5578,0,5578,3000,0,0,38,3000,200
+32.01.36.2001,Bogor,Tanjungsari,Tanjungsari,estimated_from_kecamatan,2022,0,7720,7720,0,2300,400,1,2300,200
+32.01.05.2004,Bogor,Babakan Madang,Karang Tengah,estimated_from_kecamatan,2022,12053,0,12053,4200,0,300,33,4200,3600
+32.01.25.2001,Bogor,Cisarua,Batulayang,estimated_from_kecamatan,2022,11691,0,11691,5500,0,300,36,5500,400
+32.01.26.2005,Bogor,Megamendung,Megamendung,estimated_from_kecamatan,2022,9492,0,9492,3500,0,3000,40,3500,500
+32.01.09.2009,Bogor,Sukamakmur,Sirnajaya,estimated_from_kecamatan,2022,7892,0,7892,3900,0,0,14,3900,200
+32.01.09.2007,Bogor,Sukamakmur,Sukamulya,estimated_from_kecamatan,2022,0,7144,7144,0,3800,0,0,3800,900
+32.01.09.2005,Bogor,Sukamakmur,Cibadak,estimated_from_kecamatan,2022,8323,0,8323,3200,0,0,29,3200,400
+32.01.09.2010,Bogor,Sukamakmur,Sukamakmur,estimated_from_kecamatan,2022,0,6999,6999,0,3100,600,2,3100,500
+32.01.09.2002,Bogor,Sukamakmur,Pabuaran,estimated_from_kecamatan,2022,11881,0,11881,4300,0,0,34,4300,700
+32.01.25.2008,Bogor,Cisarua,Kopo,estimated_from_kecamatan,2022,20049,0,20049,7200,0,1400,51,7200,500
+32.01.26.2009,Bogor,Megamendung,Cipayung Girang,estimated_from_kecamatan,2022,11222,0,11222,4000,0,6700,44,4000,600
+32.01.26.2006,Bogor,Megamendung,Cipayung,estimated_from_kecamatan,2022,18366,0,18366,6700,0,17400,57,6700,7800
+32.01.04.2001,Bogor,Sukaraja,Gunung Geulis,estimated_from_kecamatan,2022,7373,0,7373,2800,0,2200,33,2800,700
+32.01.04.2005,Bogor,Sukaraja,Nagrak,estimated_from_kecamatan,2022,8911,0,8911,3800,0,2900,47,3800,600
+32.01.05.2009,Bogor,Babakan Madang,Bojong Koneng,estimated_from_kecamatan,2022,13206,0,13206,6100,0,4700,42,6100,11100
+32.01.05.2001,Bogor,Babakan Madang,Cijayanti,estimated_from_kecamatan,2022,21639,0,21639,9500,0,8200,52,9500,42200
+32.01.04.2004,Bogor,Sukaraja,Cibanon,estimated_from_kecamatan,2022,4492,0,4492,1900,0,2400,24,1900,200
+32.01.04.2007,Bogor,Sukaraja,Sukaraja,estimated_from_kecamatan,2022,10711,0,10711,4700,0,4700,40,4700,1000
+32.01.03.2013,Bogor,Citeureup,Hambalang,estimated_from_kecamatan,2022,10301,0,10301,3700,0,600,34,3700,43900
+32.01.05.2002,Bogor,Babakan Madang,Sumur Batu,estimated_from_kecamatan,2022,11477,0,11477,4100,0,4500,34,4100,13200
+32.01.05.2008,Bogor,Babakan Madang,Babakan Madang,estimated_from_kecamatan,2022,10174,0,10174,3800,0,5300,30,3800,6900
+32.01.02.2009,Bogor,Gunungputri,Nagrak,estimated_from_kecamatan,2022,31073,0,31073,11100,0,19900,63,11100,20400
+32.01.02.2003,Bogor,Gunungputri,Ciangsana,estimated_from_kecamatan,2022,43800,0,43800,16700,0,76400,85,16700,47200
+32.01.01.1002,Bogor,Cibinong,Karadenan,estimated_from_kecamatan,2022,36124,0,36124,14600,0,6100,59,14600,2800
+32.01.01.1004,Bogor,Cibinong,Nanggewer,estimated_from_kecamatan,2022,35299,0,35299,15300,0,2400,61,15300,3600
+32.01.01.1005,Bogor,Cibinong,Nanggewer Mekar,estimated_from_kecamatan,2022,16007,0,16007,7100,0,15000,46,7100,11900
+32.01.01.1006,Bogor,Cibinong,Cibinong,estimated_from_kecamatan,2022,25069,0,25069,9700,0,52100,58,9700,25800
+32.01.01.1007,Bogor,Cibinong,Pakansari,estimated_from_kecamatan,2022,33880,0,33880,13700,0,69000,69,13700,7800
+32.01.01.1008,Bogor,Cibinong,Tengah,estimated_from_kecamatan,2022,22717,0,22717,10900,0,56400,52,10900,9800
+32.01.01.1009,Bogor,Cibinong,Sukahati,estimated_from_kecamatan,2022,37667,0,37667,12800,0,9100,68,12800,3600
+32.01.01.1011,Bogor,Cibinong,Cirimekar,estimated_from_kecamatan,2022,16009,0,16009,5600,0,17300,41,5600,9100
+32.01.03.1006,Bogor,Citeureup,Puspanegara,estimated_from_kecamatan,2022,19102,0,19102,7400,0,4200,31,7400,2000
+32.01.03.1007,Bogor,Citeureup,Karang Asem Barat,estimated_from_kecamatan,2022,23886,0,23886,9600,0,1700,47,9600,17600
+32.01.25.1010,Bogor,Cisarua,Cisarua,estimated_from_kecamatan,2022,11275,0,11275,6200,0,5400,37,6200,800
+32.01.29.1003,Bogor,Ciomas,Padasuka,estimated_from_kecamatan,2022,22445,0,22445,8000,0,5600,53,8000,1600
+32.01.02.2004,Bogor,Gunungputri,Gunungputri,estimated_from_kecamatan,2022,13657,0,13657,5400,0,2100,36,5400,1000
+32.01.02.2010,Bogor,Gunungputri,Karanggan,estimated_from_kecamatan,2022,15039,0,15039,6700,0,9200,39,6700,1200
+32.01.03.2003,Bogor,Citeureup,Leuwinutug,estimated_from_kecamatan,2022,16945,0,16945,6700,0,21600,41,6700,31100
+32.01.03.2005,Bogor,Citeureup,Sanja,estimated_from_kecamatan,2022,14014,0,14014,6600,0,1600,39,6600,15400
+32.01.03.2008,Bogor,Citeureup,Karang Asem Timur,estimated_from_kecamatan,2022,11830,0,11830,4200,0,1500,33,4200,1100
+32.01.03.2002,Bogor,Citeureup,Citeureup,estimated_from_kecamatan,2022,27300,0,27300,12700,0,18900,48,12700,22700
+32.01.03.2001,Bogor,Citeureup,Puspasari,estimated_from_kecamatan,2022,17975,0,17975,6100,0,100,41,6100,3500
+32.01.04.2009,Bogor,Sukaraja,Pasirjambu,estimated_from_kecamatan,2022,22126,0,22126,10200,0,3100,47,10200,1500
+32.01.04.2011,Bogor,Sukaraja,Cijujung,estimated_from_kecamatan,2022,27727,0,27727,11300,0,2100,56,11300,1600
+32.01.04.2002,Bogor,Sukaraja,Cilebut Timur,estimated_from_kecamatan,2022,17839,0,17839,8000,0,1800,43,8000,1300
+32.01.04.2010,Bogor,Sukaraja,Cimandala,estimated_from_kecamatan,2022,30285,0,30285,10200,0,20100,58,10200,2900
+32.01.05.2003,Bogor,Babakan Madang,Sentul,estimated_from_kecamatan,2022,15540,0,15540,5700,0,67500,42,5700,30300
+32.01.29.2006,Bogor,Ciomas,Pagelaran,estimated_from_kecamatan,2022,23490,0,23490,9100,0,1800,53,9100,1800
+32.01.29.2011,Bogor,Ciomas,Ciomas Rahayu,estimated_from_kecamatan,2022,12327,0,12327,4000,0,5200,44,4000,1200
+32.01.29.2010,Bogor,Ciomas,Laladon,estimated_from_kecamatan,2022,16483,0,16483,6400,0,5100,47,6400,1100
+32.01.13.2001,Bogor,Bojonggede,Bojongbaru,estimated_from_kecamatan,2022,29138,0,29138,13200,0,4300,53,13200,2700
+32.01.13.2009,Bogor,Bojonggede,Bojonggede,estimated_from_kecamatan,2022,40713,0,40713,17300,0,4800,69,17300,4600
+32.01.13.2005,Bogor,Bojonggede,Kedung Waringin,estimated_from_kecamatan,2022,22226,0,22226,9500,0,5700,54,9500,2100
+32.01.13.2008,Bogor,Bojonggede,Rawapanjang,estimated_from_kecamatan,2022,27245,0,27245,10200,0,8600,51,10200,3000
+32.01.13.2006,Bogor,Bojonggede,Waringin Jaya,estimated_from_kecamatan,2022,16085,0,16085,6500,0,3600,41,6500,1700
+32.01.25.2003,Bogor,Cisarua,Cibeureum,estimated_from_kecamatan,2022,18458,0,18458,6500,0,10300,52,6500,2500
+32.01.25.2005,Bogor,Cisarua,Citeko,estimated_from_kecamatan,2022,10392,0,10392,3700,0,2500,34,3700,500
+32.01.25.2007,Bogor,Cisarua,Leuwimalang,estimated_from_kecamatan,2022,8220,0,8220,3800,0,1900,27,3800,600
+32.01.25.2002,Bogor,Cisarua,Jogjogan,estimated_from_kecamatan,2022,8137,0,8137,2700,0,0,27,2700,600
+32.01.01.1010,Bogor,Cibinong,Ciriung,estimated_from_kecamatan,2022,27518,0,27518,10600,0,46500,58,10600,4400
+32.01.01.1012,Bogor,Cibinong,Pabuaran,estimated_from_kecamatan,2022,37952,0,37952,13400,0,14700,64,13400,12900
+32.01.01.1003,Bogor,Cibinong,Harapanjaya,estimated_from_kecamatan,2022,33397,0,33397,12800,0,11300,60,12800,3500
+32.01.01.1001,Bogor,Cibinong,Pondok Rajeg,estimated_from_kecamatan,2022,16322,0,16322,6900,0,4000,47,6900,1900
+32.01.01.1013,Bogor,Cibinong,Pabuaran Mekar,estimated_from_kecamatan,2022,23166,0,23166,8800,0,5800,53,8800,1900
+32.01.13.1007,Bogor,Bojonggede,Pabuaran,estimated_from_kecamatan,2022,33968,0,33968,13300,0,4800,64,13300,3100
+32.01.13.2004,Bogor,Bojonggede,Ragajaya,estimated_from_kecamatan,2022,32638,0,32638,13200,0,4000,61,13200,3300
+32.16.05.2007,Bekasi,Tambun Utara,Srimahi,estimated_from_kecamatan,2025,12998,0,12998,4500,0,500,39,4500,1000
+32.16.05.2006,Bekasi,Tambun Utara,Srijaya,estimated_from_kecamatan,2025,9529,0,9529,3600,0,1900,38,3600,1600
+32.16.03.2007,Bekasi,Sukawangi,Sukamekar,estimated_from_kecamatan,2025,12052,0,12052,6400,0,700,37,6400,1300
+32.16.03.2006,Bekasi,Sukawangi,Sukatenang,estimated_from_kecamatan,2025,15222,0,15222,5500,0,1300,49,5500,1100
+36.71.01.1001,Kota Tangerang,Tangerang,Sukarasa,estimated_from_kecamatan,2025,9509,0,9509,3500,0,2800,31,3500,2600
+36.71.07.1004,Kota Tangerang,Karawaci,Nusa Jaya,estimated_from_kecamatan,2025,14930,0,14930,4900,0,1800,37,4900,3700
+36.71.01.1002,Kota Tangerang,Tangerang,Sukaasih,estimated_from_kecamatan,2025,8812,0,8812,3900,0,12000,29,3900,5600
+36.71.09.1004,Kota Tangerang,Cibodas,Panunggangan Barat,estimated_from_kecamatan,2025,41366,0,41366,12900,0,34800,64,12900,34100
+36.71.09.1005,Kota Tangerang,Cibodas,Uwung Jaya,estimated_from_kecamatan,2025,28509,0,28509,11200,0,4400,54,11200,11600
+36.71.01.1003,Kota Tangerang,Tangerang,Tanah Tinggi,estimated_from_kecamatan,2025,33407,0,33407,13900,0,2900,55,13900,15300
+36.71.09.1003,Kota Tangerang,Cibodas,Cibodas Baru,estimated_from_kecamatan,2025,21245,0,21245,8300,0,1800,45,8300,2300
+36.71.01.1004,Kota Tangerang,Tangerang,Buaran Indah,estimated_from_kecamatan,2025,22585,0,22585,9900,0,24400,46,9900,8300
+36.71.01.1005,Kota Tangerang,Tangerang,Cikokol,estimated_from_kecamatan,2025,30364,0,30364,12000,0,40600,60,12000,11600
+36.71.01.1006,Kota Tangerang,Tangerang,Kelapa Indah,estimated_from_kecamatan,2025,22098,0,22098,7400,0,17600,50,7400,5600
+36.71.01.1007,Kota Tangerang,Tangerang,Sukasari,estimated_from_kecamatan,2025,21314,0,21314,8400,0,7400,46,8400,5100
+36.71.01.1008,Kota Tangerang,Tangerang,Babakan,estimated_from_kecamatan,2025,21376,0,21376,7500,0,45300,55,7500,17700
+36.71.02.1001,Kota Tangerang,Jatiuwung,Keroncong,estimated_from_kecamatan,2025,17238,0,17238,6800,0,2900,39,6800,8100
+36.71.02.1002,Kota Tangerang,Jatiuwung,Jatake,estimated_from_kecamatan,2025,12847,0,12847,4500,0,1700,33,4500,8200
+36.71.02.1003,Kota Tangerang,Jatiuwung,Pasir Jaya,estimated_from_kecamatan,2025,24972,0,24972,8300,0,28500,49,8300,26900
+36.71.02.1004,Kota Tangerang,Jatiuwung,Gandasari,estimated_from_kecamatan,2025,26176,0,26176,11000,0,27200,51,11000,22900
+36.71.02.1005,Kota Tangerang,Jatiuwung,Manis Jaya,estimated_from_kecamatan,2025,13797,0,13797,5200,0,5600,36,5200,10000
+36.71.02.1006,Kota Tangerang,Jatiuwung,Alam Jaya,estimated_from_kecamatan,2025,13376,0,13376,4700,0,2000,35,4700,6700
+36.71.03.1001,Kota Tangerang,Batuceper,Batuceper,estimated_from_kecamatan,2025,16604,0,16604,6800,0,200,8,6800,21500
+36.71.03.1002,Kota Tangerang,Batuceper,Batu Jaya,estimated_from_kecamatan,2025,12103,0,12103,5000,0,100,6,5000,19700
+36.71.06.1005,Kota Tangerang,Ciledug,Parung Serab,estimated_from_kecamatan,2025,22788,0,22788,7300,0,500,15,7300,2600
+36.71.03.1003,Kota Tangerang,Batuceper,Poris Gaga,estimated_from_kecamatan,2025,21438,0,21438,8900,0,7300,48,8900,6700
+36.71.03.1004,Kota Tangerang,Batuceper,Poris Gaga Baru,estimated_from_kecamatan,2025,0,11529,11529,0,4900,0,0,4900,5800
+36.71.03.1005,Kota Tangerang,Batuceper,Kebon Besar,estimated_from_kecamatan,2025,11854,0,11854,4300,0,3600,33,4300,2400
+36.71.03.1006,Kota Tangerang,Batuceper,Batu Sari,estimated_from_kecamatan,2025,11144,0,11144,4500,0,400,31,4500,15100
+36.71.03.1007,Kota Tangerang,Batuceper,Poris Jaya,estimated_from_kecamatan,2025,13398,0,13398,5300,0,5800,34,5300,14700
+36.71.04.1001,Kota Tangerang,Benda,Belendung,estimated_from_kecamatan,2025,17210,0,17210,7700,0,0,5,7700,3900
+36.71.04.1002,Kota Tangerang,Benda,Jurumudi,estimated_from_kecamatan,2025,16502,0,16502,8300,0,1900,44,8300,2700
+36.71.04.1003,Kota Tangerang,Benda,Benda,estimated_from_kecamatan,2025,15310,0,15310,6900,0,46700,54,6900,19900
+36.71.04.1004,Kota Tangerang,Benda,Pajang,estimated_from_kecamatan,2025,20790,0,20790,7700,0,59600,84,7700,47000
+36.71.04.1005,Kota Tangerang,Benda,Jurumudi Baru,estimated_from_kecamatan,2025,18673,0,18673,9100,0,3400,44,9100,1700
+36.71.05.1001,Kota Tangerang,Cipondoh,Cipondoh,estimated_from_kecamatan,2025,22114,0,22114,11200,0,2500,44,11200,2500
+36.71.05.1002,Kota Tangerang,Cipondoh,Cipondoh Makmur,estimated_from_kecamatan,2025,23923,0,23923,10000,0,4900,49,10000,2800
+36.71.05.1003,Kota Tangerang,Cipondoh,Cipondoh Indah,estimated_from_kecamatan,2025,24251,0,24251,8500,0,6000,46,8500,2700
+36.71.05.1004,Kota Tangerang,Cipondoh,Gondrong,estimated_from_kecamatan,2025,25649,0,25649,11200,0,100,47,11200,3100
+36.71.05.1005,Kota Tangerang,Cipondoh,Kenanga,estimated_from_kecamatan,2025,0,22584,22584,0,9400,1100,6,9400,2600
+36.71.05.1006,Kota Tangerang,Cipondoh,Petir,estimated_from_kecamatan,2025,32898,0,32898,11600,0,8600,59,11600,16700
+36.71.05.1007,Kota Tangerang,Cipondoh,Ketapang,estimated_from_kecamatan,2025,25023,0,25023,9700,0,6800,49,9700,10300
+36.71.05.1008,Kota Tangerang,Cipondoh,Poris Plawad,estimated_from_kecamatan,2025,16449,0,16449,4700,0,3400,37,4700,22500
+36.71.05.1009,Kota Tangerang,Cipondoh,Poris Plawad Utara,estimated_from_kecamatan,2025,22369,0,22369,8200,0,1400,44,8200,2000
+36.71.05.1010,Kota Tangerang,Cipondoh,Poris Plawad Indah,estimated_from_kecamatan,2025,29722,0,29722,12400,0,5800,58,12400,2900
+36.71.06.1001,Kota Tangerang,Ciledug,Paninggilan,estimated_from_kecamatan,2025,22260,0,22260,7700,0,400,44,7700,3400
+36.71.06.1002,Kota Tangerang,Ciledug,Sudimara Barat,estimated_from_kecamatan,2025,20039,0,20039,6900,0,3500,41,6900,2800
+36.71.06.1003,Kota Tangerang,Ciledug,Sudimara Timur,estimated_from_kecamatan,2025,17943,0,17943,8200,0,1100,42,8200,2500
+36.71.06.1004,Kota Tangerang,Ciledug,Tajur,estimated_from_kecamatan,2025,20984,0,20984,8400,0,300,43,8400,2400
+36.71.10.1007,Kota Tangerang,Neglasari,Kedaung Baru,estimated_from_kecamatan,2025,11149,0,11149,4000,0,8500,33,4000,3700
+36.71.07.1008,Kota Tangerang,Karawaci,Sumur Pacing,estimated_from_kecamatan,2025,5624,0,5624,2100,0,0,6,2100,400
+36.71.06.1006,Kota Tangerang,Ciledug,Sudimara Jaya,estimated_from_kecamatan,2025,15858,0,15858,4700,0,900,37,4700,1600
+36.71.06.1007,Kota Tangerang,Ciledug,Sudimara Selatan,estimated_from_kecamatan,2025,16616,0,16616,6300,0,200,38,6300,1700
+36.71.11.1001,Kota Tangerang,Pinang,Pinang,estimated_from_kecamatan,2025,25624,0,25624,10100,0,400,20,10100,2900
+36.71.06.1008,Kota Tangerang,Ciledug,Paninggilan Utara,estimated_from_kecamatan,2025,21144,0,21144,8900,0,400,43,8900,2700
+36.71.07.1001,Kota Tangerang,Karawaci,Karawaci,estimated_from_kecamatan,2025,10472,0,10472,4700,0,1300,15,4700,10600
+36.71.07.1002,Kota Tangerang,Karawaci,Bojong Jaya,estimated_from_kecamatan,2025,10291,0,10291,5100,0,9400,33,5100,7400
+36.71.11.1009,Kota Tangerang,Pinang,Panunggangan,estimated_from_kecamatan,2025,13090,0,13090,4900,0,20800,42,4900,8700
+36.71.07.1003,Kota Tangerang,Karawaci,Karawaci Baru,estimated_from_kecamatan,2025,11764,0,11764,4200,0,3700,33,4200,1500
+36.71.07.1005,Kota Tangerang,Karawaci,Cimone,estimated_from_kecamatan,2025,16469,0,16469,6300,0,700,16,6300,600
+36.71.07.1006,Kota Tangerang,Karawaci,Cimone Jaya,estimated_from_kecamatan,2025,15382,0,15382,5300,0,100,5,5300,6000
+36.71.07.1007,Kota Tangerang,Karawaci,Pabuaran,estimated_from_kecamatan,2025,14910,0,14910,5300,0,1400,37,5300,17500
+36.71.07.1009,Kota Tangerang,Karawaci,Bugel,estimated_from_kecamatan,2025,15099,0,15099,5000,0,2600,36,5000,1700
+36.71.07.1010,Kota Tangerang,Karawaci,Marga Sari,estimated_from_kecamatan,2025,18884,0,18884,8300,0,1300,40,8300,2800
+36.71.07.1011,Kota Tangerang,Karawaci,Pabuaran Tumpeng,estimated_from_kecamatan,2025,10208,0,10208,3300,0,1000,30,3300,9400
+36.71.07.1012,Kota Tangerang,Karawaci,Nambo Jaya,estimated_from_kecamatan,2025,7856,0,7856,4200,0,2200,29,4200,3400
+36.71.07.1013,Kota Tangerang,Karawaci,Gerendeng,estimated_from_kecamatan,2025,13457,0,13457,5200,0,1000,34,5200,7100
+36.71.07.1014,Kota Tangerang,Karawaci,Sukajadi,estimated_from_kecamatan,2025,14060,0,14060,5000,0,1600,9,5000,14700
+36.71.07.1015,Kota Tangerang,Karawaci,Pasar Baru,estimated_from_kecamatan,2025,8068,0,8068,3600,0,5600,26,3600,11600
+36.71.07.1016,Kota Tangerang,Karawaci,Koang Jaya,estimated_from_kecamatan,2025,8604,0,8604,3000,0,2600,28,3000,3200
+36.71.08.1001,Kota Tangerang,Periuk,Periuk,estimated_from_kecamatan,2025,30635,0,30635,10700,0,5100,53,10700,8600
+36.71.08.1002,Kota Tangerang,Periuk,Gembor,estimated_from_kecamatan,2025,29171,0,29171,9900,0,8400,58,9900,6300
+36.71.08.1003,Kota Tangerang,Periuk,Gebang Raya,estimated_from_kecamatan,2025,44219,0,44219,15800,0,12500,69,15800,11700
+36.71.08.1004,Kota Tangerang,Periuk,Sangiang Jaya,estimated_from_kecamatan,2025,27370,0,27370,9200,0,3100,49,9200,11400
+36.71.08.1005,Kota Tangerang,Periuk,Periuk Jaya,estimated_from_kecamatan,2025,16471,0,16471,5600,0,10700,38,5600,14400
+36.71.09.1001,Kota Tangerang,Cibodas,Cibodas,estimated_from_kecamatan,2025,28356,0,28356,13100,0,3800,35,13100,5300
+36.71.09.1002,Kota Tangerang,Cibodas,Cibodas Sari,estimated_from_kecamatan,2025,25766,0,25766,9900,0,7500,51,9900,3600
+36.71.09.1006,Kota Tangerang,Cibodas,Jatiuwung,estimated_from_kecamatan,2025,15465,0,15465,6100,0,4400,37,6100,16500
+36.71.10.1001,Kota Tangerang,Neglasari,Neglasari,estimated_from_kecamatan,2025,16668,0,16668,5900,0,10900,52,5900,30700
+36.71.10.1002,Kota Tangerang,Neglasari,Karang Sari,estimated_from_kecamatan,2025,30152,0,30152,13000,0,4800,51,13000,12300
+36.71.10.1003,Kota Tangerang,Neglasari,Selapajang Jaya,estimated_from_kecamatan,2025,17788,0,17788,6100,0,8400,44,6100,2600
+36.71.10.1004,Kota Tangerang,Neglasari,Kedaung Wetan,estimated_from_kecamatan,2025,20073,0,20073,7700,0,16500,48,7700,4700
+36.71.10.1005,Kota Tangerang,Neglasari,Mekar Sari,estimated_from_kecamatan,2025,15941,0,15941,7200,0,9700,41,7200,7500
+36.71.10.1006,Kota Tangerang,Neglasari,Karang Anyar,estimated_from_kecamatan,2025,17284,0,17284,6400,0,2100,38,6400,9600
+36.71.11.1002,Kota Tangerang,Pinang,Sudimara Pinang,estimated_from_kecamatan,2025,18951,0,18951,8500,0,2300,40,8500,1700
+36.71.11.1003,Kota Tangerang,Pinang,Neroktog,estimated_from_kecamatan,2025,23168,0,23168,10200,0,0,15,10200,3000
+36.71.11.1004,Kota Tangerang,Pinang,Kunciran,estimated_from_kecamatan,2025,17989,0,17989,7200,0,41000,45,7200,36900
+36.71.11.1005,Kota Tangerang,Pinang,Kunciran Indah,estimated_from_kecamatan,2025,26702,0,26702,11800,0,800,4,11800,1900
+36.71.11.1006,Kota Tangerang,Pinang,Kunciran Jaya,estimated_from_kecamatan,2025,10591,0,10591,4100,0,1900,32,4100,800
+36.71.11.1007,Kota Tangerang,Pinang,Cipete,estimated_from_kecamatan,2025,22235,0,22235,9100,0,4900,46,9100,1900
+36.71.11.1008,Kota Tangerang,Pinang,Pakojan,estimated_from_kecamatan,2025,9865,0,9865,3300,0,3700,32,3300,1100
+36.71.11.1010,Kota Tangerang,Pinang,Panunggangan Utara,estimated_from_kecamatan,2025,20391,0,20391,7700,0,32400,45,7700,5300
+36.71.11.1011,Kota Tangerang,Pinang,Panunggangan Timur,estimated_from_kecamatan,2025,6063,0,6063,2900,0,115100,28,2900,45800
+36.71.12.1001,Kota Tangerang,Karang Tengah,Karang Tengah,estimated_from_kecamatan,2025,26916,0,26916,10000,0,10400,51,10000,9700
+36.71.12.1002,Kota Tangerang,Karang Tengah,Karang Mulya,estimated_from_kecamatan,2025,31872,0,31872,12800,0,3500,54,12800,5600
+36.71.12.1003,Kota Tangerang,Karang Tengah,Pondok Bahar,estimated_from_kecamatan,2025,11190,0,11190,3200,0,3100,19,3200,1200
+36.71.12.1004,Kota Tangerang,Karang Tengah,Pondok Pucung,estimated_from_kecamatan,2025,11517,0,11517,4200,0,400,27,4200,1300
+36.71.12.1005,Kota Tangerang,Karang Tengah,Karang Timur,estimated_from_kecamatan,2025,18485,0,18485,6100,0,4200,43,6100,2600
+36.71.12.1006,Kota Tangerang,Karang Tengah,Padurenan,estimated_from_kecamatan,2025,12984,0,12984,4000,0,300,33,4000,900
+36.71.12.1007,Kota Tangerang,Karang Tengah,Parung Jaya,estimated_from_kecamatan,2025,10604,0,10604,4400,0,1200,31,4400,1500
+36.71.13.1001,Kota Tangerang,Larangan,Larangan Utara,estimated_from_kecamatan,2025,24102,0,24102,9500,0,2200,45,9500,1400
+36.71.13.1002,Kota Tangerang,Larangan,Larangan Selatan,estimated_from_kecamatan,2025,20936,0,20936,9800,0,3200,43,9800,2100
+36.71.13.1003,Kota Tangerang,Larangan,Cipadu,estimated_from_kecamatan,2025,15348,0,15348,6300,0,300,7,6300,1700
+36.71.13.1004,Kota Tangerang,Larangan,Kreo,estimated_from_kecamatan,2025,20230,0,20230,7100,0,300,42,7100,3200
+36.71.13.1005,Kota Tangerang,Larangan,Larangan Indah,estimated_from_kecamatan,2025,15294,0,15294,7800,0,1700,40,7800,2500
+36.71.13.1006,Kota Tangerang,Larangan,Gaga,estimated_from_kecamatan,2025,19076,0,19076,8000,0,100,26,8000,1500
+36.71.13.1007,Kota Tangerang,Larangan,Cipadu Jaya,estimated_from_kecamatan,2025,26158,0,26158,9600,0,800,48,9600,2600
+36.71.13.1008,Kota Tangerang,Larangan,Kreo Selatan,estimated_from_kecamatan,2025,16472,0,16472,6300,0,6200,41,6300,2900
+36.74.07.1006,Kota Tangerang Selatan,Setu,Bakti Jaya,estimated_from_kecamatan,2025,18253,0,18253,7100,0,1400,45,7100,1400
+36.74.07.1005,Kota Tangerang Selatan,Setu,Babakan,estimated_from_kecamatan,2025,15431,0,15431,5900,0,3700,44,5900,1900
+36.74.06.1004,Kota Tangerang Selatan,Pamulang,Pondok Cabe Udik,estimated_from_kecamatan,2025,35258,0,35258,13700,0,10900,76,13700,13200
+36.74.07.1001,Kota Tangerang Selatan,Setu,Muncul,estimated_from_kecamatan,2025,13372,0,13372,4000,0,6800,44,4000,6900
+36.74.06.1008,Kota Tangerang Selatan,Pamulang,Pamulang Timur,estimated_from_kecamatan,2025,36057,0,36057,12200,0,1000,61,12200,4500
+36.74.07.1003,Kota Tangerang Selatan,Setu,Keranggan,estimated_from_kecamatan,2025,6855,0,6855,3000,0,2700,28,3000,3400
+36.74.06.1001,Kota Tangerang Selatan,Pamulang,Pamulang Barat,estimated_from_kecamatan,2025,59176,0,59176,20300,0,19900,94,20300,16800
+36.74.01.1006,Kota Tangerang Selatan,Serpong,Buaran,estimated_from_kecamatan,2025,19728,0,19728,7000,0,13600,57,7000,11300
+36.74.07.1002,Kota Tangerang Selatan,Setu,Setu,estimated_from_kecamatan,2025,20565,0,20565,9100,0,34700,76,9100,22100
+36.74.06.1005,Kota Tangerang Selatan,Pamulang,Pondok Cabe Ilir,estimated_from_kecamatan,2025,39882,0,39882,17100,0,7900,76,17100,12600
+36.74.07.1004,Kota Tangerang Selatan,Setu,Kademangan,estimated_from_kecamatan,2025,23657,0,23657,9400,0,3300,51,9400,1300
+36.74.06.1003,Kota Tangerang Selatan,Pamulang,Pondok Benda,estimated_from_kecamatan,2025,54651,0,54651,21300,0,12300,93,21300,5900
+36.74.06.1002,Kota Tangerang Selatan,Pamulang,Benda Baru,estimated_from_kecamatan,2025,40945,0,40945,17300,0,11800,86,17300,8900
+36.74.06.1007,Kota Tangerang Selatan,Pamulang,Bambu Apus,estimated_from_kecamatan,2025,37053,0,37053,13700,0,700,21,13700,3600
+36.74.04.1007,Kota Tangerang Selatan,Ciputat,Cipayung,estimated_from_kecamatan,2025,26232,0,26232,11000,0,8400,61,11000,9500
+36.74.01.1009,Kota Tangerang Selatan,Serpong,Serpong,estimated_from_kecamatan,2025,16023,0,16023,4300,0,5300,49,4300,1600
+36.74.05.1003,Kota Tangerang Selatan,Ciputat Timur,Pisangan,estimated_from_kecamatan,2025,43990,0,43990,15100,0,13500,95,15100,9400
+36.74.06.1006,Kota Tangerang Selatan,Pamulang,Kedaung,estimated_from_kecamatan,2025,38264,0,38264,14700,0,3300,60,14700,5200
+36.74.01.1001,Kota Tangerang Selatan,Serpong,Ciater,estimated_from_kecamatan,2025,28627,0,28627,9300,0,5500,70,9300,6300
+36.74.04.1002,Kota Tangerang Selatan,Ciputat,Serua,estimated_from_kecamatan,2025,46538,0,46538,18000,0,7000,75,18000,10000
+36.74.04.1003,Kota Tangerang Selatan,Ciputat,Ciputat,estimated_from_kecamatan,2025,22341,0,22341,8100,0,10400,61,8100,8000
+36.74.01.1003,Kota Tangerang Selatan,Serpong,Rawa Mekar Jaya,estimated_from_kecamatan,2025,20049,0,20049,8100,0,11200,61,8100,2800
+36.74.01.1002,Kota Tangerang Selatan,Serpong,Rawabuntu,estimated_from_kecamatan,2025,30657,0,30657,11800,0,15900,76,11800,14100
+36.74.01.1008,Kota Tangerang Selatan,Serpong,Cilenggang,estimated_from_kecamatan,2025,12789,0,12789,4200,0,7700,45,4200,17700
+36.74.05.1001,Kota Tangerang Selatan,Ciputat Timur,Cempaka Putih,estimated_from_kecamatan,2025,22287,0,22287,9500,0,12900,67,9500,9000
+36.74.05.1004,Kota Tangerang Selatan,Ciputat Timur,Cireundeu,estimated_from_kecamatan,2025,28276,0,28276,12600,0,12400,77,12600,15700
+36.74.04.1006,Kota Tangerang Selatan,Ciputat,Jombang,estimated_from_kecamatan,2025,43865,0,43865,15400,0,2400,75,15400,3900
+36.74.01.1007,Kota Tangerang Selatan,Serpong,Lengkong Gudang Timur,estimated_from_kecamatan,2025,16089,0,16089,5900,0,12500,57,5900,4300
+36.74.01.1004,Kota Tangerang Selatan,Serpong,Lengkong Gudang,estimated_from_kecamatan,2025,15560,0,15560,4600,0,39800,56,4600,35900
+36.74.05.1005,Kota Tangerang Selatan,Ciputat Timur,Rempoa,estimated_from_kecamatan,2025,26502,0,26502,10400,0,12200,69,10400,3900
+36.74.01.1005,Kota Tangerang Selatan,Serpong,Lengkong Wetan,estimated_from_kecamatan,2025,15457,0,15457,5300,0,28800,51,5300,8300
+36.74.05.1002,Kota Tangerang Selatan,Ciputat Timur,Pondok Ranji,estimated_from_kecamatan,2025,31455,0,31455,12900,0,3000,67,12900,5500
+36.74.03.1002,Kota Tangerang Selatan,Pondok Aren,Pondok Pucung,estimated_from_kecamatan,2025,34858,0,34858,13000,0,6000,68,13000,9200
+36.74.05.1006,Kota Tangerang Selatan,Ciputat Timur,Rengas,estimated_from_kecamatan,2025,24012,0,24012,9800,0,6700,63,9800,2000
+36.74.02.1007,Kota Tangerang Selatan,Serpong Utara,Lengkong Karya,estimated_from_kecamatan,2025,9769,0,9769,4500,0,14000,46,4500,9400
+36.74.03.1004,Kota Tangerang Selatan,Pondok Aren,Pondok Jaya,estimated_from_kecamatan,2025,15855,0,15855,6300,0,35400,50,6300,64000
+36.74.03.1008,Kota Tangerang Selatan,Pondok Aren,Parigi,estimated_from_kecamatan,2025,31613,0,31613,12200,0,13400,62,12200,21900
+36.74.03.1009,Kota Tangerang Selatan,Pondok Aren,Parigi Baru,estimated_from_kecamatan,2025,16203,0,16203,6000,0,3300,50,6000,2200
+36.74.02.1006,Kota Tangerang Selatan,Serpong Utara,Jelupang,estimated_from_kecamatan,2025,36427,0,36427,15000,0,2100,64,15000,5900
+36.74.02.1004,Kota Tangerang Selatan,Serpong Utara,Pondok Jagung,estimated_from_kecamatan,2025,19634,0,19634,5400,0,12000,51,5400,800
+36.74.03.1011,Kota Tangerang Selatan,Pondok Aren,Jurangmangu Timur,estimated_from_kecamatan,2025,29803,0,29803,10300,0,6400,62,10300,14300
+36.74.03.1010,Kota Tangerang Selatan,Pondok Aren,Jurangmangu Barat,estimated_from_kecamatan,2025,38250,0,38250,14700,0,700,62,14700,3100
+36.74.03.1005,Kota Tangerang Selatan,Pondok Aren,Pondok Aren,estimated_from_kecamatan,2025,31654,0,31654,10900,0,2700,61,10900,2500
+36.74.03.1003,Kota Tangerang Selatan,Pondok Aren,Pondok Karya,estimated_from_kecamatan,2025,28651,0,28651,10300,0,6700,61,10300,4100
+36.74.03.1001,Kota Tangerang Selatan,Pondok Aren,Pondok Betung,estimated_from_kecamatan,2025,28916,0,28916,9700,0,1200,53,9700,2500
+36.74.03.1007,Kota Tangerang Selatan,Pondok Aren,Pondok Kacang Timur,estimated_from_kecamatan,2025,33806,0,33806,12500,0,300,59,12500,2500
+36.74.02.1005,Kota Tangerang Selatan,Serpong Utara,Pondok Jagung Timur,estimated_from_kecamatan,2025,20852,0,20852,7800,0,1900,49,7800,4200
+36.74.03.1006,Kota Tangerang Selatan,Pondok Aren,Pondok Kacang Barat,estimated_from_kecamatan,2025,23666,0,23666,8500,0,100,49,8500,2300
+36.74.02.1001,Kota Tangerang Selatan,Serpong Utara,Pakulonan,estimated_from_kecamatan,2025,13470,0,13470,5600,0,34100,45,5600,37800
+36.74.02.1003,Kota Tangerang Selatan,Serpong Utara,Pakujaya,estimated_from_kecamatan,2025,29108,0,29108,11600,0,8200,59,11600,2400
+36.74.02.1002,Kota Tangerang Selatan,Serpong Utara,Pakualam,estimated_from_kecamatan,2025,17045,0,17045,8100,0,20600,52,8100,29000
+36.03.23.2009,Tangerang,Cisauk,Dangdang,estimated_from_kecamatan,2025,6224,0,6224,2100,0,1900,39,2100,100
+36.03.23.2005,Tangerang,Cisauk,Suradita,estimated_from_kecamatan,2025,28561,0,28561,11100,0,6100,79,11100,3400
+36.03.23.2003,Tangerang,Cisauk,Mekar Wangi,estimated_from_kecamatan,2025,5342,0,5342,2500,0,700,24,2500,500
+36.03.04.2008,Tangerang,Jambe,Mekarsari,estimated_from_kecamatan,2025,3292,0,3292,1500,0,200,24,1500,200
+36.03.22.2012,Tangerang,Pagedangan,Karang Tengah,estimated_from_kecamatan,2025,3586,0,3586,300,0,500,20,300,100
+36.03.04.2001,Tangerang,Jambe,Sukamanah,estimated_from_kecamatan,2025,5177,0,5177,2600,0,100,24,2600,200
+36.03.04.2005,Tangerang,Jambe,Daru,estimated_from_kecamatan,2025,9342,0,9342,3400,0,600,39,3400,500
+36.03.04.2004,Tangerang,Jambe,Taban,estimated_from_kecamatan,2025,7547,0,7547,2500,0,300,31,2500,400
+36.03.23.1001,Tangerang,Cisauk,Cisauk,estimated_from_kecamatan,2025,16898,0,16898,6400,0,3000,60,6400,1200
+36.03.23.2011,Tangerang,Cisauk,Cibogo,estimated_from_kecamatan,2025,20615,0,20615,7100,0,3000,54,7100,7500
+36.03.31.2003,Tangerang,Solear,Cikasungka,estimated_from_kecamatan,2025,31141,0,31141,13500,0,5800,89,13500,1200
+36.03.22.2011,Tangerang,Pagedangan,Malang Nengah,estimated_from_kecamatan,2025,7635,0,7635,3700,0,500,30,3700,400
+36.03.20.2012,Tangerang,Legok,Cirarab,estimated_from_kecamatan,2025,12216,0,12216,5100,0,3400,37,5100,3000
+36.03.20.2008,Tangerang,Legok,Bojongkamal,estimated_from_kecamatan,2025,9072,0,9072,4100,0,7400,36,4100,7500
+36.03.20.2005,Tangerang,Legok,Ciangir,estimated_from_kecamatan,2025,5077,0,5077,2300,0,500,24,2300,300
+36.03.20.2004,Tangerang,Legok,Babat,estimated_from_kecamatan,2025,11002,0,11002,4600,0,1900,34,4600,700
+36.03.04.2003,Tangerang,Jambe,Tipar Raya,estimated_from_kecamatan,2025,5978,0,5978,2200,0,100,26,2200,300
+36.03.20.2002,Tangerang,Legok,Caringin,estimated_from_kecamatan,2025,14173,0,14173,4100,0,1700,48,4100,700
+36.03.04.2009,Tangerang,Jambe,Ancol Pasir,estimated_from_kecamatan,2025,2758,0,2758,1300,0,300,17,1300,400
+36.03.04.2007,Tangerang,Jambe,Ranca Buaya,estimated_from_kecamatan,2025,4824,0,4824,1300,0,0,22,1300,300
+36.03.22.2007,Tangerang,Pagedangan,Situ Gadung,estimated_from_kecamatan,2025,8152,0,8152,2700,0,3800,39,2700,3700
+36.03.22.2008,Tangerang,Pagedangan,Jatake,estimated_from_kecamatan,2025,6926,0,6926,2400,0,1000,36,2400,400
+36.03.22.2010,Tangerang,Pagedangan,Kadu Sirung,estimated_from_kecamatan,2025,6292,0,6292,2400,0,2200,36,2400,300
+36.03.31.2002,Tangerang,Solear,Cikuya,estimated_from_kecamatan,2025,18287,0,18287,7800,0,2300,56,7800,1000
+36.03.31.2004,Tangerang,Solear,Cireundeu,estimated_from_kecamatan,2025,6543,0,6543,1600,0,200,26,1600,400
+36.03.31.2005,Tangerang,Solear,Cikareo,estimated_from_kecamatan,2025,7188,0,7188,2100,0,0,31,2100,900
+36.03.19.2001,Tangerang,Panongan,Ranca Iyuh,estimated_from_kecamatan,2025,15350,0,15350,4800,0,2500,37,4800,700
+36.03.04.2002,Tangerang,Jambe,Jambe,estimated_from_kecamatan,2025,8979,0,8979,3000,0,100,32,3000,400
+36.03.20.2010,Tangerang,Legok,Kemuning,estimated_from_kecamatan,2025,8568,0,8568,3400,0,100,30,3400,400
+36.03.20.2007,Tangerang,Legok,Palasari,estimated_from_kecamatan,2025,9148,0,9148,3500,0,700,40,3500,800
+36.03.23.2006,Tangerang,Cisauk,Sampora,estimated_from_kecamatan,2025,23652,0,23652,9700,0,45900,83,9700,64600
+36.03.04.2010,Tangerang,Jambe,Pasir Barat,estimated_from_kecamatan,2025,5223,0,5223,1700,0,200,22,1700,200
+36.03.20.1011,Tangerang,Legok,Babakan,estimated_from_kecamatan,2025,15464,0,15464,6100,0,900,45,6100,1600
+36.03.22.2002,Tangerang,Pagedangan,Cicalengka,estimated_from_kecamatan,2025,6220,0,6220,1800,0,3400,33,1800,2700
+36.03.04.2006,Tangerang,Jambe,Kutruk,estimated_from_kecamatan,2025,7748,0,7748,3300,0,0,27,3300,400
+36.03.22.2003,Tangerang,Pagedangan,Pagedangan,estimated_from_kecamatan,2025,21654,0,21654,9000,0,43800,78,9000,45400
+36.03.19.2006,Tangerang,Panongan,Mekar Jaya,estimated_from_kecamatan,2025,8811,0,8811,2100,0,1300,28,2100,800
+36.03.31.2006,Tangerang,Solear,Pasanggrahan,estimated_from_kecamatan,2025,23040,0,23040,7900,0,1600,52,7900,1100
+36.03.31.2001,Tangerang,Solear,Solear,estimated_from_kecamatan,2025,13131,0,13131,6400,0,500,40,6400,400
+36.03.19.2004,Tangerang,Panongan,Ranca Kalapa,estimated_from_kecamatan,2025,8481,0,8481,3100,0,1100,30,3100,600
+36.03.22.2006,Tangerang,Pagedangan,Lengkong Kulon,estimated_from_kecamatan,2025,15656,0,15656,5000,0,35700,72,5000,33400
+36.03.20.2006,Tangerang,Legok,Legok,estimated_from_kecamatan,2025,17235,0,17235,7200,0,5100,48,7200,1500
+36.03.19.2005,Tangerang,Panongan,Serdang Kulon,estimated_from_kecamatan,2025,10608,0,10608,4400,0,200,32,4400,500
+36.03.22.2005,Tangerang,Pagedangan,Cijantra,estimated_from_kecamatan,2025,7807,0,7807,2100,0,3200,43,2100,3100
+36.03.19.2008,Tangerang,Panongan,Panongan,estimated_from_kecamatan,2025,16894,0,16894,6700,0,1700,56,6700,900
+36.03.20.2003,Tangerang,Legok,Serdang Wetan,estimated_from_kecamatan,2025,17657,0,17657,7300,0,11400,51,7300,23400
+36.03.20.2009,Tangerang,Legok,Rancagong,estimated_from_kecamatan,2025,14490,0,14490,5200,0,3400,38,5200,35500
+36.03.05.2004,Tangerang,Cisoka,Sukatani,estimated_from_kecamatan,2025,14351,0,14351,5400,0,100,37,5400,800
+36.03.05.2001,Tangerang,Cisoka,Cisoka,estimated_from_kecamatan,2025,14335,0,14335,3800,0,800,38,3800,300
+36.03.05.2017,Tangerang,Cisoka,Jeungjing,estimated_from_kecamatan,2025,11831,0,11831,5200,0,1100,34,5200,200
+36.03.31.2007,Tangerang,Solear,Munjul,estimated_from_kecamatan,2025,15093,0,15093,5300,0,700,46,5300,1200
+36.03.17.2002,Tangerang,Curug,Curug Wetan,estimated_from_kecamatan,2025,15960,0,15960,6400,0,1900,43,6400,900
+36.03.05.2008,Tangerang,Cisoka,Cempaka,estimated_from_kecamatan,2025,12632,0,12632,5700,0,400,36,5700,300
+36.03.17.1001,Tangerang,Curug,Curug Kulon,estimated_from_kecamatan,2025,21694,0,21694,8400,0,2800,47,8400,1800
+36.03.05.2014,Tangerang,Cisoka,Karang Harja,estimated_from_kecamatan,2025,6440,0,6440,1900,0,200,27,1900,200
+36.03.22.1004,Tangerang,Pagedangan,Medang,estimated_from_kecamatan,2025,28564,0,28564,12400,0,17900,76,12400,18300
+36.03.17.1005,Tangerang,Curug,Sukabakti,estimated_from_kecamatan,2025,19535,0,19535,8200,0,2900,53,8200,700
+36.03.22.2009,Tangerang,Pagedangan,Cihuni,estimated_from_kecamatan,2025,11518,0,11518,5100,0,11800,50,5100,15700
+36.03.05.2002,Tangerang,Cisoka,Caringin,estimated_from_kecamatan,2025,10840,0,10840,4600,0,0,33,4600,900
+36.03.28.1005,Tangerang,Kelapa Dua,Bojong Nangka,estimated_from_kecamatan,2025,33497,0,33497,10900,0,8900,76,10900,4400
+36.03.28.2006,Tangerang,Kelapa Dua,Curug Sangereng,estimated_from_kecamatan,2025,31170,0,31170,13800,0,40500,72,13800,27200
+36.03.19.2007,Tangerang,Panongan,Ciakar,estimated_from_kecamatan,2025,41429,0,41429,16200,0,11700,92,16200,5300
+36.03.19.1002,Tangerang,Panongan,Mekar Bakti,estimated_from_kecamatan,2025,25920,0,25920,9600,0,3500,62,9600,2300
+36.03.19.2003,Tangerang,Panongan,Peusar,estimated_from_kecamatan,2025,13612,0,13612,5900,0,16800,36,5900,12600
+36.03.05.2007,Tangerang,Cisoka,Cibugel,estimated_from_kecamatan,2025,10541,0,10541,3800,0,1100,33,3800,1200
+36.03.05.2006,Tangerang,Cisoka,Bojong Loa,estimated_from_kecamatan,2025,7536,0,7536,2700,0,100,29,2700,600
+36.03.17.2010,Tangerang,Curug,Cukanggalih,estimated_from_kecamatan,2025,23407,0,23407,8500,0,2100,53,8500,3200
+36.03.05.2003,Tangerang,Cisoka,Selapajang,estimated_from_kecamatan,2025,11823,0,11823,4500,0,400,34,4500,700
+36.03.18.2007,Tangerang,Cikupa,Cikupa,estimated_from_kecamatan,2025,19256,0,19256,7500,0,2500,43,7500,2800
+36.03.05.2009,Tangerang,Cisoka,Carenang,estimated_from_kecamatan,2025,7190,0,7190,3100,0,300,30,3100,100
+36.03.28.1004,Tangerang,Kelapa Dua,Pakulonan Barat,estimated_from_kecamatan,2025,26785,0,26785,9900,0,39300,64,9900,41000
+36.03.18.1001,Tangerang,Cikupa,Sukamulya,estimated_from_kecamatan,2025,23943,0,23943,10600,0,4600,50,10600,5300
+36.03.28.1001,Tangerang,Kelapa Dua,Kelapa Dua,estimated_from_kecamatan,2025,33850,0,33850,14900,0,24400,86,14900,26300
+36.03.18.2006,Tangerang,Cikupa,Dukuh,estimated_from_kecamatan,2025,21217,0,21217,8400,0,3900,46,8400,4700
+36.03.18.2009,Tangerang,Cikupa,Bitung Jaya,estimated_from_kecamatan,2025,13293,0,13293,5300,0,29700,47,5300,3200
+36.03.17.1006,Tangerang,Curug,Binong,estimated_from_kecamatan,2025,52802,0,52802,18700,0,11700,88,18700,9300
+36.03.18.2013,Tangerang,Cikupa,Budi Mulya,estimated_from_kecamatan,2025,6372,0,6372,2400,0,3900,25,2400,1200
+36.03.28.1003,Tangerang,Kelapa Dua,Bencongan Indah,estimated_from_kecamatan,2025,23448,0,23448,8400,0,26100,61,8400,17600
+36.03.01.2003,Tangerang,Balaraja,Cangkudu,estimated_from_kecamatan,2025,17027,0,17027,7600,0,4800,47,7600,5700
+36.03.02.2004,Tangerang,Jayanti,Pasir Muncang,estimated_from_kecamatan,2025,10601,0,10601,4200,0,500,33,4200,3300
+36.03.17.2003,Tangerang,Curug,Kadu,estimated_from_kecamatan,2025,33264,0,33264,12600,0,10500,61,12600,13500
+36.03.18.2014,Tangerang,Cikupa,Bojong,estimated_from_kecamatan,2025,15437,0,15437,6500,0,7100,38,6500,2800
+36.03.01.2011,Tangerang,Balaraja,Gembong,estimated_from_kecamatan,2025,12932,0,12932,4900,0,7900,35,4900,5300
+36.03.02.2006,Tangerang,Jayanti,Jayanti,estimated_from_kecamatan,2025,12553,0,12553,4400,0,100,33,4400,700
+36.03.28.1002,Tangerang,Kelapa Dua,Bencongan,estimated_from_kecamatan,2025,28106,0,28106,11800,0,5700,58,11800,4800
+36.03.18.2008,Tangerang,Cikupa,Sukanagara,estimated_from_kecamatan,2025,9217,0,9217,4200,0,2900,29,4200,1300
+36.03.01.2016,Tangerang,Balaraja,Sentul Jaya,estimated_from_kecamatan,2025,10375,0,10375,3800,0,4300,30,3800,1800
+36.03.02.2005,Tangerang,Jayanti,Sumur Bandung,estimated_from_kecamatan,2025,11981,0,11981,4500,0,600,34,4500,1900
+36.03.01.2010,Tangerang,Balaraja,Sentul,estimated_from_kecamatan,2025,15552,0,15552,5600,0,3500,38,5600,1200
+36.03.17.2004,Tangerang,Curug,Kadu Jaya,estimated_from_kecamatan,2025,22010,0,22010,6700,0,18200,49,6700,12700
+36.03.18.2010,Tangerang,Cikupa,Pasir Gadung,estimated_from_kecamatan,2025,14566,0,14566,5300,0,900,40,5300,8300
+36.03.18.2005,Tangerang,Cikupa,Talagasari,estimated_from_kecamatan,2025,15430,0,15430,5600,0,2600,38,5600,4300
+36.03.02.2008,Tangerang,Jayanti,Cikande,estimated_from_kecamatan,2025,13254,0,13254,5200,0,200,41,5200,1000
+36.03.18.2004,Tangerang,Cikupa,Talaga,estimated_from_kecamatan,2025,20066,0,20066,8900,0,7000,50,8900,9200
+36.03.18.2011,Tangerang,Cikupa,Sukadamai,estimated_from_kecamatan,2025,17792,0,17792,7800,0,4500,41,7800,4300
+36.03.01.2013,Tangerang,Balaraja,Sukamurni,estimated_from_kecamatan,2025,6996,0,6996,2700,0,3000,27,2700,2500
+36.03.18.2002,Tangerang,Cikupa,Cibadak,estimated_from_kecamatan,2025,10160,0,10160,3400,0,500,31,3400,3500
+36.03.18.2012,Tangerang,Cikupa,Pasir Jaya,estimated_from_kecamatan,2025,14648,0,14648,4600,0,5400,38,4600,7900
+36.03.02.2001,Tangerang,Jayanti,Pangkat,estimated_from_kecamatan,2025,6458,0,6458,2600,0,0,26,2600,100
+36.03.02.2007,Tangerang,Jayanti,Dangdeur,estimated_from_kecamatan,2025,7596,0,7596,3700,0,700,37,3700,100
+36.03.02.2009,Tangerang,Jayanti,Pasir Gintung,estimated_from_kecamatan,2025,6161,0,6161,2800,0,400,24,2800,100
+36.03.18.1003,Tangerang,Cikupa,Bunder,estimated_from_kecamatan,2025,16240,0,16240,6000,0,20100,58,6000,17500
+36.03.01.1001,Tangerang,Balaraja,Balaraja,estimated_from_kecamatan,2025,13450,0,13450,3900,0,9000,46,3900,6600
+36.03.01.2005,Tangerang,Balaraja,Talagasari,estimated_from_kecamatan,2025,12301,0,12301,4900,0,3900,37,4900,2600
+36.03.02.2002,Tangerang,Jayanti,Pabuaran,estimated_from_kecamatan,2025,6294,0,6294,2400,0,200,32,2400,400
+36.03.01.2009,Tangerang,Balaraja,Tobat,estimated_from_kecamatan,2025,21115,0,21115,10000,0,9100,58,10000,10400
+36.03.12.2015,Tangerang,Pasar Kemis,Suka Asih,estimated_from_kecamatan,2025,17609,0,17609,6100,0,6700,44,6100,9000
+36.03.06.2013,Tangerang,Kresek,Koper,estimated_from_kecamatan,2025,4909,0,4909,1900,0,100,34,1900,400
+36.03.29.2003,Tangerang,Sindang Jaya,Sukaharja,estimated_from_kecamatan,2025,18925,0,18925,8300,0,1100,48,8300,1500
+36.03.29.2002,Tangerang,Sindang Jaya,Wanakerta,estimated_from_kecamatan,2025,29715,0,29715,11500,0,13300,66,11500,7300
+36.03.01.2014,Tangerang,Balaraja,Saga,estimated_from_kecamatan,2025,22880,0,22880,7900,0,1600,50,7900,2100
+36.03.27.2005,Tangerang,Sukamulya,Parahu,estimated_from_kecamatan,2025,18423,0,18423,7700,0,800,48,7700,2000
+36.03.27.2008,Tangerang,Sukamulya,Kubang,estimated_from_kecamatan,2025,5664,0,5664,3100,0,100,28,3100,200
+36.03.06.2001,Tangerang,Kresek,Pasir Ampo,estimated_from_kecamatan,2025,6293,0,6293,2300,0,500,35,2300,700
+36.03.12.1012,Tangerang,Pasar Kemis,Kuta Jaya,estimated_from_kecamatan,2025,35134,0,35134,13500,0,12600,64,13500,18000
+36.03.12.2001,Tangerang,Pasar Kemis,Pasar Kemis,estimated_from_kecamatan,2025,18446,0,18446,9100,0,3200,41,9100,2900
+36.03.12.2013,Tangerang,Pasar Kemis,Gelam Jaya,estimated_from_kecamatan,2025,49222,0,49222,18000,0,6500,77,18000,18300
+36.03.27.2006,Tangerang,Sukamulya,Merak,estimated_from_kecamatan,2025,12696,0,12696,5600,0,600,34,5600,1200
+36.03.29.2006,Tangerang,Sindang Jaya,Sindangsono,estimated_from_kecamatan,2025,11626,0,11626,4800,0,900,41,4800,300
+36.03.12.1014,Tangerang,Pasar Kemis,Kuta Baru,estimated_from_kecamatan,2025,23099,0,23099,9900,0,4200,49,9900,2500
+36.03.06.2015,Tangerang,Kresek,Patrasana,estimated_from_kecamatan,2025,10473,0,10473,4500,0,1100,49,4500,800
+36.03.29.2004,Tangerang,Sindang Jaya,Sindangasih,estimated_from_kecamatan,2025,9872,0,9872,4500,0,500,38,4500,300
+36.03.12.2008,Tangerang,Pasar Kemis,Sukamantri,estimated_from_kecamatan,2025,36032,0,36032,14500,0,11700,70,14500,26300
+36.03.27.2002,Tangerang,Sukamulya,Sukamulya,estimated_from_kecamatan,2025,10060,0,10060,4500,0,0,36,4500,900
+36.03.27.2007,Tangerang,Sukamulya,Bunar,estimated_from_kecamatan,2025,8273,0,8273,3000,0,600,41,3000,600
+36.03.29.2005,Tangerang,Sindang Jaya,Sindangpanon,estimated_from_kecamatan,2025,16635,0,16635,6700,0,1500,48,6700,2100
+36.03.27.2003,Tangerang,Sukamulya,Kaliasin,estimated_from_kecamatan,2025,10577,0,10577,4900,0,700,43,4900,400
+36.03.27.2001,Tangerang,Sukamulya,Benda,estimated_from_kecamatan,2025,7232,0,7232,2600,0,0,30,2600,500
+36.03.29.2007,Tangerang,Sindang Jaya,Badak Anom,estimated_from_kecamatan,2025,5691,0,5691,2400,0,400,27,2400,300
+36.03.16.2002,Tangerang,Sepatan,Karet,estimated_from_kecamatan,2025,27016,0,27016,9300,0,10900,52,9300,9600
+36.03.29.2001,Tangerang,Sindang Jaya,Sindang Jaya,estimated_from_kecamatan,2025,11790,0,11790,4400,0,0,36,4400,1400
+36.03.06.2009,Tangerang,Kresek,Renged,estimated_from_kecamatan,2025,9256,0,9256,3200,0,500,34,3200,500
+36.03.12.1010,Tangerang,Pasar Kemis,Kutabumi,estimated_from_kecamatan,2025,36004,0,36004,13900,0,4900,61,13900,6700
+36.03.06.2014,Tangerang,Kresek,Jengkol,estimated_from_kecamatan,2025,7744,0,7744,3400,0,100,38,3400,500
+36.03.12.1005,Tangerang,Pasar Kemis,Sindangsari,estimated_from_kecamatan,2025,35810,0,35810,13500,0,6100,68,13500,6200
+36.03.12.2011,Tangerang,Pasar Kemis,Pangadegan,estimated_from_kecamatan,2025,15983,0,15983,6200,0,900,45,6200,3500
+36.03.11.1010,Tangerang,Rajeg,Sukatani,estimated_from_kecamatan,2025,28754,0,28754,10900,0,900,58,10900,3700
+36.03.27.2004,Tangerang,Sukamulya,Buniayu,estimated_from_kecamatan,2025,6017,0,6017,2400,0,900,31,2400,500
+36.03.06.2011,Tangerang,Kresek,Talok,estimated_from_kecamatan,2025,6446,0,6446,3500,0,700,31,3500,0
+36.03.16.2012,Tangerang,Sepatan,Mekar Jaya,estimated_from_kecamatan,2025,12692,0,12692,4200,0,13300,37,4200,10000
+36.03.30.2002,Tangerang,Sepatan Timur,Lebak Wangi,estimated_from_kecamatan,2025,36734,0,36734,13600,0,1700,59,13600,5200
+36.03.11.2013,Tangerang,Rajeg,Daon,estimated_from_kecamatan,2025,13736,0,13736,6600,0,100,39,6600,2100
+36.03.11.2005,Tangerang,Rajeg,Jambu Karya,estimated_from_kecamatan,2025,7114,0,7114,3600,0,100,31,3600,700
+36.03.06.2007,Tangerang,Kresek,Kemuning,estimated_from_kecamatan,2025,12152,0,12152,5100,0,1200,41,5100,300
+36.03.30.2001,Tangerang,Sepatan Timur,Kedaung Barat,estimated_from_kecamatan,2025,16463,0,16463,7500,0,1500,43,7500,3200
+36.03.16.2008,Tangerang,Sepatan,Pondok Jaya,estimated_from_kecamatan,2025,16206,0,16206,4800,0,500,41,4800,1600
+36.03.06.2018,Tangerang,Kresek,Kresek,estimated_from_kecamatan,2025,10516,0,10516,4000,0,800,40,4000,600
+36.03.11.2014,Tangerang,Rajeg,Mekarsari,estimated_from_kecamatan,2025,43176,0,43176,18300,0,2600,68,18300,4100
+36.03.16.1001,Tangerang,Sepatan,Sepatan,estimated_from_kecamatan,2025,17391,0,17391,6300,0,5200,52,6300,7400
+36.03.09.2005,Tangerang,Kemiri,Ranca Labuh,estimated_from_kecamatan,2025,7165,0,7165,3400,0,500,29,3400,500
+36.03.06.2003,Tangerang,Kresek,Rancailat,estimated_from_kecamatan,2025,8870,0,8870,4000,0,300,29,4000,400
+36.03.11.2011,Tangerang,Rajeg,Sukasari,estimated_from_kecamatan,2025,12940,0,12940,4600,0,600,38,4600,1100
+36.03.30.2008,Tangerang,Sepatan Timur,Tanah Merah,estimated_from_kecamatan,2025,10796,0,10796,4400,0,400,37,4400,900
+36.03.14.2005,Tangerang,Kosambi,Rawa Rengas,estimated_from_kecamatan,2025,9078,0,9078,3500,0,5200,32,3500,800
+36.03.30.2003,Tangerang,Sepatan Timur,Jati Mulya,estimated_from_kecamatan,2025,9633,0,9633,3700,0,100,33,3700,400
+36.03.11.2002,Tangerang,Rajeg,Rajeg Mulya,estimated_from_kecamatan,2025,17132,0,17132,7100,0,1100,47,7100,1500
+36.03.16.2011,Tangerang,Sepatan,Pisangan Jaya,estimated_from_kecamatan,2025,19654,0,19654,7500,0,2600,44,7500,1300
+36.03.09.2007,Tangerang,Kemiri,Legok Suka Maju,estimated_from_kecamatan,2025,4849,0,4849,2200,0,0,23,2200,100
+36.03.16.2015,Tangerang,Sepatan,Sarakan,estimated_from_kecamatan,2025,10353,0,10353,3200,0,0,33,3200,400
+36.03.30.2006,Tangerang,Sepatan Timur,Kampung Kelor,estimated_from_kecamatan,2025,11488,0,11488,5000,0,400,35,5000,1000
+36.03.32.2008,Tangerang,Gunung Kaler,Kandawati,estimated_from_kecamatan,2025,6000,0,6000,1900,0,100,29,1900,300
+36.03.13.2002,Tangerang,Teluknaga,Bojong Renged,estimated_from_kecamatan,2025,16976,0,16976,8100,0,400,42,8100,1200
+36.03.11.2001,Tangerang,Rajeg,Rajeg,estimated_from_kecamatan,2025,16165,0,16165,6400,0,500,48,6400,1300
+36.03.32.2009,Tangerang,Gunung Kaler,Cibetok,estimated_from_kecamatan,2025,4988,0,4988,1300,0,300,26,1300,400
+36.03.14.2006,Tangerang,Kosambi,Rawa Burung,estimated_from_kecamatan,2025,7473,0,7473,2500,0,300,30,2500,700
+36.03.30.2007,Tangerang,Sepatan Timur,Pondok Kelor,estimated_from_kecamatan,2025,8602,0,8602,2600,0,200,30,2600,300
+36.03.30.2005,Tangerang,Sepatan Timur,Gempol Sari,estimated_from_kecamatan,2025,13051,0,13051,4500,0,1000,35,4500,1200
+36.03.11.2007,Tangerang,Rajeg,Sukamanah,estimated_from_kecamatan,2025,26297,0,26297,11400,0,2100,59,11400,2200
+36.03.30.2004,Tangerang,Sepatan Timur,Sangiang,estimated_from_kecamatan,2025,8341,0,8341,3200,0,500,35,3200,600
+36.03.32.2007,Tangerang,Gunung Kaler,Tamiang,estimated_from_kecamatan,2025,11080,0,11080,4000,0,1200,43,4000,900
+36.03.32.2006,Tangerang,Gunung Kaler,Onyam,estimated_from_kecamatan,2025,7176,0,7176,2100,0,800,35,2100,400
+36.03.33.2008,Tangerang,Mekar Baru,Gandaria,estimated_from_kecamatan,2025,6361,0,6361,2700,0,0,28,2700,300
+36.03.07.2017,Tangerang,Kronjo,Cirumpak,estimated_from_kecamatan,2025,4283,0,4283,1300,0,200,20,1300,400
+36.03.11.2006,Tangerang,Rajeg,Lembangsari,estimated_from_kecamatan,2025,10348,0,10348,4600,0,900,37,4600,600
+36.03.11.2008,Tangerang,Rajeg,Tanjakan,estimated_from_kecamatan,2025,10557,0,10557,4900,0,1100,34,4900,200
+36.03.07.2015,Tangerang,Kronjo,Blukbuk,estimated_from_kecamatan,2025,6101,0,6101,2500,0,400,26,2500,400
+36.03.07.2006,Tangerang,Kronjo,Pasir,estimated_from_kecamatan,2025,5279,0,5279,2900,0,300,22,2900,300
+36.03.09.2004,Tangerang,Kemiri,Kemiri,estimated_from_kecamatan,2025,13828,0,13828,5800,0,300,40,5800,1600
+36.03.16.2003,Tangerang,Sepatan,Kayu Agung,estimated_from_kecamatan,2025,11710,0,11710,4400,0,800,34,4400,1100
+36.03.13.2004,Tangerang,Teluknaga,Keboncau,estimated_from_kecamatan,2025,19996,0,19996,7900,0,0,42,7900,900
+36.03.11.2009,Tangerang,Rajeg,Tanjakan Mekar,estimated_from_kecamatan,2025,8082,0,8082,2600,0,0,29,2600,200
+36.03.14.2009,Tangerang,Kosambi,Jati Mulya,estimated_from_kecamatan,2025,12025,0,12025,4200,0,12000,39,4200,8500
+36.03.10.2006,Tangerang,Sukadiri,Kosambi,estimated_from_kecamatan,2025,11545,0,11545,4400,0,300,37,4400,800
+36.03.16.2004,Tangerang,Sepatan,Kayu Bongkok,estimated_from_kecamatan,2025,6357,0,6357,1700,0,200,25,1700,700
+36.03.07.2013,Tangerang,Kronjo,Bakung,estimated_from_kecamatan,2025,9685,0,9685,2700,0,500,32,2700,600
+36.03.32.2003,Tangerang,Gunung Kaler,Rancagede,estimated_from_kecamatan,2025,7694,0,7694,2800,0,1000,31,2800,500
+36.03.11.2003,Tangerang,Rajeg,Pangarengan,estimated_from_kecamatan,2025,11566,0,11566,4400,0,0,36,4400,1500
+36.03.10.2008,Tangerang,Sukadiri,Gintung,estimated_from_kecamatan,2025,11588,0,11588,4300,0,4100,49,4300,600
+36.03.07.2002,Tangerang,Kronjo,Pagenjahan,estimated_from_kecamatan,2025,6551,0,6551,2300,0,100,26,2300,300
+36.03.13.2001,Tangerang,Teluknaga,Teluknaga,estimated_from_kecamatan,2025,19569,0,19569,8500,0,500,45,8500,17400
+36.03.13.2003,Tangerang,Teluknaga,Babakan Asem,estimated_from_kecamatan,2025,19051,0,19051,7800,0,0,42,7800,2100
+36.03.11.2012,Tangerang,Rajeg,Ranca Bango,estimated_from_kecamatan,2025,6505,0,6505,3400,0,200,26,3400,400
+36.03.15.2003,Tangerang,Pakuhaji,Bonisari,estimated_from_kecamatan,2025,8141,0,8141,2400,0,200,29,2400,800
+36.03.08.2010,Tangerang,Mauk,Jatiwaringin,estimated_from_kecamatan,2025,11888,0,11888,4300,0,0,15,4300,800
+36.03.09.2006,Tangerang,Kemiri,Klebet,estimated_from_kecamatan,2025,12772,0,12772,4900,0,2600,41,4900,2200
+36.03.14.1010,Tangerang,Kosambi,Dadap,estimated_from_kecamatan,2025,31302,0,31302,13200,0,35200,66,13200,16400
+36.03.14.2007,Tangerang,Kosambi,Cengklong,estimated_from_kecamatan,2025,11385,0,11385,3400,0,14000,38,3400,6600
+36.03.14.2008,Tangerang,Kosambi,Belimbing,estimated_from_kecamatan,2025,12365,0,12365,4900,0,7600,34,4900,4100
+36.03.08.2007,Tangerang,Mauk,Kedung Dalem,estimated_from_kecamatan,2025,10658,0,10658,4000,0,0,32,4000,800
+36.03.33.2007,Tangerang,Mekar Baru,Kosambi Dalam,estimated_from_kecamatan,2025,8988,0,8988,3500,0,1200,36,3500,200
+36.03.32.2005,Tangerang,Gunung Kaler,Cipaeh,estimated_from_kecamatan,2025,5454,0,5454,2400,0,300,34,2400,200
+36.03.15.2012,Tangerang,Pakuhaji,Kiara Payung,estimated_from_kecamatan,2025,19138,0,19138,7400,0,1000,47,7400,1500
+36.03.15.2004,Tangerang,Pakuhaji,Rawa Boni,estimated_from_kecamatan,2025,8838,0,8838,3800,0,300,35,3800,500
+36.03.15.2014,Tangerang,Pakuhaji,Gaga,estimated_from_kecamatan,2025,15181,0,15181,4200,0,600,45,4200,1100
+36.03.10.2007,Tangerang,Sukadiri,Mekar Kondang,estimated_from_kecamatan,2025,7084,0,7084,3100,0,100,32,3100,500
+36.03.32.2001,Tangerang,Gunung Kaler,Gunung Kaler,estimated_from_kecamatan,2025,6433,0,6433,1700,0,900,33,1700,600
+36.03.14.2002,Tangerang,Kosambi,Kosambi Timur,estimated_from_kecamatan,2025,12824,0,12824,5500,0,24900,40,5500,13400
+36.03.15.1001,Tangerang,Pakuhaji,Pakuhaji,estimated_from_kecamatan,2025,12345,0,12345,4800,0,300,37,4800,1000
+36.03.10.2002,Tangerang,Sukadiri,Buaran Jati,estimated_from_kecamatan,2025,10616,0,10616,3900,0,0,30,3900,500
+36.03.08.2006,Tangerang,Mauk,Gunung Sari,estimated_from_kecamatan,2025,4588,0,4588,2500,0,0,21,2500,100
+36.03.13.2006,Tangerang,Teluknaga,Kmp Melayu Tim,estimated_from_kecamatan,2025,22505,0,22505,9700,0,300,49,9700,1700
+36.03.32.2002,Tangerang,Gunung Kaler,Sidoko,estimated_from_kecamatan,2025,7119,0,7119,3000,0,200,30,3000,300
+36.03.07.2010,Tangerang,Kronjo,Pasilian,estimated_from_kecamatan,2025,9812,0,9812,3400,0,300,31,3400,300
+36.03.13.2007,Tangerang,Teluknaga,Kmp Melayu Brt,estimated_from_kecamatan,2025,12807,0,12807,4700,0,1000,35,4700,1100
+36.03.33.2005,Tangerang,Mekar Baru,Klutuk,estimated_from_kecamatan,2025,2818,0,2818,800,0,0,18,800,0
+36.03.08.2005,Tangerang,Mauk,Sasak,estimated_from_kecamatan,2025,7897,0,7897,3000,0,0,29,3000,400
+36.03.07.2009,Tangerang,Kronjo,Pagedangan Udik,estimated_from_kecamatan,2025,6701,0,6701,2800,0,400,28,2800,500
+36.03.15.2002,Tangerang,Pakuhaji,Paku Alam,estimated_from_kecamatan,2025,8199,0,8199,3100,0,300,30,3100,900
+36.03.08.2003,Tangerang,Mauk,Tegal Kunir Kidul,estimated_from_kecamatan,2025,9226,0,9226,4200,0,0,28,4200,500
+36.03.32.2004,Tangerang,Gunung Kaler,Kedung,estimated_from_kecamatan,2025,5190,0,5190,2300,0,400,29,2300,500
+36.03.15.2006,Tangerang,Pakuhaji,Buaran Bambu,estimated_from_kecamatan,2025,7670,0,7670,2600,0,300,35,2600,8600
+36.03.33.2001,Tangerang,Mekar Baru,Mekar Baru,estimated_from_kecamatan,2025,4507,0,4507,1400,0,200,22,1400,200
+36.03.08.2011,Tangerang,Mauk,Banyu Asih,estimated_from_kecamatan,2025,4662,0,4662,1200,0,0,21,1200,0
+36.03.14.2004,Tangerang,Kosambi,Salembaran Jati,estimated_from_kecamatan,2025,3981,0,3981,1800,0,20800,32,1800,9200
+36.03.15.2013,Tangerang,Pakuhaji,Laksana,estimated_from_kecamatan,2025,8701,0,8701,4000,0,5800,32,4000,16600
+36.03.14.1001,Tangerang,Kosambi,Kosambi Barat,estimated_from_kecamatan,2025,4042,0,4042,1000,0,21300,27,1000,4100
+36.03.08.1002,Tangerang,Mauk,Mauk Timur,estimated_from_kecamatan,2025,10603,0,10603,4000,0,100,33,4000,400
+36.03.33.2004,Tangerang,Mekar Baru,Waliwis,estimated_from_kecamatan,2025,4826,0,4826,1200,0,400,25,1200,100
+36.03.33.2003,Tangerang,Mekar Baru,Cijeruk,estimated_from_kecamatan,2025,6843,0,6843,2500,0,600,30,2500,500
+36.03.13.2013,Tangerang,Teluknaga,Kampung Besar,estimated_from_kecamatan,2025,14224,0,14224,4900,0,100,38,4900,1300
+36.03.15.2005,Tangerang,Pakuhaji,Buaran Mangga,estimated_from_kecamatan,2025,4375,0,4375,2200,0,0,20,2200,400
+36.03.09.2001,Tangerang,Kemiri,Patramanggala,estimated_from_kecamatan,2025,4903,0,4903,2300,0,300,25,2300,500
+36.03.08.2001,Tangerang,Mauk,Mauk Barat,estimated_from_kecamatan,2025,6361,0,6361,2600,0,300,30,2600,300
+36.03.09.2002,Tangerang,Kemiri,Karang Anyar,estimated_from_kecamatan,2025,4726,0,4726,900,0,700,24,900,600
+36.03.08.2004,Tangerang,Mauk,Tegal Kunir Lor,estimated_from_kecamatan,2025,5047,0,5047,1900,0,100,22,1900,400
+36.03.14.1003,Tangerang,Kosambi,Salembaran Jaya,estimated_from_kecamatan,2025,15038,0,15038,5200,0,33000,63,5200,29900
+36.03.10.2003,Tangerang,Sukadiri,Rawa Kidang,estimated_from_kecamatan,2025,5753,0,5753,2700,0,500,28,2700,400
+36.03.15.2007,Tangerang,Pakuhaji,Kalibaru,estimated_from_kecamatan,2025,12080,0,12080,5500,0,1800,39,5500,7700
+36.03.10.2001,Tangerang,Sukadiri,Sukadiri,estimated_from_kecamatan,2025,6626,0,6626,2300,0,0,27,2300,300
+36.03.10.2004,Tangerang,Sukadiri,Pekayon,estimated_from_kecamatan,2025,10368,0,10368,3800,0,1000,37,3800,500
+36.03.33.2002,Tangerang,Mekar Baru,Kedaung,estimated_from_kecamatan,2025,6683,0,6683,3400,0,100,30,3400,200
+36.03.13.2005,Tangerang,Teluknaga,Pangkalan,estimated_from_kecamatan,2025,18755,0,18755,6400,0,3600,40,6400,1700
+36.03.07.2008,Tangerang,Kronjo,Pagedangan Ilir,estimated_from_kecamatan,2025,6836,0,6836,2800,0,300,31,2800,500
+36.03.13.2011,Tangerang,Teluknaga,Tegal Angus,estimated_from_kecamatan,2025,12537,0,12537,5500,0,900,39,5500,1400
+36.03.13.2009,Tangerang,Teluknaga,Lemo,estimated_from_kecamatan,2025,6250,0,6250,1900,0,5200,28,1900,9200
+36.03.08.2012,Tangerang,Mauk,Ketapang,estimated_from_kecamatan,2025,6408,0,6408,3200,0,200,27,3200,300
+36.03.09.2003,Tangerang,Kemiri,Lontar,estimated_from_kecamatan,2025,7125,0,7125,2600,0,1700,36,2600,5200
+36.03.15.2011,Tangerang,Pakuhaji,Surya Bahari,estimated_from_kecamatan,2025,7961,0,7961,3100,0,300,31,3100,1200
+36.03.15.2010,Tangerang,Pakuhaji,Sukawali,estimated_from_kecamatan,2025,7863,0,7863,3000,0,0,29,3000,900
+36.03.07.2001,Tangerang,Kronjo,Kronjo,estimated_from_kecamatan,2025,9072,0,9072,3200,0,600,33,3200,500
+36.03.33.2006,Tangerang,Mekar Baru,Jenggot,estimated_from_kecamatan,2025,7398,0,7398,2900,0,200,34,2900,0
+36.03.15.2009,Tangerang,Pakuhaji,Kramat,estimated_from_kecamatan,2025,9497,0,9497,4600,0,200,45,4600,5100
+36.03.10.2005,Tangerang,Sukadiri,Karang Serang,estimated_from_kecamatan,2025,7776,0,7776,1700,0,5000,34,1700,3300
+36.03.07.2007,Tangerang,Kronjo,Muncung,estimated_from_kecamatan,2025,6131,0,6131,2000,0,300,29,2000,300
+36.03.13.2008,Tangerang,Teluknaga,Muara,estimated_from_kecamatan,2025,3321,0,3321,1600,0,200,23,1600,600
+36.03.13.2010,Tangerang,Teluknaga,Tanjung Pasir,estimated_from_kecamatan,2025,5918,0,5918,2500,0,3400,34,2500,1200
+36.03.08.2008,Tangerang,Mauk,Marga Mulya,estimated_from_kecamatan,2025,8078,0,8078,1800,0,100,31,1800,700
+36.03.15.2008,Tangerang,Pakuhaji,Kohod,estimated_from_kecamatan,2025,7252,0,7252,3300,0,200,41,3300,200
+36.03.08.2009,Tangerang,Mauk,Tanjung Anom,estimated_from_kecamatan,2025,11467,0,11467,5200,0,600,41,5200,2100
+36.03.13.2012,Tangerang,Teluknaga,Tanjung Burung,estimated_from_kecamatan,2025,9147,0,9147,4100,0,10300,38,4100,6500
+36.03.03.2008,Tangerang,Tigaraksa,Pematang,estimated_from_kecamatan,2025,9865,0,9865,4000,0,1200,40,4000,800
+36.03.03.2004,Tangerang,Tigaraksa,Pasir Nangka,estimated_from_kecamatan,2025,24878,0,24878,9500,0,8000,68,9500,3800
+36.03.03.2002,Tangerang,Tigaraksa,Pasir Bolang,estimated_from_kecamatan,2025,12901,0,12901,4400,0,6400,43,4400,7800
+36.03.03.2011,Tangerang,Tigaraksa,Cileles,estimated_from_kecamatan,2025,9666,0,9666,2400,0,3500,43,2400,2700
+36.03.03.2014,Tangerang,Tigaraksa,Bantar Panjang,estimated_from_kecamatan,2025,8607,0,8607,3200,0,800,43,3200,1000
+36.03.03.2013,Tangerang,Tigaraksa,Tapos,estimated_from_kecamatan,2025,9551,0,9551,3800,0,1300,34,3800,3600
+36.03.03.2012,Tangerang,Tigaraksa,Sodong,estimated_from_kecamatan,2025,13648,0,13648,4900,0,1000,41,4900,1000
+36.03.03.2010,Tangerang,Tigaraksa,Margasari,estimated_from_kecamatan,2025,12930,0,12930,5100,0,1400,38,5100,3700
+36.03.03.1001,Tangerang,Tigaraksa,Tigaraksa,estimated_from_kecamatan,2025,20899,0,20899,8800,0,4400,55,8800,3100
+36.03.03.1007,Tangerang,Tigaraksa,Kadu Agung,estimated_from_kecamatan,2025,14744,0,14744,5800,0,19000,48,5800,6300
+36.03.03.2005,Tangerang,Tigaraksa,Pete,estimated_from_kecamatan,2025,11962,0,11962,4900,0,1300,39,4900,600
+36.03.03.2006,Tangerang,Tigaraksa,Tegalsari,estimated_from_kecamatan,2025,4335,0,4335,2000,0,100,21,2000,400
+36.03.03.2003,Tangerang,Tigaraksa,Matagara,estimated_from_kecamatan,2025,11496,0,11496,4600,0,1000,32,4600,4100
+36.03.03.2009,Tangerang,Tigaraksa,Cisereh,estimated_from_kecamatan,2025,10560,0,10560,5900,0,1600,32,5900,1600
+36.74.04.1005,Kota Tangerang Selatan,Ciputat,Serua Indah,estimated_from_kecamatan,2025,26858,0,26858,10200,0,600,53,10200,2200
+36.74.04.1004,Kota Tangerang Selatan,Ciputat,Sawah,estimated_from_kecamatan,2025,34417,0,34417,14500,0,1600,61,14500,3500
+36.74.04.1001,Kota Tangerang Selatan,Ciputat,Sawah Baru,estimated_from_kecamatan,2025,35367,0,35367,15400,0,1200,63,15400,11400
+31.73.04.1007,Kota Jakarta Barat,Tambora,Angke,observed_kelurahan,2025,33094,0,33094,11100,0,2400,62,11100,2800
+31.75.04.1005,Kota Jakarta Timur,Kramatjati,Balekambang,observed_kelurahan,2025,37701,0,37701,12400,0,2700,81,12400,2000
+31.75.03.1003,Kota Jakarta Timur,Jatinegara,Bali Mester,observed_kelurahan,2025,10712,0,10712,4100,0,6100,40,4100,400
+31.75.10.1006,Kota Jakarta Timur,Cipayung,Bambu Apus,observed_kelurahan,2025,33955,0,33955,12000,0,5300,79,12000,4200
+31.74.03.1002,Kota Jakarta Selatan,Mampang Prapatan,Bangka,observed_kelurahan,2025,24766,0,24766,8500,0,28000,77,8500,12200
+31.75.05.1002,Kota Jakarta Timur,Pasar Rebo,Baru,observed_kelurahan,2025,29786,0,29786,11800,0,3100,68,11800,2100
+31.75.04.1004,Kota Jakarta Timur,Kramatjati,Batu Ampar,observed_kelurahan,2025,61033,0,61033,22800,0,5500,101,22800,6900
+31.71.07.1002,Kota Jakarta Pusat,Tanah Abang,Bendungan Hilir,observed_kelurahan,2025,23842,0,23842,8700,0,74800,69,8700,34200
+31.75.03.1002,Kota Jakarta Timur,Jatinegara,Bidara Cina,observed_kelurahan,2025,42299,0,42299,17400,0,7300,93,17400,2100
+31.74.10.1002,Kota Jakarta Selatan,Pesanggrahan,Bintaro,observed_kelurahan,2025,65029,0,65029,23200,0,25900,116,23200,27400
+31.74.01.1005,Kota Jakarta Selatan,Tebet,Bukit Duri,observed_kelurahan,2025,39498,0,39498,15800,0,7200,79,15800,8500
+31.71.04.1006,Kota Jakarta Pusat,Senen,Bungur,observed_kelurahan,2025,20393,0,20393,7300,0,3800,52,7300,6800
+31.75.06.1004,Kota Jakarta Timur,Cakung,Cakung Timur,observed_kelurahan,2025,77183,0,77183,27900,0,30700,128,27900,30300
+31.75.04.1007,Kota Jakarta Timur,Kramatjati,Cawang,observed_kelurahan,2025,37876,0,37876,14900,0,23600,85,14900,40800
+31.75.10.1008,Kota Jakarta Timur,Cipayung,Ceger,observed_kelurahan,2025,23560,0,23560,9200,0,5100,59,9200,9200
+31.71.03.1006,Kota Jakarta Pusat,Kemayoran,Cempaka Baru,observed_kelurahan,2025,38233,0,38233,13800,0,9200,75,13800,22100
+31.71.05.1002,Kota Jakarta Pusat,Cempaka Putih,Cempaka Putih Barat,observed_kelurahan,2025,41522,0,41522,13500,0,11800,82,13500,32100
+31.71.05.1001,Kota Jakarta Pusat,Cempaka Putih,Cempaka Putih Timur,observed_kelurahan,2025,26833,0,26833,12600,0,43600,81,12600,83400
+31.73.01.1001,Kota Jakarta Barat,Cengkareng,Cengkareng Barat,observed_kelurahan,2025,82123,0,82123,30700,0,20900,117,30700,19600
+31.73.01.1006,Kota Jakarta Barat,Cengkareng,Cengkareng Timur,observed_kelurahan,2025,100909,0,100909,36400,0,37100,149,36400,12700
+31.75.09.1002,Kota Jakarta Timur,Ciracas,Cibubur,observed_kelurahan,2025,83850,0,83850,34400,0,15200,136,34400,3900
+31.71.01.1002,Kota Jakarta Pusat,Gambir,Cideng,observed_kelurahan,2025,16423,0,16423,7700,0,23700,55,7700,46300
+31.74.09.1003,Kota Jakarta Selatan,Jagakarsa,Ciganjur,observed_kelurahan,2025,51218,0,51218,23300,0,9500,95,23300,11800
+31.75.05.1003,Kota Jakarta Timur,Pasar Rebo,Cijantung,observed_kelurahan,2025,50845,0,50845,17400,0,7300,94,17400,1000
+31.71.06.1003,Kota Jakarta Pusat,Menteng,Cikini,observed_kelurahan,2025,9130,0,9130,3300,0,12500,34,3300,6100
+31.74.08.1006,Kota Jakarta Selatan,Pancoran,Cikoko,observed_kelurahan,2025,12077,0,12077,4000,0,23600,40,4000,12000
+31.74.06.1001,Kota Jakarta Selatan,Cilandak,Cilandak Barat,observed_kelurahan,2025,59064,0,59064,28200,0,95000,143,28200,146500
+31.74.04.1003,Kota Jakarta Selatan,Pasar Minggu,Cilandak Timur,observed_kelurahan,2025,29220,0,29220,12300,0,46000,95,12300,157100
+31.75.10.1002,Kota Jakarta Timur,Cipayung,Cilangkap,observed_kelurahan,2025,36996,0,36996,15700,0,4900,81,15700,2400
+31.75.04.1006,Kota Jakarta Timur,Kramatjati,Cililitan,observed_kelurahan,2025,49602,0,49602,17000,0,9500,86,17000,30700
+31.75.10.1001,Kota Jakarta Timur,Cipayung,Cipayung,observed_kelurahan,2025,33819,0,33819,13300,0,4000,83,13300,3800
+31.74.09.1006,Kota Jakarta Selatan,Jagakarsa,Cipedak,observed_kelurahan,2025,52333,0,52333,20000,0,15400,101,20000,14000
+31.74.06.1005,Kota Jakarta Selatan,Cilandak,Cipete Selatan,observed_kelurahan,2025,30939,0,30939,12200,0,16700,86,12200,23000
+31.74.07.1010,Kota Jakarta Selatan,Kebayoran Baru,Cipete Utara,observed_kelurahan,2025,37907,0,37907,14800,0,14800,79,14800,15300
+31.75.02.1003,Kota Jakarta Timur,Pulogadung,Cipinang,observed_kelurahan,2025,45392,0,45392,18700,0,2100,79,18700,9000
+31.75.03.1007,Kota Jakarta Timur,Jatinegara,Cipinang Besar Selatan,observed_kelurahan,2025,43854,0,43854,16500,0,8300,81,16500,5500
+31.75.03.1008,Kota Jakarta Timur,Jatinegara,Cipinang Besar Utara,observed_kelurahan,2025,56036,0,56036,24000,0,2000,82,24000,4100
+31.75.03.1005,Kota Jakarta Timur,Jatinegara,Cipinang Cempedak,observed_kelurahan,2025,37683,0,37683,13800,0,18300,77,13800,8000
+31.75.08.1005,Kota Jakarta Timur,Makasar,Cipinang Melayu,observed_kelurahan,2025,51488,0,51488,19700,0,5800,107,19700,2100
+31.75.03.1006,Kota Jakarta Timur,Jatinegara,Cipinang Muara,observed_kelurahan,2025,66511,0,66511,27100,0,4700,108,27100,2900
+31.74.05.1003,Kota Jakarta Selatan,Kebayoran Lama,Cipulir,observed_kelurahan,2025,48479,0,48479,18700,0,13400,81,18700,8800
+31.75.09.1001,Kota Jakarta Timur,Ciracas,Ciracas,observed_kelurahan,2025,80786,0,80786,27800,0,12000,128,27800,4300
+31.75.04.1003,Kota Jakarta Timur,Kramatjati,Dukuh,observed_kelurahan,2025,30853,0,30853,11300,0,2400,64,11300,14700
+31.75.07.1001,Kota Jakarta Timur,Duren Sawit,Duren Sawit,observed_kelurahan,2025,75853,0,75853,29900,0,9900,110,29900,7100
+31.74.08.1004,Kota Jakarta Selatan,Pancoran,Duren Tiga,observed_kelurahan,2025,32542,0,32542,11500,0,18500,80,11500,23100
+31.73.05.1005,Kota Jakarta Barat,Kebon Jeruk,Duri Kepa,observed_kelurahan,2025,71496,0,71496,27100,0,15900,112,27100,25800
+31.73.01.1002,Kota Jakarta Barat,Cengkareng,Duri Kosambi,observed_kelurahan,2025,101612,0,101612,38600,0,17600,148,38600,21400
+31.71.01.1006,Kota Jakarta Pusat,Gambir,Duri Pulo,observed_kelurahan,2025,21682,0,21682,8300,0,5600,52,8300,25800
+31.73.04.1011,Kota Jakarta Barat,Tambora,Duri Selatan,observed_kelurahan,2025,16308,0,16308,7100,0,800,44,7100,1700
+31.73.04.1003,Kota Jakarta Barat,Tambora,Duri Utara,observed_kelurahan,2025,22056,0,22056,9100,0,600,50,9100,1200
+31.71.08.1003,Kota Jakarta Pusat,Johar Baru,Galur,observed_kelurahan,2025,20825,0,20825,7500,0,2800,50,7500,6300
+31.71.01.1001,Kota Jakarta Pusat,Gambir,Gambir,observed_kelurahan,2025,2712,0,2712,1300,0,103100,49,1300,39000
+31.74.06.1004,Kota Jakarta Selatan,Cilandak,Gandaria Selatan,observed_kelurahan,2025,25863,0,25863,10900,0,15400,65,10900,53400
+31.74.07.1009,Kota Jakarta Selatan,Kebayoran Baru,Gandaria Utara,observed_kelurahan,2025,46658,0,46658,19000,0,14600,88,19000,31300
+31.75.05.1001,Kota Jakarta Timur,Pasar Rebo,Gedong,observed_kelurahan,2025,43533,0,43533,17500,0,8500,83,17500,29400
+31.71.07.1001,Kota Jakarta Pusat,Tanah Abang,Gelora,observed_kelurahan,2025,3422,0,3422,1700,0,124200,58,1700,82300
+31.73.03.1007,Kota Jakarta Barat,Taman Sari,Glodok,observed_kelurahan,2025,8383,0,8383,3300,0,6200,32,3300,1800
+31.71.06.1004,Kota Jakarta Pusat,Menteng,Gondangdia,observed_kelurahan,2025,4471,0,4471,3000,0,60200,48,3000,39100
+31.73.02.1001,Kota Jakarta Barat,Grogol Petamburan,Grogol,observed_kelurahan,2025,19128,0,19128,6600,0,7000,51,6600,15100
+31.74.05.1005,Kota Jakarta Selatan,Kebayoran Lama,Grogol Selatan,observed_kelurahan,2025,52837,0,52837,20800,0,19000,89,20800,33400
+31.74.05.1004,Kota Jakarta Selatan,Kebayoran Lama,Grogol Utara,observed_kelurahan,2025,49406,0,49406,17700,0,26500,100,17700,51000
+31.74.02.1007,Kota Jakarta Selatan,Setiabudi,Guntur,observed_kelurahan,2025,4260,0,4260,1200,0,16000,28,1200,4800
+31.74.07.1002,Kota Jakarta Selatan,Kebayoran Baru,Gunung,observed_kelurahan,2025,10090,0,10090,5000,0,21200,53,5000,22200
+31.71.03.1005,Kota Jakarta Pusat,Kemayoran,Gunung Sahari Selatan,observed_kelurahan,2025,21372,0,21372,10200,0,40600,65,10200,73500
+31.71.02.1004,Kota Jakarta Pusat,Sawah Besar,Gunung Sahari Utara,observed_kelurahan,2025,18876,0,18876,8100,0,14900,53,8100,22500
+31.75.08.1004,Kota Jakarta Timur,Makasar,Halim Perdana Kusuma,observed_kelurahan,2025,33374,0,33374,14300,0,12600,109,14300,7600
+31.71.03.1003,Kota Jakarta Pusat,Kemayoran,Harapan Mulia,observed_kelurahan,2025,26577,0,26577,11200,0,5100,56,11200,10600
+31.74.09.1001,Kota Jakarta Selatan,Jagakarsa,Jagakarsa,observed_kelurahan,2025,82135,0,82135,32200,0,21400,142,32200,18100
+31.75.02.1007,Kota Jakarta Timur,Pulogadung,Jati,observed_kelurahan,2025,38062,0,38062,16500,0,5100,78,16500,2700
+31.74.04.1002,Kota Jakarta Selatan,Pasar Minggu,Jati Padang,observed_kelurahan,2025,43714,0,43714,19400,0,22000,86,19400,17400
+31.75.02.1004,Kota Jakarta Timur,Pulogadung,Jatinegara Kaum,observed_kelurahan,2025,28968,0,28968,11200,0,4000,61,11200,1600
+31.73.07.1004,Kota Jakarta Barat,Pal Merah,Jatipulo,observed_kelurahan,2025,33952,0,33952,12100,0,2400,65,12100,3200
+31.73.02.1004,Kota Jakarta Barat,Grogol Petamburan,Jelambar,observed_kelurahan,2025,33743,0,33743,15600,0,9200,83,15600,30600
+31.73.02.1006,Kota Jakarta Barat,Grogol Petamburan,Jelambar Baru,observed_kelurahan,2025,44543,0,44543,18400,0,8800,79,18400,16100
+31.73.04.1006,Kota Jakarta Barat,Tambora,Jembatan Besi,observed_kelurahan,2025,34832,0,34832,11500,0,5300,62,11500,1800
+31.73.04.1008,Kota Jakarta Barat,Tambora,Jembatan Lima,observed_kelurahan,2025,24009,0,24009,10000,0,1200,52,10000,1500
+31.73.08.1005,Kota Jakarta Barat,Kembangan,Joglo,observed_kelurahan,2025,51421,0,51421,21400,0,7200,101,21400,8100
+31.71.08.1001,Kota Jakarta Pusat,Johar Baru,Johar Baru,observed_kelurahan,2025,41405,0,41405,19400,0,11400,76,19400,21200
+31.73.04.1002,Kota Jakarta Barat,Tambora,Kali Anyar,observed_kelurahan,2025,27224,0,27224,9500,0,500,51,9500,4500
+31.74.08.1002,Kota Jakarta Selatan,Pancoran,Kalibata,observed_kelurahan,2025,50587,0,50587,17500,0,17200,91,17500,15100
+31.73.06.1001,Kota Jakarta Barat,Kalideres,Kalideres,observed_kelurahan,2025,91551,0,91551,36100,0,26800,129,36100,27500
+31.75.05.1004,Kota Jakarta Timur,Pasar Rebo,Kalisari,observed_kelurahan,2025,55185,0,55185,19400,0,5200,96,19400,2200
+31.73.06.1004,Kota Jakarta Barat,Kalideres,Kamal,observed_kelurahan,2025,72071,0,72071,24600,0,5800,114,24600,13500
+31.71.07.1007,Kota Jakarta Pusat,Tanah Abang,Kampung Bali,observed_kelurahan,2025,12005,0,12005,4600,0,18900,41,4600,17800
+31.75.03.1001,Kota Jakarta Timur,Jatinegara,Kampung Melayu,observed_kelurahan,2025,31374,0,31374,11600,0,2000,60,11600,3600
+31.71.08.1002,Kota Jakarta Pusat,Johar Baru,Kampung Rawa,observed_kelurahan,2025,24877,0,24877,8700,0,2000,52,8700,4500
+31.73.01.1005,Kota Jakarta Barat,Cengkareng,Kapuk,observed_kelurahan,2025,169666,0,169666,61300,0,14500,170,61300,10900
+31.71.02.1002,Kota Jakarta Pusat,Sawah Besar,Karang Anyar,observed_kelurahan,2025,29241,0,29241,12200,0,5800,60,12200,12600
+31.74.02.1004,Kota Jakarta Selatan,Setiabudi,Karet,observed_kelurahan,2025,10798,0,10798,4800,0,97500,47,4800,9600
+31.74.02.1003,Kota Jakarta Selatan,Setiabudi,Karet Kuningan,observed_kelurahan,2025,19038,0,19038,8900,0,115800,61,8900,17300
+31.74.02.1002,Kota Jakarta Selatan,Setiabudi,Karet Semanggi,observed_kelurahan,2025,3334,0,3334,1500,0,62900,33,1500,50800
+31.71.07.1003,Kota Jakarta Pusat,Tanah Abang,Karet Tengsin,observed_kelurahan,2025,22166,0,22166,8300,0,126800,61,8300,21500
+31.71.02.1003,Kota Jakarta Pusat,Sawah Besar,Kartini,observed_kelurahan,2025,24927,0,24927,8700,0,5700,54,8700,5300
+31.75.01.1003,Kota Jakarta Timur,Matraman,Kayu Manis,observed_kelurahan,2025,29256,0,29256,11100,0,400,58,11100,1400
+31.75.02.1006,Kota Jakarta Timur,Pulogadung,Kayu Putih,observed_kelurahan,2025,47835,0,47835,17400,0,14700,98,17400,7100
+31.73.03.1006,Kota Jakarta Barat,Taman Sari,Keagungan,observed_kelurahan,2025,20409,0,20409,7700,0,700,49,7700,1500
+31.74.04.1007,Kota Jakarta Selatan,Pasar Minggu,Kebagusan,observed_kelurahan,2025,56485,0,56485,22800,0,49700,93,22800,22600
+31.74.05.1006,Kota Jakarta Selatan,Kebayoran Lama,Kebayoran Lama Selatan,observed_kelurahan,2025,48083,0,48083,19200,0,17200,89,19200,61300
+31.74.05.1001,Kota Jakarta Selatan,Kebayoran Lama,Kebayoran Lama Utara,observed_kelurahan,2025,50293,0,50293,22400,0,41200,89,22400,49500
+31.74.01.1004,Kota Jakarta Selatan,Tebet,Kebon Baru,observed_kelurahan,2025,41098,0,41098,16100,0,9100,80,16100,9200
+31.73.05.1001,Kota Jakarta Barat,Kebon Jeruk,Kebon Jeruk,observed_kelurahan,2025,68917,0,68917,26800,0,14000,113,26800,9100
+31.71.07.1006,Kota Jakarta Pusat,Tanah Abang,Kebon Kacang,observed_kelurahan,2025,24735,0,24735,12200,0,7900,57,12200,7400
+31.71.01.1005,Kota Jakarta Pusat,Gambir,Kebon Kelapa,observed_kelurahan,2025,10844,0,10844,4400,0,19500,40,4400,6000
+31.75.01.1005,Kota Jakarta Timur,Matraman,Kebon Manggis,observed_kelurahan,2025,18609,0,18609,8700,0,6500,54,8700,5900
+31.71.07.1005,Kota Jakarta Pusat,Tanah Abang,Kebon Melati,observed_kelurahan,2025,36472,0,36472,13300,0,67700,68,13300,17000
+31.75.08.1003,Kota Jakarta Timur,Makasar,Kebon Pala,observed_kelurahan,2025,56331,0,56331,23200,0,10000,89,23200,3500
+31.71.06.1005,Kota Jakarta Pusat,Menteng,Kebon Sirih,observed_kelurahan,2025,13801,0,13801,6200,0,33700,48,6200,9400
+31.73.01.1004,Kota Jakarta Barat,Cengkareng,Kedaung Kali Angke,observed_kelurahan,2025,40262,0,40262,15200,0,13500,91,15200,8700
+31.73.05.1007,Kota Jakarta Barat,Kebon Jeruk,Kedoya Selatan,observed_kelurahan,2025,39113,0,39113,16400,0,5800,80,16400,5200
+31.73.05.1006,Kota Jakarta Barat,Kebon Jeruk,Kedoya Utara,observed_kelurahan,2025,56232,0,56232,23000,0,17000,97,23000,42100
+31.73.05.1004,Kota Jakarta Barat,Kebon Jeruk,Kelapa Dua,observed_kelurahan,2025,29146,0,29146,13500,0,3700,68,13500,7000
+31.75.09.1003,Kota Jakarta Timur,Ciracas,Kelapa Dua Wetan,observed_kelurahan,2025,59708,0,59708,23100,0,6900,111,23100,10700
+31.73.07.1005,Kota Jakarta Barat,Pal Merah,Kemanggisan,observed_kelurahan,2025,37453,0,37453,16700,0,10100,83,16700,6700
+31.71.03.1001,Kota Jakarta Pusat,Kemayoran,Kemayoran,observed_kelurahan,2025,23727,0,23727,10100,0,5500,55,10100,10700
+31.73.08.1006,Kota Jakarta Barat,Kembangan,Kembangan Selatan,observed_kelurahan,2025,33439,0,33439,14500,0,36600,96,14500,6400
+31.73.08.1001,Kota Jakarta Barat,Kembangan,Kembangan Utara,observed_kelurahan,2025,69300,0,69300,26300,0,17000,109,26300,9600
+31.71.04.1002,Kota Jakarta Pusat,Senen,Kenari,observed_kelurahan,2025,10656,0,10656,5100,0,23800,44,5100,30900
+31.75.07.1003,Kota Jakarta Timur,Duren Sawit,Klender,observed_kelurahan,2025,85957,0,85957,31000,0,10400,120,31000,3800
+31.73.07.1006,Kota Jakarta Barat,Pal Merah,Kota Bambu Selatan,observed_kelurahan,2025,26047,0,26047,10100,0,11500,53,10100,3100
+31.73.07.1003,Kota Jakarta Barat,Pal Merah,Kota Bambu Utara,observed_kelurahan,2025,29713,0,29713,11600,0,9000,58,11600,3800
+31.71.04.1004,Kota Jakarta Pusat,Senen,Kramat,observed_kelurahan,2025,33215,0,33215,14600,0,8500,65,14600,10300
+31.74.07.1003,Kota Jakarta Selatan,Kebayoran Baru,Kramat Pela,observed_kelurahan,2025,16345,0,16345,7100,0,27000,66,7100,50000
+31.75.04.1001,Kota Jakarta Timur,Kramatjati,Kramatjati,observed_kelurahan,2025,40492,0,40492,17400,0,13600,81,17400,21900
+31.73.04.1005,Kota Jakarta Barat,Tambora,Krendang,observed_kelurahan,2025,23535,0,23535,9900,0,900,51,9900,1100
+31.73.03.1002,Kota Jakarta Barat,Taman Sari,Krukut,observed_kelurahan,2025,22625,0,22625,9600,0,2700,48,9600,4400
+31.74.03.1005,Kota Jakarta Selatan,Mampang Prapatan,Kuningan Barat,observed_kelurahan,2025,14507,0,14507,5900,0,75100,51,5900,43000
+31.74.02.1008,Kota Jakarta Selatan,Setiabudi,Kuningan Timur,observed_kelurahan,2025,6844,0,6844,2600,0,167600,61,2600,99000
+31.71.04.1005,Kota Jakarta Pusat,Senen,Kwitang,observed_kelurahan,2025,17727,0,17727,7000,0,5400,49,7000,5100
+31.74.06.1002,Kota Jakarta Selatan,Cilandak,Lebak Bulus,observed_kelurahan,2025,46189,0,46189,15300,0,26500,100,15300,43500
+31.74.09.1004,Kota Jakarta Selatan,Jagakarsa,Lenteng Agung,observed_kelurahan,2025,67020,0,67020,22100,0,15000,119,22100,30200
+31.75.10.1007,Kota Jakarta Timur,Cipayung,Lubang Buaya,observed_kelurahan,2025,82176,0,82176,31100,0,6800,117,31100,14200
+31.75.08.1001,Kota Jakarta Timur,Makasar,Makasar,observed_kelurahan,2025,41829,0,41829,15900,0,2100,77,15900,4200
+31.75.07.1006,Kota Jakarta Timur,Duren Sawit,Malaka Jaya,observed_kelurahan,2025,34566,0,34566,13700,0,4100,66,13700,800
+31.75.07.1005,Kota Jakarta Timur,Duren Sawit,Malaka Sari,observed_kelurahan,2025,31466,0,31466,13000,0,5900,69,13000,1800
+31.74.03.1001,Kota Jakarta Selatan,Mampang Prapatan,Mampang Prapatan,observed_kelurahan,2025,21306,0,21306,8900,0,15100,58,8900,18400
+31.73.03.1005,Kota Jakarta Barat,Taman Sari,Mangga Besar,observed_kelurahan,2025,8305,0,8305,3700,0,17500,38,3700,15700
+31.71.02.1005,Kota Jakarta Pusat,Sawah Besar,Mangga Dua Selatan,observed_kelurahan,2025,31890,0,31890,11600,0,36400,63,11600,65800
+31.74.01.1007,Kota Jakarta Selatan,Tebet,Manggarai,observed_kelurahan,2025,33203,0,33203,12400,0,7800,66,12400,12700
+31.74.01.1006,Kota Jakarta Selatan,Tebet,Manggarai Selatan,observed_kelurahan,2025,26488,0,26488,11700,0,3600,59,11700,4500
+31.73.03.1003,Kota Jakarta Barat,Taman Sari,Maphar,observed_kelurahan,2025,18264,0,18264,7700,0,6100,52,7700,11300
+31.74.07.1001,Kota Jakarta Selatan,Kebayoran Baru,Melawai,observed_kelurahan,2025,2729,0,2729,1800,0,53400,44,1800,56600
+31.71.06.1001,Kota Jakarta Pusat,Menteng,Menteng,observed_kelurahan,2025,29080,0,29080,10600,0,53700,87,10600,18400
+31.74.02.1005,Kota Jakarta Selatan,Setiabudi,Menteng Atas,observed_kelurahan,2025,32020,0,32020,12100,0,8400,67,12100,9300
+31.74.01.1003,Kota Jakarta Selatan,Tebet,Menteng Dalam,observed_kelurahan,2025,41718,0,41718,20200,0,66700,87,20200,68200
+31.73.08.1003,Kota Jakarta Barat,Kembangan,Meruya Selatan,observed_kelurahan,2025,42172,0,42172,14200,0,4800,85,14200,8500
+31.73.08.1002,Kota Jakarta Barat,Kembangan,Meruya Utara,observed_kelurahan,2025,54759,0,54759,23600,0,11400,102,23600,3900
+31.75.10.1004,Kota Jakarta Timur,Cipayung,Munjul,observed_kelurahan,2025,31711,0,31711,12800,0,3000,71,12800,8000
+31.73.07.1001,Kota Jakarta Barat,Pal Merah,Palmerah,observed_kelurahan,2025,75385,0,75385,27800,0,9000,108,27800,8100
+31.75.01.1004,Kota Jakarta Timur,Matraman,Palmeriam,observed_kelurahan,2025,22386,0,22386,8400,0,5700,60,8400,600
+31.74.08.1001,Kota Jakarta Selatan,Pancoran,Pancoran,observed_kelurahan,2025,23893,0,23893,9200,0,21300,62,9200,38300
+31.71.02.1001,Kota Jakarta Pusat,Sawah Besar,Pasar Baru,observed_kelurahan,2025,13438,0,13438,3800,0,35100,57,3800,7800
+31.74.02.1006,Kota Jakarta Selatan,Setiabudi,Pasar Manggis,observed_kelurahan,2025,31645,0,31645,12700,0,8800,63,12700,8800
+31.74.04.1001,Kota Jakarta Selatan,Pasar Minggu,Pasar Minggu,observed_kelurahan,2025,29064,0,29064,12000,0,19400,78,12000,69300
+31.71.04.1003,Kota Jakarta Pusat,Senen,Paseban,observed_kelurahan,2025,27010,0,27010,8900,0,12100,61,8900,13500
+31.73.06.1005,Kota Jakarta Barat,Kalideres,Pegadungan,observed_kelurahan,2025,99751,0,99751,38900,0,20400,144,38900,9600
+31.71.06.1002,Kota Jakarta Pusat,Menteng,Pegangsaan,observed_kelurahan,2025,26696,0,26696,9900,0,12400,59,9900,10400
+31.74.04.1006,Kota Jakarta Selatan,Pasar Minggu,Pejaten Barat,observed_kelurahan,2025,43941,0,43941,18600,0,22500,90,18600,11800
+31.74.04.1005,Kota Jakarta Selatan,Pasar Minggu,Pejaten Timur,observed_kelurahan,2025,70479,0,70479,27400,0,20700,118,27400,32200
+31.75.05.1005,Kota Jakarta Timur,Pasar Rebo,Pekayon,observed_kelurahan,2025,54537,0,54537,21000,0,9800,91,21000,3600
+31.73.04.1009,Kota Jakarta Barat,Tambora,Pekojan,observed_kelurahan,2025,26479,0,26479,10100,0,1900,58,10100,1800
+31.74.03.1003,Kota Jakarta Selatan,Mampang Prapatan,Pela Mampang,observed_kelurahan,2025,49878,0,49878,21400,0,10400,90,21400,17900
+31.74.08.1005,Kota Jakarta Selatan,Pancoran,Pengadegan,observed_kelurahan,2025,26047,0,26047,10900,0,5900,56,10900,5300
+31.75.06.1003,Kota Jakarta Timur,Cakung,Penggilingan,observed_kelurahan,2025,129373,0,129373,44500,0,11500,148,44500,10200
+31.74.10.1001,Kota Jakarta Selatan,Pesanggrahan,Pesanggrahan,observed_kelurahan,2025,33938,0,33938,13800,0,7700,77,13800,12000
+31.71.07.1004,Kota Jakarta Pusat,Tanah Abang,Petamburan,observed_kelurahan,2025,38142,0,38142,16400,0,12200,73,16400,17200
+31.74.07.1008,Kota Jakarta Selatan,Kebayoran Baru,Petogogan,observed_kelurahan,2025,12874,0,12874,5200,0,24400,48,5200,10200
+31.71.01.1004,Kota Jakarta Pusat,Gambir,Petojo Selatan,observed_kelurahan,2025,16818,0,16818,7200,0,18300,53,7200,27500
+31.71.01.1003,Kota Jakarta Pusat,Gambir,Petojo Utara,observed_kelurahan,2025,19561,0,19561,5500,0,37300,55,5500,69000
+31.74.10.1004,Kota Jakarta Selatan,Pesanggrahan,Petukangan Selatan,observed_kelurahan,2025,44236,0,44236,18400,0,8600,88,18400,14400
+31.74.10.1003,Kota Jakarta Selatan,Pesanggrahan,Petukangan Utara,observed_kelurahan,2025,67755,0,67755,26900,0,12800,101,26900,18400
+31.75.08.1002,Kota Jakarta Timur,Makasar,Pinangranti,observed_kelurahan,2025,35260,0,35260,15500,0,8300,73,15500,4200
+31.73.03.1008,Kota Jakarta Barat,Taman Sari,Pinangsia,observed_kelurahan,2025,11902,0,11902,6000,0,19700,50,6000,29600
+31.75.01.1001,Kota Jakarta Timur,Matraman,Pisangan Baru,observed_kelurahan,2025,37400,0,37400,13500,0,1200,68,13500,1100
+31.75.02.1002,Kota Jakarta Timur,Pulogadung,Pisangan Timur,observed_kelurahan,2025,48251,0,48251,16400,0,17000,80,16400,5900
+31.75.07.1002,Kota Jakarta Timur,Duren Sawit,Pondok Bambu,observed_kelurahan,2025,74581,0,74581,28700,0,10900,113,28700,4900
+31.75.07.1004,Kota Jakarta Timur,Duren Sawit,Pondok Kelapa,observed_kelurahan,2025,92109,0,92109,34600,0,14700,138,34600,5400
+31.75.07.1007,Kota Jakarta Timur,Duren Sawit,Pondok Kopi,observed_kelurahan,2025,44126,0,44126,16000,0,5100,78,16000,1700
+31.74.06.1003,Kota Jakarta Selatan,Cilandak,Pondok Labu,observed_kelurahan,2025,55987,0,55987,22800,0,24400,107,22800,17700
+31.74.05.1002,Kota Jakarta Selatan,Kebayoran Lama,Pondok Pinang,observed_kelurahan,2025,67628,0,67628,26600,0,103500,136,26600,57900
+31.75.10.1003,Kota Jakarta Timur,Cipayung,Pondok Ranggon,observed_kelurahan,2025,35195,0,35195,11300,0,2400,80,11300,3700
+31.74.07.1007,Kota Jakarta Selatan,Kebayoran Baru,Pulo,observed_kelurahan,2025,6219,0,6219,3700,0,13900,37,3700,25100
+31.75.02.1001,Kota Jakarta Timur,Pulogadung,Pulo Gadung,observed_kelurahan,2025,40536,0,40536,17300,0,2600,82,17300,3400
+31.75.06.1005,Kota Jakarta Timur,Cakung,Pulo Gebang,observed_kelurahan,2025,127467,0,127467,44700,0,14600,160,44700,21400
+31.74.04.1004,Kota Jakarta Selatan,Pasar Minggu,Ragunan,observed_kelurahan,2025,47097,0,47097,18600,0,35000,122,18600,89400
+31.75.09.1005,Kota Jakarta Timur,Ciracas,Rambutan,observed_kelurahan,2025,46342,0,46342,15900,0,5100,101,15900,11100
+31.74.07.1005,Kota Jakarta Selatan,Kebayoran Baru,Rawa Barat,observed_kelurahan,2025,6298,0,6298,3200,0,5800,36,3200,7100
+31.73.01.1003,Kota Jakarta Barat,Cengkareng,Rawa Buaya,observed_kelurahan,2025,80829,0,80829,33700,0,19500,122,33700,13100
+31.75.03.1004,Kota Jakarta Timur,Jatinegara,Rawa Bunga,observed_kelurahan,2025,25545,0,25545,9500,0,2300,62,9500,700
+31.74.08.1003,Kota Jakarta Selatan,Pancoran,Rawajati,observed_kelurahan,2025,25808,0,25808,9900,0,19000,64,9900,11800
+31.75.02.1005,Kota Jakarta Timur,Pulogadung,Rawamangun,observed_kelurahan,2025,43325,0,43325,17800,0,14400,86,17800,36000
+31.71.05.1003,Kota Jakarta Pusat,Cempaka Putih,Rawasari,observed_kelurahan,2025,25539,0,25539,11200,0,14400,67,11200,23900
+31.73.04.1010,Kota Jakarta Barat,Tambora,Roa Malaka,observed_kelurahan,2025,3553,0,3553,1100,0,6800,25,1100,4600
+31.74.07.1004,Kota Jakarta Selatan,Kebayoran Baru,Selong,observed_kelurahan,2025,2921,0,2921,1600,0,38400,32,1600,25500
+31.73.06.1002,Kota Jakarta Barat,Kalideres,Semanan,observed_kelurahan,2025,92198,0,92198,32000,0,19800,125,32000,30300
+31.74.07.1006,Kota Jakarta Selatan,Kebayoran Baru,Senayan,observed_kelurahan,2025,2894,0,2894,1100,0,172900,38,1100,82900
+31.71.04.1001,Kota Jakarta Pusat,Senen,Senen,observed_kelurahan,2025,7630,0,7630,3300,0,30700,41,3300,17600
+31.71.03.1004,Kota Jakarta Pusat,Kemayoran,Serdang,observed_kelurahan,2025,35025,0,35025,14300,0,8300,68,14300,7900
+31.74.02.1001,Kota Jakarta Selatan,Setiabudi,Setia Budi,observed_kelurahan,2025,3341,0,3341,1600,0,61100,27,1600,1100
+31.75.10.1005,Kota Jakarta Timur,Cipayung,Setu,observed_kelurahan,2025,27503,0,27503,11600,0,4300,72,11600,9600
+31.73.07.1002,Kota Jakarta Barat,Pal Merah,Slipi,observed_kelurahan,2025,19628,0,19628,9100,0,22400,53,9100,5800
+31.73.08.1004,Kota Jakarta Barat,Kembangan,Srengseng,observed_kelurahan,2025,57402,0,57402,21400,0,9800,96,21400,7200
+31.74.09.1002,Kota Jakarta Selatan,Jagakarsa,Srengseng Sawah,observed_kelurahan,2025,74275,0,74275,29000,0,21400,123,29000,112800
+31.73.05.1003,Kota Jakarta Barat,Kebon Jeruk,Sukabumi Selatan,observed_kelurahan,2025,45986,0,45986,17100,0,5900,82,17100,7600
+31.73.05.1002,Kota Jakarta Barat,Kebon Jeruk,Sukabumi Utara,observed_kelurahan,2025,47964,0,47964,17500,0,3600,81,17500,7900
+31.71.03.1007,Kota Jakarta Pusat,Kemayoran,Sumur Batu,observed_kelurahan,2025,26553,0,26553,11400,0,25300,67,11400,181300
+31.75.09.1004,Kota Jakarta Timur,Ciracas,Susukan,observed_kelurahan,2025,46463,0,46463,14300,0,6500,87,14300,5400
+31.73.03.1001,Kota Jakarta Barat,Taman Sari,Taman Sari,observed_kelurahan,2025,16145,0,16145,6300,0,3300,43,6300,800
+31.73.04.1001,Kota Jakarta Barat,Tambora,Tambora,observed_kelurahan,2025,11678,0,11678,4300,0,2300,36,4300,7700
+31.73.04.1004,Kota Jakarta Barat,Tambora,Tanah Sereal,observed_kelurahan,2025,30173,0,30173,11300,0,1600,60,11300,2000
+31.71.08.1004,Kota Jakarta Pusat,Johar Baru,Tanah Tinggi,observed_kelurahan,2025,44456,0,44456,14400,0,6500,71,14400,11100
+31.73.03.1004,Kota Jakarta Barat,Taman Sari,Tangki,observed_kelurahan,2025,14498,0,14498,5900,0,2000,39,5900,3300
+31.74.09.1005,Kota Jakarta Selatan,Jagakarsa,Tanjung Barat,observed_kelurahan,2025,50714,0,50714,19800,0,25200,100,19800,20100
+31.73.02.1005,Kota Jakarta Barat,Grogol Petamburan,Tanjung Duren Selatan,observed_kelurahan,2025,29166,0,29166,14600,0,51700,73,14600,35100
+31.73.02.1002,Kota Jakarta Barat,Grogol Petamburan,Tanjung Duren Utara,observed_kelurahan,2025,18946,0,18946,8400,0,12600,63,8400,18100
+31.74.01.1002,Kota Jakarta Selatan,Tebet,Tebet Barat,observed_kelurahan,2025,23978,0,23978,10600,0,18500,72,10600,5700
+31.74.01.1001,Kota Jakarta Selatan,Tebet,Tebet Timur,observed_kelurahan,2025,20460,0,20460,9800,0,11900,66,9800,3500
+31.73.06.1003,Kota Jakarta Barat,Kalideres,Tegal Alur,observed_kelurahan,2025,105818,0,105818,41000,0,13000,143,41000,5700
+31.74.03.1004,Kota Jakarta Selatan,Mampang Prapatan,Tegal Parang,observed_kelurahan,2025,38970,0,38970,15200,0,8800,70,15200,9200
+31.75.04.1002,Kota Jakarta Timur,Kramatjati,Tengah,observed_kelurahan,2025,56311,0,56311,19300,0,3700,90,19300,16800
+31.73.02.1003,Kota Jakarta Barat,Grogol Petamburan,Tomang,observed_kelurahan,2025,33945,0,33945,14700,0,22900,80,14700,31300
+31.75.06.1006,Kota Jakarta Timur,Cakung,Ujung Menteng,observed_kelurahan,2025,39047,0,39047,16900,0,11600,96,16900,28300
+31.74.10.1005,Kota Jakarta Selatan,Pesanggrahan,Ulujami,observed_kelurahan,2025,50605,0,50605,21000,0,11600,89,21000,10300
+31.75.01.1006,Kota Jakarta Timur,Matraman,Utan Kayu Selatan,observed_kelurahan,2025,39411,0,39411,15600,0,3700,76,15600,1600
+31.75.01.1002,Kota Jakarta Timur,Matraman,Utan Kayu Utara,observed_kelurahan,2025,32588,0,32588,14600,0,5900,72,14600,6400
+31.71.03.1008,Kota Jakarta Pusat,Kemayoran,Utan Panjang,observed_kelurahan,2025,34355,0,34355,12800,0,5400,66,12800,7800
+31.73.02.1007,Kota Jakarta Barat,Grogol Petamburan,Wijaya Kusuma,observed_kelurahan,2025,46598,0,46598,18600,0,13300,86,18600,36500
+31.75.06.1001,Kota Jakarta Timur,Cakung,Jatinegara,observed_kelurahan,2025,101552,0,101552,37800,0,39700,138,37800,22000
+31.75.06.1002,Kota Jakarta Timur,Cakung,Rawa Terate,observed_kelurahan,2025,28421,0,28421,10600,0,34500,69,10600,25900
+31.75.06.1007,Kota Jakarta Timur,Cakung,Cakung Barat,observed_kelurahan,2025,72257,0,72257,28400,0,29600,119,28400,24900
+31.72.05.1003,Kota Jakarta Utara,Pademangan,Ancol,observed_kelurahan,2025,30168,0,30168,10800,0,53600,131,10800,42900
+31.72.04.1001,Kota Jakarta Utara,Cilincing,Cilincing,observed_kelurahan,2025,58108,0,58108,17500,0,20100,99,17500,18700
+31.72.04.1004,Kota Jakarta Utara,Cilincing,Kalibaru,observed_kelurahan,2025,86043,0,86043,26500,0,8500,102,26500,9600
+31.72.01.1002,Kota Jakarta Utara,Penjaringan,Kamal Muara,observed_kelurahan,2025,19176,0,19176,6000,0,57200,120,6000,41900
+31.72.01.1003,Kota Jakarta Utara,Penjaringan,Kapuk Muara,observed_kelurahan,2025,46836,0,46836,18300,0,18100,118,18300,24600
+31.72.02.1005,Kota Jakarta Utara,Tanjung Priok,Kebon Bawang,observed_kelurahan,2025,58296,0,58296,24800,0,8100,99,24800,15200
+31.72.06.1003,Kota Jakarta Utara,Kelapa Gading,Kelapa Gading Barat,observed_kelurahan,2025,43840,0,43840,18500,0,79800,128,18500,63100
+31.72.06.1001,Kota Jakarta Utara,Kelapa Gading,Kelapa Gading Timur,observed_kelurahan,2025,39213,0,39213,15500,0,33300,87,15500,31300
+31.72.03.1001,Kota Jakarta Utara,Koja,Koja,observed_kelurahan,2025,32961,0,32961,12300,0,6600,66,12300,6400
+31.72.03.1003,Kota Jakarta Utara,Koja,Lagoa,observed_kelurahan,2025,72939,0,72939,22800,0,9100,104,22800,9100
+31.72.04.1003,Kota Jakarta Utara,Cilincing,Marunda,observed_kelurahan,2025,40024,0,40024,11600,0,6100,111,11600,17100
+31.72.05.1002,Kota Jakarta Utara,Pademangan,Pademangan Barat,observed_kelurahan,2025,88507,0,88507,33600,0,9200,110,33600,25100
+31.72.02.1003,Kota Jakarta Utara,Tanjung Priok,Papanggo,observed_kelurahan,2025,48551,0,48551,16400,0,34500,91,16400,22500
+31.72.06.1002,Kota Jakarta Utara,Kelapa Gading,Pegangsaan Dua,observed_kelurahan,2025,59923,0,59923,27300,0,32000,136,27300,24500
+31.72.01.1004,Kota Jakarta Utara,Penjaringan,Pejagalan,observed_kelurahan,2025,85596,0,85596,37700,0,19500,127,37700,37400
+31.72.01.1001,Kota Jakarta Utara,Penjaringan,Penjaringan,observed_kelurahan,2025,110661,0,110661,41800,0,44000,153,41800,32300
+31.72.01.1005,Kota Jakarta Utara,Penjaringan,Pluit,observed_kelurahan,2025,58810,0,58810,21700,0,55700,162,21700,61100
+31.72.03.1006,Kota Jakarta Utara,Koja,Rawa Badak Selatan,observed_kelurahan,2025,53575,0,53575,18600,0,7200,82,18600,9400
+31.72.03.1004,Kota Jakarta Utara,Koja,Rawa Badak Utara,observed_kelurahan,2025,42593,0,42593,15600,0,10800,77,15600,3900
+31.72.04.1006,Kota Jakarta Utara,Cilincing,Rorotan,observed_kelurahan,2025,59553,0,59553,20200,0,12100,115,20200,11700
+31.72.04.1007,Kota Jakarta Utara,Cilincing,Semper Barat,observed_kelurahan,2025,84978,0,84978,30500,0,8700,119,30500,7200
+31.72.04.1005,Kota Jakarta Utara,Cilincing,Semper Timur,observed_kelurahan,2025,45610,0,45610,16600,0,12100,99,16600,9000
+31.72.04.1002,Kota Jakarta Utara,Cilincing,Sukapura,observed_kelurahan,2025,66031,0,66031,26700,0,21900,114,26700,12600
+31.72.02.1004,Kota Jakarta Utara,Tanjung Priok,Sungai Bambu,observed_kelurahan,2025,35714,0,35714,15100,0,18400,73,15100,11700
+31.72.02.1006,Kota Jakarta Utara,Tanjung Priok,Sunter Agung,observed_kelurahan,2025,85083,0,85083,35500,0,28700,154,35500,36700
+31.72.02.1002,Kota Jakarta Utara,Tanjung Priok,Sunter Jaya,observed_kelurahan,2025,77398,0,77398,28300,0,27900,129,28300,27500
+31.72.02.1001,Kota Jakarta Utara,Tanjung Priok,Tanjung Priok,observed_kelurahan,2025,40800,0,40800,14500,0,19200,96,14500,19900
+31.72.03.1005,Kota Jakarta Utara,Koja,Tugu Selatan,observed_kelurahan,2025,50988,0,50988,17700,0,5700,86,17700,8600
+31.72.03.1002,Kota Jakarta Utara,Koja,Tugu Utara,observed_kelurahan,2025,84293,0,84293,27800,0,11400,115,27800,13300
+31.72.02.1007,Kota Jakarta Utara,Tanjung Priok,Warakas,observed_kelurahan,2025,53702,0,53702,17900,0,3200,86,17900,5000
+31.71.03.1002,Kota Jakarta Pusat,Kemayoran,Kebon Kosong,observed_kelurahan,2025,36322,0,36322,14300,0,12600,68,14300,10200
+31.72.05.1001,Kota Jakarta Utara,Pademangan,Pademangan Timur,observed_kelurahan,2025,45609,0,45609,19000,0,23900,98,19000,47300

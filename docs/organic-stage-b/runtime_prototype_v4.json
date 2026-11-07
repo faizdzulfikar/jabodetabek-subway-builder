@@ -1,0 +1,30 @@
+{
+  "game_version": "1.7.2",
+  "mod_version": "0.2.0",
+  "verified_in_ui": [
+    "Mod Manager shows Jabodetabek v0.2.0 enabled",
+    "Fresh sandbox load completed",
+    "Workers layer rendered irregular building/parcel distribution",
+    "Residents layer rendered",
+    "Demand total12,646,700 visible",
+    "Selected worker point shows41,900 workers in419pops, matching v4 allocation maximum",
+    "Map pan and zoom changed viewport and rendered successfully",
+    "Saved new named test game without overwriting other saves",
+    "Loaded Jabodetabek Organic v4 QA successfully as city=JKT",
+    "After load demand still12,646,700 and Workers layer rendered"
+  ],
+  "save_name": "Jabodetabek Organic v4 QA",
+  "game_process_rss_kib_before": 342096,
+  "game_process_rss_kib_after": 744768,
+  "performance_scope": "RSS snapshots and qualitative UI responsiveness only; different viewport/cache states and other enabled mods. No controlled FPS or large-network simulation benchmark.",
+  "screenshots": [
+    "prototype-game-v4-workers.jpg",
+    "prototype-game-v4-residents.jpg",
+    "prototype-game-v4-point-od.jpg",
+    "prototype-game-v4-reloaded.jpg"
+  ],
+  "engine_modified": false,
+  "candidate_sha256": "8cb1622d3bd5f54d2fc6e10a4e5190ccaa2c67a1a8b20d62f1993d88cbf088cf",
+  "in_game_verified": true,
+  "observation_scope": "Initial v4 prototype0.2.0 before final coverage refinements; not proof of final calibration"
+}

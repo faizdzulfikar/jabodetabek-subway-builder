@@ -1,0 +1,34 @@
+{
+  "retrieved_on": "2026-11-07",
+  "osm": {
+    "download_url": "https://download.geofabrik.de/asia/indonesia/java-latest.osm.pbf",
+    "snapshot_utc": "2026-11-05T21:23:02Z",
+    "sha256": "5d3fdd1b8883ddc3d9e42c3aaf375a67863efa89f4e7b373f1967059ca324122"
+  },
+  "worldcover": {
+    "url": "https://esa-worldcover.org/en/data-access",
+    "tile_url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_S09E105_Map.tif",
+    "year": 2021,
+    "version": "v200",
+    "sha256": "2578bd221a6817c939222c5e1cc1727f994f675483d3579c057d1e4ccb642f39",
+    "classification_used": 50,
+    "attribution": "\u00a9ESA WorldCover project2021 / Contains modified Copernicus Sentinel data2021 processed by ESA WorldCover consortium",
+    "license": "CC BY4.0",
+    "role": "historical built-up evidence for road-accessible developed parcels; not2026 observed building function"
+  },
+  "population_covariate": {
+    "source": "sources/worldpop.json",
+    "crop_sha256": "daca0aebfd820aa9e3c24f3062ac4ccdfcecbf18e1e6a8dbc3ffbab55f22cf15",
+    "year": 2025,
+    "role": "positive modelled population support for fallback; stricter threshold in industrial context"
+  },
+  "coverage_support": "sources/organic/coverage_support.json",
+  "government_sources": "sources/government/source_manifest.json",
+  "source_year_warning": "Population controls mostly2025, Bogor Regency2022; job regional priors JUTPI2018 and registered-company proxies202406 retained",
+  "fallback_actual_use": {
+    "villages": 339,
+    "anchors": 11154,
+    "population": 4665385,
+    "working_residents": 1822700
+  }
+}

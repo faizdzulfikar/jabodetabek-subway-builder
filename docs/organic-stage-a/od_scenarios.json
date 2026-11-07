@@ -1,0 +1,184 @@
+{
+  "status": "A_sensitivity_only_not_validated_OD",
+  "regional_minimum_cross_workers": 2071500,
+  "sample_size_per_region_and_role": 256,
+  "sample_method": "systematic probability-proportional-to-size over deterministic anchor order",
+  "scenarios": [
+    {
+      "id": "tau12_unadjusted",
+      "distance_decay_km": 12,
+      "diagonal_multiplier": 1.0,
+      "cross_region_fraction": 0.7432927166770777,
+      "total": 12646700,
+      "max_origin_residual": 0,
+      "max_job_residual": 0,
+      "conditional_sample_distance_km_p50_p90": [
+        14.071539222852088,
+        31.577552940112007
+      ],
+      "distance_diagnostic_warning": "Conditional pair samples do NOT preserve point marginals; regional conservation only."
+    },
+    {
+      "id": "tau12_cross30",
+      "distance_decay_km": 12,
+      "diagonal_multiplier": 12.518127541503159,
+      "cross_region_fraction": 0.2999992092798912,
+      "total": 12646700,
+      "max_origin_residual": 0,
+      "max_job_residual": 0,
+      "conditional_sample_distance_km_p50_p90": [
+        8.653204613427166,
+        23.70488065076465
+      ],
+      "distance_diagnostic_warning": "Conditional pair samples do NOT preserve point marginals; regional conservation only."
+    },
+    {
+      "id": "tau12_cross40",
+      "distance_decay_km": 12,
+      "diagonal_multiplier": 6.167125581873179,
+      "cross_region_fraction": 0.39999367423912957,
+      "total": 12646700,
+      "max_origin_residual": 0,
+      "max_job_residual": 0,
+      "conditional_sample_distance_km_p50_p90": [
+        9.721806115510114,
+        25.724233990105198
+      ],
+      "distance_diagnostic_warning": "Conditional pair samples do NOT preserve point marginals; regional conservation only."
+    },
+    {
+      "id": "tau12_cross50",
+      "distance_decay_km": 12,
+      "diagonal_multiplier": 3.600868112088695,
+      "cross_region_fraction": 0.49998813919836793,
+      "total": 12646700,
+      "max_origin_residual": 0,
+      "max_job_residual": 0,
+      "conditional_sample_distance_km_p50_p90": [
+        10.919577839829559,
+        27.54296261954368
+      ],
+      "distance_diagnostic_warning": "Conditional pair samples do NOT preserve point marginals; regional conservation only."
+    },
+    {
+      "id": "tau18_unadjusted",
+      "distance_decay_km": 18,
+      "diagonal_multiplier": 1.0,
+      "cross_region_fraction": 0.8017664687230661,
+      "total": 12646700,
+      "max_origin_residual": 0,
+      "max_job_residual": 0,
+      "conditional_sample_distance_km_p50_p90": [
+        17.499234809900184,
+        38.07811931322157
+      ],
+      "distance_diagnostic_warning": "Conditional pair samples do NOT preserve point marginals; regional conservation only."
+    },
+    {
+      "id": "tau18_cross30",
+      "distance_decay_km": 18,
+      "diagonal_multiplier": 17.76222297179767,
+      "cross_region_fraction": 0.3000071164809792,
+      "total": 12646700,
+      "max_origin_residual": 0,
+      "max_job_residual": 0,
+      "conditional_sample_distance_km_p50_p90": [
+        9.649016392914845,
+        27.13147469851587
+      ],
+      "distance_diagnostic_warning": "Conditional pair samples do NOT preserve point marginals; regional conservation only."
+    },
+    {
+      "id": "tau18_cross40",
+      "distance_decay_km": 18,
+      "diagonal_multiplier": 8.752167268351503,
+      "cross_region_fraction": 0.39999367423912957,
+      "total": 12646700,
+      "max_origin_residual": 0,
+      "max_job_residual": 0,
+      "conditional_sample_distance_km_p50_p90": [
+        10.971183460089321,
+        29.757072328575145
+      ],
+      "distance_diagnostic_warning": "Conditional pair samples do NOT preserve point marginals; regional conservation only."
+    },
+    {
+      "id": "tau18_cross50",
+      "distance_decay_km": 18,
+      "diagonal_multiplier": 5.132458175142246,
+      "cross_region_fraction": 0.5000039536005441,
+      "total": 12646700,
+      "max_origin_residual": 0,
+      "max_job_residual": 0,
+      "conditional_sample_distance_km_p50_p90": [
+        12.49429383949511,
+        32.088942444303136
+      ],
+      "distance_diagnostic_warning": "Conditional pair samples do NOT preserve point marginals; regional conservation only."
+    },
+    {
+      "id": "tau30_unadjusted",
+      "distance_decay_km": 30,
+      "diagonal_multiplier": 1.0,
+      "cross_region_fraction": 0.8499687665557023,
+      "total": 12646700,
+      "max_origin_residual": 0,
+      "max_job_residual": 0,
+      "conditional_sample_distance_km_p50_p90": [
+        21.149543694312026,
+        43.70077036111771
+      ],
+      "distance_diagnostic_warning": "Conditional pair samples do NOT preserve point marginals; regional conservation only."
+    },
+    {
+      "id": "tau30_cross30",
+      "distance_decay_km": 30,
+      "diagonal_multiplier": 25.068169643542912,
+      "cross_region_fraction": 0.2999992092798912,
+      "total": 12646700,
+      "max_origin_residual": 0,
+      "max_job_residual": 0,
+      "conditional_sample_distance_km_p50_p90": [
+        10.57776430958584,
+        30.576831289920957
+      ],
+      "distance_diagnostic_warning": "Conditional pair samples do NOT preserve point marginals; regional conservation only."
+    },
+    {
+      "id": "tau30_cross40",
+      "distance_decay_km": 30,
+      "diagonal_multiplier": 12.296315246971147,
+      "cross_region_fraction": 0.39999367423912957,
+      "total": 12646700,
+      "max_origin_residual": 0,
+      "max_job_residual": 0,
+      "conditional_sample_distance_km_p50_p90": [
+        12.174704389613696,
+        33.84816738337861
+      ],
+      "distance_diagnostic_warning": "Conditional pair samples do NOT preserve point marginals; regional conservation only."
+    },
+    {
+      "id": "tau30_cross50",
+      "distance_decay_km": 30,
+      "diagonal_multiplier": 7.222685299947688,
+      "cross_region_fraction": 0.49999604639945594,
+      "total": 12646700,
+      "max_origin_residual": 0,
+      "max_job_residual": 0,
+      "conditional_sample_distance_km_p50_p90": [
+        14.04920269022232,
+        36.62505003156468
+      ],
+      "distance_diagnostic_warning": "Conditional pair samples do NOT preserve point marginals; regional conservation only."
+    }
+  ],
+  "survey_comparison": {
+    "reported_2023_commuters_all_activities": 4414914,
+    "reported_work_fraction_rounded": 0.819,
+    "approx_work_commuters": 3615814.5659999996,
+    "scope_warning": "Cross-kab/kota persons, age5+, work and study; survey reference2023, model controls mixed2022/2025. Do not equate commuter total to all worker trips."
+  },
+  "recommended_review_scenario": "tau18_cross40",
+  "recommendation_warning": "40% is a sensitivity compromise, NOT an observed or fitted current cross-boundary commuting rate. Final rate requires comparable BPS worker OD tables and physical-workplace controls."
+}

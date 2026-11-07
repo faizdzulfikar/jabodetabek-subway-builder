@@ -1,0 +1,9 @@
+{
+  "cross_region_distance_km_p50_p90": [
+    17.580084410724062,
+    36.55897637493542
+  ],
+  "over50km_fraction": 0.007756964267358283,
+  "top_1pct_anchor_job_share": 0.25500723508899553,
+  "duplicate_coordinate_records_excluding_onsite_clones": 2
+}

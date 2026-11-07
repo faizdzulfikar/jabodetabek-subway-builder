@@ -1,0 +1,30 @@
+{
+  "status": "FINAL_UI_VERIFIED",
+  "in_game_verified": true,
+  "candidate_sha256": "8c6f5a75ec22fac174fd664359baccde19ed832c6a2dea3cb2bcd57e61fd4808",
+  "verified_candidate_sha256": "8c6f5a75ec22fac174fd664359baccde19ed832c6a2dea3cb2bcd57e61fd4808",
+  "game_version": "1.7.2",
+  "mod_version": "0.2.1",
+  "verified_in_ui": [
+    "Cold app restart and fresh Jabodetabek sandbox using final installed demand",
+    "Residents and Workers layers rendered",
+    "UI demand total 12,646,700 before and after save/load",
+    "Point details: 1,300 Workers (13 pops), origin-destination links visible",
+    "Pan and zoom responsive in inspected viewport",
+    "New save Jabodetabek Organic v4 Final QA created successfully",
+    "Final QA save loaded as city=JKT; both layers and total checked again"
+  ],
+  "previous_prototype_verification": "runtime_prototype_v4.json",
+  "save_name": "Jabodetabek Organic v4 Final QA",
+  "inspected_point_workers": 1300,
+  "performance_scope": "Qualitative fresh-load, layer rendering, point details, pan/zoom and save/load checks only. RSS snapshots use different sessions/viewports/caches with other mods active; not an isolated benchmark, FPS measurement or full-network simulation.",
+  "verified_on": "2026-11-08",
+  "game_process_rss_kib_before": 342096,
+  "game_process_rss_kib_after": 1905712,
+  "screenshots": [
+    "game-v4-workers.jpg",
+    "game-v4-residents.jpg",
+    "game-v4-point-od.jpg",
+    "game-v4-reloaded.jpg"
+  ]
+}

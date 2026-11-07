@@ -1,0 +1,5 @@
+74188 118128   1.7 /Applications/Subway Builder.app/Contents/MacOS/Subway Builder
+74193  77408   1.5 /Applications/Subway Builder.app/Contents/Frameworks/Subway Builder Helper (GPU).app/Contents/MacOS/Subway Builder Helper (GPU)
+74194  34480   0.0 /Applications/Subway Builder.app/Contents/Frameworks/Subway Builder Helper.app/Contents/MacOS/Subway Builder Helper
+74200 490400  12.7 /Applications/Subway Builder.app/Contents/Frameworks/Subway Builder Helper (Renderer).app/Contents/MacOS/Subway Builder Helper (Renderer)
+74206  24352   0.0 /Applications/Subway Builder.app/Contents/Frameworks/Subway Builder Helper.app/Contents/MacOS/Subway Builder Helper

@@ -1,0 +1,115 @@
+{
+  "stage": "A",
+  "production_commit": "824ec8e7f42484c680e7b2467cbb7dccf62df289",
+  "points": 24943,
+  "cells_before_zero_filter": 38229,
+  "groups": 126467,
+  "model_tripmakers": 12646700,
+  "population_control_total": 32615007.0,
+  "duplicate_coordinate_records": 82,
+  "unique_village_count_with_origins": 1502,
+  "villages_without_jobs": 12,
+  "grid_phase": {
+    "within_2m_cell_center_axis_fraction": 0.02423525638455679,
+    "within_10m_both_axes_fraction": 0.022852102794371165,
+    "phase_histogram_25m": [
+      367,
+      612,
+      1108,
+      1507,
+      1711,
+      2127,
+      2480,
+      3262,
+      4687,
+      7069,
+      7163,
+      4636,
+      3294,
+      2498,
+      2089,
+      1744,
+      1395,
+      1151,
+      637,
+      349
+    ]
+  },
+  "same_coordinate_trip_fraction": 0.0003716384511374509,
+  "within_region_trip_fraction": 0.2973502969154009,
+  "distance_km_quantiles_p10_p50_p90_p95_p99": [
+    5.395926970058813,
+    16.811585953682297,
+    38.37435925441396,
+    45.6248046193955,
+    58.570739927734024
+  ],
+  "cross_region_distance_km_quantiles_p50_p90": [
+    20.03647399860305,
+    41.7533162568605
+  ],
+  "travel_minutes_quantiles_p50_p90_p95": [
+    59.88333333333333,
+    132.76666666666668,
+    157.36666666666667
+  ],
+  "trips_over_50km_fraction": 0.030339930574774448,
+  "largest_point_jobs": {
+    "id": "dp_24075",
+    "jobs": 164600,
+    "location": [
+      106.876959,
+      -6.164816
+    ],
+    "village": "Sumur Batu"
+  },
+  "top_1_percent_points_job_share": 0.29275621308325495,
+  "local_job_target_total_variation_by_region": {
+    "Bekasi": 0.18512105498469927,
+    "Bogor": 0.1660823895505402,
+    "Kota Bekasi": 0.11266146485838881,
+    "Kota Bogor": 0.11680865435348277,
+    "Kota Depok": 0.12613566911966465,
+    "Kota Jakarta Barat": 0.09948926299550041,
+    "Kota Jakarta Pusat": 0.05325634049928162,
+    "Kota Jakarta Selatan": 0.06323662283641232,
+    "Kota Jakarta Timur": 0.13287418167816747,
+    "Kota Jakarta Utara": 0.11312421431119371,
+    "Kota Tangerang": 0.11826645850833208,
+    "Kota Tangerang Selatan": 0.14086668166275187,
+    "Tangerang": 0.19516566725049062
+  },
+  "max_village_origin_deviation_from_expected": 4056.859838844408,
+  "villages_with_origin_deviation_over_10percent": 633,
+  "read_and_diagnostics_seconds": 0.5923567499849014,
+  "regional_origins": [
+    1350000,
+    2129800,
+    1010100,
+    450000,
+    793200,
+    980800,
+    408600,
+    923000,
+    1212200,
+    667100,
+    769100,
+    564600,
+    1388200
+  ],
+  "regional_destinations": [
+    1255400,
+    1963600,
+    840200,
+    437400,
+    529100,
+    634000,
+    1199200,
+    2080800,
+    582700,
+    706600,
+    852700,
+    522100,
+    1042900
+  ]
+}

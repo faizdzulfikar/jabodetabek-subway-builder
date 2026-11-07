@@ -1,0 +1,193 @@
+{
+  "stage": "A_ONLY",
+  "files": {
+    "docs/.DS_Store": {
+      "bytes": 6148,
+      "sha256": "10680afb0627be3a91752dfe125e2eda41ec84cc0e9bdd740a1b414db513c025"
+    },
+    "docs/EMPLOYMENT_DENSITY_AUDIT.md": {
+      "bytes": 7502,
+      "sha256": "445ce7f7a96fab29cd2d79d7b6b122e0edd3267535ba95147aace6a01aa34a4d"
+    },
+    "docs/ORGANIC_DEMAND_AUDIT.md": {
+      "bytes": 10580,
+      "sha256": "07fb21bd0f822d79e0060c4b5bb89107e7a5f9a1d553ad1dbee623f6e95fb330"
+    },
+    "docs/ORGANIC_DEMAND_CALIBRATION.md": {
+      "bytes": 14329,
+      "sha256": "b1d5923a9e6f125619d12f3aa2988562b90a52d72a0da0918da025ba9f60f42f"
+    },
+    "docs/organic-stage-a/README.md": {
+      "bytes": 635,
+      "sha256": "e60e8bfd224b6a4ea907da1f1cd3efe8b92a215e9bf61f241f01bd3b4a502021"
+    },
+    "docs/organic-stage-a/baseline_arrays.npz": {
+      "bytes": 1240972,
+      "sha256": "204527239126226cba4af0363c298715644fae67409e2dfec9a66d1b36ccccf2"
+    },
+    "docs/organic-stage-a/baseline_metrics.json": {
+      "bytes": 2702,
+      "sha256": "4b6b1d4c9512a332569c9d3cd9319f76aba253d6eedae14dd282518622d98370"
+    },
+    "docs/organic-stage-a/center_comparison.json": {
+      "bytes": 5322,
+      "sha256": "203678111984184902b5130a8d029cce13a3d6f973f2775dcdb1818cf1a276ee"
+    },
+    "docs/organic-stage-a/coverage_gaps.csv": {
+      "bytes": 10392,
+      "sha256": "7fc6748cba4b3d43f44afdb73ea4b2839c523c61c662e5e1760149433f111b5c"
+    },
+    "docs/organic-stage-a/discovered_clusters.json": {
+      "bytes": 10057,
+      "sha256": "3b1ab8071086c5eb00265076d60071c681aae6c73938f37fce4a294a152e3dfb"
+    },
+    "docs/organic-stage-a/employment_centers.csv": {
+      "bytes": 1117,
+      "sha256": "79afda946cc36b4127a4c5e79f1d4a6dab6bd86947916e2c3a8bc442ff319864"
+    },
+    "docs/organic-stage-a/employment_centers.json": {
+      "bytes": 3555,
+      "sha256": "03c9c65feb3555522d513c148718b8e3e437a0f48fb1d54af9b13140aacb322f"
+    },
+    "docs/organic-stage-a/flow_review.csv": {
+      "bytes": 1010,
+      "sha256": "3d4088b80642a1abb9d8723034ea2ad7ea6fbd585aaa7e58d8bafdbee0a8f478"
+    },
+    "docs/organic-stage-a/focus_bsd_mixed_urban_fabric.png": {
+      "bytes": 1256967,
+      "sha256": "9b9730381b15431a090c9bedc6ec5c7041a87f762bca3d9351ed1c82eae2405c"
+    },
+    "docs/organic-stage-a/focus_cbd.png": {
+      "bytes": 2076051,
+      "sha256": "21896fe9523ba6fc227061f96e98aabd71820b9cd7f22c996785d097117cc421"
+    },
+    "docs/organic-stage-a/focus_cikarang_industrial.png": {
+      "bytes": 1032967,
+      "sha256": "bca2b1cd94f9189f26039d7eca77bd6f1c0c453e4a11ea0820a90f949eddf922"
+    },
+    "docs/organic-stage-a/focus_dense_kampung.png": {
+      "bytes": 2217048,
+      "sha256": "c2203e2f8c973e439a63ab4e1ceee880d18af146c15d85a4ec589f01c59e0e8a"
+    },
+    "docs/organic-stage-a/focus_peri-urban_south_bogor.png": {
+      "bytes": 305444,
+      "sha256": "4cf6a144a3f2afcca4a7ce58539bdbd673968c6ecf265eef33dfb45126629abf"
+    },
+    "docs/organic-stage-a/geometry_diagnostics.png": {
+      "bytes": 111046,
+      "sha256": "e2944052d02610c81d5152e213ef201dea36407c03c57eedfcc919bc7825520c"
+    },
+    "docs/organic-stage-a/inventory_metrics.json": {
+      "bytes": 1369,
+      "sha256": "617c189fd5f4c651975b270a56a92d1a2c16581f3fcb787cfa1b7a0e00207441"
+    },
+    "docs/organic-stage-a/metro_before_after.png": {
+      "bytes": 2673321,
+      "sha256": "78e8ed6d54a01469529bff5f948eb8f2ebf077461e4d2699d85eab6a38fb9afa"
+    },
+    "docs/organic-stage-a/od_scenarios.json": {
+      "bytes": 6802,
+      "sha256": "abb7767871ab0000db4a2326bf9ee06062baadc4b0d990d6b8386d7476a8313e"
+    },
+    "docs/organic-stage-a/od_scenarios.npz": {
+      "bytes": 9178,
+      "sha256": "998fdd7448536c27b08f13f387cc855cde264f63ed0011953110b371f69a25ef"
+    },
+    "docs/organic-stage-a/od_tau12_cross30.csv": {
+      "bytes": 1359,
+      "sha256": "4ffe523049a4e62acdb97915b0d096b7f80f07a1e663ad9abe19e599f823b829"
+    },
+    "docs/organic-stage-a/od_tau12_cross40.csv": {
+      "bytes": 1391,
+      "sha256": "75035129c852da2f8852adec578956121fb21e9ef383d41ca01b27b77517235c"
+    },
+    "docs/organic-stage-a/od_tau12_cross50.csv": {
+      "bytes": 1413,
+      "sha256": "cb9e6cb0f1512865b148e19ba3154607f68ee1e3a932516f225228a7e8e4cd0b"
+    },
+    "docs/organic-stage-a/od_tau12_unadjusted.csv": {
+      "bytes": 1440,
+      "sha256": "962f567b1f66c13f30cd73c5c4eb255626ce1bf6e77053ab703c1c06935ccced"
+    },
+    "docs/organic-stage-a/od_tau18_cross30.csv": {
+      "bytes": 1370,
+      "sha256": "023b381103a1ac8a8217364627970c2baeae2e683e724476b17d595c5fea3b06"
+    },
+    "docs/organic-stage-a/od_tau18_cross40.csv": {
+      "bytes": 1403,
+      "sha256": "a5ab7e469c0b5e21acf376725a7782c2fceb8bb7c7002de6ec47d5ae20739dc4"
+    },
+    "docs/organic-stage-a/od_tau18_cross50.csv": {
+      "bytes": 1425,
+      "sha256": "7db7d2652ce51abb6f94975a91083a6b5380950be9c78c154636ce0d3b3b824b"
+    },
+    "docs/organic-stage-a/od_tau18_unadjusted.csv": {
+      "bytes": 1452,
+      "sha256": "b0790f29868243690a6cd0d3db22453aaaf150db67fdd753314d23c88acfbd74"
+    },
+    "docs/organic-stage-a/od_tau30_cross30.csv": {
+      "bytes": 1373,
+      "sha256": "a0cbde3add9b7a8461a07477c69877881529c63098f1e46c1a1e8129399186be"
+    },
+    "docs/organic-stage-a/od_tau30_cross40.csv": {
+      "bytes": 1410,
+      "sha256": "4be83fed462e899785cace6a6130b779b19a56bd32c7b7b1f4958a05ec92834e"
+    },
+    "docs/organic-stage-a/od_tau30_cross50.csv": {
+      "bytes": 1432,
+      "sha256": "eda3a4186679a75ca0c3c6265d91913bf0eec9be9e1f1af25ab8ceee402488cc"
+    },
+    "docs/organic-stage-a/od_tau30_unadjusted.csv": {
+      "bytes": 1458,
+      "sha256": "5b03355b41f5d3e6f54a88a5c2992e40e4fc52758c29fd62ebd9a5c2c401c1e0"
+    },
+    "docs/organic-stage-a/population_control_checks.json": {
+      "bytes": 92361,
+      "sha256": "2b4eededd53ddc95e5160456c699f95124c46cf8ed58343766b71d916ad1dc8a"
+    },
+    "docs/organic-stage-a/production_baseline_hashes.json": {
+      "bytes": 4456,
+      "sha256": "117fe927db9635b9520525f6e730d84aa6cb4d9a1bc0ab1f390ade73627d49b9"
+    },
+    "docs/organic-stage-a/proposal_checks.json": {
+      "bytes": 11207,
+      "sha256": "af702ac9a126dda9991523a9f3cb92616b5c9e16a2cf4543e9df6c134002949b"
+    },
+    "docs/organic-stage-a/proposed_allocations.json.gz": {
+      "bytes": 2742842,
+      "sha256": "cbf0545cb81fecb22e30d2319112e8e9ffe38052f05c331ed8ab24a3cf466a5e"
+    },
+    "docs/organic-stage-a/proposed_arrays.npz": {
+      "bytes": 2777778,
+      "sha256": "f725cec3086cde0d0178fe302fc1e2db616c43184780b2de4ebb3a7915dad562"
+    },
+    "docs/organic-stage-a/proposed_parameters.json": {
+      "bytes": 1754,
+      "sha256": "deca921fe10bea269db568e2d6a58ebe9e86e21b0fa7deaa0bc5ef5e254f1704"
+    },
+    "docs/organic-stage-a/proposed_village_allocations.csv": {
+      "bytes": 171845,
+      "sha256": "ecc5c0abda619b746a239277e73040d99b09defb83c4132355ac24eda42f987b"
+    },
+    "docs/organic-stage-a/regional_od_before.csv": {
+      "bytes": 1447,
+      "sha256": "99c2103f6d7d4789c40e5cd5e8b511d2e108b39a7b923f894b7df5bdd462e975"
+    },
+    "docs/organic-stage-a/regional_od_comparison.png": {
+      "bytes": 250323,
+      "sha256": "26b4927ec340f5f67d7abc9c465371ed0c17b84aeec823c10685838b79d94199"
+    },
+    "docs/organic-stage-a/reproducibility.json": {
+      "bytes": 373,
+      "sha256": "ca9201ad81ad27f6c666698e06951b5d45cbf5f84eed1aef7c1e0ebd92e33403"
+    },
+    "docs/organic-stage-a/reproduction_environment.json": {
+      "bytes": 621,
+      "sha256": "e6ab56bf0bf6801bed00cce6f0ea938a68fe8b38a21a5c0c1320e510ff2428e4"
+    },
+    "docs/organic-stage-a/validation.json": {
+      "bytes": 1815,
+      "sha256": "44ca046b90ee9cbb8eb44f6b6b9a9800c684c0b863d53344a5549585f248ea7b"
+    }
+  }
+}

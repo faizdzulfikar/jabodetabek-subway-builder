@@ -1,0 +1,47 @@
+{
+  "stage": "A_ONLY",
+  "authoritative_controls": 446,
+  "all_authoritative_controls_exact_including_unlocated": true,
+  "max_authoritative_control_residual": 0,
+  "allocated_plus_unlocated_population": 32615007,
+  "working_origins_including_unlocated": 12646700,
+  "point_jobs_total": 12646700,
+  "regional_origins_with_ledger_match": true,
+  "regional_jobs_match": true,
+  "outside_map_bbox_points": 0,
+  "unique_anchor_ids": true,
+  "unique_anchor_osm_ids": true,
+  "own_footprint_matches": 71901,
+  "outside_own_admin_ids": [],
+  "mapped_mask_hits_proposal": {
+    "water_inland": 0,
+    "forest_wetland_proxy": 0,
+    "airside": 0,
+    "major_road_8m_proxy": 0
+  },
+  "outside_own_footprint_ids": [],
+  "packaged_water_hits_proposal": 0,
+  "packaged_water_hits_baseline": {
+    "points": 275,
+    "jobs": 93300,
+    "residents": 90300
+  },
+  "baseline_tracked_files_checked": 44,
+  "production_tracked_files_changed": [],
+  "proposed_allocation_json_bytes": 31536013,
+  "proposed_allocation_gzip_bytes": 2742842,
+  "allocation_json_parse_seconds_three_runs": [
+    0.1663447500031907,
+    0.9819471249938942,
+    0.15713966600014828
+  ],
+  "engine_format_assessment": "Point coordinates and integer counts can use existing points/pops schema. Allocation contains metadata and is NOT a loadable engine demand asset. Micro OD and in-game verification deferred to approved Stage B.",
+  "validity_scope": "Mapped-mask checks only; not proof of complete real-world geographic validity.",
+  "ready_for_stage_b_deployment": false,
+  "stage_b_blockers": [
+    "75 villages retain unlocated population/working origins",
+    "Point-level OD not implemented",
+    "Building parts, POI, official site joins and capacity sensitivity pending",
+    "In-game compatibility/performance not yet tested for new allocation"
+  ]
+}

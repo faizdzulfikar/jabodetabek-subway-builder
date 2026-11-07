@@ -1,3 +1,9 @@
+# Organic demand v4 — current release
+
+The game now uses organic building/parcel demand. All32,615,007 inhabitants have locations; all446 source-level population controls and12,646,700 worker origins/jobs are conserved. Runtime checks are recorded in BUILD_STATUS.json.
+
+Start with [StageB results](docs/ORGANIC_DEMAND_STAGE_B.md), [allocation provenance](docs/organic-stage-b/proposed_allocations.json.gz), [independent validation](docs/organic-stage-b/validation.json), [capacity uncertainty](docs/organic-stage-b/employment_capacity_regularization.json) and [rollbackv3](docs/organic-stage-b/rollback-v3/manifest.json). WorldCover2021 is explicitly labelled fallback evidence; jobs and OD remain estimates. The lightweight30,000-building game index and all map tiles/roads are unchanged.
+
 # Jabodetabek Subway Builder — data index
 
 This repository contains the lightweight game map, demand data, processing scripts, and an administrative audit.

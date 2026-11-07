@@ -1,0 +1,330 @@
+{
+  "stage": "B_FINAL_VERIFIED",
+  "verified_on": "2026-11-08",
+  "files": {
+    "BUILD_STATUS.json": {
+      "bytes": 2192,
+      "sha256": "22dd0cbad029cec1f0cdaaa4051f973d988870b6bfd1b48912e517fc554ec925"
+    },
+    "README.md": {
+      "bytes": 8503,
+      "sha256": "d659d054e7a10bbb973479a2697f17429f3ff5191d703198486092cc834a9135"
+    },
+    "assets/JKT/demand-method.json": {
+      "bytes": 3670,
+      "sha256": "e507b884e9860985fb416506acb38dacc6e2df4c992419a43f37920b6872fe00"
+    },
+    "docs/ORGANIC_DEMAND_STAGE_B.md": {
+      "bytes": 12729,
+      "sha256": "f636ce250d60315d3811074db8e37b2ac04e59d30f0ce1005f7b47be9ccd2501"
+    },
+    "docs/organic-stage-b/README.md": {
+      "bytes": 413,
+      "sha256": "f21a7d8aed067968d0279a42edd3784414b29ca4862afb88c11dc87cb4a65e9b"
+    },
+    "docs/organic-stage-b/asset_preservation.json": {
+      "bytes": 1768,
+      "sha256": "990a39ea929d02eff7d9972a50197cd86e6f8e705b14e8d786d3121add04ef4b"
+    },
+    "docs/organic-stage-b/candidate-demand.json.gz": {
+      "bytes": 3895853,
+      "sha256": "8c6f5a75ec22fac174fd664359baccde19ed832c6a2dea3cb2bcd57e61fd4808"
+    },
+    "docs/organic-stage-b/capacity_sensitivity.json": {
+      "bytes": 20878,
+      "sha256": "17153c641c8bed2f1f19db5c8e56712cdfc162655442fb25440cb6b71ec8af55"
+    },
+    "docs/organic-stage-b/center_comparison.json": {
+      "bytes": 5323,
+      "sha256": "bf5a9f22e6073716dfb9eedfb8ee0fe5eba7b1c271d0f007e1947fa0ad3e08fc"
+    },
+    "docs/organic-stage-b/demand_checks.json": {
+      "bytes": 1407,
+      "sha256": "fec47a70c34d5d3777f41b8aa39a59ab971aeaada2837d31433d32f4938591f3"
+    },
+    "docs/organic-stage-b/discovered_clusters.json": {
+      "bytes": 10503,
+      "sha256": "228d56df6e75ea38ab8de79f81b47ae94d823a88f39e228ffc3c77a42075f9a4"
+    },
+    "docs/organic-stage-b/employment_capacity_regularization.json": {
+      "bytes": 5746,
+      "sha256": "613513830d97362479da49c841ba38a26446a47121932dc24ace7f1036d640ce"
+    },
+    "docs/organic-stage-b/employment_centers.csv": {
+      "bytes": 1102,
+      "sha256": "48849f2a55f0b8c6b5c52ac6bdce0c193a3cfc7a2338b26572cb6a689c6f4220"
+    },
+    "docs/organic-stage-b/engine_point_sources.json.gz": {
+      "bytes": 386846,
+      "sha256": "05e138dadfd0cbd2cbb46074df90136c396f8155e72317d88e6ed563f5f80c0a"
+    },
+    "docs/organic-stage-b/environment.json": {
+      "bytes": 321,
+      "sha256": "36fd6d13ad0284160780dad0f2d3b06b803520b3f461b3dcff9db9a909bc7ecc"
+    },
+    "docs/organic-stage-b/fallback_coverage.json": {
+      "bytes": 91792,
+      "sha256": "6886e8a19315cfe611edc9e52295ec6dddf6ce351d58e1ca5ef202baf2c518e5"
+    },
+    "docs/organic-stage-b/fallback_coverage_probe.json": {
+      "bytes": 9529,
+      "sha256": "acf922dc619bd0be26457614bc4dc29d21b5970753832dac1b673a3f466dd18e"
+    },
+    "docs/organic-stage-b/fallback_parcels.geojson.gz": {
+      "bytes": 42480932,
+      "sha256": "10ddd665cef3fc1d599c7271caf5397f75e0ea1df88f2862f0d8694e258ad0d2"
+    },
+    "docs/organic-stage-b/final_spatial_metrics.json": {
+      "bytes": 251,
+      "sha256": "b7f998246b26a1862332d71f985d05dd448a13a2506d7cfadbe1070e220f5897"
+    },
+    "docs/organic-stage-b/focus_bsd_mixed_urban_fabric.png": {
+      "bytes": 1263224,
+      "sha256": "6e66a36347d7b79912bd815717615cffb3f2b361c24a7623401d5223642634c9"
+    },
+    "docs/organic-stage-b/focus_cbd.png": {
+      "bytes": 2085821,
+      "sha256": "3c0918efa5761b1540d401806d18ad72e0a6d393d7dafc9eebd10b9f014ab40d"
+    },
+    "docs/organic-stage-b/focus_cikarang_industrial.png": {
+      "bytes": 990829,
+      "sha256": "db1d31dee6e6241e83bfa5e7af6eeacb6de8dd9c84386714b62fca058469c6f5"
+    },
+    "docs/organic-stage-b/focus_dense_kampung.png": {
+      "bytes": 2356882,
+      "sha256": "3979613ce60139cfc44e9b1aac7e4f64cf2b28646ae98d864e5923508c5ce026"
+    },
+    "docs/organic-stage-b/focus_peri-urban_south_bogor.png": {
+      "bytes": 338092,
+      "sha256": "37b0baab84dfcc61188a8315712489969859f3f7d91c0de017c6e0a638c348ae"
+    },
+    "docs/organic-stage-b/game-process-final.txt": {
+      "bytes": 657,
+      "sha256": "82bf021366682440b0d702ac6ed6f82acee2341490e7d9dc289c3f523a35b026"
+    },
+    "docs/organic-stage-b/game-v4-point-od.jpg": {
+      "bytes": 1207369,
+      "sha256": "6c217e1769e63f754b89b7478d07705d1e09011ee9720f5ab23f07b311f14b7e"
+    },
+    "docs/organic-stage-b/game-v4-reloaded.jpg": {
+      "bytes": 1349697,
+      "sha256": "5a76689afad9e96e5d29b128097b5f97ac31613df5c648c5198c34738086d8d9"
+    },
+    "docs/organic-stage-b/game-v4-residents.jpg": {
+      "bytes": 1719740,
+      "sha256": "dde24eecc111423e4d6e43c759ad4555124659f6d5890df7d1236890d1a002d3"
+    },
+    "docs/organic-stage-b/game-v4-workers.jpg": {
+      "bytes": 1350199,
+      "sha256": "f8846150132ca1508b5e56d4ff50171a3658156062078bb54bef20c297551e15"
+    },
+    "docs/organic-stage-b/game_resource_after.txt": {
+      "bytes": 656,
+      "sha256": "e5aee2a85a3e07d9e689bd5262b9f3a79db8a3829cfc6a41da273d124166b898"
+    },
+    "docs/organic-stage-b/game_resource_before.txt": {
+      "bytes": 656,
+      "sha256": "80fdb0ebbd399cabd92f97597a1735a1adede237160d882c9b435b6568fb6f54"
+    },
+    "docs/organic-stage-b/geometry_diagnostics.png": {
+      "bytes": 109559,
+      "sha256": "11d08722296c80227d2142f1cef4e39b5bfeb18cd885d8e7cdb52a02d2a39970"
+    },
+    "docs/organic-stage-b/inventory_enrichment.json": {
+      "bytes": 2005,
+      "sha256": "f55c006fd17811bc9b3fe0c21530416371ff3290598b9da1f8588e0a33572259"
+    },
+    "docs/organic-stage-b/inventory_metrics.json": {
+      "bytes": 1369,
+      "sha256": "617c189fd5f4c651975b270a56a92d1a2c16581f3fcb787cfa1b7a0e00207441"
+    },
+    "docs/organic-stage-b/metro_before_after.png": {
+      "bytes": 2844911,
+      "sha256": "3fbb088bcf798978195a95a7dd6dce4069ab960287c28a0db585cae411db8421"
+    },
+    "docs/organic-stage-b/od_distance_comparison.png": {
+      "bytes": 73136,
+      "sha256": "2b99aad9782fa2b4e0768fe5755c206a33b39ce87514b32107e18a3084bb0f10"
+    },
+    "docs/organic-stage-b/od_pairs.npz": {
+      "bytes": 479743,
+      "sha256": "9f47816c41aafc28c372188c7186763003f01efe08fcf5df0b3a6edf8f02079c"
+    },
+    "docs/organic-stage-b/organic_parameters.json": {
+      "bytes": 3645,
+      "sha256": "6db6c1a3fdbbd6118609ba401e6de45dcbbd4b941a031c4093bd001afff07c24"
+    },
+    "docs/organic-stage-b/population_control_checks.json": {
+      "bytes": 72652,
+      "sha256": "f9f20c2ae9007a8302e6d428b1532f383c274cc18af722b282667ebeb51b2af8"
+    },
+    "docs/organic-stage-b/proposal_checks.json": {
+      "bytes": 2122,
+      "sha256": "20f69a75dbf9f24489f38a2161062776075daedd862d795f289d82bcd11fb612"
+    },
+    "docs/organic-stage-b/proposed_allocations.json.gz": {
+      "bytes": 4872498,
+      "sha256": "c46f09a7c089d6377cc5e7b8a79801b04abea45129fb05d523e45e2e56798fff"
+    },
+    "docs/organic-stage-b/proposed_arrays.npz": {
+      "bytes": 4452778,
+      "sha256": "426a39495f3dd02418f077c9c4a66bcb187a2d8661907dca8d346b0c608c5f9b"
+    },
+    "docs/organic-stage-b/proposed_village_allocations.csv": {
+      "bytes": 171373,
+      "sha256": "3a1e2f3fcb6ce19a1482fe5743b3c3063f31223be764e7245f116e760ff6d8d3"
+    },
+    "docs/organic-stage-b/prototype-game-v4-point-od.jpg": {
+      "bytes": 845122,
+      "sha256": "326464283f9d3f6fe8fc7b32e130fb1b48c502960a2bfd1f21bd533f921bf31f"
+    },
+    "docs/organic-stage-b/prototype-game-v4-reloaded.jpg": {
+      "bytes": 1342074,
+      "sha256": "e70cf1efa67eef3a2ca31a733176441b8cc47904888dcba8fa853fb7b24bd0e3"
+    },
+    "docs/organic-stage-b/prototype-game-v4-residents.jpg": {
+      "bytes": 1687696,
+      "sha256": "643319b231a4fce5259f0e315269dd4ed7ba7a13479922a86d4c147bc4a23b3b"
+    },
+    "docs/organic-stage-b/prototype-game-v4-workers.jpg": {
+      "bytes": 1479553,
+      "sha256": "9e32a1b10cd3e8982daae1de917145aacaeea9c36757be0eb562a70aaa2500ed"
+    },
+    "docs/organic-stage-b/regional_od.csv": {
+      "bytes": 1390,
+      "sha256": "e0754709cfc3cc423084128d8972011517959e3ef12c42048267c84b7f013266"
+    },
+    "docs/organic-stage-b/regional_od_comparison.png": {
+      "bytes": 233880,
+      "sha256": "bd6a6b242c885d632394140a8dbb03fabcdb36eca9d941a2190f5f6094e93884"
+    },
+    "docs/organic-stage-b/regional_od_units.npy": {
+      "bytes": 1480,
+      "sha256": "7f75fd7e6649cb66d8b23f4569f4e6a4fabb6b505401f48687d4a408ee5daa95"
+    },
+    "docs/organic-stage-b/reproducibility.json": {
+      "bytes": 401,
+      "sha256": "46af4af5a7e7b2e28cbe77fc36893efa01b201e2d8a570f65fee43b34f2167aa"
+    },
+    "docs/organic-stage-b/residential_capacity_review.json": {
+      "bytes": 424018,
+      "sha256": "cf12cf1dd51deb29858cd529a0a0d501ba686d994298787f3d4c2beadcf1e702"
+    },
+    "docs/organic-stage-b/rollback-v3/BUILD_STATUS.json": {
+      "bytes": 1401,
+      "sha256": "e0274a09aa11ef95eb927063cd386f4a48f5ff17a417de5c45b4261ceb59ac34"
+    },
+    "docs/organic-stage-b/rollback-v3/DATA_GUIDE.md": {
+      "bytes": 2214,
+      "sha256": "ebceb5daea16a2fe072a55c418e8566174809819d858c2fb450fc6ac24ed3d4b"
+    },
+    "docs/organic-stage-b/rollback-v3/README.md": {
+      "bytes": 7187,
+      "sha256": "b5af76b0bb81332cc0e60f8a77841eae5fd5b8a77ed70adca331d7fc5830dfa1"
+    },
+    "docs/organic-stage-b/rollback-v3/assets/JKT/demand-method.json": {
+      "bytes": 2841,
+      "sha256": "b3c42b56ba539cf2c520c0dfb3c980eea17440dfbb88a6b57b55ce14e51b9854"
+    },
+    "docs/organic-stage-b/rollback-v3/assets/JKT/demand_data.json.gz": {
+      "bytes": 3094248,
+      "sha256": "f6f050ca94bf7a1203b1e33067bca67e9bf8f962bcf6ca8269bc41ffb3953529"
+    },
+    "docs/organic-stage-b/rollback-v3/config.json": {
+      "bytes": 629,
+      "sha256": "85b26864bf0b1ebe1e3d9ed684a206883c5a980b7495e9c8b923f41f3c624ff2"
+    },
+    "docs/organic-stage-b/rollback-v3/manifest.json": {
+      "bytes": 937,
+      "sha256": "a8768a13590581dc1ff34248c8faa9b082a06fbbd82fdd3cbef5e8265b32ee9c"
+    },
+    "docs/organic-stage-b/rollback-v3/mod/config.json": {
+      "bytes": 340,
+      "sha256": "01f1c21118b6c4e2e9ca18d792f9473fba907b5e758e97c74d05cb7310fbb042"
+    },
+    "docs/organic-stage-b/rollback-v3/mod/index.js": {
+      "bytes": 3983,
+      "sha256": "1bc9815c5a176a3c8a0723165c110268ffce751a04e5beaef309a1b15fd3a850"
+    },
+    "docs/organic-stage-b/rollback-v3/mod/manifest.json": {
+      "bytes": 310,
+      "sha256": "9d2eaba08bc193c8e2eae8aef350a8f3ac953fd409852ef483d5457e836356fa"
+    },
+    "docs/organic-stage-b/rollback-v3/sources/government/kelurahan_estimates.csv": {
+      "bytes": 227164,
+      "sha256": "2592cfc05ee2f449f450b26767c13be8c963147cb4aac6e30f5543c1f4a42a71"
+    },
+    "docs/organic-stage-b/route_sample.json": {
+      "bytes": 30692,
+      "sha256": "0f4b19492dfd333136a6fa134df52a0c0ff59bd321f268d7a137839de2c7023a"
+    },
+    "docs/organic-stage-b/runtime_prototype_v4.json": {
+      "bytes": 1421,
+      "sha256": "6831a5df2195cccdd1ae69897c6fa6574cb299b8b4905353cb5d8f8f517bc2b8"
+    },
+    "docs/organic-stage-b/runtime_verification.json": {
+      "bytes": 1465,
+      "sha256": "a2e5d04c5a45b96157741a07a7cb23297b136c41154136cae6a9aea10a976a93"
+    },
+    "docs/organic-stage-b/validation.json": {
+      "bytes": 1206,
+      "sha256": "0b67c4f353ef956760d5204f426a2d0f6b6c150c6303c7487677b47ffe49c408"
+    },
+    "scripts/organic/allocate.py": {
+      "bytes": 23012,
+      "sha256": "743868561aba8924536c1a18b09e7ee36f8307f02e9ea75f3902bdd00f584a6f"
+    },
+    "scripts/organic/calibrate_jobs.py": {
+      "bytes": 3305,
+      "sha256": "656fdc550daa5a0959b00d9773b41703df09a11db7817997ab2f98e631018bb0"
+    },
+    "scripts/organic/demand.py": {
+      "bytes": 7981,
+      "sha256": "60620f00b22fd029219b862ee0be804a224c689b1d84a28628bf6eda6c3e47cf"
+    },
+    "scripts/organic/enrich.py": {
+      "bytes": 7446,
+      "sha256": "2fc58996302a5ab1fe64d928246804d02c0bfe77dca326898fe7f2d608662461"
+    },
+    "scripts/organic/fallback.py": {
+      "bytes": 8961,
+      "sha256": "02ff8ceefc27083940c7f7ad0131d22cdba83443ad23362a76c2845a68354fc0"
+    },
+    "scripts/organic/finish_diagnostics.py": {
+      "bytes": 5084,
+      "sha256": "8ddb74c91148034591c228a547b3ea8d6d4c74fbba5b43676739f9a0a4dc60ba"
+    },
+    "scripts/organic/install_release.py": {
+      "bytes": 7502,
+      "sha256": "f458508801a29d87082a4cd7ba9a272c1144ad8080c5a9bcc0a7c9e9818f5d04"
+    },
+    "scripts/organic/rebuild.py": {
+      "bytes": 1992,
+      "sha256": "28d35b4ce180a24bc10e1476ce4249ab5dd7623d804585a0b84cb6360e02e6db"
+    },
+    "scripts/organic/report.py": {
+      "bytes": 17774,
+      "sha256": "16fada6896d5553418e1b25ef2c2c8c087b19b3e94307203c4a892b1a648af6f"
+    },
+    "scripts/organic/route_sample.py": {
+      "bytes": 3753,
+      "sha256": "d6c1f91c52c565840e61f4c9ad00e0ded8fb079f6717851e74ea2f57bf39f568"
+    },
+    "scripts/organic/verify.py": {
+      "bytes": 6822,
+      "sha256": "67454b6eff65e2e51864f373a4679c6fe83e32f131243918daa51ca8322f28f6"
+    },
+    "scripts/organic/visualize.py": {
+      "bytes": 7153,
+      "sha256": "4390548d71a4f54363419116c709c151d0a96239ba1fa43b212f25398a9f34ef"
+    },
+    "sources/organic/coverage_support.json": {
+      "bytes": 74830,
+      "sha256": "802a97df4c04c5e3f3425495d280f285ba3da8c83543015f2e3387b6b04bacb1"
+    },
+    "sources/organic/source_manifest.json": {
+      "bytes": 1617,
+      "sha256": "d861024862f9121da4b289377c0ac404e6eb204b5e5267be72a106a91a55a33b"
+    }
+  }
+}

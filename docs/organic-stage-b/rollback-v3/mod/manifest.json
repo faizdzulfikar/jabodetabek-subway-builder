@@ -1,0 +1,8 @@
+{
+  "id": "local.faiz.jabodetabek",
+  "name": "Jabodetabek — Experimental Map",
+  "description": "OSM-based mainland Jabodetabek map with explicitly synthetic commuting demand. Start the included local asset server before playing.",
+  "version": "0.1.0",
+  "author": {"name": "Faiz"},
+  "main": "index.js"
+}

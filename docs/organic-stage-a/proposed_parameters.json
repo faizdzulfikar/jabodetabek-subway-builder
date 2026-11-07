@@ -1,0 +1,70 @@
+{
+  "stage": "A_PROPOSAL_NOT_APPROVED_FOR_PRODUCTION",
+  "seed": 20261107,
+  "crs_allocation": "EPSG:32748",
+  "crs_output": "EPSG:4326",
+  "building_min_footprint_m2": 10,
+  "anchor_target_before_category_and_radius_reservations": 60000,
+  "cluster_max_radius_m": 500,
+  "cluster_constraints": [
+    "same administrative village",
+    "same inferred/explicit function",
+    "actual building point-on-surface"
+  ],
+  "residential_sqm_per_person": {
+    "dense_lowrise": 18,
+    "other_lowrise": 25,
+    "sparse_periurban_rural": 30,
+    "apartments": 32
+  },
+  "usable_floor_factor": 0.8,
+  "residential_share_lowrise_apartment": 0.95,
+  "mixed_residential_share": 0.6,
+  "employment_sqm_per_worker_prior": {
+    "office": 20,
+    "government": 25,
+    "factory": 75,
+    "warehouse": 140,
+    "retail": 35,
+    "market": 45,
+    "university": 50,
+    "school": 70,
+    "hospital": 45,
+    "hotel": 100,
+    "exhibition": 140,
+    "community": 100,
+    "transport": 150,
+    "mixed": 40
+  },
+  "employment_neighborhood_mixture": 0.2,
+  "od_distance_km_scenarios": [
+    12,
+    18,
+    30
+  ],
+  "od_cross_region_fraction_scenarios": [
+    0.3,
+    0.4,
+    0.5
+  ],
+  "regional_controls": "baseline unchanged",
+  "population_rounding": "largest remainder per kecamatan; direct village counts unchanged",
+  "population_unlocated_policy": "retain explicit ledger; do not move to neighboring village or nonresidential-only buildings",
+  "fallback_levels": {
+    "unknown_lowrise": 1.5,
+    "residential": 1.5,
+    "apartments": 6,
+    "office": 3,
+    "government": 2,
+    "factory": 1,
+    "warehouse": 1,
+    "retail": 2,
+    "market": 1,
+    "university": 3,
+    "school": 2,
+    "hospital": 4,
+    "hotel": 4,
+    "mixed": 2,
+    "exhibition": 1
+  }
+}

@@ -1,0 +1,3069 @@
+{
+  "parcels": 50749,
+  "villages": 339,
+  "without_fallback": [],
+  "by_village": [
+    {
+      "code": "32.01.32.2008",
+      "region": "Bogor",
+      "kecamatan": "Klapanunggal",
+      "kelurahan": "Leuwikaret",
+      "fallback_parcels": 122,
+      "builtup_m2_before_masks": 338736.14481964015,
+      "eligible_developed_m2": 205360.55692922455
+    },
+    {
+      "code": "32.01.19.2002",
+      "region": "Bogor",
+      "kecamatan": "Jasinga",
+      "kelurahan": "Pangradin",
+      "fallback_parcels": 37,
+      "builtup_m2_before_masks": 243556.09904393498,
+      "eligible_developed_m2": 210988.83833000943
+    },
+    {
+      "code": "32.01.19.2007",
+      "region": "Bogor",
+      "kecamatan": "Jasinga",
+      "kelurahan": "Cikopomayak",
+      "fallback_parcels": 67,
+      "builtup_m2_before_masks": 285290.96743859915,
+      "eligible_developed_m2": 245662.06171321042
+    },
+    {
+      "code": "32.01.19.2010",
+      "region": "Bogor",
+      "kecamatan": "Jasinga",
+      "kelurahan": "Bagoang",
+      "fallback_parcels": 94,
+      "builtup_m2_before_masks": 348180.63367011497,
+      "eligible_developed_m2": 285875.9239540922
+    },
+    {
+      "code": "32.01.30.2006",
+      "region": "Bogor",
+      "kecamatan": "Dramaga",
+      "kelurahan": "Purwasari",
+      "fallback_parcels": 99,
+      "builtup_m2_before_masks": 390887.36321563675,
+      "eligible_developed_m2": 318877.9613414564
+    },
+    {
+      "code": "32.01.30.2005",
+      "region": "Bogor",
+      "kecamatan": "Dramaga",
+      "kelurahan": "Petir",
+      "fallback_parcels": 206,
+      "builtup_m2_before_masks": 613396.6466478406,
+      "eligible_developed_m2": 501376.04025853664
+    },
+    {
+      "code": "32.01.30.2001",
+      "region": "Bogor",
+      "kecamatan": "Dramaga",
+      "kelurahan": "Sukadamai",
+      "fallback_parcels": 102,
+      "builtup_m2_before_masks": 396624.3667480125,
+      "eligible_developed_m2": 361762.4091816455
+    },
+    {
+      "code": "32.01.15.2013",
+      "region": "Bogor",
+      "kecamatan": "Ciampea",
+      "kelurahan": "Ciampea Udik",
+      "fallback_parcels": 127,
+      "builtup_m2_before_masks": 536313.726368817,
+      "eligible_developed_m2": 464844.3125034863
+    },
+    {
+      "code": "32.01.15.2006",
+      "region": "Bogor",
+      "kecamatan": "Ciampea",
+      "kelurahan": "Cibuntu",
+      "fallback_parcels": 102,
+      "builtup_m2_before_masks": 463068.7583070825,
+      "eligible_developed_m2": 402849.324355699
+    },
+    {
+      "code": "32.01.15.2002",
+      "region": "Bogor",
+      "kecamatan": "Ciampea",
+      "kelurahan": "Cinangka",
+      "fallback_parcels": 271,
+      "builtup_m2_before_masks": 803469.2346224901,
+      "eligible_developed_m2": 691510.3170783311
+    },
+    {
+      "code": "32.01.15.2007",
+      "region": "Bogor",
+      "kecamatan": "Ciampea",
+      "kelurahan": "Cicadas",
+      "fallback_parcels": 266,
+      "builtup_m2_before_masks": 681595.1024304507,
+      "eligible_developed_m2": 563712.025107653
+    },
+    {
+      "code": "32.01.15.2004",
+      "region": "Bogor",
+      "kecamatan": "Ciampea",
+      "kelurahan": "Bojongjengkol",
+      "fallback_parcels": 163,
+      "builtup_m2_before_masks": 558587.6559881626,
+      "eligible_developed_m2": 488887.23625336954
+    },
+    {
+      "code": "32.01.21.2002",
+      "region": "Bogor",
+      "kecamatan": "Nanggung",
+      "kelurahan": "Curugbitung",
+      "fallback_parcels": 158,
+      "builtup_m2_before_masks": 513226.978285539,
+      "eligible_developed_m2": 419664.7966979784
+    },
+    {
+      "code": "32.01.21.2009",
+      "region": "Bogor",
+      "kecamatan": "Nanggung",
+      "kelurahan": "Pangkaljaya",
+      "fallback_parcels": 87,
+      "builtup_m2_before_masks": 278753.9994612078,
+      "eligible_developed_m2": 245438.5348244733
+    },
+    {
+      "code": "32.01.21.2005",
+      "region": "Bogor",
+      "kecamatan": "Nanggung",
+      "kelurahan": "Hambaro",
+      "fallback_parcels": 98,
+      "builtup_m2_before_masks": 270805.0227205843,
+      "eligible_developed_m2": 246456.29955920918
+    },
+    {
+      "code": "32.01.21.2003",
+      "region": "Bogor",
+      "kecamatan": "Nanggung",
+      "kelurahan": "Cisarua",
+      "fallback_parcels": 258,
+      "builtup_m2_before_masks": 537354.156062659,
+      "eligible_developed_m2": 468350.70263220445
+    },
+    {
+      "code": "32.01.21.2007",
+      "region": "Bogor",
+      "kecamatan": "Nanggung",
+      "kelurahan": "Nanggung",
+      "fallback_parcels": 106,
+      "builtup_m2_before_masks": 375648.48188799206,
+      "eligible_developed_m2": 331798.85276817204
+    },
+    {
+      "code": "32.01.16.2001",
+      "region": "Bogor",
+      "kecamatan": "Cibungbulang",
+      "kelurahan": "Situ Udik",
+      "fallback_parcels": 196,
+      "builtup_m2_before_masks": 753318.8279798507,
+      "eligible_developed_m2": 682611.7589513882
+    },
+    {
+      "code": "32.01.16.2002",
+      "region": "Bogor",
+      "kecamatan": "Cibungbulang",
+      "kelurahan": "Situ Ilir",
+      "fallback_parcels": 120,
+      "builtup_m2_before_masks": 512708.9154293747,
+      "eligible_developed_m2": 460864.1251004975
+    },
+    {
+      "code": "32.01.16.2005",
+      "region": "Bogor",
+      "kecamatan": "Cibungbulang",
+      "kelurahan": "Ciaruteun Udik",
+      "fallback_parcels": 77,
+      "builtup_m2_before_masks": 323604.6609293593,
+      "eligible_developed_m2": 293778.00940905785
+    },
+    {
+      "code": "32.01.16.2012",
+      "region": "Bogor",
+      "kecamatan": "Cibungbulang",
+      "kelurahan": "Cibatok II",
+      "fallback_parcels": 104,
+      "builtup_m2_before_masks": 452128.00289980415,
+      "eligible_developed_m2": 389994.2527441629
+    },
+    {
+      "code": "32.01.16.2013",
+      "region": "Bogor",
+      "kecamatan": "Cibungbulang",
+      "kelurahan": "Sukamaju",
+      "fallback_parcels": 75,
+      "builtup_m2_before_masks": 442777.23127020977,
+      "eligible_developed_m2": 399633.96375950356
+    },
+    {
+      "code": "32.01.16.2009",
+      "region": "Bogor",
+      "kecamatan": "Cibungbulang",
+      "kelurahan": "Dukuh",
+      "fallback_parcels": 68,
+      "builtup_m2_before_masks": 403997.74706329335,
+      "eligible_developed_m2": 332174.18148046284
+    },
+    {
+      "code": "32.01.16.2014",
+      "region": "Bogor",
+      "kecamatan": "Cibungbulang",
+      "kelurahan": "Galuga",
+      "fallback_parcels": 87,
+      "builtup_m2_before_masks": 356990.65601550153,
+      "eligible_developed_m2": 320709.90762180375
+    },
+    {
+      "code": "32.01.39.2007",
+      "region": "Bogor",
+      "kecamatan": "Leuwisadeng",
+      "kelurahan": "Sadeng",
+      "fallback_parcels": 97,
+      "builtup_m2_before_masks": 598475.004187737,
+      "eligible_developed_m2": 516364.1398858949
+    },
+    {
+      "code": "32.01.39.2004",
+      "region": "Bogor",
+      "kecamatan": "Leuwisadeng",
+      "kelurahan": "Wangunjaya",
+      "fallback_parcels": 87,
+      "builtup_m2_before_masks": 336381.00063742156,
+      "eligible_developed_m2": 307215.9245986471
+    },
+    {
+      "code": "32.01.39.2003",
+      "region": "Bogor",
+      "kecamatan": "Leuwisadeng",
+      "kelurahan": "Sadengkolot",
+      "fallback_parcels": 154,
+      "builtup_m2_before_masks": 523882.06595683226,
+      "eligible_developed_m2": 462816.1278549223
+    },
+    {
+      "code": "32.01.39.2002",
+      "region": "Bogor",
+      "kecamatan": "Leuwisadeng",
+      "kelurahan": "Babakan Sadeng",
+      "fallback_parcels": 49,
+      "builtup_m2_before_masks": 352798.7591245896,
+      "eligible_developed_m2": 329949.5896575743
+    },
+    {
+      "code": "32.01.33.2008",
+      "region": "Bogor",
+      "kecamatan": "Ciseeng",
+      "kelurahan": "Cihowe",
+      "fallback_parcels": 90,
+      "builtup_m2_before_masks": 383460.28720137774,
+      "eligible_developed_m2": 285805.45375627046
+    },
+    {
+      "code": "32.01.10.2002",
+      "region": "Bogor",
+      "kecamatan": "Parung",
+      "kelurahan": "Iwul",
+      "fallback_parcels": 186,
+      "builtup_m2_before_masks": 561176.4419483384,
+      "eligible_developed_m2": 500119.4080356164
+    },
+    {
+      "code": "32.01.10.2003",
+      "region": "Bogor",
+      "kecamatan": "Parung",
+      "kelurahan": "Bojong Sempu",
+      "fallback_parcels": 88,
+      "builtup_m2_before_masks": 610634.8981305595,
+      "eligible_developed_m2": 510922.30013114744
+    },
+    {
+      "code": "32.01.14.2005",
+      "region": "Bogor",
+      "kecamatan": "Leuwiliang",
+      "kelurahan": "Karacak",
+      "fallback_parcels": 160,
+      "builtup_m2_before_masks": 523232.39631946996,
+      "eligible_developed_m2": 436603.52045363904
+    },
+    {
+      "code": "32.01.14.2003",
+      "region": "Bogor",
+      "kecamatan": "Leuwiliang",
+      "kelurahan": "Karyasari",
+      "fallback_parcels": 138,
+      "builtup_m2_before_masks": 344634.9917420858,
+      "eligible_developed_m2": 294584.25104047405
+    },
+    {
+      "code": "32.01.17.2009",
+      "region": "Bogor",
+      "kecamatan": "Pamijahan",
+      "kelurahan": "Cibening",
+      "fallback_parcels": 150,
+      "builtup_m2_before_masks": 735452.9686750972,
+      "eligible_developed_m2": 640159.7854428303
+    },
+    {
+      "code": "32.01.17.2011",
+      "region": "Bogor",
+      "kecamatan": "Pamijahan",
+      "kelurahan": "Cibitung Kulon",
+      "fallback_parcels": 78,
+      "builtup_m2_before_masks": 279702.6358006421,
+      "eligible_developed_m2": 255929.00637005645
+    },
+    {
+      "code": "32.01.17.2003",
+      "region": "Bogor",
+      "kecamatan": "Pamijahan",
+      "kelurahan": "Cibitung Wetan",
+      "fallback_parcels": 125,
+      "builtup_m2_before_masks": 288796.30993432907,
+      "eligible_developed_m2": 248894.34780248182
+    },
+    {
+      "code": "32.01.17.2007",
+      "region": "Bogor",
+      "kecamatan": "Pamijahan",
+      "kelurahan": "Cimayang",
+      "fallback_parcels": 72,
+      "builtup_m2_before_masks": 326132.9094270169,
+      "eligible_developed_m2": 279511.9167417342
+    },
+    {
+      "code": "32.01.17.2010",
+      "region": "Bogor",
+      "kecamatan": "Pamijahan",
+      "kelurahan": "Gunung Bunder I",
+      "fallback_parcels": 160,
+      "builtup_m2_before_masks": 493678.36258431344,
+      "eligible_developed_m2": 426369.2489198132
+    },
+    {
+      "code": "32.01.17.2006",
+      "region": "Bogor",
+      "kecamatan": "Pamijahan",
+      "kelurahan": "Pasarean",
+      "fallback_parcels": 122,
+      "builtup_m2_before_masks": 573147.809569085,
+      "eligible_developed_m2": 505258.679617426
+    },
+    {
+      "code": "32.01.38.2009",
+      "region": "Bogor",
+      "kecamatan": "Cigombong",
+      "kelurahan": "Ciadeg",
+      "fallback_parcels": 171,
+      "builtup_m2_before_masks": 806656.0279917526,
+      "eligible_developed_m2": 660185.9424270431
+    },
+    {
+      "code": "32.01.40.2006",
+      "region": "Bogor",
+      "kecamatan": "Tenjolaya",
+      "kelurahan": "Gunung Malang",
+      "fallback_parcels": 158,
+      "builtup_m2_before_masks": 468817.9028913188,
+      "eligible_developed_m2": 377465.20959510945
+    },
+    {
+      "code": "32.01.40.2007",
+      "region": "Bogor",
+      "kecamatan": "Tenjolaya",
+      "kelurahan": "Gunung Mulya",
+      "fallback_parcels": 116,
+      "builtup_m2_before_masks": 363997.1530092902,
+      "eligible_developed_m2": 295092.9473700795
+    },
+    {
+      "code": "32.01.40.2002",
+      "region": "Bogor",
+      "kecamatan": "Tenjolaya",
+      "kelurahan": "Tapos II",
+      "fallback_parcels": 88,
+      "builtup_m2_before_masks": 377035.5104376372,
+      "eligible_developed_m2": 339531.3214423238
+    },
+    {
+      "code": "32.01.40.2003",
+      "region": "Bogor",
+      "kecamatan": "Tenjolaya",
+      "kelurahan": "Cibitung Tengah",
+      "fallback_parcels": 131,
+      "builtup_m2_before_masks": 595499.6344115817,
+      "eligible_developed_m2": 542666.1239293898
+    },
+    {
+      "code": "32.01.40.2004",
+      "region": "Bogor",
+      "kecamatan": "Tenjolaya",
+      "kelurahan": "Situdaun",
+      "fallback_parcels": 139,
+      "builtup_m2_before_masks": 511384.6239669925,
+      "eligible_developed_m2": 436974.1685090545
+    },
+    {
+      "code": "32.01.40.2005",
+      "region": "Bogor",
+      "kecamatan": "Tenjolaya",
+      "kelurahan": "Cinangneng",
+      "fallback_parcels": 84,
+      "builtup_m2_before_masks": 530791.0063241075,
+      "eligible_developed_m2": 439906.53185913805
+    },
+    {
+      "code": "32.01.22.2011",
+      "region": "Bogor",
+      "kecamatan": "Cigudeg",
+      "kelurahan": "Sukaraksa",
+      "fallback_parcels": 103,
+      "builtup_m2_before_masks": 446693.5481809689,
+      "eligible_developed_m2": 341767.92666445783
+    },
+    {
+      "code": "32.01.35.2009",
+      "region": "Bogor",
+      "kecamatan": "Sukajaya",
+      "kelurahan": "Pasir Madang",
+      "fallback_parcels": 102,
+      "builtup_m2_before_masks": 224584.02017920715,
+      "eligible_developed_m2": 184265.97274445003
+    },
+    {
+      "code": "32.01.22.2001",
+      "region": "Bogor",
+      "kecamatan": "Cigudeg",
+      "kelurahan": "Sukamaju",
+      "fallback_parcels": 82,
+      "builtup_m2_before_masks": 372720.5595904233,
+      "eligible_developed_m2": 320245.67184996145
+    },
+    {
+      "code": "32.01.22.2010",
+      "region": "Bogor",
+      "kecamatan": "Cigudeg",
+      "kelurahan": "Wargajaya",
+      "fallback_parcels": 84,
+      "builtup_m2_before_masks": 271342.8445346479,
+      "eligible_developed_m2": 245815.4447225984
+    },
+    {
+      "code": "32.01.19.2011",
+      "region": "Bogor",
+      "kecamatan": "Jasinga",
+      "kelurahan": "Pangaur",
+      "fallback_parcels": 89,
+      "builtup_m2_before_masks": 256326.18001600233,
+      "eligible_developed_m2": 219803.2576372172
+    },
+    {
+      "code": "32.01.06.2012",
+      "region": "Bogor",
+      "kecamatan": "Jonggol",
+      "kelurahan": "Balekambang",
+      "fallback_parcels": 291,
+      "builtup_m2_before_masks": 330551.771318113,
+      "eligible_developed_m2": 287240.36033269635
+    },
+    {
+      "code": "32.01.06.2005",
+      "region": "Bogor",
+      "kecamatan": "Jonggol",
+      "kelurahan": "Sukanegara",
+      "fallback_parcels": 86,
+      "builtup_m2_before_masks": 375439.4829229431,
+      "eligible_developed_m2": 305721.8720046373
+    },
+    {
+      "code": "32.01.06.2013",
+      "region": "Bogor",
+      "kecamatan": "Jonggol",
+      "kelurahan": "Sukajaya",
+      "fallback_parcels": 171,
+      "builtup_m2_before_masks": 302628.89200556814,
+      "eligible_developed_m2": 254837.6741595382
+    },
+    {
+      "code": "32.01.08.2007",
+      "region": "Bogor",
+      "kecamatan": "Cariu",
+      "kelurahan": "Bantarkuning",
+      "fallback_parcels": 172,
+      "builtup_m2_before_masks": 460287.35913001024,
+      "eligible_developed_m2": 385269.8538753987
+    },
+    {
+      "code": "32.01.08.2010",
+      "region": "Bogor",
+      "kecamatan": "Cariu",
+      "kelurahan": "Cibatutiga",
+      "fallback_parcels": 139,
+      "builtup_m2_before_masks": 327348.0657854033,
+      "eligible_developed_m2": 265133.87583578954
+    },
+    {
+      "code": "32.01.08.2001",
+      "region": "Bogor",
+      "kecamatan": "Cariu",
+      "kelurahan": "Karyamekar",
+      "fallback_parcels": 173,
+      "builtup_m2_before_masks": 260551.34440640334,
+      "eligible_developed_m2": 184253.8889883232
+    },
+    {
+      "code": "32.01.08.2004",
+      "region": "Bogor",
+      "kecamatan": "Cariu",
+      "kelurahan": "Kutamekar",
+      "fallback_parcels": 130,
+      "builtup_m2_before_masks": 228871.7330199289,
+      "eligible_developed_m2": 201072.108374725
+    },
+    {
+      "code": "32.01.08.2006",
+      "region": "Bogor",
+      "kecamatan": "Cariu",
+      "kelurahan": "Mekarwangi",
+      "fallback_parcels": 151,
+      "builtup_m2_before_masks": 304666.66460970236,
+      "eligible_developed_m2": 257756.1508852996
+    },
+    {
+      "code": "32.01.09.2006",
+      "region": "Bogor",
+      "kecamatan": "Sukamakmur",
+      "kelurahan": "Sukaresmi",
+      "fallback_parcels": 248,
+      "builtup_m2_before_masks": 259008.8860818658,
+      "eligible_developed_m2": 234183.26501602694
+    },
+    {
+      "code": "32.01.36.2005",
+      "region": "Bogor",
+      "kecamatan": "Tanjungsari",
+      "kelurahan": "Pasirtanjung",
+      "fallback_parcels": 69,
+      "builtup_m2_before_masks": 245391.43615731786,
+      "eligible_developed_m2": 219850.92829010636
+    },
+    {
+      "code": "32.01.36.2002",
+      "region": "Bogor",
+      "kecamatan": "Tanjungsari",
+      "kelurahan": "Selawangi",
+      "fallback_parcels": 246,
+      "builtup_m2_before_masks": 515141.8887832877,
+      "eligible_developed_m2": 446359.9448912131
+    },
+    {
+      "code": "32.01.36.2007",
+      "region": "Bogor",
+      "kecamatan": "Tanjungsari",
+      "kelurahan": "Sukarasa",
+      "fallback_parcels": 204,
+      "builtup_m2_before_masks": 409345.0345867675,
+      "eligible_developed_m2": 359556.926014148
+    },
+    {
+      "code": "32.01.36.2003",
+      "region": "Bogor",
+      "kecamatan": "Tanjungsari",
+      "kelurahan": "Tanjungrasa",
+      "fallback_parcels": 185,
+      "builtup_m2_before_masks": 442017.70755389205,
+      "eligible_developed_m2": 357788.3310906344
+    },
+    {
+      "code": "32.01.21.2006",
+      "region": "Bogor",
+      "kecamatan": "Nanggung",
+      "kelurahan": "Kalongliud",
+      "fallback_parcels": 128,
+      "builtup_m2_before_masks": 447579.2384951002,
+      "eligible_developed_m2": 394891.30536396534
+    },
+    {
+      "code": "32.01.21.2010",
+      "region": "Bogor",
+      "kecamatan": "Nanggung",
+      "kelurahan": "Sukaluyu",
+      "fallback_parcels": 65,
+      "builtup_m2_before_masks": 258703.69945595798,
+      "eligible_developed_m2": 234107.54741850702
+    },
+    {
+      "code": "32.01.20.2002",
+      "region": "Bogor",
+      "kecamatan": "Parungpanjang",
+      "kelurahan": "Gorowong",
+      "fallback_parcels": 322,
+      "builtup_m2_before_masks": 1101162.0580835005,
+      "eligible_developed_m2": 828696.3681777521
+    },
+    {
+      "code": "32.01.39.2006",
+      "region": "Bogor",
+      "kecamatan": "Leuwisadeng",
+      "kelurahan": "Kalong II",
+      "fallback_parcels": 28,
+      "builtup_m2_before_masks": 218049.66077879592,
+      "eligible_developed_m2": 189230.3948902323
+    },
+    {
+      "code": "32.01.39.2005",
+      "region": "Bogor",
+      "kecamatan": "Leuwisadeng",
+      "kelurahan": "Kalong I",
+      "fallback_parcels": 62,
+      "builtup_m2_before_masks": 256858.66072652736,
+      "eligible_developed_m2": 215632.8352725345
+    },
+    {
+      "code": "32.01.22.2008",
+      "region": "Bogor",
+      "kecamatan": "Cigudeg",
+      "kelurahan": "Rengasjajar",
+      "fallback_parcels": 121,
+      "builtup_m2_before_masks": 1597273.4914977893,
+      "eligible_developed_m2": 742655.2648576215
+    },
+    {
+      "code": "32.01.36.2001",
+      "region": "Bogor",
+      "kecamatan": "Tanjungsari",
+      "kelurahan": "Tanjungsari",
+      "fallback_parcels": 132,
+      "builtup_m2_before_masks": 443425.6796400378,
+      "eligible_developed_m2": 389842.3456929294
+    },
+    {
+      "code": "32.01.09.2007",
+      "region": "Bogor",
+      "kecamatan": "Sukamakmur",
+      "kelurahan": "Sukamulya",
+      "fallback_parcels": 230,
+      "builtup_m2_before_masks": 402403.05625018856,
+      "eligible_developed_m2": 339140.9220074301
+    },
+    {
+      "code": "32.01.09.2010",
+      "region": "Bogor",
+      "kecamatan": "Sukamakmur",
+      "kelurahan": "Sukamakmur",
+      "fallback_parcels": 195,
+      "builtup_m2_before_masks": 388162.3896237638,
+      "eligible_developed_m2": 322277.95201032
+    },
+    {
+      "code": "36.71.03.1004",
+      "region": "Kota Tangerang",
+      "kecamatan": "Batuceper",
+      "kelurahan": "Poris Gaga Baru",
+      "fallback_parcels": 16,
+      "builtup_m2_before_masks": 750163.1829217337,
+      "eligible_developed_m2": 447003.6768907521
+    },
+    {
+      "code": "36.71.05.1005",
+      "region": "Kota Tangerang",
+      "kecamatan": "Cipondoh",
+      "kelurahan": "Kenanga",
+      "fallback_parcels": 67,
+      "builtup_m2_before_masks": 1341160.0572300865,
+      "eligible_developed_m2": 1216839.9858856532
+    },
+    {
+      "code": "32.01.19.2003",
+      "region": "Bogor",
+      "kecamatan": "Jasinga",
+      "kelurahan": "Kalongsawah",
+      "fallback_parcels": 89,
+      "builtup_m2_before_masks": 509259.6141723257,
+      "eligible_developed_m2": 350958.66199696425
+    },
+    {
+      "code": "36.71.07.1014",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karawaci",
+      "kelurahan": "Sukajadi",
+      "fallback_parcels": 28,
+      "builtup_m2_before_masks": 588682.022182334,
+      "eligible_developed_m2": 433899.3693601639
+    },
+    {
+      "code": "32.01.17.2014",
+      "region": "Bogor",
+      "kecamatan": "Pamijahan",
+      "kelurahan": "Gunung Sari",
+      "fallback_parcels": 330,
+      "builtup_m2_before_masks": 924463.334131756,
+      "eligible_developed_m2": 786443.3957906716
+    },
+    {
+      "code": "32.01.17.2008",
+      "region": "Bogor",
+      "kecamatan": "Pamijahan",
+      "kelurahan": "Pamijahan",
+      "fallback_parcels": 118,
+      "builtup_m2_before_masks": 633169.5203999884,
+      "eligible_developed_m2": 578790.8596749533
+    },
+    {
+      "code": "32.01.03.2010",
+      "region": "Bogor",
+      "kecamatan": "Citeureup",
+      "kelurahan": "Gunungsari",
+      "fallback_parcels": 200,
+      "builtup_m2_before_masks": 1223016.2863533692,
+      "eligible_developed_m2": 1089235.821955476
+    },
+    {
+      "code": "32.01.38.2007",
+      "region": "Bogor",
+      "kecamatan": "Cigombong",
+      "kelurahan": "Pasirjaya",
+      "fallback_parcels": 187,
+      "builtup_m2_before_masks": 415533.0930471215,
+      "eligible_developed_m2": 365115.8724182413
+    },
+    {
+      "code": "32.01.20.2004",
+      "region": "Bogor",
+      "kecamatan": "Parungpanjang",
+      "kelurahan": "Pingku",
+      "fallback_parcels": 203,
+      "builtup_m2_before_masks": 693970.5153554672,
+      "eligible_developed_m2": 508735.9345194515
+    },
+    {
+      "code": "32.01.08.2005",
+      "region": "Bogor",
+      "kecamatan": "Cariu",
+      "kelurahan": "Cariu",
+      "fallback_parcels": 205,
+      "builtup_m2_before_masks": 909495.3127200467,
+      "eligible_developed_m2": 786524.8197638516
+    },
+    {
+      "code": "32.01.16.2003",
+      "region": "Bogor",
+      "kecamatan": "Cibungbulang",
+      "kelurahan": "Cemplang",
+      "fallback_parcels": 123,
+      "builtup_m2_before_masks": 653408.2620024707,
+      "eligible_developed_m2": 562826.6340997438
+    },
+    {
+      "code": "36.74.06.1007",
+      "region": "Kota Tangerang Selatan",
+      "kecamatan": "Pamulang",
+      "kelurahan": "Bambu Apus",
+      "fallback_parcels": 232,
+      "builtup_m2_before_masks": 2017287.694467738,
+      "eligible_developed_m2": 1693474.0187531959
+    },
+    {
+      "code": "36.71.04.1001",
+      "region": "Kota Tangerang",
+      "kecamatan": "Benda",
+      "kelurahan": "Belendung",
+      "fallback_parcels": 98,
+      "builtup_m2_before_masks": 1563940.5197217583,
+      "eligible_developed_m2": 1391082.3436685097
+    },
+    {
+      "code": "32.01.14.2004",
+      "region": "Bogor",
+      "kecamatan": "Leuwiliang",
+      "kelurahan": "Pabangbon",
+      "fallback_parcels": 123,
+      "builtup_m2_before_masks": 161005.20903266367,
+      "eligible_developed_m2": 141072.07389597766
+    },
+    {
+      "code": "32.01.28.2001",
+      "region": "Bogor",
+      "kecamatan": "Cijeruk",
+      "kelurahan": "Cijeruk",
+      "fallback_parcels": 145,
+      "builtup_m2_before_masks": 525750.7322651235,
+      "eligible_developed_m2": 471272.61672920536
+    },
+    {
+      "code": "36.71.13.1003",
+      "region": "Kota Tangerang",
+      "kecamatan": "Larangan",
+      "kelurahan": "Cipadu",
+      "fallback_parcels": 32,
+      "builtup_m2_before_masks": 746378.7325144839,
+      "eligible_developed_m2": 694062.5864175698
+    },
+    {
+      "code": "36.71.03.1002",
+      "region": "Kota Tangerang",
+      "kecamatan": "Batuceper",
+      "kelurahan": "Batu Jaya",
+      "fallback_parcels": 19,
+      "builtup_m2_before_masks": 1018818.5289019983,
+      "eligible_developed_m2": 886257.0216731761
+    },
+    {
+      "code": "32.01.15.2005",
+      "region": "Bogor",
+      "kecamatan": "Ciampea",
+      "kelurahan": "Tegalwaru",
+      "fallback_parcels": 236,
+      "builtup_m2_before_masks": 693635.3507200871,
+      "eligible_developed_m2": 607851.7042408456
+    },
+    {
+      "code": "32.01.08.2003",
+      "region": "Bogor",
+      "kecamatan": "Cariu",
+      "kelurahan": "Cikutamahi",
+      "fallback_parcels": 130,
+      "builtup_m2_before_masks": 367823.1926484123,
+      "eligible_developed_m2": 327341.5397833881
+    },
+    {
+      "code": "32.01.15.2008",
+      "region": "Bogor",
+      "kecamatan": "Ciampea",
+      "kelurahan": "Cibadak",
+      "fallback_parcels": 144,
+      "builtup_m2_before_masks": 682046.7834984385,
+      "eligible_developed_m2": 582307.6225649837
+    },
+    {
+      "code": "32.01.21.2011",
+      "region": "Bogor",
+      "kecamatan": "Nanggung",
+      "kelurahan": "Batu Tulis",
+      "fallback_parcels": 67,
+      "builtup_m2_before_masks": 331597.26423544466,
+      "eligible_developed_m2": 287349.0706860655
+    },
+    {
+      "code": "32.01.30.2010",
+      "region": "Bogor",
+      "kecamatan": "Dramaga",
+      "kelurahan": "Neglasari",
+      "fallback_parcels": 79,
+      "builtup_m2_before_masks": 446992.16635841527,
+      "eligible_developed_m2": 329786.63920626446
+    },
+    {
+      "code": "36.71.03.1001",
+      "region": "Kota Tangerang",
+      "kecamatan": "Batuceper",
+      "kelurahan": "Batuceper",
+      "fallback_parcels": 108,
+      "builtup_m2_before_masks": 1142276.5121161889,
+      "eligible_developed_m2": 986084.4414999367
+    },
+    {
+      "code": "32.01.09.2003",
+      "region": "Bogor",
+      "kecamatan": "Sukamakmur",
+      "kelurahan": "Sukadamai",
+      "fallback_parcels": 256,
+      "builtup_m2_before_masks": 316449.7109141597,
+      "eligible_developed_m2": 277846.21538925986
+    },
+    {
+      "code": "36.71.11.1005",
+      "region": "Kota Tangerang",
+      "kecamatan": "Pinang",
+      "kelurahan": "Kunciran Indah",
+      "fallback_parcels": 114,
+      "builtup_m2_before_masks": 1571395.1937529054,
+      "eligible_developed_m2": 1399475.0999077465
+    },
+    {
+      "code": "32.01.15.2003",
+      "region": "Bogor",
+      "kecamatan": "Ciampea",
+      "kelurahan": "Cihideung Udik",
+      "fallback_parcels": 249,
+      "builtup_m2_before_masks": 945354.1167301593,
+      "eligible_developed_m2": 777498.7871651177
+    },
+    {
+      "code": "32.01.31.2008",
+      "region": "Bogor",
+      "kecamatan": "Tamansari",
+      "kelurahan": "Sukajadi",
+      "fallback_parcels": 187,
+      "builtup_m2_before_masks": 641617.0325644972,
+      "eligible_developed_m2": 545883.5008550491
+    },
+    {
+      "code": "32.01.06.2011",
+      "region": "Bogor",
+      "kecamatan": "Jonggol",
+      "kelurahan": "Singasari",
+      "fallback_parcels": 484,
+      "builtup_m2_before_masks": 742828.3048252409,
+      "eligible_developed_m2": 610616.1223486846
+    },
+    {
+      "code": "32.01.38.2003",
+      "region": "Bogor",
+      "kecamatan": "Cigombong",
+      "kelurahan": "Ciburuy",
+      "fallback_parcels": 180,
+      "builtup_m2_before_masks": 754987.4857740962,
+      "eligible_developed_m2": 657080.975305764
+    },
+    {
+      "code": "32.01.38.2008",
+      "region": "Bogor",
+      "kecamatan": "Cigombong",
+      "kelurahan": "Ciburayut",
+      "fallback_parcels": 240,
+      "builtup_m2_before_masks": 617598.8672504689,
+      "eligible_developed_m2": 557787.3807220771
+    },
+    {
+      "code": "36.71.09.1001",
+      "region": "Kota Tangerang",
+      "kecamatan": "Cibodas",
+      "kelurahan": "Cibodas",
+      "fallback_parcels": 57,
+      "builtup_m2_before_masks": 1175416.2577961718,
+      "eligible_developed_m2": 1069915.628560806
+    },
+    {
+      "code": "36.71.02.1002",
+      "region": "Kota Tangerang",
+      "kecamatan": "Jatiuwung",
+      "kelurahan": "Jatake",
+      "fallback_parcels": 42,
+      "builtup_m2_before_masks": 902514.4769045743,
+      "eligible_developed_m2": 803821.7941220781
+    },
+    {
+      "code": "36.71.06.1005",
+      "region": "Kota Tangerang",
+      "kecamatan": "Ciledug",
+      "kelurahan": "Parung Serab",
+      "fallback_parcels": 73,
+      "builtup_m2_before_masks": 1009768.799019059,
+      "eligible_developed_m2": 886372.323161521
+    },
+    {
+      "code": "32.75.07.1003",
+      "region": "Kota Bekasi",
+      "kecamatan": "Bantargebang",
+      "kelurahan": "Bantargebang",
+      "fallback_parcels": 144,
+      "builtup_m2_before_masks": 2952707.8333146595,
+      "eligible_developed_m2": 2635275.8154279613
+    },
+    {
+      "code": "32.01.36.2004",
+      "region": "Bogor",
+      "kecamatan": "Tanjungsari",
+      "kelurahan": "Antajaya",
+      "fallback_parcels": 152,
+      "builtup_m2_before_masks": 282323.2347120223,
+      "eligible_developed_m2": 254151.31752009792
+    },
+    {
+      "code": "32.75.07.1004",
+      "region": "Kota Bekasi",
+      "kecamatan": "Bantargebang",
+      "kelurahan": "Cikiwul",
+      "fallback_parcels": 113,
+      "builtup_m2_before_masks": 3752366.6883914256,
+      "eligible_developed_m2": 3383420.380961398
+    },
+    {
+      "code": "32.01.27.2002",
+      "region": "Bogor",
+      "kecamatan": "Caringin",
+      "kelurahan": "Cimande Hilir",
+      "fallback_parcels": 92,
+      "builtup_m2_before_masks": 613950.1925628464,
+      "eligible_developed_m2": 502959.4180309779
+    },
+    {
+      "code": "32.01.31.2007",
+      "region": "Bogor",
+      "kecamatan": "Tamansari",
+      "kelurahan": "Sukajaya",
+      "fallback_parcels": 217,
+      "builtup_m2_before_masks": 647699.3963647967,
+      "eligible_developed_m2": 490306.54106251895
+    },
+    {
+      "code": "32.01.33.2009",
+      "region": "Bogor",
+      "kecamatan": "Ciseeng",
+      "kelurahan": "Cibeuteung Muara",
+      "fallback_parcels": 175,
+      "builtup_m2_before_masks": 682280.7292126922,
+      "eligible_developed_m2": 567705.4972423433
+    },
+    {
+      "code": "32.01.17.2005",
+      "region": "Bogor",
+      "kecamatan": "Pamijahan",
+      "kelurahan": "Gunung Bunder II",
+      "fallback_parcels": 190,
+      "builtup_m2_before_masks": 581658.2712475241,
+      "eligible_developed_m2": 493369.81888611225
+    },
+    {
+      "code": "32.01.15.2009",
+      "region": "Bogor",
+      "kecamatan": "Ciampea",
+      "kelurahan": "Bojongrangkas",
+      "fallback_parcels": 99,
+      "builtup_m2_before_masks": 685866.0814714084,
+      "eligible_developed_m2": 576886.23118341
+    },
+    {
+      "code": "32.01.10.2008",
+      "region": "Bogor",
+      "kecamatan": "Parung",
+      "kelurahan": "Bojong Indah",
+      "fallback_parcels": 46,
+      "builtup_m2_before_masks": 637419.3824604269,
+      "eligible_developed_m2": 549839.6584467322
+    },
+    {
+      "code": "32.01.33.2007",
+      "region": "Bogor",
+      "kecamatan": "Ciseeng",
+      "kelurahan": "Babakan",
+      "fallback_parcels": 269,
+      "builtup_m2_before_masks": 1027694.8367468758,
+      "eligible_developed_m2": 936850.0788648636
+    },
+    {
+      "code": "32.01.19.2008",
+      "region": "Bogor",
+      "kecamatan": "Jasinga",
+      "kelurahan": "Setu",
+      "fallback_parcels": 67,
+      "builtup_m2_before_masks": 289101.22553064843,
+      "eligible_developed_m2": 243968.95632096674
+    },
+    {
+      "code": "32.01.12.2004",
+      "region": "Bogor",
+      "kecamatan": "Kemang",
+      "kelurahan": "Pabuaran",
+      "fallback_parcels": 289,
+      "builtup_m2_before_masks": 992270.6902555675,
+      "eligible_developed_m2": 878814.0410422374
+    },
+    {
+      "code": "36.03.08.2010",
+      "region": "Tangerang",
+      "kecamatan": "Mauk",
+      "kelurahan": "Jatiwaringin",
+      "fallback_parcels": 46,
+      "builtup_m2_before_masks": 634553.5078963642,
+      "eligible_developed_m2": 562706.2207449288
+    },
+    {
+      "code": "32.01.16.2007",
+      "region": "Bogor",
+      "kecamatan": "Cibungbulang",
+      "kelurahan": "Cimanggu I",
+      "fallback_parcels": 118,
+      "builtup_m2_before_masks": 479367.8907644769,
+      "eligible_developed_m2": 400089.6753762264
+    },
+    {
+      "code": "36.71.07.1001",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karawaci",
+      "kelurahan": "Karawaci",
+      "fallback_parcels": 44,
+      "builtup_m2_before_masks": 640705.177637083,
+      "eligible_developed_m2": 478975.8452618368
+    },
+    {
+      "code": "36.71.07.1008",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karawaci",
+      "kelurahan": "Sumur Pacing",
+      "fallback_parcels": 11,
+      "builtup_m2_before_masks": 220579.130774342,
+      "eligible_developed_m2": 198046.42015080276
+    },
+    {
+      "code": "32.01.32.2009",
+      "region": "Bogor",
+      "kecamatan": "Klapanunggal",
+      "kelurahan": "Ligarmukti",
+      "fallback_parcels": 160,
+      "builtup_m2_before_masks": 171780.6026037126,
+      "eligible_developed_m2": 150437.2762061119
+    },
+    {
+      "code": "32.01.16.2006",
+      "region": "Bogor",
+      "kecamatan": "Cibungbulang",
+      "kelurahan": "Leuweungkolot",
+      "fallback_parcels": 86,
+      "builtup_m2_before_masks": 414599.70496483275,
+      "eligible_developed_m2": 350666.218832654
+    },
+    {
+      "code": "32.01.33.2005",
+      "region": "Bogor",
+      "kecamatan": "Ciseeng",
+      "kelurahan": "Cibeuteung Udik",
+      "fallback_parcels": 201,
+      "builtup_m2_before_masks": 625577.6392324679,
+      "eligible_developed_m2": 561009.1739395414
+    },
+    {
+      "code": "32.01.17.2004",
+      "region": "Bogor",
+      "kecamatan": "Pamijahan",
+      "kelurahan": "Gunung Menyan",
+      "fallback_parcels": 94,
+      "builtup_m2_before_masks": 365294.0830378811,
+      "eligible_developed_m2": 280204.06628997275
+    },
+    {
+      "code": "36.71.13.1006",
+      "region": "Kota Tangerang",
+      "kecamatan": "Larangan",
+      "kelurahan": "Gaga",
+      "fallback_parcels": 57,
+      "builtup_m2_before_masks": 993139.5134343385,
+      "eligible_developed_m2": 906454.9912387729
+    },
+    {
+      "code": "32.01.35.2006",
+      "region": "Bogor",
+      "kecamatan": "Sukajaya",
+      "kelurahan": "Kiarapandak",
+      "fallback_parcels": 90,
+      "builtup_m2_before_masks": 255370.12858576112,
+      "eligible_developed_m2": 217001.5078446006
+    },
+    {
+      "code": "32.01.14.2008",
+      "region": "Bogor",
+      "kecamatan": "Leuwiliang",
+      "kelurahan": "Puraseda",
+      "fallback_parcels": 105,
+      "builtup_m2_before_masks": 348823.6549707579,
+      "eligible_developed_m2": 302384.2323693932
+    },
+    {
+      "code": "32.01.30.2004",
+      "region": "Bogor",
+      "kecamatan": "Dramaga",
+      "kelurahan": "Sukawening",
+      "fallback_parcels": 108,
+      "builtup_m2_before_masks": 406892.712021094,
+      "eligible_developed_m2": 375039.4670503865
+    },
+    {
+      "code": "32.01.22.2013",
+      "region": "Bogor",
+      "kecamatan": "Cigudeg",
+      "kelurahan": "Banyuasih",
+      "fallback_parcels": 28,
+      "builtup_m2_before_masks": 119899.31896932957,
+      "eligible_developed_m2": 97684.2055292988
+    },
+    {
+      "code": "32.01.09.2009",
+      "region": "Bogor",
+      "kecamatan": "Sukamakmur",
+      "kelurahan": "Sirnajaya",
+      "fallback_parcels": 231,
+      "builtup_m2_before_masks": 467252.97629763646,
+      "eligible_developed_m2": 408118.32030099304
+    },
+    {
+      "code": "32.01.38.2005",
+      "region": "Bogor",
+      "kecamatan": "Cigombong",
+      "kelurahan": "Cisalada",
+      "fallback_parcels": 88,
+      "builtup_m2_before_masks": 396034.97232762305,
+      "eligible_developed_m2": 317916.9475224404
+    },
+    {
+      "code": "32.01.20.2001",
+      "region": "Bogor",
+      "kecamatan": "Parungpanjang",
+      "kelurahan": "Jagabaya",
+      "fallback_parcels": 259,
+      "builtup_m2_before_masks": 674822.0373511052,
+      "eligible_developed_m2": 553018.1242043269
+    },
+    {
+      "code": "32.01.03.2002",
+      "region": "Bogor",
+      "kecamatan": "Citeureup",
+      "kelurahan": "Citeureup",
+      "fallback_parcels": 32,
+      "builtup_m2_before_masks": 2466181.959571434,
+      "eligible_developed_m2": 1126792.6220538742
+    },
+    {
+      "code": "32.01.11.2002",
+      "region": "Bogor",
+      "kecamatan": "Gunungsindur",
+      "kelurahan": "Padurenan",
+      "fallback_parcels": 175,
+      "builtup_m2_before_masks": 1157390.6204192638,
+      "eligible_developed_m2": 1045536.7367929881
+    },
+    {
+      "code": "32.01.10.2007",
+      "region": "Bogor",
+      "kecamatan": "Parung",
+      "kelurahan": "Waru Jaya",
+      "fallback_parcels": 189,
+      "builtup_m2_before_masks": 1064966.2829530197,
+      "eligible_developed_m2": 943323.3098675298
+    },
+    {
+      "code": "32.01.23.2002",
+      "region": "Bogor",
+      "kecamatan": "Tenjo",
+      "kelurahan": "Ciomas",
+      "fallback_parcels": 87,
+      "builtup_m2_before_masks": 261081.94470299504,
+      "eligible_developed_m2": 215941.92355923826
+    },
+    {
+      "code": "32.01.35.2007",
+      "region": "Bogor",
+      "kecamatan": "Sukajaya",
+      "kelurahan": "Harkatjaya",
+      "fallback_parcels": 105,
+      "builtup_m2_before_masks": 301838.571326465,
+      "eligible_developed_m2": 257466.19374291197
+    },
+    {
+      "code": "32.75.05.1004",
+      "region": "Kota Bekasi",
+      "kecamatan": "Rawalumbu",
+      "kelurahan": "Bojongmenteng",
+      "fallback_parcels": 142,
+      "builtup_m2_before_masks": 3159683.8725541006,
+      "eligible_developed_m2": 2791931.1999147288
+    },
+    {
+      "code": "32.01.10.2005",
+      "region": "Bogor",
+      "kecamatan": "Parung",
+      "kelurahan": "Cogreg",
+      "fallback_parcels": 341,
+      "builtup_m2_before_masks": 1471571.428301537,
+      "eligible_developed_m2": 1252244.327123765
+    },
+    {
+      "code": "32.01.24.2004",
+      "region": "Bogor",
+      "kecamatan": "Ciawi",
+      "kelurahan": "Jambuluwuk",
+      "fallback_parcels": 52,
+      "builtup_m2_before_masks": 389120.7127916413,
+      "eligible_developed_m2": 340650.4471837562
+    },
+    {
+      "code": "32.01.28.2003",
+      "region": "Bogor",
+      "kecamatan": "Cijeruk",
+      "kelurahan": "Warungmenteng",
+      "fallback_parcels": 146,
+      "builtup_m2_before_masks": 500182.35731778835,
+      "eligible_developed_m2": 432422.88139945193
+    },
+    {
+      "code": "32.75.09.1001",
+      "region": "Kota Bekasi",
+      "kecamatan": "Jatiasih",
+      "kelurahan": "Jatimekar",
+      "fallback_parcels": 304,
+      "builtup_m2_before_masks": 2581905.3169780006,
+      "eligible_developed_m2": 2221859.0687104794
+    },
+    {
+      "code": "32.01.33.2003",
+      "region": "Bogor",
+      "kecamatan": "Ciseeng",
+      "kelurahan": "Parigi Mekar",
+      "fallback_parcels": 82,
+      "builtup_m2_before_masks": 698210.1933298224,
+      "eligible_developed_m2": 518551.08496130636
+    },
+    {
+      "code": "36.71.11.1001",
+      "region": "Kota Tangerang",
+      "kecamatan": "Pinang",
+      "kelurahan": "Pinang",
+      "fallback_parcels": 156,
+      "builtup_m2_before_masks": 1342134.2832978875,
+      "eligible_developed_m2": 1139052.5175876182
+    },
+    {
+      "code": "36.71.06.1006",
+      "region": "Kota Tangerang",
+      "kecamatan": "Ciledug",
+      "kelurahan": "Sudimara Jaya",
+      "fallback_parcels": 20,
+      "builtup_m2_before_masks": 792335.0707713688,
+      "eligible_developed_m2": 738734.370639044
+    },
+    {
+      "code": "32.01.19.2013",
+      "region": "Bogor",
+      "kecamatan": "Jasinga",
+      "kelurahan": "Jugalajaya",
+      "fallback_parcels": 45,
+      "builtup_m2_before_masks": 242910.59136127308,
+      "eligible_developed_m2": 195559.4695903786
+    },
+    {
+      "code": "32.01.14.2009",
+      "region": "Bogor",
+      "kecamatan": "Leuwiliang",
+      "kelurahan": "Cibeber I",
+      "fallback_parcels": 172,
+      "builtup_m2_before_masks": 744020.8764029589,
+      "eligible_developed_m2": 649365.2707937812
+    },
+    {
+      "code": "32.01.17.2012",
+      "region": "Bogor",
+      "kecamatan": "Pamijahan",
+      "kelurahan": "Gunung Picung",
+      "fallback_parcels": 248,
+      "builtup_m2_before_masks": 771307.314072572,
+      "eligible_developed_m2": 675152.8290263797
+    },
+    {
+      "code": "32.01.35.2002",
+      "region": "Bogor",
+      "kecamatan": "Sukajaya",
+      "kelurahan": "Kiarasari",
+      "fallback_parcels": 128,
+      "builtup_m2_before_masks": 390653.9143722032,
+      "eligible_developed_m2": 313831.6956709589
+    },
+    {
+      "code": "32.75.08.1003",
+      "region": "Kota Bekasi",
+      "kecamatan": "Pondokgede",
+      "kelurahan": "Jatimakmur",
+      "fallback_parcels": 315,
+      "builtup_m2_before_masks": 3658859.0681490744,
+      "eligible_developed_m2": 3192172.620216239
+    },
+    {
+      "code": "32.01.12.2008",
+      "region": "Bogor",
+      "kecamatan": "Kemang",
+      "kelurahan": "Pondok Udik",
+      "fallback_parcels": 210,
+      "builtup_m2_before_masks": 756654.9744195759,
+      "eligible_developed_m2": 642016.5720936618
+    },
+    {
+      "code": "32.75.09.1003",
+      "region": "Kota Bekasi",
+      "kecamatan": "Jatiasih",
+      "kelurahan": "Jatikramat",
+      "fallback_parcels": 233,
+      "builtup_m2_before_masks": 3021771.903088399,
+      "eligible_developed_m2": 2640560.421916372
+    },
+    {
+      "code": "32.01.14.2006",
+      "region": "Bogor",
+      "kecamatan": "Leuwiliang",
+      "kelurahan": "Barengkok",
+      "fallback_parcels": 185,
+      "builtup_m2_before_masks": 641095.3167866806,
+      "eligible_developed_m2": 521005.01916222234
+    },
+    {
+      "code": "36.71.07.1006",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karawaci",
+      "kelurahan": "Cimone Jaya",
+      "fallback_parcels": 55,
+      "builtup_m2_before_masks": 691014.3435053335,
+      "eligible_developed_m2": 599377.4130858177
+    },
+    {
+      "code": "32.01.16.2004",
+      "region": "Bogor",
+      "kecamatan": "Cibungbulang",
+      "kelurahan": "Cibatok I",
+      "fallback_parcels": 237,
+      "builtup_m2_before_masks": 623325.9837977189,
+      "eligible_developed_m2": 504902.18198709615
+    },
+    {
+      "code": "32.01.11.2001",
+      "region": "Bogor",
+      "kecamatan": "Gunungsindur",
+      "kelurahan": "Cidokom",
+      "fallback_parcels": 266,
+      "builtup_m2_before_masks": 797896.1973909315,
+      "eligible_developed_m2": 681411.3297057158
+    },
+    {
+      "code": "32.01.35.2010",
+      "region": "Bogor",
+      "kecamatan": "Sukajaya",
+      "kelurahan": "Urug",
+      "fallback_parcels": 48,
+      "builtup_m2_before_masks": 203824.83688660336,
+      "eligible_developed_m2": 184701.73045210683
+    },
+    {
+      "code": "36.71.11.1003",
+      "region": "Kota Tangerang",
+      "kecamatan": "Pinang",
+      "kelurahan": "Neroktog",
+      "fallback_parcels": 115,
+      "builtup_m2_before_masks": 1572654.8956650507,
+      "eligible_developed_m2": 1403533.5530904222
+    },
+    {
+      "code": "36.71.12.1003",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karang Tengah",
+      "kelurahan": "Pondok Bahar",
+      "fallback_parcels": 152,
+      "builtup_m2_before_masks": 826311.0613314435,
+      "eligible_developed_m2": 648607.8397511619
+    },
+    {
+      "code": "32.01.33.2002",
+      "region": "Bogor",
+      "kecamatan": "Ciseeng",
+      "kelurahan": "Ciseeng",
+      "fallback_parcels": 90,
+      "builtup_m2_before_masks": 556286.8364575477,
+      "eligible_developed_m2": 486681.58007987833
+    },
+    {
+      "code": "32.01.03.1006",
+      "region": "Bogor",
+      "kecamatan": "Citeureup",
+      "kelurahan": "Puspanegara",
+      "fallback_parcels": 17,
+      "builtup_m2_before_masks": 1094397.5642180783,
+      "eligible_developed_m2": 973668.9388114911
+    },
+    {
+      "code": "32.01.16.2015",
+      "region": "Bogor",
+      "kecamatan": "Cibungbulang",
+      "kelurahan": "Girimulya",
+      "fallback_parcels": 97,
+      "builtup_m2_before_masks": 510487.1468010211,
+      "eligible_developed_m2": 443363.02918012993
+    },
+    {
+      "code": "36.71.07.1013",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karawaci",
+      "kelurahan": "Gerendeng",
+      "fallback_parcels": 14,
+      "builtup_m2_before_masks": 553476.6917437563,
+      "eligible_developed_m2": 426759.17226662923
+    },
+    {
+      "code": "36.71.07.1005",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karawaci",
+      "kelurahan": "Cimone",
+      "fallback_parcels": 79,
+      "builtup_m2_before_masks": 704528.1202494347,
+      "eligible_developed_m2": 610360.3880003401
+    },
+    {
+      "code": "32.01.34.2002",
+      "region": "Bogor",
+      "kecamatan": "Rancabungur",
+      "kelurahan": "Bantarsari",
+      "fallback_parcels": 83,
+      "builtup_m2_before_masks": 432828.8480725284,
+      "eligible_developed_m2": 395732.95162284974
+    },
+    {
+      "code": "36.71.12.1004",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karang Tengah",
+      "kelurahan": "Pondok Pucung",
+      "fallback_parcels": 80,
+      "builtup_m2_before_masks": 693284.722266934,
+      "eligible_developed_m2": 588318.8991169848
+    },
+    {
+      "code": "32.01.31.2005",
+      "region": "Bogor",
+      "kecamatan": "Tamansari",
+      "kelurahan": "Sukaluyu",
+      "fallback_parcels": 213,
+      "builtup_m2_before_masks": 525206.391424357,
+      "eligible_developed_m2": 454597.8497038439
+    },
+    {
+      "code": "32.01.16.2010",
+      "region": "Bogor",
+      "kecamatan": "Cibungbulang",
+      "kelurahan": "Cijujung",
+      "fallback_parcels": 106,
+      "builtup_m2_before_masks": 396249.7201370708,
+      "eligible_developed_m2": 361357.79287123325
+    },
+    {
+      "code": "32.01.34.2001",
+      "region": "Bogor",
+      "kecamatan": "Rancabungur",
+      "kelurahan": "Bantarjaya",
+      "fallback_parcels": 193,
+      "builtup_m2_before_masks": 681713.3174572465,
+      "eligible_developed_m2": 447344.6415064945
+    },
+    {
+      "code": "36.71.11.1002",
+      "region": "Kota Tangerang",
+      "kecamatan": "Pinang",
+      "kelurahan": "Sudimara Pinang",
+      "fallback_parcels": 78,
+      "builtup_m2_before_masks": 1002787.0888779882,
+      "eligible_developed_m2": 865960.0219641313
+    },
+    {
+      "code": "32.01.17.2013",
+      "region": "Bogor",
+      "kecamatan": "Pamijahan",
+      "kelurahan": "Ciasihan",
+      "fallback_parcels": 128,
+      "builtup_m2_before_masks": 599466.0762064314,
+      "eligible_developed_m2": 390268.4522303336
+    },
+    {
+      "code": "32.01.21.2008",
+      "region": "Bogor",
+      "kecamatan": "Nanggung",
+      "kelurahan": "Parakanmuncang",
+      "fallback_parcels": 101,
+      "builtup_m2_before_masks": 344583.7260458316,
+      "eligible_developed_m2": 283501.09835993574
+    },
+    {
+      "code": "32.01.39.2008",
+      "region": "Bogor",
+      "kecamatan": "Leuwisadeng",
+      "kelurahan": "Sibanteng",
+      "fallback_parcels": 96,
+      "builtup_m2_before_masks": 497145.0990719123,
+      "eligible_developed_m2": 410462.97910935624
+    },
+    {
+      "code": "32.01.16.2008",
+      "region": "Bogor",
+      "kecamatan": "Cibungbulang",
+      "kelurahan": "Cimanggu II",
+      "fallback_parcels": 166,
+      "builtup_m2_before_masks": 534325.5623805362,
+      "eligible_developed_m2": 456914.2548042742
+    },
+    {
+      "code": "32.01.37.2004",
+      "region": "Bogor",
+      "kecamatan": "Tajurhalang",
+      "kelurahan": "Nanggerang",
+      "fallback_parcels": 267,
+      "builtup_m2_before_masks": 973970.2353331962,
+      "eligible_developed_m2": 842002.7671026253
+    },
+    {
+      "code": "32.01.33.2004",
+      "region": "Bogor",
+      "kecamatan": "Ciseeng",
+      "kelurahan": "Cibentang",
+      "fallback_parcels": 190,
+      "builtup_m2_before_masks": 677613.4265737485,
+      "eligible_developed_m2": 561009.083420835
+    },
+    {
+      "code": "32.01.19.2004",
+      "region": "Bogor",
+      "kecamatan": "Jasinga",
+      "kelurahan": "Sipak",
+      "fallback_parcels": 84,
+      "builtup_m2_before_masks": 544652.5609294453,
+      "eligible_developed_m2": 364134.39548013645
+    },
+    {
+      "code": "32.01.22.2003",
+      "region": "Bogor",
+      "kecamatan": "Cigudeg",
+      "kelurahan": "Bunar",
+      "fallback_parcels": 62,
+      "builtup_m2_before_masks": 468590.9857930476,
+      "eligible_developed_m2": 372139.17730539886
+    },
+    {
+      "code": "32.01.15.2001",
+      "region": "Bogor",
+      "kecamatan": "Ciampea",
+      "kelurahan": "Ciampea",
+      "fallback_parcels": 196,
+      "builtup_m2_before_masks": 679169.137980037,
+      "eligible_developed_m2": 565643.1163046038
+    },
+    {
+      "code": "32.01.03.1007",
+      "region": "Bogor",
+      "kecamatan": "Citeureup",
+      "kelurahan": "Karang Asem Barat",
+      "fallback_parcels": 129,
+      "builtup_m2_before_masks": 1837689.1185763658,
+      "eligible_developed_m2": 1636781.058322837
+    },
+    {
+      "code": "36.71.13.1001",
+      "region": "Kota Tangerang",
+      "kecamatan": "Larangan",
+      "kelurahan": "Larangan Utara",
+      "fallback_parcels": 69,
+      "builtup_m2_before_masks": 1137036.0066686156,
+      "eligible_developed_m2": 1007191.9340602024
+    },
+    {
+      "code": "36.71.05.1008",
+      "region": "Kota Tangerang",
+      "kecamatan": "Cipondoh",
+      "kelurahan": "Poris Plawad",
+      "fallback_parcels": 71,
+      "builtup_m2_before_masks": 1387372.9977052372,
+      "eligible_developed_m2": 999776.7150641076
+    },
+    {
+      "code": "32.01.39.2001",
+      "region": "Bogor",
+      "kecamatan": "Leuwisadeng",
+      "kelurahan": "Leuwisadeng",
+      "fallback_parcels": 243,
+      "builtup_m2_before_masks": 625618.1721947456,
+      "eligible_developed_m2": 549449.1276922302
+    },
+    {
+      "code": "36.71.10.1002",
+      "region": "Kota Tangerang",
+      "kecamatan": "Neglasari",
+      "kelurahan": "Karang Sari",
+      "fallback_parcels": 82,
+      "builtup_m2_before_masks": 1489747.3742905147,
+      "eligible_developed_m2": 1296213.557755592
+    },
+    {
+      "code": "32.01.22.2004",
+      "region": "Bogor",
+      "kecamatan": "Cigudeg",
+      "kelurahan": "Banyuresmi",
+      "fallback_parcels": 77,
+      "builtup_m2_before_masks": 267268.1199432737,
+      "eligible_developed_m2": 192982.26244349222
+    },
+    {
+      "code": "32.01.03.2014",
+      "region": "Bogor",
+      "kecamatan": "Citeureup",
+      "kelurahan": "Pasir Mukti",
+      "fallback_parcels": 88,
+      "builtup_m2_before_masks": 725529.6597664746,
+      "eligible_developed_m2": 579824.4331034708
+    },
+    {
+      "code": "32.75.02.1005",
+      "region": "Kota Bekasi",
+      "kecamatan": "Bekasi Barat",
+      "kelurahan": "Jakasampurna",
+      "fallback_parcels": 339,
+      "builtup_m2_before_masks": 4141418.1995362225,
+      "eligible_developed_m2": 3454999.212825878
+    },
+    {
+      "code": "32.01.30.2003",
+      "region": "Bogor",
+      "kecamatan": "Dramaga",
+      "kelurahan": "Sinarsari",
+      "fallback_parcels": 171,
+      "builtup_m2_before_masks": 508289.8478202328,
+      "eligible_developed_m2": 427109.89102394803
+    },
+    {
+      "code": "32.01.14.2007",
+      "region": "Bogor",
+      "kecamatan": "Leuwiliang",
+      "kelurahan": "Leuwimekar",
+      "fallback_parcels": 163,
+      "builtup_m2_before_masks": 853658.3052552012,
+      "eligible_developed_m2": 718442.0911360444
+    },
+    {
+      "code": "36.71.09.1006",
+      "region": "Kota Tangerang",
+      "kecamatan": "Cibodas",
+      "kelurahan": "Jatiuwung",
+      "fallback_parcels": 10,
+      "builtup_m2_before_masks": 954279.7438932173,
+      "eligible_developed_m2": 884277.0991662181
+    },
+    {
+      "code": "32.01.19.2005",
+      "region": "Bogor",
+      "kecamatan": "Jasinga",
+      "kelurahan": "Jasinga",
+      "fallback_parcels": 48,
+      "builtup_m2_before_masks": 290611.99512857606,
+      "eligible_developed_m2": 216390.99583239702
+    },
+    {
+      "code": "32.01.36.2008",
+      "region": "Bogor",
+      "kecamatan": "Tanjungsari",
+      "kelurahan": "Sirnasari",
+      "fallback_parcels": 76,
+      "builtup_m2_before_masks": 217874.26574457498,
+      "eligible_developed_m2": 188407.4836072133
+    },
+    {
+      "code": "32.01.27.2009",
+      "region": "Bogor",
+      "kecamatan": "Caringin",
+      "kelurahan": "Muarajaya",
+      "fallback_parcels": 78,
+      "builtup_m2_before_masks": 372189.0257524561,
+      "eligible_developed_m2": 333331.3269609395
+    },
+    {
+      "code": "32.01.14.2001",
+      "region": "Bogor",
+      "kecamatan": "Leuwiliang",
+      "kelurahan": "Leuwiliang",
+      "fallback_parcels": 163,
+      "builtup_m2_before_masks": 999570.2705593151,
+      "eligible_developed_m2": 844961.98595357
+    },
+    {
+      "code": "32.01.28.2002",
+      "region": "Bogor",
+      "kecamatan": "Cijeruk",
+      "kelurahan": "Cipelang",
+      "fallback_parcels": 197,
+      "builtup_m2_before_masks": 672160.9895206613,
+      "eligible_developed_m2": 596269.1506028873
+    },
+    {
+      "code": "36.71.12.1006",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karang Tengah",
+      "kelurahan": "Padurenan",
+      "fallback_parcels": 133,
+      "builtup_m2_before_masks": 833441.3220879206,
+      "eligible_developed_m2": 707016.8706683808
+    },
+    {
+      "code": "32.01.40.2001",
+      "region": "Bogor",
+      "kecamatan": "Tenjolaya",
+      "kelurahan": "Tapos I",
+      "fallback_parcels": 185,
+      "builtup_m2_before_masks": 550982.0444656,
+      "eligible_developed_m2": 490835.36488774326
+    },
+    {
+      "code": "32.01.24.2005",
+      "region": "Bogor",
+      "kecamatan": "Ciawi",
+      "kelurahan": "Banjarsari",
+      "fallback_parcels": 95,
+      "builtup_m2_before_masks": 586220.2027272808,
+      "eligible_developed_m2": 524679.2745952285
+    },
+    {
+      "code": "32.75.04.1004",
+      "region": "Kota Bekasi",
+      "kecamatan": "Bekasi Selatan",
+      "kelurahan": "Jakasetia",
+      "fallback_parcels": 255,
+      "builtup_m2_before_masks": 3277943.9938779026,
+      "eligible_developed_m2": 2733319.063016739
+    },
+    {
+      "code": "32.01.14.2010",
+      "region": "Bogor",
+      "kecamatan": "Leuwiliang",
+      "kelurahan": "Cibeber II",
+      "fallback_parcels": 175,
+      "builtup_m2_before_masks": 323402.71824027644,
+      "eligible_developed_m2": 279102.349186581
+    },
+    {
+      "code": "36.71.10.1006",
+      "region": "Kota Tangerang",
+      "kecamatan": "Neglasari",
+      "kelurahan": "Karang Anyar",
+      "fallback_parcels": 84,
+      "builtup_m2_before_masks": 1050400.7320970201,
+      "eligible_developed_m2": 912510.9245991127
+    },
+    {
+      "code": "32.01.34.2003",
+      "region": "Bogor",
+      "kecamatan": "Rancabungur",
+      "kelurahan": "Pasirgaok",
+      "fallback_parcels": 145,
+      "builtup_m2_before_masks": 467988.25974413654,
+      "eligible_developed_m2": 374903.4870656796
+    },
+    {
+      "code": "32.01.22.2014",
+      "region": "Bogor",
+      "kecamatan": "Cigudeg",
+      "kelurahan": "Mekarjaya",
+      "fallback_parcels": 80,
+      "builtup_m2_before_masks": 393170.0687976235,
+      "eligible_developed_m2": 239595.803108203
+    },
+    {
+      "code": "32.75.08.1002",
+      "region": "Kota Bekasi",
+      "kecamatan": "Pondokgede",
+      "kelurahan": "Jatibening",
+      "fallback_parcels": 286,
+      "builtup_m2_before_masks": 2897543.5748528834,
+      "eligible_developed_m2": 2416840.8235339383
+    },
+    {
+      "code": "32.01.05.2005",
+      "region": "Bogor",
+      "kecamatan": "Babakan Madang",
+      "kelurahan": "Cipambuan",
+      "fallback_parcels": 146,
+      "builtup_m2_before_masks": 731237.9298723625,
+      "eligible_developed_m2": 527462.2389824528
+    },
+    {
+      "code": "36.71.03.1006",
+      "region": "Kota Tangerang",
+      "kecamatan": "Batuceper",
+      "kelurahan": "Batu Sari",
+      "fallback_parcels": 40,
+      "builtup_m2_before_masks": 1023698.907613903,
+      "eligible_developed_m2": 915345.4609336416
+    },
+    {
+      "code": "36.71.02.1003",
+      "region": "Kota Tangerang",
+      "kecamatan": "Jatiuwung",
+      "kelurahan": "Pasir Jaya",
+      "fallback_parcels": 40,
+      "builtup_m2_before_masks": 3701123.8960081465,
+      "eligible_developed_m2": 2551307.381765975
+    },
+    {
+      "code": "32.01.14.2011",
+      "region": "Bogor",
+      "kecamatan": "Leuwiliang",
+      "kelurahan": "Karehkel",
+      "fallback_parcels": 116,
+      "builtup_m2_before_masks": 606516.4246481585,
+      "eligible_developed_m2": 430230.9943179785
+    },
+    {
+      "code": "32.01.22.2007",
+      "region": "Bogor",
+      "kecamatan": "Cigudeg",
+      "kelurahan": "Bangunjaya",
+      "fallback_parcels": 102,
+      "builtup_m2_before_masks": 584172.4051461999,
+      "eligible_developed_m2": 468937.0956686404
+    },
+    {
+      "code": "36.74.06.1006",
+      "region": "Kota Tangerang Selatan",
+      "kecamatan": "Pamulang",
+      "kelurahan": "Kedaung",
+      "fallback_parcels": 175,
+      "builtup_m2_before_masks": 2060582.850390663,
+      "eligible_developed_m2": 1812833.7550370416
+    },
+    {
+      "code": "32.01.22.2005",
+      "region": "Bogor",
+      "kecamatan": "Cigudeg",
+      "kelurahan": "Cintamanik",
+      "fallback_parcels": 41,
+      "builtup_m2_before_masks": 341188.2658792804,
+      "eligible_developed_m2": 232894.28198142844
+    },
+    {
+      "code": "32.01.04.2013",
+      "region": "Bogor",
+      "kecamatan": "Sukaraja",
+      "kelurahan": "Pasirlaja",
+      "fallback_parcels": 93,
+      "builtup_m2_before_masks": 761951.607282812,
+      "eligible_developed_m2": 506386.51886005444
+    },
+    {
+      "code": "32.01.38.2004",
+      "region": "Bogor",
+      "kecamatan": "Cigombong",
+      "kelurahan": "Srogol",
+      "fallback_parcels": 57,
+      "builtup_m2_before_masks": 449197.0793524862,
+      "eligible_developed_m2": 289940.40545964526
+    },
+    {
+      "code": "32.01.16.2011",
+      "region": "Bogor",
+      "kecamatan": "Cibungbulang",
+      "kelurahan": "Ciaruteun Ilir",
+      "fallback_parcels": 131,
+      "builtup_m2_before_masks": 598643.0539016483,
+      "eligible_developed_m2": 544995.3518670185
+    },
+    {
+      "code": "36.71.06.1002",
+      "region": "Kota Tangerang",
+      "kecamatan": "Ciledug",
+      "kelurahan": "Sudimara Barat",
+      "fallback_parcels": 70,
+      "builtup_m2_before_masks": 899307.038334837,
+      "eligible_developed_m2": 772550.7077803767
+    },
+    {
+      "code": "32.01.34.2007",
+      "region": "Bogor",
+      "kecamatan": "Rancabungur",
+      "kelurahan": "Cimulang",
+      "fallback_parcels": 116,
+      "builtup_m2_before_masks": 279637.19315779733,
+      "eligible_developed_m2": 249144.02600949723
+    },
+    {
+      "code": "36.71.11.1006",
+      "region": "Kota Tangerang",
+      "kecamatan": "Pinang",
+      "kelurahan": "Kunciran Jaya",
+      "fallback_parcels": 185,
+      "builtup_m2_before_masks": 756436.1945999409,
+      "eligible_developed_m2": 590239.1477612375
+    },
+    {
+      "code": "32.01.19.2009",
+      "region": "Bogor",
+      "kecamatan": "Jasinga",
+      "kelurahan": "Barengkok",
+      "fallback_parcels": 176,
+      "builtup_m2_before_masks": 343409.7419893164,
+      "eligible_developed_m2": 287482.69720422424
+    },
+    {
+      "code": "32.01.15.2011",
+      "region": "Bogor",
+      "kecamatan": "Ciampea",
+      "kelurahan": "Cibanteng",
+      "fallback_parcels": 116,
+      "builtup_m2_before_masks": 859362.6069023766,
+      "eligible_developed_m2": 683855.365211754
+    },
+    {
+      "code": "36.71.07.1015",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karawaci",
+      "kelurahan": "Pasar Baru",
+      "fallback_parcels": 19,
+      "builtup_m2_before_masks": 707403.1833404239,
+      "eligible_developed_m2": 486426.71627073595
+    },
+    {
+      "code": "32.01.27.2004",
+      "region": "Bogor",
+      "kecamatan": "Caringin",
+      "kelurahan": "Caringin",
+      "fallback_parcels": 96,
+      "builtup_m2_before_masks": 647396.929823003,
+      "eligible_developed_m2": 573224.3624332651
+    },
+    {
+      "code": "32.01.09.2005",
+      "region": "Bogor",
+      "kecamatan": "Sukamakmur",
+      "kelurahan": "Cibadak",
+      "fallback_parcels": 276,
+      "builtup_m2_before_masks": 492365.74877612427,
+      "eligible_developed_m2": 421895.44843551365
+    },
+    {
+      "code": "36.71.05.1009",
+      "region": "Kota Tangerang",
+      "kecamatan": "Cipondoh",
+      "kelurahan": "Poris Plawad Utara",
+      "fallback_parcels": 93,
+      "builtup_m2_before_masks": 1221636.7242523087,
+      "eligible_developed_m2": 1090573.4001762595
+    },
+    {
+      "code": "36.03.13.2005",
+      "region": "Tangerang",
+      "kecamatan": "Teluknaga",
+      "kelurahan": "Pangkalan",
+      "fallback_parcels": 84,
+      "builtup_m2_before_masks": 927622.7165804106,
+      "eligible_developed_m2": 720189.6699317708
+    },
+    {
+      "code": "32.01.34.2005",
+      "region": "Bogor",
+      "kecamatan": "Rancabungur",
+      "kelurahan": "Mekarsari",
+      "fallback_parcels": 147,
+      "builtup_m2_before_masks": 397700.6700004917,
+      "eligible_developed_m2": 328556.10044449434
+    },
+    {
+      "code": "32.01.27.2008",
+      "region": "Bogor",
+      "kecamatan": "Caringin",
+      "kelurahan": "Pancawati",
+      "fallback_parcels": 337,
+      "builtup_m2_before_masks": 908591.4979915577,
+      "eligible_developed_m2": 799178.108533426
+    },
+    {
+      "code": "32.01.24.2011",
+      "region": "Bogor",
+      "kecamatan": "Ciawi",
+      "kelurahan": "Banjarwangi",
+      "fallback_parcels": 110,
+      "builtup_m2_before_masks": 510325.8061168756,
+      "eligible_developed_m2": 436005.77769472863
+    },
+    {
+      "code": "32.01.38.2001",
+      "region": "Bogor",
+      "kecamatan": "Cigombong",
+      "kelurahan": "Cigombong",
+      "fallback_parcels": 118,
+      "builtup_m2_before_masks": 621431.9076429907,
+      "eligible_developed_m2": 515505.77882906824
+    },
+    {
+      "code": "32.01.19.2012",
+      "region": "Bogor",
+      "kecamatan": "Jasinga",
+      "kelurahan": "Pamagersari",
+      "fallback_parcels": 63,
+      "builtup_m2_before_masks": 328918.25310366513,
+      "eligible_developed_m2": 244477.48194600496
+    },
+    {
+      "code": "32.01.10.2004",
+      "region": "Bogor",
+      "kecamatan": "Parung",
+      "kelurahan": "Waru",
+      "fallback_parcels": 276,
+      "builtup_m2_before_masks": 1428522.1438177046,
+      "eligible_developed_m2": 1248628.5030994557
+    },
+    {
+      "code": "32.01.09.2008",
+      "region": "Bogor",
+      "kecamatan": "Sukamakmur",
+      "kelurahan": "Sukaharja",
+      "fallback_parcels": 239,
+      "builtup_m2_before_masks": 486619.40876767103,
+      "eligible_developed_m2": 418264.014783341
+    },
+    {
+      "code": "32.01.27.2001",
+      "region": "Bogor",
+      "kecamatan": "Caringin",
+      "kelurahan": "Pasirmuncang",
+      "fallback_parcels": 87,
+      "builtup_m2_before_masks": 442346.96456848766,
+      "eligible_developed_m2": 407938.56157339446
+    },
+    {
+      "code": "32.01.19.2001",
+      "region": "Bogor",
+      "kecamatan": "Jasinga",
+      "kelurahan": "Curug",
+      "fallback_parcels": 61,
+      "builtup_m2_before_masks": 243006.98127478827,
+      "eligible_developed_m2": 186323.10416117925
+    },
+    {
+      "code": "32.01.31.2004",
+      "region": "Bogor",
+      "kecamatan": "Tamansari",
+      "kelurahan": "Tamansari",
+      "fallback_parcels": 204,
+      "builtup_m2_before_masks": 923921.7198395764,
+      "eligible_developed_m2": 780396.693888984
+    },
+    {
+      "code": "32.01.27.2003",
+      "region": "Bogor",
+      "kecamatan": "Caringin",
+      "kelurahan": "Ciderum",
+      "fallback_parcels": 174,
+      "builtup_m2_before_masks": 807975.2112022114,
+      "eligible_developed_m2": 704562.9213505235
+    },
+    {
+      "code": "32.01.35.2004",
+      "region": "Bogor",
+      "kecamatan": "Sukajaya",
+      "kelurahan": "Sipayung",
+      "fallback_parcels": 106,
+      "builtup_m2_before_masks": 272845.0410141176,
+      "eligible_developed_m2": 227369.87385582158
+    },
+    {
+      "code": "32.75.10.1004",
+      "region": "Kota Bekasi",
+      "kecamatan": "Jatisampurna",
+      "kelurahan": "Jatirangga",
+      "fallback_parcels": 320,
+      "builtup_m2_before_masks": 2239507.310122244,
+      "eligible_developed_m2": 1969777.6777486824
+    },
+    {
+      "code": "32.01.35.2003",
+      "region": "Bogor",
+      "kecamatan": "Sukajaya",
+      "kelurahan": "Sukajaya",
+      "fallback_parcels": 76,
+      "builtup_m2_before_masks": 192740.9111415389,
+      "eligible_developed_m2": 159825.7734817078
+    },
+    {
+      "code": "36.71.12.1001",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karang Tengah",
+      "kelurahan": "Karang Tengah",
+      "fallback_parcels": 167,
+      "builtup_m2_before_masks": 1676822.4697029458,
+      "eligible_developed_m2": 1459102.7994378044
+    },
+    {
+      "code": "36.71.01.1003",
+      "region": "Kota Tangerang",
+      "kecamatan": "Tangerang",
+      "kelurahan": "Tanah Tinggi",
+      "fallback_parcels": 189,
+      "builtup_m2_before_masks": 2088904.7625894968,
+      "eligible_developed_m2": 1739408.1276928252
+    },
+    {
+      "code": "32.75.09.1002",
+      "region": "Kota Bekasi",
+      "kecamatan": "Jatiasih",
+      "kelurahan": "Jatiasih",
+      "fallback_parcels": 232,
+      "builtup_m2_before_masks": 2559030.158199744,
+      "eligible_developed_m2": 2204447.7063090657
+    },
+    {
+      "code": "32.01.31.2006",
+      "region": "Bogor",
+      "kecamatan": "Tamansari",
+      "kelurahan": "Sukaresmi",
+      "fallback_parcels": 153,
+      "builtup_m2_before_masks": 721205.7647841639,
+      "eligible_developed_m2": 576898.1050614534
+    },
+    {
+      "code": "32.01.33.2006",
+      "region": "Bogor",
+      "kecamatan": "Ciseeng",
+      "kelurahan": "Karihkil",
+      "fallback_parcels": 199,
+      "builtup_m2_before_masks": 688350.0670925566,
+      "eligible_developed_m2": 535198.9269697862
+    },
+    {
+      "code": "36.71.05.1001",
+      "region": "Kota Tangerang",
+      "kecamatan": "Cipondoh",
+      "kelurahan": "Cipondoh",
+      "fallback_parcels": 122,
+      "builtup_m2_before_masks": 1451779.8139035515,
+      "eligible_developed_m2": 1293199.3956989672
+    },
+    {
+      "code": "32.75.08.1006",
+      "region": "Kota Bekasi",
+      "kecamatan": "Pondokgede",
+      "kelurahan": "Jatibening Baru",
+      "fallback_parcels": 175,
+      "builtup_m2_before_masks": 2988301.077590407,
+      "eligible_developed_m2": 2637391.1101591154
+    },
+    {
+      "code": "36.71.13.1004",
+      "region": "Kota Tangerang",
+      "kecamatan": "Larangan",
+      "kelurahan": "Kreo",
+      "fallback_parcels": 32,
+      "builtup_m2_before_masks": 902544.3960077954,
+      "eligible_developed_m2": 825501.6647807212
+    },
+    {
+      "code": "32.01.05.2006",
+      "region": "Bogor",
+      "kecamatan": "Babakan Madang",
+      "kelurahan": "Kadumanggu",
+      "fallback_parcels": 183,
+      "builtup_m2_before_masks": 1660581.5281366862,
+      "eligible_developed_m2": 1197328.3062719873
+    },
+    {
+      "code": "36.71.06.1001",
+      "region": "Kota Tangerang",
+      "kecamatan": "Ciledug",
+      "kelurahan": "Paninggilan",
+      "fallback_parcels": 51,
+      "builtup_m2_before_masks": 947962.5774414738,
+      "eligible_developed_m2": 862464.524012786
+    },
+    {
+      "code": "32.01.37.2007",
+      "region": "Bogor",
+      "kecamatan": "Tajurhalang",
+      "kelurahan": "Kalisuren",
+      "fallback_parcels": 535,
+      "builtup_m2_before_masks": 2022681.5381948631,
+      "eligible_developed_m2": 1654489.1947265698
+    },
+    {
+      "code": "32.01.35.2001",
+      "region": "Bogor",
+      "kecamatan": "Sukajaya",
+      "kelurahan": "Cisarua",
+      "fallback_parcels": 54,
+      "builtup_m2_before_masks": 123989.4650432033,
+      "eligible_developed_m2": 99711.02125567911
+    },
+    {
+      "code": "32.01.29.2002",
+      "region": "Bogor",
+      "kecamatan": "Ciomas",
+      "kelurahan": "Sukaharja",
+      "fallback_parcels": 69,
+      "builtup_m2_before_masks": 290686.82189197483,
+      "eligible_developed_m2": 264560.2735169072
+    },
+    {
+      "code": "32.01.25.2004",
+      "region": "Bogor",
+      "kecamatan": "Cisarua",
+      "kelurahan": "Cilember",
+      "fallback_parcels": 156,
+      "builtup_m2_before_masks": 558708.253504123,
+      "eligible_developed_m2": 505340.0990275664
+    },
+    {
+      "code": "32.01.36.2009",
+      "region": "Bogor",
+      "kecamatan": "Tanjungsari",
+      "kelurahan": "Buanajaya",
+      "fallback_parcels": 113,
+      "builtup_m2_before_masks": 438738.0004824796,
+      "eligible_developed_m2": 260915.41241399336
+    },
+    {
+      "code": "32.75.04.1005",
+      "region": "Kota Bekasi",
+      "kecamatan": "Bekasi Selatan",
+      "kelurahan": "Kayuringinjaya",
+      "fallback_parcels": 223,
+      "builtup_m2_before_masks": 2452411.403397798,
+      "eligible_developed_m2": 2074781.3600148158
+    },
+    {
+      "code": "36.03.13.2004",
+      "region": "Tangerang",
+      "kecamatan": "Teluknaga",
+      "kelurahan": "Keboncau",
+      "fallback_parcels": 60,
+      "builtup_m2_before_masks": 1219785.8374309745,
+      "eligible_developed_m2": 1063856.9046639558
+    },
+    {
+      "code": "32.01.15.2010",
+      "region": "Bogor",
+      "kecamatan": "Ciampea",
+      "kelurahan": "Cihideung Ilir",
+      "fallback_parcels": 177,
+      "builtup_m2_before_masks": 664511.0305319445,
+      "eligible_developed_m2": 521348.5150332118
+    },
+    {
+      "code": "32.01.12.2007",
+      "region": "Bogor",
+      "kecamatan": "Kemang",
+      "kelurahan": "Jampang",
+      "fallback_parcels": 187,
+      "builtup_m2_before_masks": 1041243.825216446,
+      "eligible_developed_m2": 849883.5127446837
+    },
+    {
+      "code": "32.01.18.2001",
+      "region": "Bogor",
+      "kecamatan": "Rumpin",
+      "kelurahan": "Rumpin",
+      "fallback_parcels": 93,
+      "builtup_m2_before_masks": 410592.6588748369,
+      "eligible_developed_m2": 291432.04098848504
+    },
+    {
+      "code": "36.71.12.1007",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karang Tengah",
+      "kelurahan": "Parung Jaya",
+      "fallback_parcels": 118,
+      "builtup_m2_before_masks": 770047.4927470027,
+      "eligible_developed_m2": 601648.8028201594
+    },
+    {
+      "code": "36.71.06.1008",
+      "region": "Kota Tangerang",
+      "kecamatan": "Ciledug",
+      "kelurahan": "Paninggilan Utara",
+      "fallback_parcels": 24,
+      "builtup_m2_before_masks": 930675.350035148,
+      "eligible_developed_m2": 842093.5599074753
+    },
+    {
+      "code": "36.74.04.1005",
+      "region": "Kota Tangerang Selatan",
+      "kecamatan": "Ciputat",
+      "kelurahan": "Serua Indah",
+      "fallback_parcels": 187,
+      "builtup_m2_before_masks": 1515119.0953498408,
+      "eligible_developed_m2": 1282211.911594164
+    },
+    {
+      "code": "32.01.35.2008",
+      "region": "Bogor",
+      "kecamatan": "Sukajaya",
+      "kelurahan": "Sukamulih",
+      "fallback_parcels": 81,
+      "builtup_m2_before_masks": 251454.9148884729,
+      "eligible_developed_m2": 219702.24674433173
+    },
+    {
+      "code": "36.74.04.1006",
+      "region": "Kota Tangerang Selatan",
+      "kecamatan": "Ciputat",
+      "kelurahan": "Jombang",
+      "fallback_parcels": 322,
+      "builtup_m2_before_masks": 2921729.907809421,
+      "eligible_developed_m2": 2272973.242991623
+    },
+    {
+      "code": "32.01.38.2006",
+      "region": "Bogor",
+      "kecamatan": "Cigombong",
+      "kelurahan": "Tugujaya",
+      "fallback_parcels": 304,
+      "builtup_m2_before_masks": 874405.1602969621,
+      "eligible_developed_m2": 770888.4290197681
+    },
+    {
+      "code": "32.01.34.2004",
+      "region": "Bogor",
+      "kecamatan": "Rancabungur",
+      "kelurahan": "Rancabungur",
+      "fallback_parcels": 247,
+      "builtup_m2_before_masks": 702490.5810228908,
+      "eligible_developed_m2": 573227.0990677545
+    },
+    {
+      "code": "36.71.01.1004",
+      "region": "Kota Tangerang",
+      "kecamatan": "Tangerang",
+      "kelurahan": "Buaran Indah",
+      "fallback_parcels": 100,
+      "builtup_m2_before_masks": 1351945.5851830714,
+      "eligible_developed_m2": 1148605.3465527499
+    },
+    {
+      "code": "32.01.35.2011",
+      "region": "Bogor",
+      "kecamatan": "Sukajaya",
+      "kelurahan": "Jayaraharja",
+      "fallback_parcels": 72,
+      "builtup_m2_before_masks": 153299.66157283288,
+      "eligible_developed_m2": 129053.8096789983
+    },
+    {
+      "code": "32.01.11.2003",
+      "region": "Bogor",
+      "kecamatan": "Gunungsindur",
+      "kelurahan": "Pengasinan",
+      "fallback_parcels": 386,
+      "builtup_m2_before_masks": 1783423.8757185072,
+      "eligible_developed_m2": 1501148.6775413777
+    },
+    {
+      "code": "32.75.09.1005",
+      "region": "Kota Bekasi",
+      "kecamatan": "Jatiasih",
+      "kelurahan": "Jatiluhur",
+      "fallback_parcels": 316,
+      "builtup_m2_before_masks": 2514022.6873716917,
+      "eligible_developed_m2": 2140852.1150887287
+    },
+    {
+      "code": "32.01.02.2004",
+      "region": "Bogor",
+      "kecamatan": "Gunungputri",
+      "kelurahan": "Gunungputri",
+      "fallback_parcels": 109,
+      "builtup_m2_before_masks": 1640611.875553607,
+      "eligible_developed_m2": 1448090.888067699
+    },
+    {
+      "code": "36.03.13.2003",
+      "region": "Tangerang",
+      "kecamatan": "Teluknaga",
+      "kelurahan": "Babakan Asem",
+      "fallback_parcels": 138,
+      "builtup_m2_before_masks": 986680.2344924569,
+      "eligible_developed_m2": 868641.8979110421
+    },
+    {
+      "code": "32.01.37.2005",
+      "region": "Bogor",
+      "kecamatan": "Tajurhalang",
+      "kelurahan": "Sukmajaya",
+      "fallback_parcels": 249,
+      "builtup_m2_before_masks": 675771.9520224872,
+      "eligible_developed_m2": 594771.2979354559
+    },
+    {
+      "code": "32.01.03.2011",
+      "region": "Bogor",
+      "kecamatan": "Citeureup",
+      "kelurahan": "Tangkil",
+      "fallback_parcels": 113,
+      "builtup_m2_before_masks": 475110.3728768244,
+      "eligible_developed_m2": 141140.86345876832
+    },
+    {
+      "code": "32.01.03.2004",
+      "region": "Bogor",
+      "kecamatan": "Citeureup",
+      "kelurahan": "Tajur",
+      "fallback_parcels": 234,
+      "builtup_m2_before_masks": 827203.1804256658,
+      "eligible_developed_m2": 676518.0572399681
+    },
+    {
+      "code": "32.01.10.2009",
+      "region": "Bogor",
+      "kecamatan": "Parung",
+      "kelurahan": "Jabon Mekar",
+      "fallback_parcels": 209,
+      "builtup_m2_before_masks": 953089.9374604309,
+      "eligible_developed_m2": 830529.7746779151
+    },
+    {
+      "code": "32.75.02.1004",
+      "region": "Kota Bekasi",
+      "kecamatan": "Bekasi Barat",
+      "kelurahan": "Bintarajaya",
+      "fallback_parcels": 219,
+      "builtup_m2_before_masks": 2144742.7971254345,
+      "eligible_developed_m2": 1823840.131194813
+    },
+    {
+      "code": "32.01.17.2015",
+      "region": "Bogor",
+      "kecamatan": "Pamijahan",
+      "kelurahan": "Ciasmara",
+      "fallback_parcels": 117,
+      "builtup_m2_before_masks": 375266.62692773447,
+      "eligible_developed_m2": 320808.6758275559
+    },
+    {
+      "code": "36.71.05.1004",
+      "region": "Kota Tangerang",
+      "kecamatan": "Cipondoh",
+      "kelurahan": "Gondrong",
+      "fallback_parcels": 82,
+      "builtup_m2_before_masks": 1368344.7099428312,
+      "eligible_developed_m2": 1247960.0316095569
+    },
+    {
+      "code": "36.74.03.1006",
+      "region": "Kota Tangerang Selatan",
+      "kecamatan": "Pondok Aren",
+      "kelurahan": "Pondok Kacang Barat",
+      "fallback_parcels": 184,
+      "builtup_m2_before_masks": 1532858.1152276194,
+      "eligible_developed_m2": 1307701.6789513335
+    },
+    {
+      "code": "32.01.13.2003",
+      "region": "Bogor",
+      "kecamatan": "Bojonggede",
+      "kelurahan": "Susukan",
+      "fallback_parcels": 357,
+      "builtup_m2_before_masks": 1998142.1590975155,
+      "eligible_developed_m2": 1745132.9011777812
+    },
+    {
+      "code": "36.74.04.1002",
+      "region": "Kota Tangerang Selatan",
+      "kecamatan": "Ciputat",
+      "kelurahan": "Serua",
+      "fallback_parcels": 371,
+      "builtup_m2_before_masks": 2793566.99967408,
+      "eligible_developed_m2": 2272656.7397288433
+    },
+    {
+      "code": "32.01.03.2013",
+      "region": "Bogor",
+      "kecamatan": "Citeureup",
+      "kelurahan": "Hambalang",
+      "fallback_parcels": 227,
+      "builtup_m2_before_masks": 861137.7826860979,
+      "eligible_developed_m2": 576825.3158098378
+    },
+    {
+      "code": "36.03.19.2003",
+      "region": "Tangerang",
+      "kecamatan": "Panongan",
+      "kelurahan": "Peusar",
+      "fallback_parcels": 109,
+      "builtup_m2_before_masks": 1384006.9283474656,
+      "eligible_developed_m2": 732159.4387752747
+    },
+    {
+      "code": "32.01.32.2004",
+      "region": "Bogor",
+      "kecamatan": "Klapanunggal",
+      "kelurahan": "Lulut",
+      "fallback_parcels": 135,
+      "builtup_m2_before_masks": 1557776.4611254348,
+      "eligible_developed_m2": 956101.5156101114
+    },
+    {
+      "code": "36.71.06.1003",
+      "region": "Kota Tangerang",
+      "kecamatan": "Ciledug",
+      "kelurahan": "Sudimara Timur",
+      "fallback_parcels": 82,
+      "builtup_m2_before_masks": 716270.9477649438,
+      "eligible_developed_m2": 599617.8779383895
+    },
+    {
+      "code": "32.01.25.2002",
+      "region": "Bogor",
+      "kecamatan": "Cisarua",
+      "kelurahan": "Jogjogan",
+      "fallback_parcels": 185,
+      "builtup_m2_before_masks": 639975.9789499796,
+      "eligible_developed_m2": 571129.2133190186
+    },
+    {
+      "code": "36.71.07.1016",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karawaci",
+      "kelurahan": "Koang Jaya",
+      "fallback_parcels": 49,
+      "builtup_m2_before_masks": 553868.734793266,
+      "eligible_developed_m2": 493811.8492824504
+    },
+    {
+      "code": "32.01.27.2007",
+      "region": "Bogor",
+      "kecamatan": "Caringin",
+      "kelurahan": "Cimande",
+      "fallback_parcels": 130,
+      "builtup_m2_before_masks": 342710.1297913082,
+      "eligible_developed_m2": 313768.42220879375
+    },
+    {
+      "code": "32.01.38.2002",
+      "region": "Bogor",
+      "kecamatan": "Cigombong",
+      "kelurahan": "Wates Jaya",
+      "fallback_parcels": 203,
+      "builtup_m2_before_masks": 927477.3588727637,
+      "eligible_developed_m2": 692066.2018393282
+    },
+    {
+      "code": "32.01.23.2009",
+      "region": "Bogor",
+      "kecamatan": "Tenjo",
+      "kelurahan": "Bojong",
+      "fallback_parcels": 149,
+      "builtup_m2_before_masks": 498860.63041516935,
+      "eligible_developed_m2": 383336.79835385276
+    },
+    {
+      "code": "32.01.03.2001",
+      "region": "Bogor",
+      "kecamatan": "Citeureup",
+      "kelurahan": "Puspasari",
+      "fallback_parcels": 108,
+      "builtup_m2_before_masks": 990130.0228771445,
+      "eligible_developed_m2": 808466.7693186131
+    },
+    {
+      "code": "32.01.05.2008",
+      "region": "Bogor",
+      "kecamatan": "Babakan Madang",
+      "kelurahan": "Babakan Madang",
+      "fallback_parcels": 151,
+      "builtup_m2_before_masks": 859341.6265351787,
+      "eligible_developed_m2": 662801.844190368
+    },
+    {
+      "code": "32.01.11.2007",
+      "region": "Bogor",
+      "kecamatan": "Gunungsindur",
+      "kelurahan": "Cibadung",
+      "fallback_parcels": 255,
+      "builtup_m2_before_masks": 786112.1981839801,
+      "eligible_developed_m2": 641716.4503326103
+    },
+    {
+      "code": "32.01.34.2006",
+      "region": "Bogor",
+      "kecamatan": "Rancabungur",
+      "kelurahan": "Candali",
+      "fallback_parcels": 150,
+      "builtup_m2_before_masks": 376741.168969325,
+      "eligible_developed_m2": 342540.22129150387
+    },
+    {
+      "code": "36.71.06.1004",
+      "region": "Kota Tangerang",
+      "kecamatan": "Ciledug",
+      "kelurahan": "Tajur",
+      "fallback_parcels": 183,
+      "builtup_m2_before_masks": 980224.1934572654,
+      "eligible_developed_m2": 793215.5852214718
+    },
+    {
+      "code": "36.03.08.2003",
+      "region": "Tangerang",
+      "kecamatan": "Mauk",
+      "kelurahan": "Tegal Kunir Kidul",
+      "fallback_parcels": 105,
+      "builtup_m2_before_masks": 427657.1876944851,
+      "eligible_developed_m2": 355895.0047075493
+    },
+    {
+      "code": "32.01.33.2001",
+      "region": "Bogor",
+      "kecamatan": "Ciseeng",
+      "kelurahan": "Putat Nutug",
+      "fallback_parcels": 330,
+      "builtup_m2_before_masks": 1236635.2847720352,
+      "eligible_developed_m2": 996156.6445418529
+    },
+    {
+      "code": "36.71.07.1011",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karawaci",
+      "kelurahan": "Pabuaran Tumpeng",
+      "fallback_parcels": 46,
+      "builtup_m2_before_masks": 539121.1542682908,
+      "eligible_developed_m2": 481515.0856905857
+    },
+    {
+      "code": "36.71.06.1007",
+      "region": "Kota Tangerang",
+      "kecamatan": "Ciledug",
+      "kelurahan": "Sudimara Selatan",
+      "fallback_parcels": 60,
+      "builtup_m2_before_masks": 715253.793200693,
+      "eligible_developed_m2": 630293.7553268876
+    },
+    {
+      "code": "32.01.29.2005",
+      "region": "Bogor",
+      "kecamatan": "Ciomas",
+      "kelurahan": "Ciomas",
+      "fallback_parcels": 53,
+      "builtup_m2_before_masks": 660351.2585524131,
+      "eligible_developed_m2": 565906.2220263244
+    },
+    {
+      "code": "36.74.03.1007",
+      "region": "Kota Tangerang Selatan",
+      "kecamatan": "Pondok Aren",
+      "kelurahan": "Pondok Kacang Timur",
+      "fallback_parcels": 296,
+      "builtup_m2_before_masks": 1961668.68823668,
+      "eligible_developed_m2": 1592913.8074221755
+    },
+    {
+      "code": "36.03.27.2006",
+      "region": "Tangerang",
+      "kecamatan": "Sukamulya",
+      "kelurahan": "Merak",
+      "fallback_parcels": 207,
+      "builtup_m2_before_masks": 538157.868851284,
+      "eligible_developed_m2": 447120.87133965676
+    },
+    {
+      "code": "32.75.04.1003",
+      "region": "Kota Bekasi",
+      "kecamatan": "Bekasi Selatan",
+      "kelurahan": "Jakamulya",
+      "fallback_parcels": 271,
+      "builtup_m2_before_masks": 2377642.456701057,
+      "eligible_developed_m2": 1947372.1752482897
+    },
+    {
+      "code": "32.01.02.2007",
+      "region": "Bogor",
+      "kecamatan": "Gunungputri",
+      "kelurahan": "Cicadas",
+      "fallback_parcels": 234,
+      "builtup_m2_before_masks": 4102787.429875623,
+      "eligible_developed_m2": 3550988.781866964
+    },
+    {
+      "code": "36.71.13.1007",
+      "region": "Kota Tangerang",
+      "kecamatan": "Larangan",
+      "kelurahan": "Cipadu Jaya",
+      "fallback_parcels": 173,
+      "builtup_m2_before_masks": 1267783.6210232193,
+      "eligible_developed_m2": 1111439.8178694837
+    },
+    {
+      "code": "32.01.30.2007",
+      "region": "Bogor",
+      "kecamatan": "Dramaga",
+      "kelurahan": "Cikarawang",
+      "fallback_parcels": 96,
+      "builtup_m2_before_masks": 490374.96544617624,
+      "eligible_developed_m2": 421772.84924981697
+    },
+    {
+      "code": "36.74.06.1008",
+      "region": "Kota Tangerang Selatan",
+      "kecamatan": "Pamulang",
+      "kelurahan": "Pamulang Timur",
+      "fallback_parcels": 317,
+      "builtup_m2_before_masks": 1981480.7403348829,
+      "eligible_developed_m2": 1641646.3336403097
+    },
+    {
+      "code": "32.01.09.2002",
+      "region": "Bogor",
+      "kecamatan": "Sukamakmur",
+      "kelurahan": "Pabuaran",
+      "fallback_parcels": 290,
+      "builtup_m2_before_masks": 622853.5286679412,
+      "eligible_developed_m2": 551329.3255836632
+    },
+    {
+      "code": "32.01.05.2004",
+      "region": "Bogor",
+      "kecamatan": "Babakan Madang",
+      "kelurahan": "Karang Tengah",
+      "fallback_parcels": 362,
+      "builtup_m2_before_masks": 1052693.348764988,
+      "eligible_developed_m2": 872409.4419464961
+    },
+    {
+      "code": "36.71.07.1002",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karawaci",
+      "kelurahan": "Bojong Jaya",
+      "fallback_parcels": 40,
+      "builtup_m2_before_masks": 573744.8915351392,
+      "eligible_developed_m2": 497782.7517273974
+    },
+    {
+      "code": "36.03.20.2010",
+      "region": "Tangerang",
+      "kecamatan": "Legok",
+      "kelurahan": "Kemuning",
+      "fallback_parcels": 129,
+      "builtup_m2_before_masks": 648576.214206166,
+      "eligible_developed_m2": 544107.9580943078
+    },
+    {
+      "code": "32.01.22.2006",
+      "region": "Bogor",
+      "kecamatan": "Cigudeg",
+      "kelurahan": "Argapura",
+      "fallback_parcels": 132,
+      "builtup_m2_before_masks": 648622.6665305092,
+      "eligible_developed_m2": 396948.73740666785
+    },
+    {
+      "code": "36.03.02.2006",
+      "region": "Tangerang",
+      "kecamatan": "Jayanti",
+      "kelurahan": "Jayanti",
+      "fallback_parcels": 189,
+      "builtup_m2_before_masks": 782327.7888613212,
+      "eligible_developed_m2": 679746.1175244348
+    },
+    {
+      "code": "36.74.04.1001",
+      "region": "Kota Tangerang Selatan",
+      "kecamatan": "Ciputat",
+      "kelurahan": "Sawah Baru",
+      "fallback_parcels": 295,
+      "builtup_m2_before_masks": 2229288.7775753154,
+      "eligible_developed_m2": 1813136.297945601
+    },
+    {
+      "code": "32.01.12.2003",
+      "region": "Bogor",
+      "kecamatan": "Kemang",
+      "kelurahan": "Kemang",
+      "fallback_parcels": 219,
+      "builtup_m2_before_masks": 1199368.4358530303,
+      "eligible_developed_m2": 1043931.2138975587
+    },
+    {
+      "code": "36.71.08.1001",
+      "region": "Kota Tangerang",
+      "kecamatan": "Periuk",
+      "kelurahan": "Periuk",
+      "fallback_parcels": 259,
+      "builtup_m2_before_masks": 1526723.6354678902,
+      "eligible_developed_m2": 1232566.0847995402
+    },
+    {
+      "code": "32.01.25.2008",
+      "region": "Bogor",
+      "kecamatan": "Cisarua",
+      "kelurahan": "Kopo",
+      "fallback_parcels": 393,
+      "builtup_m2_before_masks": 1334848.0779591382,
+      "eligible_developed_m2": 1191752.4166209418
+    },
+    {
+      "code": "32.75.09.1004",
+      "region": "Kota Bekasi",
+      "kecamatan": "Jatiasih",
+      "kelurahan": "Jatirasa",
+      "fallback_parcels": 293,
+      "builtup_m2_before_masks": 2076575.308786171,
+      "eligible_developed_m2": 1759662.9770288684
+    },
+    {
+      "code": "36.74.04.1004",
+      "region": "Kota Tangerang Selatan",
+      "kecamatan": "Ciputat",
+      "kelurahan": "Sawah",
+      "fallback_parcels": 263,
+      "builtup_m2_before_masks": 2054211.3858208358,
+      "eligible_developed_m2": 1731259.408014693
+    },
+    {
+      "code": "36.71.03.1007",
+      "region": "Kota Tangerang",
+      "kecamatan": "Batuceper",
+      "kelurahan": "Poris Jaya",
+      "fallback_parcels": 52,
+      "builtup_m2_before_masks": 587921.0820216098,
+      "eligible_developed_m2": 516013.21481662506
+    },
+    {
+      "code": "32.01.05.2003",
+      "region": "Bogor",
+      "kecamatan": "Babakan Madang",
+      "kelurahan": "Sentul",
+      "fallback_parcels": 126,
+      "builtup_m2_before_masks": 1841681.992007499,
+      "eligible_developed_m2": 1444226.3045655051
+    },
+    {
+      "code": "36.03.08.2005",
+      "region": "Tangerang",
+      "kecamatan": "Mauk",
+      "kelurahan": "Sasak",
+      "fallback_parcels": 114,
+      "builtup_m2_before_masks": 339855.6285020041,
+      "eligible_developed_m2": 275734.67784030474
+    },
+    {
+      "code": "36.71.03.1003",
+      "region": "Kota Tangerang",
+      "kecamatan": "Batuceper",
+      "kelurahan": "Poris Gaga",
+      "fallback_parcels": 102,
+      "builtup_m2_before_masks": 825207.5019143587,
+      "eligible_developed_m2": 701173.1871245401
+    },
+    {
+      "code": "32.01.28.2009",
+      "region": "Bogor",
+      "kecamatan": "Cijeruk",
+      "kelurahan": "Tanjungsari",
+      "fallback_parcels": 103,
+      "builtup_m2_before_masks": 244786.06307604304,
+      "eligible_developed_m2": 212507.77516993336
+    },
+    {
+      "code": "36.71.12.1002",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karang Tengah",
+      "kelurahan": "Karang Mulya",
+      "fallback_parcels": 210,
+      "builtup_m2_before_masks": 1796991.0183570618,
+      "eligible_developed_m2": 1536649.5141205045
+    },
+    {
+      "code": "36.03.10.2002",
+      "region": "Tangerang",
+      "kecamatan": "Sukadiri",
+      "kelurahan": "Buaran Jati",
+      "fallback_parcels": 44,
+      "builtup_m2_before_masks": 493953.0302753346,
+      "eligible_developed_m2": 422086.4608708409
+    },
+    {
+      "code": "32.01.29.2004",
+      "region": "Bogor",
+      "kecamatan": "Ciomas",
+      "kelurahan": "Parakan",
+      "fallback_parcels": 86,
+      "builtup_m2_before_masks": 571785.965009292,
+      "eligible_developed_m2": 515420.00271433085
+    },
+    {
+      "code": "32.01.23.2001",
+      "region": "Bogor",
+      "kecamatan": "Tenjo",
+      "kelurahan": "Tapos",
+      "fallback_parcels": 168,
+      "builtup_m2_before_masks": 304998.2838195669,
+      "eligible_developed_m2": 268662.7812639253
+    },
+    {
+      "code": "32.01.10.2006",
+      "region": "Bogor",
+      "kecamatan": "Parung",
+      "kelurahan": "Pamegarsari",
+      "fallback_parcels": 380,
+      "builtup_m2_before_masks": 1396750.3407227844,
+      "eligible_developed_m2": 1195223.2764969694
+    },
+    {
+      "code": "36.74.02.1006",
+      "region": "Kota Tangerang Selatan",
+      "kecamatan": "Serpong Utara",
+      "kelurahan": "Jelupang",
+      "fallback_parcels": 631,
+      "builtup_m2_before_masks": 2906438.142608376,
+      "eligible_developed_m2": 2302466.0746887224
+    },
+    {
+      "code": "32.75.12.1003",
+      "region": "Kota Bekasi",
+      "kecamatan": "Pondokmelati",
+      "kelurahan": "Jatimelati",
+      "fallback_parcels": 311,
+      "builtup_m2_before_masks": 1959730.417069603,
+      "eligible_developed_m2": 1682347.334834065
+    },
+    {
+      "code": "32.01.06.2008",
+      "region": "Bogor",
+      "kecamatan": "Jonggol",
+      "kelurahan": "Cibodas",
+      "fallback_parcels": 183,
+      "builtup_m2_before_masks": 123503.24808211018,
+      "eligible_developed_m2": 107621.78481210234
+    },
+    {
+      "code": "36.71.12.1005",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karang Tengah",
+      "kelurahan": "Karang Timur",
+      "fallback_parcels": 151,
+      "builtup_m2_before_masks": 1127653.2219336908,
+      "eligible_developed_m2": 964692.4447023008
+    },
+    {
+      "code": "32.01.13.2009",
+      "region": "Bogor",
+      "kecamatan": "Bojonggede",
+      "kelurahan": "Bojonggede",
+      "fallback_parcels": 220,
+      "builtup_m2_before_masks": 2224684.0895818495,
+      "eligible_developed_m2": 1980548.8692816147
+    },
+    {
+      "code": "36.03.08.2011",
+      "region": "Tangerang",
+      "kecamatan": "Mauk",
+      "kelurahan": "Banyu Asih",
+      "fallback_parcels": 57,
+      "builtup_m2_before_masks": 214099.2434889619,
+      "eligible_developed_m2": 168960.91512831257
+    },
+    {
+      "code": "32.01.17.2001",
+      "region": "Bogor",
+      "kecamatan": "Pamijahan",
+      "kelurahan": "Purwabakti",
+      "fallback_parcels": 71,
+      "builtup_m2_before_masks": 288255.9796887809,
+      "eligible_developed_m2": 150435.75641472277
+    },
+    {
+      "code": "32.01.22.2002",
+      "region": "Bogor",
+      "kecamatan": "Cigudeg",
+      "kelurahan": "Cigudeg",
+      "fallback_parcels": 170,
+      "builtup_m2_before_masks": 702898.5402024148,
+      "eligible_developed_m2": 605836.0695111457
+    }
+  ],
+  "source_url": "https://esa-worldcover.org/en/data-access",
+  "worldcover_year": 2021,
+  "worldcover_sha256": "2578bd221a6817c939222c5e1cc1727f994f675483d3579c057d1e4ccb642f39",
+  "method": "unmapped connected built-up parcels (all existing OSM roofs subtracted with2m tolerance), village clip, hard-mask and all-road carriageway subtraction, within200m road corridor; nearest valid interior point on access side, no random jitter",
+  "limitations": [
+    "2021 land-cover classification is fallback evidence, not observed2026 building function",
+    "No claim of parcel ownership or individual house count",
+    "Road widths inferred8m major/3m others",
+    "Residential landuse support takes priority in overlap; elsewhere industrial context admits only parcels<=1200m2 with WorldPop2025>=10persons/100mcell. Existing roofs/facilities subtracted."
+  ],
+  "seconds": 65.31315429098322
+}

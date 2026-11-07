@@ -1,0 +1,57 @@
+{
+  "inventory_buildings": 5111995,
+  "eligible": 4508687,
+  "excluded_overlapping_counts": {
+    "water": 1323,
+    "airside": 2,
+    "forest": 8471,
+    "major_road_8m_proxy": 9384,
+    "function_excluded": 6365,
+    "outside_admin": 584538
+  },
+  "building_parts_not_yet_merged": 659,
+  "context_polygon_counts": {
+    "mixed": 1683,
+    "government": 3643,
+    "office": 704,
+    "factory": 1916,
+    "residential": 11964,
+    "school": 7674,
+    "retail": 3905,
+    "hospital": 1912,
+    "hotel": 582,
+    "market": 379,
+    "warehouse": 53,
+    "university": 502,
+    "exhibition": 11
+  },
+  "baseline_outside_mapped_buildings_points": 21379,
+  "baseline_outside_mapped_buildings_jobs": 9550100,
+  "baseline_mapped_mask_hits": {
+    "water": {
+      "points": 133,
+      "residents": 38300,
+      "jobs": 59000
+    },
+    "airside": {
+      "points": 9,
+      "residents": 900,
+      "jobs": 900
+    },
+    "forest": {
+      "points": 498,
+      "residents": 123700,
+      "jobs": 216400
+    },
+    "major_road_8m_proxy": {
+      "points": 330,
+      "residents": 145900,
+      "jobs": 205400
+    }
+  },
+  "missing_levels_fraction": 0.9903275609950303,
+  "inferred_function_fraction": 0.9571285387519692,
+  "farther_than_250m_from_mapped_road_fraction": 0.005664176732605302,
+  "packaged_water_additional_excluded": 7471,
+  "eligible_after_coast_mask": 4501216
+}

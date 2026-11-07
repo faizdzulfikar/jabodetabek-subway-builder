@@ -1,0 +1,3570 @@
+[
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "CIDENG",
+    "target": 16423,
+    "located": 16423,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO UTARA",
+    "target": 19561,
+    "located": 19561,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO SELATAN",
+    "target": 16818,
+    "located": 16818,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "KEBON KELAPA",
+    "target": 10844,
+    "located": 10844,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "DURI PULO",
+    "target": 21682,
+    "located": 21682,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "GAMBIR",
+    "target": 2712,
+    "located": 2712,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "SAWAH BESAR",
+    "kelurahan": "KARANG ANYAR",
+    "target": 29241,
+    "located": 29241,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "SAWAH BESAR",
+    "kelurahan": "PASAR BARU",
+    "target": 13438,
+    "located": 13438,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "SAWAH BESAR",
+    "kelurahan": "GUNUNG SAHARI UTARA",
+    "target": 18876,
+    "located": 18876,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "SAWAH BESAR",
+    "kelurahan": "MANGGA DUA SELATAN",
+    "target": 31890,
+    "located": 31890,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "SAWAH BESAR",
+    "kelurahan": "KARTINI",
+    "target": 24927,
+    "located": 24927,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "KEMAYORAN",
+    "kelurahan": "KEMAYORAN",
+    "target": 23727,
+    "located": 23727,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "KEMAYORAN",
+    "kelurahan": "KEBON KOSONG",
+    "target": 36322,
+    "located": 36322,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "KEMAYORAN",
+    "kelurahan": "SERDANG",
+    "target": 35025,
+    "located": 35025,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "KEMAYORAN",
+    "kelurahan": "HARAPAN MULIA",
+    "target": 26577,
+    "located": 26577,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "KEMAYORAN",
+    "kelurahan": "GUNUNG SAHARI SELATAN",
+    "target": 21372,
+    "located": 21372,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "KEMAYORAN",
+    "kelurahan": "CEMPAKA BARU",
+    "target": 38233,
+    "located": 38233,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "KEMAYORAN",
+    "kelurahan": "SUMUR BATU",
+    "target": 26553,
+    "located": 26553,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "KEMAYORAN",
+    "kelurahan": "UTAN PANJANG",
+    "target": 34355,
+    "located": 34355,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "SENEN",
+    "kelurahan": "KENARI",
+    "target": 10656,
+    "located": 10656,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "SENEN",
+    "kelurahan": "PASEBAN",
+    "target": 27010,
+    "located": 27010,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "SENEN",
+    "kelurahan": "SENEN",
+    "target": 7630,
+    "located": 7630,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "SENEN",
+    "kelurahan": "BUNGUR",
+    "target": 20393,
+    "located": 20393,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "SENEN",
+    "kelurahan": "KWITANG",
+    "target": 17727,
+    "located": 17727,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "SENEN",
+    "kelurahan": "KRAMAT",
+    "target": 33215,
+    "located": 33215,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "CEMPAKA PUTIH",
+    "kelurahan": "CEMPAKA PUTIH TIMUR",
+    "target": 26833,
+    "located": 26833,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "CEMPAKA PUTIH",
+    "kelurahan": "CEMPAKA PUTIH BARAT",
+    "target": 41522,
+    "located": 41522,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "MENTENG",
+    "kelurahan": "MENTENG",
+    "target": 29080,
+    "located": 29080,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "CILINCING",
+    "kelurahan": "ROROTAN",
+    "target": 59553,
+    "located": 59553,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "KOJA",
+    "kelurahan": "RAWA BADAK UTARA",
+    "target": 42593,
+    "located": 42593,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "CILINCING",
+    "kelurahan": "SEMPER BARAT",
+    "target": 84978,
+    "located": 84978,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "KELAPA GADING",
+    "kelurahan": "PEGANGSAAN DUA",
+    "target": 59923,
+    "located": 59923,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "CILINCING",
+    "kelurahan": "MARUNDA",
+    "target": 40024,
+    "located": 40024,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "CILINCING",
+    "kelurahan": "CILINCING",
+    "target": 58108,
+    "located": 58108,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "PADEMANGAN",
+    "kelurahan": "PADEMANGAN TIMUR",
+    "target": 45609,
+    "located": 45609,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "CILINCING",
+    "kelurahan": "KALIBARU",
+    "target": 86043,
+    "located": 86043,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "CILINCING",
+    "kelurahan": "SUKAPURA",
+    "target": 66031,
+    "located": 66031,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "KELAPA GADING",
+    "kelurahan": "KELAPA GADING TIMUR",
+    "target": 39213,
+    "located": 39213,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "PADEMANGAN",
+    "kelurahan": "PADEMANGAN BARAT",
+    "target": 88507,
+    "located": 88507,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "JOHAR BARU",
+    "kelurahan": "KAMPUNG RAWA",
+    "target": 24877,
+    "located": 24877,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "JOHAR BARU",
+    "kelurahan": "GALUR",
+    "target": 20825,
+    "located": 20825,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "JOHAR BARU",
+    "kelurahan": "TANAH TINGGI",
+    "target": 44456,
+    "located": 44456,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "CILINCING",
+    "kelurahan": "SEMPER TIMUR",
+    "target": 45610,
+    "located": 45610,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "TANAH ABANG",
+    "kelurahan": "KEBON MELATI",
+    "target": 36472,
+    "located": 36472,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "MENTENG",
+    "kelurahan": "KEBON SIRIH",
+    "target": 13801,
+    "located": 13801,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "TANAH ABANG",
+    "kelurahan": "GELORA",
+    "target": 3422,
+    "located": 3422,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "TANAH ABANG",
+    "kelurahan": "BENDUNGAN HILIR",
+    "target": 23842,
+    "located": 23842,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "JOHAR BARU",
+    "kelurahan": "JOHAR BARU",
+    "target": 41405,
+    "located": 41405,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "TANAH ABANG",
+    "kelurahan": "KARET TENGSIN",
+    "target": 22166,
+    "located": 22166,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "PENJARINGAN",
+    "kelurahan": "PENJARINGAN",
+    "target": 110661,
+    "located": 110661,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "MENTENG",
+    "kelurahan": "GONDANGDIA",
+    "target": 4471,
+    "located": 4471,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "TANAH ABANG",
+    "kelurahan": "PETAMBURAN",
+    "target": 38142,
+    "located": 38142,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "MENTENG",
+    "kelurahan": "PEGANGSAAN",
+    "target": 26696,
+    "located": 26696,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "TANAH ABANG",
+    "kelurahan": "KEBON KACANG",
+    "target": 24735,
+    "located": 24735,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "TANAH ABANG",
+    "kelurahan": "KAMPUNG BALI",
+    "target": 12005,
+    "located": 12005,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "CEMPAKA PUTIH",
+    "kelurahan": "RAWASARI",
+    "target": 25539,
+    "located": 25539,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Pusat",
+    "kecamatan": "MENTENG",
+    "kelurahan": "CIKINI",
+    "target": 9130,
+    "located": 9130,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "PENJARINGAN",
+    "kelurahan": "PEJAGALAN",
+    "target": 85596,
+    "located": 85596,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "TANJUNG PRIOK",
+    "kelurahan": "PAPANGGO",
+    "target": 48551,
+    "located": 48551,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "TANJUNG PRIOK",
+    "kelurahan": "SUNGAI BAMBU",
+    "target": 35714,
+    "located": 35714,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "TANJUNG PRIOK",
+    "kelurahan": "WARAKAS",
+    "target": 53702,
+    "located": 53702,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU UTARA",
+    "target": 84293,
+    "located": 84293,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "PENJARINGAN",
+    "kelurahan": "PLUIT",
+    "target": 58810,
+    "located": 58810,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "TANJUNG PRIOK",
+    "kelurahan": "SUNTER JAYA",
+    "target": 77398,
+    "located": 77398,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "TANJUNG PRIOK",
+    "kelurahan": "SUNTER AGUNG",
+    "target": 85083,
+    "located": 85083,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "TANJUNG PRIOK",
+    "kelurahan": "KEBON BAWANG",
+    "target": 58296,
+    "located": 58296,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "KOJA",
+    "kelurahan": "LAGOA",
+    "target": 72939,
+    "located": 72939,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "PENJARINGAN",
+    "kelurahan": "KAMAL MUARA",
+    "target": 19176,
+    "located": 19176,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "PENJARINGAN",
+    "kelurahan": "KAPUK MUARA",
+    "target": 46836,
+    "located": 46836,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "TANJUNG PRIOK",
+    "kelurahan": "TANJUNG PRIOK",
+    "target": 40800,
+    "located": 40800,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "KOJA",
+    "kelurahan": "KOJA",
+    "target": 32961,
+    "located": 32961,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU SELATAN",
+    "target": 50988,
+    "located": 50988,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "PADEMANGAN",
+    "kelurahan": "ANCOL",
+    "target": 30168,
+    "located": 30168,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "KOJA",
+    "kelurahan": "RAWA BADAK SELATAN",
+    "target": 53575,
+    "located": 53575,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "TAMBORA",
+    "kelurahan": "TANAH SEREAL",
+    "target": 30173,
+    "located": 30173,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "TAMAN SARI",
+    "kelurahan": "KRUKUT",
+    "target": 22625,
+    "located": 22625,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "GROGOL PETAMBURAN",
+    "kelurahan": "JELAMBAR BARU",
+    "target": 44543,
+    "located": 44543,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Utara",
+    "kecamatan": "KELAPA GADING",
+    "kelurahan": "KELAPA GADING BARAT",
+    "target": 43840,
+    "located": 43840,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "CENGKARENG",
+    "kelurahan": "CENGKARENG BARAT",
+    "target": 82123,
+    "located": 82123,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "TAMAN SARI",
+    "kelurahan": "KEAGUNGAN",
+    "target": 20409,
+    "located": 20409,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "TAMBORA",
+    "kelurahan": "KRENDANG",
+    "target": 23535,
+    "located": 23535,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "TAMBORA",
+    "kelurahan": "JEMBATAN BESI",
+    "target": 34832,
+    "located": 34832,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "TAMAN SARI",
+    "kelurahan": "MAPHAR",
+    "target": 18264,
+    "located": 18264,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "TAMAN SARI",
+    "kelurahan": "TANGKI",
+    "target": 14498,
+    "located": 14498,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "TAMBORA",
+    "kelurahan": "ANGKE",
+    "target": 33094,
+    "located": 33094,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "CENGKARENG",
+    "kelurahan": "KEDAUNG KALI ANGKE",
+    "target": 40262,
+    "located": 40262,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
+    "target": 71496,
+    "located": 71496,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "CENGKARENG",
+    "kelurahan": "KAPUK",
+    "target": 169666,
+    "located": 169666,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "GROGOL PETAMBURAN",
+    "kelurahan": "TANJUNG DUREN UTARA",
+    "target": 18946,
+    "located": 18946,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "TAMAN SARI",
+    "kelurahan": "GLODOK",
+    "target": 8383,
+    "located": 8383,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "KELAPA DUA",
+    "target": 29146,
+    "located": 29146,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "TAMAN SARI",
+    "kelurahan": "PINANGSIA",
+    "target": 11902,
+    "located": 11902,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "GROGOL PETAMBURAN",
+    "kelurahan": "WIJAYA KUSUMA",
+    "target": 46598,
+    "located": 46598,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "SUKABUMI UTARA",
+    "target": 47964,
+    "located": 47964,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "KALIDERES",
+    "kelurahan": "KALIDERES",
+    "target": 91551,
+    "located": 91551,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "GROGOL PETAMBURAN",
+    "kelurahan": "GROGOL",
+    "target": 19128,
+    "located": 19128,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "SUKABUMI SELATAN",
+    "target": 45986,
+    "located": 45986,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "TAMAN SARI",
+    "kelurahan": "MANGGA BESAR",
+    "target": 8305,
+    "located": 8305,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "TAMBORA",
+    "kelurahan": "PEKOJAN",
+    "target": 26479,
+    "located": 26479,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "TAMBORA",
+    "kelurahan": "ROA MALAKA",
+    "target": 3553,
+    "located": 3553,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "KEDOYA SELATAN",
+    "target": 39113,
+    "located": 39113,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "TAMBORA",
+    "kelurahan": "DURI UTARA",
+    "target": 22056,
+    "located": 22056,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "TAMBORA",
+    "kelurahan": "JEMBATAN LIMA",
+    "target": 24009,
+    "located": 24009,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "TAMBORA",
+    "kelurahan": "DURI SELATAN",
+    "target": 16308,
+    "located": 16308,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "KEDOYA UTARA",
+    "target": 56232,
+    "located": 56232,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "KEBON JERUK",
+    "target": 68917,
+    "located": 68917,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "TAMBORA",
+    "kelurahan": "KALI ANYAR",
+    "target": 27224,
+    "located": 27224,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "TAMBORA",
+    "kelurahan": "TAMBORA",
+    "target": 11678,
+    "located": 11678,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "CENGKARENG",
+    "kelurahan": "RAWA BUAYA",
+    "target": 80829,
+    "located": 80829,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "PASAR MINGGU",
+    "kelurahan": "JATI PADANG",
+    "target": 43714,
+    "located": 43714,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "PASAR MINGGU",
+    "kelurahan": "PEJATEN TIMUR",
+    "target": 70479,
+    "located": 70479,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "SETIABUDI",
+    "kelurahan": "KARET SEMANGGI",
+    "target": 3334,
+    "located": 3334,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "KEBAYORAN LAMA",
+    "kelurahan": "KEBAYORAN LAMA UTARA",
+    "target": 50293,
+    "located": 50293,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "KEBAYORAN LAMA",
+    "kelurahan": "PONDOK PINANG",
+    "target": 67628,
+    "located": 67628,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "SETIABUDI",
+    "kelurahan": "PASAR MANGGIS",
+    "target": 31645,
+    "located": 31645,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "MAMPANG PRAPATAN",
+    "kelurahan": "KUNINGAN BARAT",
+    "target": 14507,
+    "located": 14507,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "PASAR MINGGU",
+    "kelurahan": "PASAR MINGGU",
+    "target": 29064,
+    "located": 29064,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "SETIABUDI",
+    "kelurahan": "MENTENG ATAS",
+    "target": 32020,
+    "located": 32020,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "KEBAYORAN LAMA",
+    "kelurahan": "CIPULIR",
+    "target": 48479,
+    "located": 48479,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "KEBAYORAN LAMA",
+    "kelurahan": "GROGOL UTARA",
+    "target": 49406,
+    "located": 49406,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "PASAR MINGGU",
+    "kelurahan": "RAGUNAN",
+    "target": 47097,
+    "located": 47097,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "MAMPANG PRAPATAN",
+    "kelurahan": "MAMPANG PRAPATAN",
+    "target": 21306,
+    "located": 21306,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "MAMPANG PRAPATAN",
+    "kelurahan": "TEGAL PARANG",
+    "target": 38970,
+    "located": 38970,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "SETIABUDI",
+    "kelurahan": "KARET KUNINGAN",
+    "target": 19038,
+    "located": 19038,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "PASAR MINGGU",
+    "kelurahan": "CILANDAK TIMUR",
+    "target": 29220,
+    "located": 29220,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "CENGKARENG",
+    "kelurahan": "CENGKARENG TIMUR",
+    "target": 100909,
+    "located": 100909,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "GROGOL PETAMBURAN",
+    "kelurahan": "TANJUNG DUREN SELATAN",
+    "target": 29166,
+    "located": 29166,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "SETIABUDI",
+    "kelurahan": "GUNTUR",
+    "target": 4260,
+    "located": 4260,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "SETIABUDI",
+    "kelurahan": "KUNINGAN TIMUR",
+    "target": 6844,
+    "located": 6844,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "TEBET",
+    "kelurahan": "MANGGARAI",
+    "target": 33203,
+    "located": 33203,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "SETIABUDI",
+    "kelurahan": "SETIA BUDI",
+    "target": 3341,
+    "located": 3341,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "CENGKARENG",
+    "kelurahan": "DURI KOSAMBI",
+    "target": 101612,
+    "located": 101612,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "GROGOL PETAMBURAN",
+    "kelurahan": "TOMANG",
+    "target": 33945,
+    "located": 33945,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "TAMAN SARI",
+    "kelurahan": "TAMAN SARI",
+    "target": 16145,
+    "located": 16145,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "GROGOL PETAMBURAN",
+    "kelurahan": "JELAMBAR",
+    "target": 33743,
+    "located": 33743,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "TEBET",
+    "kelurahan": "KEBON BARU",
+    "target": 41098,
+    "located": 41098,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "PAL MERAH",
+    "kelurahan": "PALMERAH",
+    "target": 75385,
+    "located": 75385,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "KEMBANGAN",
+    "kelurahan": "JOGLO",
+    "target": 51421,
+    "located": 51421,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "TEBET",
+    "kelurahan": "BUKIT DURI",
+    "target": 39498,
+    "located": 39498,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "KALIDERES",
+    "kelurahan": "PEGADUNGAN",
+    "target": 99751,
+    "located": 99751,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "TEBET",
+    "kelurahan": "TEBET TIMUR",
+    "target": 20460,
+    "located": 20460,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "KEMBANGAN",
+    "kelurahan": "KEMBANGAN UTARA",
+    "target": 69300,
+    "located": 69300,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "TEBET",
+    "kelurahan": "MANGGARAI SELATAN",
+    "target": 26488,
+    "located": 26488,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "PAL MERAH",
+    "kelurahan": "KOTA BAMBU SELATAN",
+    "target": 26047,
+    "located": 26047,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "TEBET",
+    "kelurahan": "TEBET BARAT",
+    "target": 23978,
+    "located": 23978,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "KEMBANGAN",
+    "kelurahan": "KEMBANGAN SELATAN",
+    "target": 33439,
+    "located": 33439,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "KALIDERES",
+    "kelurahan": "SEMANAN",
+    "target": 92198,
+    "located": 92198,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "PAL MERAH",
+    "kelurahan": "KEMANGGISAN",
+    "target": 37453,
+    "located": 37453,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "KALIDERES",
+    "kelurahan": "TEGAL ALUR",
+    "target": 105818,
+    "located": 105818,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "KALIDERES",
+    "kelurahan": "KAMAL",
+    "target": 72071,
+    "located": 72071,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "PAL MERAH",
+    "kelurahan": "JATIPULO",
+    "target": 33952,
+    "located": 33952,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "KEMBANGAN",
+    "kelurahan": "SRENGSENG",
+    "target": 57402,
+    "located": 57402,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "KEMBANGAN",
+    "kelurahan": "MERUYA SELATAN",
+    "target": 42172,
+    "located": 42172,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "MAMPANG PRAPATAN",
+    "kelurahan": "BANGKA",
+    "target": 24766,
+    "located": 24766,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "SETIABUDI",
+    "kelurahan": "KARET",
+    "target": 10798,
+    "located": 10798,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "MAMPANG PRAPATAN",
+    "kelurahan": "PELA MAMPANG",
+    "target": 49878,
+    "located": 49878,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "PASAR MINGGU",
+    "kelurahan": "PEJATEN BARAT",
+    "target": 43941,
+    "located": 43941,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "PASAR MINGGU",
+    "kelurahan": "KEBAGUSAN",
+    "target": 56485,
+    "located": 56485,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "TEBET",
+    "kelurahan": "MENTENG DALAM",
+    "target": 41718,
+    "located": 41718,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "PAL MERAH",
+    "kelurahan": "KOTA BAMBU UTARA",
+    "target": 29713,
+    "located": 29713,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "PULOGADUNG",
+    "kelurahan": "KAYU PUTIH",
+    "target": 47835,
+    "located": 47835,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "PULOGADUNG",
+    "kelurahan": "JATI",
+    "target": 38062,
+    "located": 38062,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "MATRAMAN",
+    "kelurahan": "PALMERIAM",
+    "target": 22386,
+    "located": 22386,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "PESANGGRAHAN",
+    "kelurahan": "BINTARO",
+    "target": 65029,
+    "located": 65029,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "PULOGADUNG",
+    "kelurahan": "CIPINANG",
+    "target": 45392,
+    "located": 45392,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "PESANGGRAHAN",
+    "kelurahan": "PETUKANGAN UTARA",
+    "target": 67755,
+    "located": 67755,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "MATRAMAN",
+    "kelurahan": "KAYU MANIS",
+    "target": 29256,
+    "located": 29256,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "PULOGADUNG",
+    "kelurahan": "RAWAMANGUN",
+    "target": 43325,
+    "located": 43325,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "JAGAKARSA",
+    "kelurahan": "CIPEDAK",
+    "target": 52333,
+    "located": 52333,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "PESANGGRAHAN",
+    "kelurahan": "PESANGGRAHAN",
+    "target": 33938,
+    "located": 33938,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "MATRAMAN",
+    "kelurahan": "UTAN KAYU UTARA",
+    "target": 32588,
+    "located": 32588,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "PESANGGRAHAN",
+    "kelurahan": "PETUKANGAN SELATAN",
+    "target": 44236,
+    "located": 44236,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "PULOGADUNG",
+    "kelurahan": "JATINEGARA KAUM",
+    "target": 28968,
+    "located": 28968,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "CIPETE UTARA",
+    "target": 37907,
+    "located": 37907,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "JAGAKARSA",
+    "kelurahan": "TANJUNG BARAT",
+    "target": 50714,
+    "located": 50714,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "MATRAMAN",
+    "kelurahan": "PISANGAN BARU",
+    "target": 37400,
+    "located": 37400,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "MATRAMAN",
+    "kelurahan": "UTAN KAYU SELATAN",
+    "target": 39411,
+    "located": 39411,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "PULOGADUNG",
+    "kelurahan": "PISANGAN TIMUR",
+    "target": 48251,
+    "located": 48251,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "PULOGADUNG",
+    "kelurahan": "PULO GADUNG",
+    "target": 40536,
+    "located": 40536,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "PESANGGRAHAN",
+    "kelurahan": "ULUJAMI",
+    "target": 50605,
+    "located": 50605,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "PAL MERAH",
+    "kelurahan": "SLIPI",
+    "target": 19628,
+    "located": 19628,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "MATRAMAN",
+    "kelurahan": "KEBON MANGGIS",
+    "target": 18609,
+    "located": 18609,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Barat",
+    "kecamatan": "KEMBANGAN",
+    "kelurahan": "MERUYA UTARA",
+    "target": 54759,
+    "located": 54759,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "PANCORAN",
+    "kelurahan": "CIKOKO",
+    "target": 12077,
+    "located": 12077,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "JAGAKARSA",
+    "kelurahan": "JAGAKARSA",
+    "target": 82135,
+    "located": 82135,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "CAKUNG",
+    "kelurahan": "UJUNG MENTENG",
+    "target": 39047,
+    "located": 39047,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "GANDARIA UTARA",
+    "target": 46658,
+    "located": 46658,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "MAKASAR",
+    "kelurahan": "KEBON PALA",
+    "target": 56331,
+    "located": 56331,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "CAKUNG",
+    "kelurahan": "PULO GEBANG",
+    "target": 127467,
+    "located": 127467,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "DUREN SAWIT",
+    "kelurahan": "PONDOK KELAPA",
+    "target": 92109,
+    "located": 92109,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "DUREN SAWIT",
+    "kelurahan": "KLENDER",
+    "target": 85957,
+    "located": 85957,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "KEBAYORAN LAMA",
+    "kelurahan": "GROGOL SELATAN",
+    "target": 52837,
+    "located": 52837,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "DUREN SAWIT",
+    "kelurahan": "MALAKA SARI",
+    "target": 31466,
+    "located": 31466,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "DUREN SAWIT",
+    "kelurahan": "PONDOK BAMBU",
+    "target": 74581,
+    "located": 74581,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "CILANDAK",
+    "kelurahan": "GANDARIA SELATAN",
+    "target": 25863,
+    "located": 25863,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "CILANDAK",
+    "kelurahan": "CIPETE SELATAN",
+    "target": 30939,
+    "located": 30939,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "CAKUNG",
+    "kelurahan": "CAKUNG TIMUR",
+    "target": 77183,
+    "located": 77183,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "MAKASAR",
+    "kelurahan": "HALIM PERDANA KUSUMA",
+    "target": 33374,
+    "located": 33374,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "CILANDAK",
+    "kelurahan": "PONDOK LABU",
+    "target": 55987,
+    "located": 55987,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "JAGAKARSA",
+    "kelurahan": "SRENGSENG SAWAH",
+    "target": 74275,
+    "located": 74275,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "PETOGOGAN",
+    "target": 12874,
+    "located": 12874,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "PANCORAN",
+    "kelurahan": "PENGADEGAN",
+    "target": 26047,
+    "located": 26047,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "KEBAYORAN LAMA",
+    "kelurahan": "KEBAYORAN LAMA SELATAN",
+    "target": 48083,
+    "located": 48083,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "CAKUNG",
+    "kelurahan": "PENGGILINGAN",
+    "target": 129373,
+    "located": 129373,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "MAKASAR",
+    "kelurahan": "PINANGRANTI",
+    "target": 35260,
+    "located": 35260,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "PANCORAN",
+    "kelurahan": "RAWAJATI",
+    "target": 25808,
+    "located": 25808,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "PANCORAN",
+    "kelurahan": "DUREN TIGA",
+    "target": 32542,
+    "located": 32542,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "JAGAKARSA",
+    "kelurahan": "LENTENG AGUNG",
+    "target": 67020,
+    "located": 67020,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "GUNUNG",
+    "target": 10090,
+    "located": 10090,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "PANCORAN",
+    "kelurahan": "PANCORAN",
+    "target": 23893,
+    "located": 23893,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "CILANDAK",
+    "kelurahan": "CILANDAK BARAT",
+    "target": 59064,
+    "located": 59064,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "PANCORAN",
+    "kelurahan": "KALIBATA",
+    "target": 50587,
+    "located": 50587,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "KRAMAT PELA",
+    "target": 16345,
+    "located": 16345,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "SELONG",
+    "target": 2921,
+    "located": 2921,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "CILANDAK",
+    "kelurahan": "LEBAK BULUS",
+    "target": 46189,
+    "located": 46189,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "SENAYAN",
+    "target": 2894,
+    "located": 2894,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "PULO",
+    "target": 6219,
+    "located": 6219,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "JAGAKARSA",
+    "kelurahan": "CIGANJUR",
+    "target": 51218,
+    "located": 51218,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "MELAWAI",
+    "target": 2729,
+    "located": 2729,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Selatan",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "RAWA BARAT",
+    "target": 6298,
+    "located": 6298,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "CIPINANG BESAR SELATAN",
+    "target": 43854,
+    "located": 43854,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "KRAMATJATI",
+    "kelurahan": "CILILITAN",
+    "target": 49602,
+    "located": 49602,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "PASAR REBO",
+    "kelurahan": "GEDONG",
+    "target": 43533,
+    "located": 43533,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "CAKUNG",
+    "kelurahan": "JATINEGARA",
+    "target": 101552,
+    "located": 101552,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "BALI MESTER",
+    "target": 10712,
+    "located": 10712,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "RAWA BUNGA",
+    "target": 25545,
+    "located": 25545,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "CIPINANG BESAR UTARA",
+    "target": 56036,
+    "located": 56036,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "KRAMATJATI",
+    "kelurahan": "CAWANG",
+    "target": 37876,
+    "located": 37876,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "CAKUNG",
+    "kelurahan": "RAWA TERATE",
+    "target": 28421,
+    "located": 28421,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "CIPINANG CEMPEDAK",
+    "target": 37683,
+    "located": 37683,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "KRAMATJATI",
+    "kelurahan": "KRAMATJATI",
+    "target": 40492,
+    "located": 40492,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "PASAR REBO",
+    "kelurahan": "PEKAYON",
+    "target": 54537,
+    "located": 54537,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "PASAR REBO",
+    "kelurahan": "BARU",
+    "target": 29786,
+    "located": 29786,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "KRAMATJATI",
+    "kelurahan": "BALEKAMBANG",
+    "target": 37701,
+    "located": 37701,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "PASAR REBO",
+    "kelurahan": "KALISARI",
+    "target": 55185,
+    "located": 55185,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "BIDARA CINA",
+    "target": 42299,
+    "located": 42299,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "DUREN SAWIT",
+    "kelurahan": "DUREN SAWIT",
+    "target": 75853,
+    "located": 75853,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "MAKASAR",
+    "kelurahan": "MAKASAR",
+    "target": 41829,
+    "located": 41829,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "MAKASAR",
+    "kelurahan": "CIPINANG MELAYU",
+    "target": 51488,
+    "located": 51488,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "DUREN SAWIT",
+    "kelurahan": "MALAKA JAYA",
+    "target": 34566,
+    "located": 34566,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "CAKUNG",
+    "kelurahan": "CAKUNG BARAT",
+    "target": 72257,
+    "located": 72257,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "DUREN SAWIT",
+    "kelurahan": "PONDOK KOPI",
+    "target": 44126,
+    "located": 44126,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "CIPAYUNG",
+    "kelurahan": "PONDOK RANGGON",
+    "target": 35195,
+    "located": 35195,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "CIRACAS",
+    "kelurahan": "CIRACAS",
+    "target": 80786,
+    "located": 80786,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "CIRACAS",
+    "kelurahan": "CIBUBUR",
+    "target": 83850,
+    "located": 83850,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "CIPAYUNG",
+    "kelurahan": "SETU",
+    "target": 27503,
+    "located": 27503,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "CIPAYUNG",
+    "kelurahan": "BAMBU APUS",
+    "target": 33955,
+    "located": 33955,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "CIPAYUNG",
+    "kelurahan": "CIPAYUNG",
+    "target": 33819,
+    "located": 33819,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "CIPAYUNG",
+    "kelurahan": "MUNJUL",
+    "target": 31711,
+    "located": 31711,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "CIPAYUNG",
+    "kelurahan": "CILANGKAP",
+    "target": 36996,
+    "located": 36996,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "CIRACAS",
+    "kelurahan": "SUSUKAN",
+    "target": 46463,
+    "located": 46463,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "KRAMATJATI",
+    "kelurahan": "TENGAH",
+    "target": 56311,
+    "located": 56311,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "CIPINANG MUARA",
+    "target": 66511,
+    "located": 66511,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "CIRACAS",
+    "kelurahan": "KELAPA DUA WETAN",
+    "target": 59708,
+    "located": 59708,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "CIRACAS",
+    "kelurahan": "RAMBUTAN",
+    "target": 46342,
+    "located": 46342,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "PASAR REBO",
+    "kelurahan": "CIJANTUNG",
+    "target": 50845,
+    "located": 50845,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "KRAMATJATI",
+    "kelurahan": "DUKUH",
+    "target": 30853,
+    "located": 30853,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "KAMPUNG MELAYU",
+    "target": 31374,
+    "located": 31374,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "KRAMATJATI",
+    "kelurahan": "BATU AMPAR",
+    "target": 61033,
+    "located": 61033,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "CIPAYUNG",
+    "kelurahan": "LUBANG BUAYA",
+    "target": 82176,
+    "located": 82176,
+    "residual": 0
+  },
+  {
+    "region": "Kota Jakarta Timur",
+    "kecamatan": "CIPAYUNG",
+    "kelurahan": "CEGER",
+    "target": 23560,
+    "located": 23560,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "BEKASI TIMUR",
+    "kelurahan": "BEKASIJAYA",
+    "target": 66301,
+    "located": 66301,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "BEKASI TIMUR",
+    "kelurahan": "MARGAHAYU",
+    "target": 66714,
+    "located": 66714,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "BEKASI TIMUR",
+    "kelurahan": "DURENJAYA",
+    "target": 76258,
+    "located": 76258,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "BEKASI TIMUR",
+    "kelurahan": "ARENJAYA",
+    "target": 66633,
+    "located": 66633,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "BEKASI BARAT",
+    "kelurahan": "BINTARA",
+    "target": 65454,
+    "located": 65454,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "BEKASI BARAT",
+    "kelurahan": "KRANJI",
+    "target": 50011,
+    "located": 50011,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "BEKASI BARAT",
+    "kelurahan": "KOTABARU",
+    "target": 45440,
+    "located": 45440,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "BEKASI BARAT",
+    "kelurahan": "BINTARAJAYA",
+    "target": 35569,
+    "located": 35569,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "BEKASI BARAT",
+    "kelurahan": "JAKASAMPURNA",
+    "target": 75551,
+    "located": 75551,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "BEKASI UTARA",
+    "kelurahan": "KALIABANG TENGAH",
+    "target": 97382,
+    "located": 97382,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "BEKASI UTARA",
+    "kelurahan": "PERWIRA",
+    "target": 40598,
+    "located": 40598,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "BEKASI UTARA",
+    "kelurahan": "HARAPANBARU",
+    "target": 28801,
+    "located": 28801,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "BEKASI UTARA",
+    "kelurahan": "TELUK PUCUNG",
+    "target": 71704,
+    "located": 71704,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "BEKASI UTARA",
+    "kelurahan": "MARGAMULYA",
+    "target": 24916,
+    "located": 24916,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "BEKASI UTARA",
+    "kelurahan": "HARAPANJAYA",
+    "target": 84286,
+    "located": 84286,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "BEKASI SELATAN",
+    "kelurahan": "PEKAYONJAYA",
+    "target": 60614,
+    "located": 60614,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "BEKASI SELATAN",
+    "kelurahan": "MARGAJAYA",
+    "target": 17710,
+    "located": 17710,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "BEKASI SELATAN",
+    "kelurahan": "JAKAMULYA",
+    "target": 37736,
+    "located": 37736,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "BEKASI SELATAN",
+    "kelurahan": "JAKASETIA",
+    "target": 45041,
+    "located": 45041,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "BEKASI SELATAN",
+    "kelurahan": "KAYURINGINJAYA",
+    "target": 58870,
+    "located": 58870,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "RAWALUMBU",
+    "kelurahan": "BOJONG RAWALUMBU",
+    "target": 80505,
+    "located": 80505,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "RAWALUMBU",
+    "kelurahan": "PENGASINAN",
+    "target": 63425,
+    "located": 63425,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "RAWALUMBU",
+    "kelurahan": "SEPANJANGJAYA",
+    "target": 37650,
+    "located": 37650,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "RAWALUMBU",
+    "kelurahan": "BOJONGMENTENG",
+    "target": 45542,
+    "located": 45542,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "MEDANSATRIA",
+    "kelurahan": "MEDANSATRIA",
+    "target": 28352,
+    "located": 28352,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "MEDANSATRIA",
+    "kelurahan": "HARAPANMULYA",
+    "target": 25298,
+    "located": 25298,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "MEDANSATRIA",
+    "kelurahan": "PEJUANG",
+    "target": 77649,
+    "located": 77649,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "MEDANSATRIA",
+    "kelurahan": "KALIBARU",
+    "target": 30980,
+    "located": 30980,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "BANTARGEBANG",
+    "kelurahan": "BANTARGEBANG",
+    "target": 35145,
+    "located": 35145,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "BANTARGEBANG",
+    "kelurahan": "CIKIWUL",
+    "target": 29726,
+    "located": 29726,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "BANTARGEBANG",
+    "kelurahan": "CIKETINGUDIK",
+    "target": 26933,
+    "located": 26933,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "BANTARGEBANG",
+    "kelurahan": "SUMURBATU",
+    "target": 28128,
+    "located": 28128,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "PONDOKGEDE",
+    "kelurahan": "JATIWARINGIN",
+    "target": 48055,
+    "located": 48055,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "PONDOKGEDE",
+    "kelurahan": "JATIBENING",
+    "target": 38260,
+    "located": 38260,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "PONDOKGEDE",
+    "kelurahan": "JATIMAKMUR",
+    "target": 62613,
+    "located": 62613,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "PONDOKGEDE",
+    "kelurahan": "JATIBENING BARU",
+    "target": 39483,
+    "located": 39483,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "PONDOKGEDE",
+    "kelurahan": "JATICEMPAKA",
+    "target": 46111,
+    "located": 46111,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "JATIASIH",
+    "kelurahan": "JATIMEKAR",
+    "target": 41937,
+    "located": 41937,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "JATIASIH",
+    "kelurahan": "JATIASIH",
+    "target": 38639,
+    "located": 38639,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "JATIASIH",
+    "kelurahan": "JATIKRAMAT",
+    "target": 47423,
+    "located": 47423,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "JATIASIH",
+    "kelurahan": "JATIRASA",
+    "target": 41994,
+    "located": 41994,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "JATIASIH",
+    "kelurahan": "JATILUHUR",
+    "target": 37181,
+    "located": 37181,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "JATIASIH",
+    "kelurahan": "JATISARI",
+    "target": 43967,
+    "located": 43967,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "JATISAMPURNA",
+    "kelurahan": "JATISAMPURNA",
+    "target": 32047,
+    "located": 32047,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "JATISAMPURNA",
+    "kelurahan": "JATIKARYA",
+    "target": 16995,
+    "located": 16995,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "JATISAMPURNA",
+    "kelurahan": "JATIRANGGON",
+    "target": 30177,
+    "located": 30177,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "JATISAMPURNA",
+    "kelurahan": "JATIRANGGA",
+    "target": 20146,
+    "located": 20146,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "JATISAMPURNA",
+    "kelurahan": "JATIRADEN",
+    "target": 23366,
+    "located": 23366,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "MUSTIKAJAYA",
+    "kelurahan": "PADURENAN",
+    "target": 60127,
+    "located": 60127,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "MUSTIKAJAYA",
+    "kelurahan": "CIMUNING",
+    "target": 46955,
+    "located": 46955,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "MUSTIKAJAYA",
+    "kelurahan": "MUSTIKAJAYA",
+    "target": 81281,
+    "located": 81281,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "MUSTIKAJAYA",
+    "kelurahan": "MUSTIKASARI",
+    "target": 40820,
+    "located": 40820,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "PONDOKMELATI",
+    "kelurahan": "JATIRAHAYU",
+    "target": 58806,
+    "located": 58806,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "PONDOKMELATI",
+    "kelurahan": "JATIWARNA",
+    "target": 23722,
+    "located": 23722,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "PONDOKMELATI",
+    "kelurahan": "JATIMELATI",
+    "target": 22487,
+    "located": 22487,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bekasi",
+    "kecamatan": "PONDOKMELATI",
+    "kelurahan": "JATIMURNI",
+    "target": 28413,
+    "located": 28413,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bogor",
+    "kecamatan": "BOGOR SELATAN",
+    "kelurahan": null,
+    "target": 226464,
+    "located": 226464,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bogor",
+    "kecamatan": "BOGOR TIMUR",
+    "kelurahan": null,
+    "target": 110901,
+    "located": 110901,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bogor",
+    "kecamatan": "BOGOR UTARA",
+    "kelurahan": null,
+    "target": 209518,
+    "located": 209518,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bogor",
+    "kecamatan": "BOGOR TENGAH",
+    "kelurahan": null,
+    "target": 109678,
+    "located": 109678,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bogor",
+    "kecamatan": "BOGOR BARAT",
+    "kelurahan": null,
+    "target": 261034,
+    "located": 261034,
+    "residual": 0
+  },
+  {
+    "region": "Kota Bogor",
+    "kecamatan": "TANAH SAREAL",
+    "kelurahan": null,
+    "target": 238948,
+    "located": 238948,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "NANGGUNG",
+    "kelurahan": null,
+    "target": 99485,
+    "located": 99485,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "LEUWILIANG",
+    "kelurahan": null,
+    "target": 131352,
+    "located": 131352,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "LEUWISADENG",
+    "kelurahan": null,
+    "target": 81557,
+    "located": 81557,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "PAMIJAHAN",
+    "kelurahan": null,
+    "target": 163186,
+    "located": 163186,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "CIBUNGBULANG",
+    "kelurahan": null,
+    "target": 150792,
+    "located": 150792,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "CIAMPEA",
+    "kelurahan": null,
+    "target": 173460,
+    "located": 173460,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "TENJOLAYA",
+    "kelurahan": null,
+    "target": 67678,
+    "located": 67678,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "DRAMAGA",
+    "kelurahan": null,
+    "target": 112265,
+    "located": 112265,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "CIOMAS",
+    "kelurahan": null,
+    "target": 160702,
+    "located": 160702,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "TAMANSARI",
+    "kelurahan": null,
+    "target": 111034,
+    "located": 111034,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "CIJERUK",
+    "kelurahan": null,
+    "target": 95076,
+    "located": 95076,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "CIGOMBONG",
+    "kelurahan": null,
+    "target": 100390,
+    "located": 100390,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "CARINGIN",
+    "kelurahan": null,
+    "target": 136443,
+    "located": 136443,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "CIAWI",
+    "kelurahan": null,
+    "target": 116779,
+    "located": 116779,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "CISARUA",
+    "kelurahan": null,
+    "target": 130552,
+    "located": 130552,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "MEGAMENDUNG",
+    "kelurahan": null,
+    "target": 112387,
+    "located": 112387,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "SUKARAJA",
+    "kelurahan": null,
+    "target": 199452,
+    "located": 199452,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "BABAKAN MADANG",
+    "kelurahan": null,
+    "target": 119231,
+    "located": 119231,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "SUKAMAKMUR",
+    "kelurahan": null,
+    "target": 89647,
+    "located": 89647,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "CARIU",
+    "kelurahan": null,
+    "target": 54077,
+    "located": 54077,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "TANJUNGSARI",
+    "kelurahan": null,
+    "target": 60499,
+    "located": 60499,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "JONGGOL",
+    "kelurahan": null,
+    "target": 145032,
+    "located": 145032,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "CILEUNGSI",
+    "kelurahan": null,
+    "target": 269651,
+    "located": 269651,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "KLAPANUNGGAL",
+    "kelurahan": null,
+    "target": 108056,
+    "located": 108056,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "GUNUNG PUTRI",
+    "kelurahan": null,
+    "target": 291673,
+    "located": 291673,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "CITEUREUP",
+    "kelurahan": null,
+    "target": 219520,
+    "located": 219520,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "CIBINONG",
+    "kelurahan": null,
+    "target": 361127,
+    "located": 361127,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "BOJONG GEDE",
+    "kelurahan": null,
+    "target": 262003,
+    "located": 262003,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "TAJURHALANG",
+    "kelurahan": null,
+    "target": 122489,
+    "located": 122489,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "KEMANG",
+    "kelurahan": null,
+    "target": 125641,
+    "located": 125641,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "RANCA BUNGUR",
+    "kelurahan": null,
+    "target": 62714,
+    "located": 62714,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "PARUNG",
+    "kelurahan": null,
+    "target": 126689,
+    "located": 126689,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "CISEENG",
+    "kelurahan": null,
+    "target": 118758,
+    "located": 118758,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "GUNUNG SINDUR",
+    "kelurahan": null,
+    "target": 118581,
+    "located": 118581,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "RUMPIN",
+    "kelurahan": null,
+    "target": 153211,
+    "located": 153211,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "CIGUDEG",
+    "kelurahan": null,
+    "target": 140407,
+    "located": 140407,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "SUKAJAYA",
+    "kelurahan": null,
+    "target": 70078,
+    "located": 70078,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "JASINGA",
+    "kelurahan": null,
+    "target": 111350,
+    "located": 111350,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "TENJO",
+    "kelurahan": null,
+    "target": 77489,
+    "located": 77489,
+    "residual": 0
+  },
+  {
+    "region": "Bogor",
+    "kecamatan": "PARUNG PANJANG",
+    "kelurahan": null,
+    "target": 122963,
+    "located": 122963,
+    "residual": 0
+  },
+  {
+    "region": "Bekasi",
+    "kecamatan": "TARUMAJAYA",
+    "kelurahan": null,
+    "target": 135303,
+    "located": 135303,
+    "residual": 0
+  },
+  {
+    "region": "Bekasi",
+    "kecamatan": "BABELAN",
+    "kelurahan": null,
+    "target": 284681,
+    "located": 284681,
+    "residual": 0
+  },
+  {
+    "region": "Bekasi",
+    "kecamatan": "SUKAWANGI",
+    "kelurahan": null,
+    "target": 57928,
+    "located": 57928,
+    "residual": 0
+  },
+  {
+    "region": "Bekasi",
+    "kecamatan": "TAMBELANG",
+    "kelurahan": null,
+    "target": 45753,
+    "located": 45753,
+    "residual": 0
+  },
+  {
+    "region": "Bekasi",
+    "kecamatan": "TAMBUN UTARA",
+    "kelurahan": null,
+    "target": 215396,
+    "located": 215396,
+    "residual": 0
+  },
+  {
+    "region": "Bekasi",
+    "kecamatan": "TAMBUN SELATAN",
+    "kelurahan": null,
+    "target": 454767,
+    "located": 454767,
+    "residual": 0
+  },
+  {
+    "region": "Bekasi",
+    "kecamatan": "CIBITUNG",
+    "kelurahan": null,
+    "target": 288993,
+    "located": 288993,
+    "residual": 0
+  },
+  {
+    "region": "Bekasi",
+    "kecamatan": "CIKARANG BARAT",
+    "kelurahan": null,
+    "target": 223090,
+    "located": 223090,
+    "residual": 0
+  },
+  {
+    "region": "Bekasi",
+    "kecamatan": "CIKARANG UTARA",
+    "kelurahan": null,
+    "target": 252335,
+    "located": 252335,
+    "residual": 0
+  },
+  {
+    "region": "Bekasi",
+    "kecamatan": "KARANG BAHAGIA",
+    "kelurahan": null,
+    "target": 146873,
+    "located": 146873,
+    "residual": 0
+  },
+  {
+    "region": "Bekasi",
+    "kecamatan": "CIKARANG TIMUR",
+    "kelurahan": null,
+    "target": 116158,
+    "located": 116158,
+    "residual": 0
+  },
+  {
+    "region": "Bekasi",
+    "kecamatan": "KEDUNG WARINGIN",
+    "kelurahan": null,
+    "target": 83360,
+    "located": 83360,
+    "residual": 0
+  },
+  {
+    "region": "Bekasi",
+    "kecamatan": "PEBAYURAN",
+    "kelurahan": null,
+    "target": 115877,
+    "located": 115877,
+    "residual": 0
+  },
+  {
+    "region": "Bekasi",
+    "kecamatan": "SUKAKARYA",
+    "kelurahan": null,
+    "target": 60182,
+    "located": 60182,
+    "residual": 0
+  },
+  {
+    "region": "Bekasi",
+    "kecamatan": "SUKATANI",
+    "kelurahan": null,
+    "target": 112687,
+    "located": 112687,
+    "residual": 0
+  },
+  {
+    "region": "Bekasi",
+    "kecamatan": "CABANGBUNGIN",
+    "kelurahan": null,
+    "target": 63557,
+    "located": 63557,
+    "residual": 0
+  },
+  {
+    "region": "Bekasi",
+    "kecamatan": "MUARAGEMBONG",
+    "kelurahan": null,
+    "target": 45476,
+    "located": 45476,
+    "residual": 0
+  },
+  {
+    "region": "Bekasi",
+    "kecamatan": "SETU",
+    "kelurahan": null,
+    "target": 187871,
+    "located": 187871,
+    "residual": 0
+  },
+  {
+    "region": "Bekasi",
+    "kecamatan": "CIKARANG SELATAN",
+    "kelurahan": null,
+    "target": 186614,
+    "located": 186614,
+    "residual": 0
+  },
+  {
+    "region": "Bekasi",
+    "kecamatan": "CIKARANG PUSAT",
+    "kelurahan": null,
+    "target": 72276,
+    "located": 72276,
+    "residual": 0
+  },
+  {
+    "region": "Bekasi",
+    "kecamatan": "SERANG BARU",
+    "kelurahan": null,
+    "target": 176978,
+    "located": 176978,
+    "residual": 0
+  },
+  {
+    "region": "Bekasi",
+    "kecamatan": "CIBARUSAH",
+    "kelurahan": null,
+    "target": 111384,
+    "located": 111384,
+    "residual": 0
+  },
+  {
+    "region": "Bekasi",
+    "kecamatan": "BOJONGMANGU",
+    "kelurahan": null,
+    "target": 31703,
+    "located": 31703,
+    "residual": 0
+  },
+  {
+    "region": "Kota Depok",
+    "kecamatan": "PANCORAN MAS",
+    "kelurahan": null,
+    "target": 248250,
+    "located": 248250,
+    "residual": 0
+  },
+  {
+    "region": "Kota Depok",
+    "kecamatan": "CIMANGGIS",
+    "kelurahan": null,
+    "target": 242759,
+    "located": 242759,
+    "residual": 0
+  },
+  {
+    "region": "Kota Depok",
+    "kecamatan": "SAWANGAN",
+    "kelurahan": null,
+    "target": 187524,
+    "located": 187524,
+    "residual": 0
+  },
+  {
+    "region": "Kota Depok",
+    "kecamatan": "LIMO",
+    "kelurahan": null,
+    "target": 107234,
+    "located": 107234,
+    "residual": 0
+  },
+  {
+    "region": "Kota Depok",
+    "kecamatan": "SUKMAJAYA",
+    "kelurahan": null,
+    "target": 253698,
+    "located": 253698,
+    "residual": 0
+  },
+  {
+    "region": "Kota Depok",
+    "kecamatan": "BEJI",
+    "kelurahan": null,
+    "target": 161887,
+    "located": 161887,
+    "residual": 0
+  },
+  {
+    "region": "Kota Depok",
+    "kecamatan": "CIPAYUNG",
+    "kelurahan": null,
+    "target": 173755,
+    "located": 173755,
+    "residual": 0
+  },
+  {
+    "region": "Kota Depok",
+    "kecamatan": "CILODONG",
+    "kelurahan": null,
+    "target": 170984,
+    "located": 170984,
+    "residual": 0
+  },
+  {
+    "region": "Kota Depok",
+    "kecamatan": "CINERE",
+    "kelurahan": null,
+    "target": 87107,
+    "located": 87107,
+    "residual": 0
+  },
+  {
+    "region": "Kota Depok",
+    "kecamatan": "TAPOS",
+    "kelurahan": null,
+    "target": 267995,
+    "located": 267995,
+    "residual": 0
+  },
+  {
+    "region": "Kota Depok",
+    "kecamatan": "BOJONGSARI",
+    "kelurahan": null,
+    "target": 137161,
+    "located": 137161,
+    "residual": 0
+  },
+  {
+    "region": "Tangerang",
+    "kecamatan": "BALARAJA",
+    "kelurahan": null,
+    "target": 132628,
+    "located": 132628,
+    "residual": 0
+  },
+  {
+    "region": "Tangerang",
+    "kecamatan": "JAYANTI",
+    "kelurahan": null,
+    "target": 74898,
+    "located": 74898,
+    "residual": 0
+  },
+  {
+    "region": "Tangerang",
+    "kecamatan": "TIGARAKSA",
+    "kelurahan": null,
+    "target": 176042,
+    "located": 176042,
+    "residual": 0
+  },
+  {
+    "region": "Tangerang",
+    "kecamatan": "JAMBE",
+    "kelurahan": null,
+    "target": 60868,
+    "located": 60868,
+    "residual": 0
+  },
+  {
+    "region": "Tangerang",
+    "kecamatan": "CISOKA",
+    "kelurahan": null,
+    "target": 107519,
+    "located": 107519,
+    "residual": 0
+  },
+  {
+    "region": "Tangerang",
+    "kecamatan": "KRESEK",
+    "kelurahan": null,
+    "target": 76659,
+    "located": 76659,
+    "residual": 0
+  },
+  {
+    "region": "Tangerang",
+    "kecamatan": "KRONJO",
+    "kelurahan": null,
+    "target": 70451,
+    "located": 70451,
+    "residual": 0
+  },
+  {
+    "region": "Tangerang",
+    "kecamatan": "MAUK",
+    "kelurahan": null,
+    "target": 96883,
+    "located": 96883,
+    "residual": 0
+  },
+  {
+    "region": "Tangerang",
+    "kecamatan": "KEMIRI",
+    "kelurahan": null,
+    "target": 55368,
+    "located": 55368,
+    "residual": 0
+  },
+  {
+    "region": "Tangerang",
+    "kecamatan": "SUKADIRI",
+    "kelurahan": null,
+    "target": 71356,
+    "located": 71356,
+    "residual": 0
+  },
+  {
+    "region": "Tangerang",
+    "kecamatan": "RAJEG",
+    "kelurahan": null,
+    "target": 212372,
+    "located": 212372,
+    "residual": 0
+  },
+  {
+    "region": "Tangerang",
+    "kecamatan": "PASAR KEMIS",
+    "kelurahan": null,
+    "target": 267339,
+    "located": 267339,
+    "residual": 0
+  },
+  {
+    "region": "Tangerang",
+    "kecamatan": "TELUKNAGA",
+    "kelurahan": null,
+    "target": 181056,
+    "located": 181056,
+    "residual": 0
+  },
+  {
+    "region": "Tangerang",
+    "kecamatan": "KOSAMBI",
+    "kelurahan": null,
+    "target": 119513,
+    "located": 119513,
+    "residual": 0
+  },
+  {
+    "region": "Tangerang",
+    "kecamatan": "PAKUHAJI",
+    "kelurahan": null,
+    "target": 137241,
+    "located": 137241,
+    "residual": 0
+  },
+  {
+    "region": "Tangerang",
+    "kecamatan": "SEPATAN",
+    "kelurahan": null,
+    "target": 121379,
+    "located": 121379,
+    "residual": 0
+  },
+  {
+    "region": "Tangerang",
+    "kecamatan": "CURUG",
+    "kelurahan": null,
+    "target": 188672,
+    "located": 188672,
+    "residual": 0
+  },
+  {
+    "region": "Tangerang",
+    "kecamatan": "CIKUPA",
+    "kelurahan": null,
+    "target": 217637,
+    "located": 217637,
+    "residual": 0
+  },
+  {
+    "region": "Tangerang",
+    "kecamatan": "PANONGAN",
+    "kelurahan": null,
+    "target": 141105,
+    "located": 141105,
+    "residual": 0
+  },
+  {
+    "region": "Tangerang",
+    "kecamatan": "LEGOK",
+    "kelurahan": null,
+    "target": 134102,
+    "located": 134102,
+    "residual": 0
+  },
+  {
+    "region": "Tangerang",
+    "kecamatan": "PAGEDANGAN",
+    "kelurahan": null,
+    "target": 124010,
+    "located": 124010,
+    "residual": 0
+  },
+  {
+    "region": "Tangerang",
+    "kecamatan": "CISAUK",
+    "kelurahan": null,
+    "target": 101292,
+    "located": 101292,
+    "residual": 0
+  },
+  {
+    "region": "Tangerang",
+    "kecamatan": "SUKAMULYA",
+    "kelurahan": null,
+    "target": 78942,
+    "located": 78942,
+    "residual": 0
+  },
+  {
+    "region": "Tangerang",
+    "kecamatan": "KELAPA DUA",
+    "kelurahan": null,
+    "target": 176856,
+    "located": 176856,
+    "residual": 0
+  },
+  {
+    "region": "Tangerang",
+    "kecamatan": "SINDANG JAYA",
+    "kelurahan": null,
+    "target": 104254,
+    "located": 104254,
+    "residual": 0
+  },
+  {
+    "region": "Tangerang",
+    "kecamatan": "SEPATAN TIMUR",
+    "kelurahan": null,
+    "target": 115108,
+    "located": 115108,
+    "residual": 0
+  },
+  {
+    "region": "Tangerang",
+    "kecamatan": "SOLEAR",
+    "kelurahan": null,
+    "target": 114423,
+    "located": 114423,
+    "residual": 0
+  },
+  {
+    "region": "Tangerang",
+    "kecamatan": "GUNUNG KALER",
+    "kelurahan": null,
+    "target": 61134,
+    "located": 61134,
+    "residual": 0
+  },
+  {
+    "region": "Tangerang",
+    "kecamatan": "MEKAR BARU",
+    "kelurahan": null,
+    "target": 48424,
+    "located": 48424,
+    "residual": 0
+  },
+  {
+    "region": "Kota Tangerang Selatan",
+    "kecamatan": "SERPONG",
+    "kelurahan": null,
+    "target": 174979,
+    "located": 174979,
+    "residual": 0
+  },
+  {
+    "region": "Kota Tangerang Selatan",
+    "kecamatan": "SERPONG UTARA",
+    "kelurahan": null,
+    "target": 146305,
+    "located": 146305,
+    "residual": 0
+  },
+  {
+    "region": "Kota Tangerang Selatan",
+    "kecamatan": "PONDOK AREN",
+    "kelurahan": null,
+    "target": 313275,
+    "located": 313275,
+    "residual": 0
+  },
+  {
+    "region": "Kota Tangerang Selatan",
+    "kecamatan": "CIPUTAT",
+    "kelurahan": null,
+    "target": 235618,
+    "located": 235618,
+    "residual": 0
+  },
+  {
+    "region": "Kota Tangerang Selatan",
+    "kecamatan": "CIPUTAT TIMUR",
+    "kelurahan": null,
+    "target": 176522,
+    "located": 176522,
+    "residual": 0
+  },
+  {
+    "region": "Kota Tangerang Selatan",
+    "kecamatan": "PAMULANG",
+    "kelurahan": null,
+    "target": 341286,
+    "located": 341286,
+    "residual": 0
+  },
+  {
+    "region": "Kota Tangerang Selatan",
+    "kecamatan": "SETU",
+    "kelurahan": null,
+    "target": 98133,
+    "located": 98133,
+    "residual": 0
+  },
+  {
+    "region": "Kota Tangerang",
+    "kecamatan": "TANGERANG",
+    "kelurahan": null,
+    "target": 169465,
+    "located": 169465,
+    "residual": 0
+  },
+  {
+    "region": "Kota Tangerang",
+    "kecamatan": "JATIUWUNG",
+    "kelurahan": null,
+    "target": 108406,
+    "located": 108406,
+    "residual": 0
+  },
+  {
+    "region": "Kota Tangerang",
+    "kecamatan": "BATUCEPER",
+    "kelurahan": null,
+    "target": 98070,
+    "located": 98070,
+    "residual": 0
+  },
+  {
+    "region": "Kota Tangerang",
+    "kecamatan": "BENDA",
+    "kelurahan": null,
+    "target": 88485,
+    "located": 88485,
+    "residual": 0
+  },
+  {
+    "region": "Kota Tangerang",
+    "kecamatan": "CIPONDOH",
+    "kelurahan": null,
+    "target": 244982,
+    "located": 244982,
+    "residual": 0
+  },
+  {
+    "region": "Kota Tangerang",
+    "kecamatan": "CILEDUG",
+    "kelurahan": null,
+    "target": 157632,
+    "located": 157632,
+    "residual": 0
+  },
+  {
+    "region": "Kota Tangerang",
+    "kecamatan": "KARAWACI",
+    "kelurahan": null,
+    "target": 196078,
+    "located": 196078,
+    "residual": 0
+  },
+  {
+    "region": "Kota Tangerang",
+    "kecamatan": "PERIUK",
+    "kelurahan": null,
+    "target": 147866,
+    "located": 147866,
+    "residual": 0
+  },
+  {
+    "region": "Kota Tangerang",
+    "kecamatan": "CIBODAS",
+    "kelurahan": null,
+    "target": 160707,
+    "located": 160707,
+    "residual": 0
+  },
+  {
+    "region": "Kota Tangerang",
+    "kecamatan": "NEGLASARI",
+    "kelurahan": null,
+    "target": 129055,
+    "located": 129055,
+    "residual": 0
+  },
+  {
+    "region": "Kota Tangerang",
+    "kecamatan": "PINANG",
+    "kelurahan": null,
+    "target": 194669,
+    "located": 194669,
+    "residual": 0
+  },
+  {
+    "region": "Kota Tangerang",
+    "kecamatan": "KARANG TENGAH",
+    "kelurahan": null,
+    "target": 123568,
+    "located": 123568,
+    "residual": 0
+  },
+  {
+    "region": "Kota Tangerang",
+    "kecamatan": "LARANGAN",
+    "kelurahan": null,
+    "target": 157616,
+    "located": 157616,
+    "residual": 0
+  }
+]

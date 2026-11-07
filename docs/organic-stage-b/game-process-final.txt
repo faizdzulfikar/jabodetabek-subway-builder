@@ -1,0 +1,5 @@
+10704 157632   2.3 /Applications/Subway Builder.app/Contents/MacOS/Subway Builder
+10707 100048   2.4 /Applications/Subway Builder.app/Contents/Frameworks/Subway Builder Helper (GPU).app/Contents/MacOS/Subway Builder Helper (GPU)
+10708  51088   0.0 /Applications/Subway Builder.app/Contents/Frameworks/Subway Builder Helper.app/Contents/MacOS/Subway Builder Helper
+10713 1556144  15.4 /Applications/Subway Builder.app/Contents/Frameworks/Subway Builder Helper (Renderer).app/Contents/MacOS/Subway Builder Helper (Renderer)
+10716  40800   0.0 /Applications/Subway Builder.app/Contents/Frameworks/Subway Builder Helper.app/Contents/MacOS/Subway Builder Helper

@@ -1,0 +1,37 @@
+{
+  "status": "government demand v3 installed and verified in game",
+  "map_assets_complete": true,
+  "demand_complete": true,
+  "in_game_verified": true,
+  "game_version": "1.7.2",
+  "depot_commit": "ef4ab40dce4b3787e4c994f6c426ddd637d30f05",
+  "planetiler_version": "0.10.2",
+  "osm_timestamp": "2026-11-05T21:23:02Z",
+  "demand_points": 24943,
+  "synthetic_commuters": 12646700,
+  "binary_encoder_byte_compatibility_test": "passed against Depot",
+  "building_count": 30000,
+  "building_index_complete": true,
+  "roads_complete": true,
+  "ocean_source_mirror": "https://ftp.fau.de/mirrors/openstreetmapdata.com-archive/2026-10-31/water-polygons-split-3857.zip",
+  "build_mode": "lightweight",
+  "stored_max_zoom": 13,
+  "full_buildings_in_package": false,
+  "structural_validation": "passed",
+  "road_features": 414732,
+  "airport_features": 454,
+  "package_bytes": 40528830,
+  "in_game_checks": [
+    "Demand panel displays12,646,700 modelled working trip-makers",
+    "Workers spatial layer displays successfully"
+  ],
+  "demand_version": 3,
+  "official_population_controls": 446,
+  "administrative_villages": 1502,
+  "source_level_population_checks": "passed",
+  "regional_model_checks": "passed",
+  "limitations": [
+    "Population references2025 except Kabupaten Bogor2022",
+    "Detailed jobs and OD remain estimates; comprehensive current local-government workplace census unavailable"
+  ]
+}

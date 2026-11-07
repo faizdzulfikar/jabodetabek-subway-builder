@@ -1,0 +1,76 @@
+admin_id,region,kecamatan,kelurahan,population_unlocated,working_residents_unlocated,reason
+32.01.32.2008,Bogor,Klapanunggal,Leuwikaret,3659,1400,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.19.2002,Bogor,Jasinga,Pangradin,5121,2100,No mapped residential capacity; pending developed-parcel / validated built-up fallback
+32.01.19.2007,Bogor,Jasinga,Cikopomayak,7123,2800,No mapped residential capacity; pending developed-parcel / validated built-up fallback
+32.01.19.2010,Bogor,Jasinga,Bagoang,7618,2700,No mapped residential capacity; pending developed-parcel / validated built-up fallback
+32.01.30.2006,Bogor,Dramaga,Purwasari,5715,1900,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.30.2005,Bogor,Dramaga,Petir,11308,4300,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.30.2001,Bogor,Dramaga,Sukadamai,6765,2500,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.15.2013,Bogor,Ciampea,Ciampea Udik,8747,3500,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.15.2006,Bogor,Ciampea,Cibuntu,7479,3600,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.15.2002,Bogor,Ciampea,Cinangka,14861,6400,No mapped residential capacity; pending developed-parcel / validated built-up fallback
+32.01.15.2007,Bogor,Ciampea,Cicadas,10118,3600,No mapped residential capacity; pending developed-parcel / validated built-up fallback
+32.01.15.2004,Bogor,Ciampea,Bojongjengkol,11211,5700,No mapped residential capacity; pending developed-parcel / validated built-up fallback
+32.01.21.2002,Bogor,Nanggung,Curugbitung,11076,5300,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.21.2009,Bogor,Nanggung,Pangkaljaya,7523,3000,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.21.2005,Bogor,Nanggung,Hambaro,5408,1500,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.21.2003,Bogor,Nanggung,Cisarua,13760,4600,No mapped residential capacity; pending developed-parcel / validated built-up fallback
+32.01.21.2007,Bogor,Nanggung,Nanggung,8399,2300,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.16.2001,Bogor,Cibungbulang,Situ Udik,15260,4900,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.16.2002,Bogor,Cibungbulang,Situ Ilir,9982,3200,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.16.2005,Bogor,Cibungbulang,Ciaruteun Udik,6962,3400,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.16.2012,Bogor,Cibungbulang,Cibatok II,7878,3100,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.16.2013,Bogor,Cibungbulang,Sukamaju,9613,3100,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.16.2009,Bogor,Cibungbulang,Dukuh,7352,2300,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.16.2014,Bogor,Cibungbulang,Galuga,8239,3800,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.39.2007,Bogor,Leuwisadeng,Sadeng,13283,5500,No mapped residential capacity; pending developed-parcel / validated built-up fallback
+32.01.39.2004,Bogor,Leuwisadeng,Wangunjaya,7472,2900,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.39.2003,Bogor,Leuwisadeng,Sadengkolot,13241,4900,No mapped residential capacity; pending developed-parcel / validated built-up fallback
+32.01.39.2002,Bogor,Leuwisadeng,Babakan Sadeng,8269,3200,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.33.2008,Bogor,Ciseeng,Cihowe,7115,2500,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.10.2002,Bogor,Parung,Iwul,7356,3100,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.10.2003,Bogor,Parung,Bojong Sempu,7992,2600,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.14.2005,Bogor,Leuwiliang,Karacak,11111,3800,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.14.2003,Bogor,Leuwiliang,Karyasari,7810,3600,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.17.2009,Bogor,Pamijahan,Cibening,15473,4600,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.17.2011,Bogor,Pamijahan,Cibitung Kulon,5815,2500,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.17.2003,Bogor,Pamijahan,Cibitung Wetan,6658,2000,No mapped residential capacity; pending developed-parcel / validated built-up fallback
+32.01.17.2007,Bogor,Pamijahan,Cimayang,6326,2800,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.17.2010,Bogor,Pamijahan,Gunung Bunder I,10440,4300,No mapped residential capacity; pending developed-parcel / validated built-up fallback
+32.01.17.2006,Bogor,Pamijahan,Pasarean,11729,3900,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.38.2009,Bogor,Cigombong,Ciadeg,12003,3900,No mapped residential capacity; pending developed-parcel / validated built-up fallback
+32.01.40.2006,Bogor,Tenjolaya,Gunung Malang,9494,4700,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.40.2007,Bogor,Tenjolaya,Gunung Mulya,7693,2800,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.40.2002,Bogor,Tenjolaya,Tapos II,7914,2700,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.40.2003,Bogor,Tenjolaya,Cibitung Tengah,11433,4200,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.40.2004,Bogor,Tenjolaya,Situdaun,9994,4000,No mapped residential capacity; pending developed-parcel / validated built-up fallback
+32.01.40.2005,Bogor,Tenjolaya,Cinangneng,10592,3500,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.22.2011,Bogor,Cigudeg,Sukaraksa,9302,2900,No mapped residential capacity; pending developed-parcel / validated built-up fallback
+32.01.35.2009,Bogor,Sukajaya,Pasir Madang,4371,1300,No mapped residential capacity; pending developed-parcel / validated built-up fallback
+32.01.22.2001,Bogor,Cigudeg,Sukamaju,7260,1900,No mapped residential capacity; pending developed-parcel / validated built-up fallback
+32.01.22.2010,Bogor,Cigudeg,Wargajaya,5228,3100,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.19.2011,Bogor,Jasinga,Pangaur,6027,3200,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.06.2012,Bogor,Jonggol,Balekambang,6363,2100,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.06.2005,Bogor,Jonggol,Sukanegara,3545,1300,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.06.2013,Bogor,Jonggol,Sukajaya,3531,1600,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.08.2007,Bogor,Cariu,Bantarkuning,4569,2300,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.08.2010,Bogor,Cariu,Cibatutiga,3800,1900,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.08.2001,Bogor,Cariu,Karyamekar,3778,1200,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.08.2004,Bogor,Cariu,Kutamekar,3053,1100,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.08.2006,Bogor,Cariu,Mekarwangi,4562,1400,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.09.2006,Bogor,Sukamakmur,Sukaresmi,8944,3700,No mapped residential capacity; pending developed-parcel / validated built-up fallback
+32.01.36.2005,Bogor,Tanjungsari,Pasirtanjung,3928,1300,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.36.2002,Bogor,Tanjungsari,Selawangi,9142,3300,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.36.2007,Bogor,Tanjungsari,Sukarasa,6607,3200,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.36.2003,Bogor,Tanjungsari,Tanjungrasa,6796,2400,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.21.2006,Bogor,Nanggung,Kalongliud,9845,4000,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.21.2010,Bogor,Nanggung,Sukaluyu,4668,2400,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.20.2002,Bogor,Parungpanjang,Gorowong,12596,3400,No mapped residential capacity; pending developed-parcel / validated built-up fallback
+32.01.39.2006,Bogor,Leuwisadeng,Kalong II,5485,2200,No mapped residential capacity; pending developed-parcel / validated built-up fallback
+32.01.39.2005,Bogor,Leuwisadeng,Kalong I,7487,2700,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.22.2008,Bogor,Cigudeg,Rengasjajar,16743,5700,No mapped residential capacity; pending developed-parcel / validated built-up fallback
+32.01.36.2001,Bogor,Tanjungsari,Tanjungsari,7720,2300,No mapped residential capacity; pending developed-parcel / validated built-up fallback
+32.01.09.2007,Bogor,Sukamakmur,Sukamulya,7144,3800,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+32.01.09.2010,Bogor,Sukamakmur,Sukamakmur,6999,3100,No mapped residential capacity; pending developed-parcel / validated built-up fallback
+36.71.03.1004,Kota Tangerang,Batuceper,Poris Gaga Baru,11529,4900,No eligible mapped buildings; pending developed-parcel / validated built-up fallback
+36.71.05.1005,Kota Tangerang,Cipondoh,Kenanga,22584,9400,No mapped residential capacity; pending developed-parcel / validated built-up fallback

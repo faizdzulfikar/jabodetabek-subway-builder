@@ -1,0 +1,242 @@
+[
+  {
+    "priority": "P0",
+    "center": "Sudirman\u2013Thamrin\u2013SCBD",
+    "diagnostic_bbox": [
+      106.79,
+      -6.245,
+      106.835,
+      -6.175
+    ],
+    "before_jobs": 820300,
+    "before_model_residents": 224300,
+    "before_points": 272,
+    "proposal_jobs": 1525600,
+    "proposal_model_residents": 218900,
+    "proposal_points": 2642
+  },
+  {
+    "priority": "P0",
+    "center": "Kuningan\u2013Mega Kuningan\u2013Rasuna Said",
+    "diagnostic_bbox": [
+      106.818,
+      -6.245,
+      106.845,
+      -6.205
+    ],
+    "before_jobs": 331000,
+    "before_model_residents": 84000,
+    "before_points": 99,
+    "proposal_jobs": 642800,
+    "proposal_model_residents": 84400,
+    "proposal_points": 921
+  },
+  {
+    "priority": "P0",
+    "center": "Gatot Subroto\u2013Semanggi",
+    "diagnostic_bbox": [
+      106.79,
+      -6.245,
+      106.852,
+      -6.22
+    ],
+    "before_jobs": 516900,
+    "before_model_residents": 83800,
+    "before_points": 122,
+    "proposal_jobs": 724800,
+    "proposal_model_residents": 87000,
+    "proposal_points": 1179
+  },
+  {
+    "priority": "P0",
+    "center": "TB Simatupang\u2013Cilandak",
+    "diagnostic_bbox": [
+      106.765,
+      -6.31,
+      106.855,
+      -6.278
+    ],
+    "before_jobs": 615300,
+    "before_model_residents": 190300,
+    "before_points": 226,
+    "proposal_jobs": 369600,
+    "proposal_model_residents": 184400,
+    "proposal_points": 1919
+  },
+  {
+    "priority": "P0",
+    "center": "Cikarang\u2013Cibitung\u2013MM2100\u2013Jababeka",
+    "diagnostic_bbox": [
+      107.01,
+      -6.375,
+      107.21,
+      -6.225
+    ],
+    "before_jobs": 904800,
+    "before_model_residents": 829700,
+    "before_points": 1760,
+    "proposal_jobs": 870900,
+    "proposal_model_residents": 863800,
+    "proposal_points": 7025
+  },
+  {
+    "priority": "P1",
+    "center": "BSD\u2013Serpong",
+    "diagnostic_bbox": [
+      106.61,
+      -6.325,
+      106.69,
+      -6.265
+    ],
+    "before_jobs": 277800,
+    "before_model_residents": 91000,
+    "before_points": 281,
+    "proposal_jobs": 224300,
+    "proposal_model_residents": 93600,
+    "proposal_points": 1492
+  },
+  {
+    "priority": "P1",
+    "center": "Alam Sutera\u2013Gading Serpong",
+    "diagnostic_bbox": [
+      106.605,
+      -6.265,
+      106.68,
+      -6.215
+    ],
+    "before_jobs": 323900,
+    "before_model_residents": 144000,
+    "before_points": 281,
+    "proposal_jobs": 266800,
+    "proposal_model_residents": 135400,
+    "proposal_points": 1374
+  },
+  {
+    "priority": "P1",
+    "center": "Sunter\u2013Kelapa Gading",
+    "diagnostic_bbox": [
+      106.852,
+      -6.19,
+      106.93,
+      -6.12
+    ],
+    "before_jobs": 691200,
+    "before_model_residents": 456900,
+    "before_points": 439,
+    "proposal_jobs": 495000,
+    "proposal_model_residents": 477700,
+    "proposal_points": 3718
+  },
+  {
+    "priority": "P1",
+    "center": "Cakung\u2013Pulogadung",
+    "diagnostic_bbox": [
+      106.887,
+      -6.235,
+      106.985,
+      -6.16
+    ],
+    "before_jobs": 449600,
+    "before_model_residents": 534700,
+    "before_points": 531,
+    "proposal_jobs": 347600,
+    "proposal_model_residents": 538000,
+    "proposal_points": 3769
+  },
+  {
+    "priority": "P1",
+    "center": "Slipi\u2013Palmerah\u2013Grogol",
+    "diagnostic_bbox": [
+      106.775,
+      -6.215,
+      106.815,
+      -6.15
+    ],
+    "before_jobs": 458900,
+    "before_model_residents": 345100,
+    "before_points": 261,
+    "proposal_jobs": 386300,
+    "proposal_model_residents": 317900,
+    "proposal_points": 2704
+  },
+  {
+    "priority": "P1",
+    "center": "Pluit\u2013PIK\u2013Penjaringan",
+    "diagnostic_bbox": [
+      106.7,
+      -6.14,
+      106.805,
+      -6.075
+    ],
+    "before_jobs": 249500,
+    "before_model_residents": 254000,
+    "before_points": 298,
+    "proposal_jobs": 295400,
+    "proposal_model_residents": 246900,
+    "proposal_points": 2298
+  },
+  {
+    "priority": "P1",
+    "center": "Jatiuwung\u2013Batuceper\u2013Balaraja",
+    "diagnostic_bbox": [
+      106.415,
+      -6.255,
+      106.665,
+      -6.115
+    ],
+    "before_jobs": 1117600,
+    "before_model_residents": 1030900,
+    "before_points": 2262,
+    "proposal_jobs": 941600,
+    "proposal_model_residents": 1048600,
+    "proposal_points": 8991
+  },
+  {
+    "priority": "P2",
+    "center": "Margonda\u2013Depok",
+    "diagnostic_bbox": [
+      106.81,
+      -6.415,
+      106.845,
+      -6.345
+    ],
+    "before_jobs": 333700,
+    "before_model_residents": 155500,
+    "before_points": 204,
+    "proposal_jobs": 150700,
+    "proposal_model_residents": 148500,
+    "proposal_points": 1326
+  },
+  {
+    "priority": "P2",
+    "center": "Bekasi Selatan\u2013Summarecon",
+    "diagnostic_bbox": [
+      106.975,
+      -6.27,
+      107.035,
+      -6.205
+    ],
+    "before_jobs": 254200,
+    "before_model_residents": 292500,
+    "before_points": 294,
+    "proposal_jobs": 232100,
+    "proposal_model_residents": 300100,
+    "proposal_points": 1500
+  },
+  {
+    "priority": "P2",
+    "center": "Bogor Tengah\u2013Baranangsiang",
+    "diagnostic_bbox": [
+      106.785,
+      -6.625,
+      106.835,
+      -6.575
+    ],
+    "before_jobs": 215400,
+    "before_model_residents": 135200,
+    "before_points": 227,
+    "proposal_jobs": 184400,
+    "proposal_model_residents": 137500,
+    "proposal_points": 1608
+  }
+]

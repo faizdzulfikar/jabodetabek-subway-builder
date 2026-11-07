@@ -1,0 +1,12 @@
+{
+  "assets/JKT/demand_data.json.gz": "f6f050ca94bf7a1203b1e33067bca67e9bf8f962bcf6ca8269bc41ffb3953529",
+  "assets/JKT/demand-method.json": "b3c42b56ba539cf2c520c0dfb3c980eea17440dfbb88a6b57b55ce14e51b9854",
+  "sources/government/kelurahan_estimates.csv": "2592cfc05ee2f449f450b26767c13be8c963147cb4aac6e30f5543c1f4a42a71",
+  "BUILD_STATUS.json": "e0274a09aa11ef95eb927063cd386f4a48f5ff17a417de5c45b4261ceb59ac34",
+  "config.json": "85b26864bf0b1ebe1e3d9ed684a206883c5a980b7495e9c8b923f41f3c624ff2",
+  "DATA_GUIDE.md": "ebceb5daea16a2fe072a55c418e8566174809819d858c2fb450fc6ac24ed3d4b",
+  "mod/config.json": "01f1c21118b6c4e2e9ca18d792f9473fba907b5e758e97c74d05cb7310fbb042",
+  "mod/index.js": "1bc9815c5a176a3c8a0723165c110268ffce751a04e5beaef309a1b15fd3a850",
+  "mod/manifest.json": "9d2eaba08bc193c8e2eae8aef350a8f3ac953fd409852ef483d5457e836356fa",
+  "README.md": "b5af76b0bb81332cc0e60f8a77841eae5fd5b8a77ed70adca331d7fc5830dfa1"
+}

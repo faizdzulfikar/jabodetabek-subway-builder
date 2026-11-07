@@ -1,0 +1,32 @@
+{
+  "stage": "B_RELEASE_GATE_PASSED",
+  "official_population_controls_exact": 446,
+  "population_geolocated": 32615007,
+  "unlocated_population": 0,
+  "working_origins": 12646700,
+  "jobs": 12646700,
+  "engine_points": 78404,
+  "groups": 126467,
+  "allocation_building_anchors_checked": 104775,
+  "allocation_parcel_anchors_checked": 11154,
+  "all_anchor_admin_and_bbox_checks": true,
+  "mapped_mask_hits": {
+    "packaged_water": 0,
+    "water": 0,
+    "forest_wetland_proxy": 0,
+    "airside": 0,
+    "major_road_8m_proxy": 0
+  },
+  "all_engine_point_margins_exact": true,
+  "all_regional_od_margins_exact": true,
+  "all_pop_references_and_point_links_valid": true,
+  "allocation_sha256": "c46f09a7c089d6377cc5e7b8a79801b04abea45129fb05d523e45e2e56798fff",
+  "engine_sources_sha256": "05e138dadfd0cbd2cbb46074df90136c396f8155e72317d88e6ed563f5f80c0a",
+  "candidate_sha256": "8c6f5a75ec22fac174fd664359baccde19ed832c6a2dea3cb2bcd57e61fd4808",
+  "seconds": 11.634149624995189,
+  "limits": [
+    "Zero hits refer to available mapped masks and inferred road widths",
+    "2021 parcel fallback and unclassified employment priors retain uncertainty",
+    "Travel time is a proxy, not measured congestion"
+  ]
+}

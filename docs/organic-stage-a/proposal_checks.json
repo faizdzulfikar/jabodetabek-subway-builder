@@ -1,0 +1,365 @@
+{
+  "points": 71901,
+  "unlocated_village_count": 75,
+  "unlocated_population": 633996,
+  "unlocated_working_residents": 242100,
+  "population_conserved_including_unlocated": true,
+  "origins_conserved_including_unlocated": true,
+  "population": 31981011,
+  "population_target": 32615007,
+  "population_residual": -633996,
+  "origins": 12404600,
+  "destinations": 12646700,
+  "origin_target": 12646700,
+  "destination_target": 12646700,
+  "regional_origins_exact": false,
+  "regional_jobs_exact": true,
+  "all_located_village_population_exact": true,
+  "all_village_working_origins_exact": false,
+  "fallbacks": [
+    {
+      "village": "32.01.32.2008",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.30.2006",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.30.2005",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.30.2001",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.15.2013",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.15.2006",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.21.2002",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.21.2009",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.21.2005",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.21.2007",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.16.2001",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.16.2002",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.16.2005",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.16.2012",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.16.2013",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.16.2009",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.16.2014",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.39.2004",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.39.2002",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.33.2008",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.10.2002",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.10.2003",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.14.2005",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.14.2003",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.17.2009",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.17.2011",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.17.2007",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.17.2006",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.40.2006",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.40.2007",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.40.2002",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.40.2003",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.40.2005",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.22.2010",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.19.2011",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.06.2012",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.06.2005",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.06.2013",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.08.2007",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.08.2010",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.08.2001",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.08.2004",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.08.2006",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.36.2005",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.36.2002",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.36.2007",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.36.2003",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.21.2006",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.21.2010",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.39.2005",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.09.2007",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "36.71.03.1004",
+      "reason": "no valid mapped buildings; no fabricated point"
+    },
+    {
+      "village": "32.01.19.2002",
+      "reason": "no residential-class capacity; residents withheld pending developed-parcel fallback"
+    },
+    {
+      "village": "32.01.19.2007",
+      "reason": "no residential-class capacity; residents withheld pending developed-parcel fallback"
+    },
+    {
+      "village": "32.01.19.2010",
+      "reason": "no residential-class capacity; residents withheld pending developed-parcel fallback"
+    },
+    {
+      "village": "32.01.15.2002",
+      "reason": "no residential-class capacity; residents withheld pending developed-parcel fallback"
+    },
+    {
+      "village": "32.01.15.2007",
+      "reason": "no residential-class capacity; residents withheld pending developed-parcel fallback"
+    },
+    {
+      "village": "32.01.15.2004",
+      "reason": "no residential-class capacity; residents withheld pending developed-parcel fallback"
+    },
+    {
+      "village": "32.01.21.2003",
+      "reason": "no residential-class capacity; residents withheld pending developed-parcel fallback"
+    },
+    {
+      "village": "32.01.39.2007",
+      "reason": "no residential-class capacity; residents withheld pending developed-parcel fallback"
+    },
+    {
+      "village": "32.01.39.2003",
+      "reason": "no residential-class capacity; residents withheld pending developed-parcel fallback"
+    },
+    {
+      "village": "32.01.17.2003",
+      "reason": "no residential-class capacity; residents withheld pending developed-parcel fallback"
+    },
+    {
+      "village": "32.01.17.2010",
+      "reason": "no residential-class capacity; residents withheld pending developed-parcel fallback"
+    },
+    {
+      "village": "32.01.38.2009",
+      "reason": "no residential-class capacity; residents withheld pending developed-parcel fallback"
+    },
+    {
+      "village": "32.01.40.2004",
+      "reason": "no residential-class capacity; residents withheld pending developed-parcel fallback"
+    },
+    {
+      "village": "32.01.22.2011",
+      "reason": "no residential-class capacity; residents withheld pending developed-parcel fallback"
+    },
+    {
+      "village": "32.01.35.2009",
+      "reason": "no residential-class capacity; residents withheld pending developed-parcel fallback"
+    },
+    {
+      "village": "32.01.22.2001",
+      "reason": "no residential-class capacity; residents withheld pending developed-parcel fallback"
+    },
+    {
+      "village": "32.01.09.2006",
+      "reason": "no residential-class capacity; residents withheld pending developed-parcel fallback"
+    },
+    {
+      "village": "32.01.20.2002",
+      "reason": "no residential-class capacity; residents withheld pending developed-parcel fallback"
+    },
+    {
+      "village": "32.01.39.2006",
+      "reason": "no residential-class capacity; residents withheld pending developed-parcel fallback"
+    },
+    {
+      "village": "32.01.22.2008",
+      "reason": "no residential-class capacity; residents withheld pending developed-parcel fallback"
+    },
+    {
+      "village": "32.01.36.2001",
+      "reason": "no residential-class capacity; residents withheld pending developed-parcel fallback"
+    },
+    {
+      "village": "32.01.09.2010",
+      "reason": "no residential-class capacity; residents withheld pending developed-parcel fallback"
+    },
+    {
+      "village": "36.71.05.1005",
+      "reason": "no residential-class capacity; residents withheld pending developed-parcel fallback"
+    }
+  ],
+  "max_cluster_radius_m": 499.94199053883057,
+  "cluster_distance_unweighted_p50_p90_p99_m": [
+    88.4306247980841,
+    220.53419152722506,
+    374.8382958817681
+  ],
+  "largest_anchor_jobs": 49200,
+  "top_1percent_job_share": 0.3277930211043197,
+  "phase_histogram_25m": [
+    7071,
+    7245,
+    7026,
+    7223,
+    7289,
+    7155,
+    7292,
+    7185,
+    7169,
+    7292,
+    7222,
+    7342,
+    7197,
+    7146,
+    7068,
+    7233,
+    7034,
+    7208,
+    7228,
+    7177
+  ],
+  "candidate_npz_bytes": 194067833,
+  "allocation_gzip_bytes": 2742842,
+  "seconds": 17.553254416998243,
+  "peak_rss_bytes_macos": 1106657280,
+  "limitations": [
+    "No point-level OD assignment yet; regional OD preview separate",
+    "Building parts counted and withheld from floor-area inference pending parent union",
+    "Node POIs not joined yet; area tags and enclosing polygons only",
+    "Coastline mask is generalized packaged zoom12 water; not a surveyed shoreline",
+    "Unknown buildings use density-derived low-rise priors; morphology is inferred, not observed",
+    "Twenty percent of regional jobs use residential capacity as a neighborhood-work scenario prior",
+    "Road widths are sensitivity proxies, not surveyed carriageway bounds",
+    "Catchments are same-function and same-village but may cross roads; barriers not yet applied"
+  ]
+}

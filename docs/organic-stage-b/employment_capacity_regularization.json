@@ -1,0 +1,112 @@
+{
+  "rule": "min(0.8*regional_jobs*relative_capacity/sum_capacity,2*relative_capacity); remainder through residential/mixed activity capacity",
+  "rationale": "Avoid magnifying one sparse mapped mall into tens of thousands of staff solely to fill a historical regional control. Threshold2 corresponds roughly to the low-area/high-intensity end of StageA function-prior ranges.",
+  "large_unknown_morphology_prior": "footprint>=800m2 without observed function -> mixed use:60% residential/40% employment; employment90m2 per relative worker; remains inferred",
+  "regions": [
+    {
+      "region": "Bekasi",
+      "jobs": 1255400,
+      "initial_capacity_normalization": 3.713450294668042,
+      "floor_component_ceiling_multiplier": 2,
+      "unclassified_neighborhood_component_share": 0.5691338585311455,
+      "interpretation": "Residual spatial prior for missing neighborhood/mixed-use workplaces; not observed informal employment or homeworking share"
+    },
+    {
+      "region": "Bogor",
+      "jobs": 1963600,
+      "initial_capacity_normalization": 9.601363710497761,
+      "floor_component_ceiling_multiplier": 2,
+      "unclassified_neighborhood_component_share": 0.8333570055001019,
+      "interpretation": "Residual spatial prior for missing neighborhood/mixed-use workplaces; not observed informal employment or homeworking share"
+    },
+    {
+      "region": "Kota Bekasi",
+      "jobs": 840200,
+      "initial_capacity_normalization": 6.028072003820601,
+      "floor_component_ceiling_multiplier": 2,
+      "unclassified_neighborhood_component_share": 0.7345751678171863,
+      "interpretation": "Residual spatial prior for missing neighborhood/mixed-use workplaces; not observed informal employment or homeworking share"
+    },
+    {
+      "region": "Kota Bogor",
+      "jobs": 437400,
+      "initial_capacity_normalization": 4.3679537691938375,
+      "floor_component_ceiling_multiplier": 2,
+      "unclassified_neighborhood_component_share": 0.6336957567443987,
+      "interpretation": "Residual spatial prior for missing neighborhood/mixed-use workplaces; not observed informal employment or homeworking share"
+    },
+    {
+      "region": "Kota Depok",
+      "jobs": 529100,
+      "initial_capacity_normalization": 4.730999512168766,
+      "floor_component_ceiling_multiplier": 2,
+      "unclassified_neighborhood_component_share": 0.6618050803250802,
+      "interpretation": "Residual spatial prior for missing neighborhood/mixed-use workplaces; not observed informal employment or homeworking share"
+    },
+    {
+      "region": "Kota Jakarta Barat",
+      "jobs": 634000,
+      "initial_capacity_normalization": 1.9820228340597492,
+      "floor_component_ceiling_multiplier": 2,
+      "unclassified_neighborhood_component_share": 0.2000000000000001,
+      "interpretation": "Residual spatial prior for missing neighborhood/mixed-use workplaces; not observed informal employment or homeworking share"
+    },
+    {
+      "region": "Kota Jakarta Pusat",
+      "jobs": 1199200,
+      "initial_capacity_normalization": 2.06081490209763,
+      "floor_component_ceiling_multiplier": 2,
+      "unclassified_neighborhood_component_share": 0.22360809873248838,
+      "interpretation": "Residual spatial prior for missing neighborhood/mixed-use workplaces; not observed informal employment or homeworking share"
+    },
+    {
+      "region": "Kota Jakarta Selatan",
+      "jobs": 2080800,
+      "initial_capacity_normalization": 2.84608717255001,
+      "floor_component_ceiling_multiplier": 2,
+      "unclassified_neighborhood_component_share": 0.43782466839677037,
+      "interpretation": "Residual spatial prior for missing neighborhood/mixed-use workplaces; not observed informal employment or homeworking share"
+    },
+    {
+      "region": "Kota Jakarta Timur",
+      "jobs": 582700,
+      "initial_capacity_normalization": 2.1640192023744422,
+      "floor_component_ceiling_multiplier": 2,
+      "unclassified_neighborhood_component_share": 0.26063502660030896,
+      "interpretation": "Residual spatial prior for missing neighborhood/mixed-use workplaces; not observed informal employment or homeworking share"
+    },
+    {
+      "region": "Kota Jakarta Utara",
+      "jobs": 706600,
+      "initial_capacity_normalization": 1.7866919359928233,
+      "floor_component_ceiling_multiplier": 2,
+      "unclassified_neighborhood_component_share": 0.2,
+      "interpretation": "Residual spatial prior for missing neighborhood/mixed-use workplaces; not observed informal employment or homeworking share"
+    },
+    {
+      "region": "Kota Tangerang",
+      "jobs": 852700,
+      "initial_capacity_normalization": 6.040661526112353,
+      "floor_component_ceiling_multiplier": 2,
+      "unclassified_neighborhood_component_share": 0.7351283476017357,
+      "interpretation": "Residual spatial prior for missing neighborhood/mixed-use workplaces; not observed informal employment or homeworking share"
+    },
+    {
+      "region": "Kota Tangerang Selatan",
+      "jobs": 522100,
+      "initial_capacity_normalization": 3.190639795849165,
+      "floor_component_ceiling_multiplier": 2,
+      "unclassified_neighborhood_component_share": 0.4985331775521931,
+      "interpretation": "Residual spatial prior for missing neighborhood/mixed-use workplaces; not observed informal employment or homeworking share"
+    },
+    {
+      "region": "Tangerang",
+      "jobs": 1042900,
+      "initial_capacity_normalization": 3.035371905675694,
+      "floor_component_ceiling_multiplier": 2,
+      "unclassified_neighborhood_component_share": 0.4728817259564675,
+      "interpretation": "Residual spatial prior for missing neighborhood/mixed-use workplaces; not observed informal employment or homeworking share"
+    }
+  ],
+  "max_anchor_jobs": 32700
+}

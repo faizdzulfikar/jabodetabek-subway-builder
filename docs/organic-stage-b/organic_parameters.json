@@ -1,0 +1,137 @@
+{
+  "stage": "B_FINAL_VERIFIED",
+  "seed": 20261107,
+  "crs_allocation": "EPSG:32748",
+  "crs_output": "EPSG:4326",
+  "building_min_footprint_m2": 10,
+  "anchor_target_before_category_and_radius_reservations": 60000,
+  "cluster_max_radius_m": 500,
+  "cluster_constraints": [
+    "same administrative village",
+    "same inferred/explicit function",
+    "actual building point-on-surface"
+  ],
+  "residential_sqm_per_person": {
+    "dense_lowrise": 18,
+    "other_lowrise": 25,
+    "sparse_periurban_rural": 30,
+    "apartments": 32
+  },
+  "usable_floor_factor": 0.8,
+  "residential_share_lowrise_apartment": 0.95,
+  "mixed_residential_share": 0.6,
+  "employment_sqm_per_worker_prior": {
+    "office": 20,
+    "government": 25,
+    "factory": 75,
+    "warehouse": 140,
+    "retail": 35,
+    "market": 45,
+    "university": 50,
+    "school": 70,
+    "hospital": 45,
+    "hotel": 100,
+    "exhibition": 140,
+    "community": 100,
+    "transport": 150,
+    "mixed": 40
+  },
+  "employment_neighborhood_mixture": 0.2,
+  "od_distance_km_scenarios": [
+    12,
+    18,
+    30
+  ],
+  "od_cross_region_fraction_scenarios": [
+    0.3,
+    0.4,
+    0.5
+  ],
+  "regional_controls": "baseline unchanged",
+  "population_rounding": "largest remainder per kecamatan; direct village counts unchanged",
+  "population_unlocated_policy": "retain explicit ledger; do not move to neighboring village or nonresidential-only buildings",
+  "fallback_levels": {
+    "unknown_lowrise": 1.5,
+    "residential": 1.5,
+    "apartments": 6,
+    "office": 3,
+    "government": 2,
+    "factory": 1,
+    "warehouse": 1,
+    "retail": 2,
+    "market": 1,
+    "university": 3,
+    "school": 2,
+    "hospital": 4,
+    "hotel": 4,
+    "mixed": 2,
+    "exhibition": 1
+  },
+  "mod_version": "0.2.1",
+  "anchor_target": 60000,
+  "allocation_anchors": 115929,
+  "engine_points": 78404,
+  "cluster_radius_m": {
+    "dense_lowrise": 200,
+    "urban_other": 350,
+    "sparse_rural": 500
+  },
+  "cluster_barriers": [
+    "major-road crossing",
+    "water intersection"
+  ],
+  "population_unit": 1,
+  "worker_unit": 100,
+  "floor_component_ceiling_multiplier": 2,
+  "minimum_neighborhood_component": 0.2,
+  "actual_unclassified_components": "employment_capacity_regularization.json",
+  "large_unknown_mixed_prior": {
+    "footprint_m2_min": 800,
+    "residential_share": 0.6,
+    "employment_share": 0.4,
+    "employment_sqm_per_relative_worker": 90
+  },
+  "small_generic_industrial_context_mixed_prior": {
+    "footprint_m2_max": 180,
+    "neighbor8_radius_m_max": 60,
+    "worldpop2025_population_per_100m_pixel_min": 10,
+    "residential_share": 0.7,
+    "employment_share": 0.3,
+    "employment_sqm_per_relative_worker": 90,
+    "inferred_levels_if_missing": 1.5
+  },
+  "fallback": {
+    "worldcover_year": 2021,
+    "class": 50,
+    "mapped_roof_exclusion_buffer_m": 2,
+    "min_parcel_m2": 70,
+    "interior_buffer_m": 1,
+    "min_interior_m2": 10,
+    "road_corridor_m": 200,
+    "normal_road_half_width_m": {
+      "major": 8,
+      "other": 3
+    },
+    "requires_positive_worldpop2025": true,
+    "residential_landuse_support_priority_in_overlap": true,
+    "industrial_without_residential_support": {
+      "max_parcel_m2": 1200,
+      "worldpop2025_pixel_min": 10
+    }
+  },
+  "coverage_input": "sources/organic/coverage_support.json",
+  "cross_region_scenario": 0.4,
+  "OD_cost_noise_km": 6,
+  "commute_distance_proxy": {
+    "detour": 1.35,
+    "speed_kmh": 24,
+    "intercept_seconds": 180
+  },
+  "nearby_level_inference": {
+    "radius_m": 500,
+    "min_comparable_buildings": 2,
+    "area_similarity_factor": 3,
+    "office_max_levels": 30,
+    "apartment_max_levels": 15
+  }
+}

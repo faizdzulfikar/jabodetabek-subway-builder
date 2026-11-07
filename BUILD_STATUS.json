@@ -1,5 +1,5 @@
 {
-  "status": "government demand v3 installed and verified in game",
+  "status": "organic demand v4 final installed, statically validated and verified in game including save/load",
   "map_assets_complete": true,
   "demand_complete": true,
   "in_game_verified": true,
@@ -7,7 +7,7 @@
   "depot_commit": "ef4ab40dce4b3787e4c994f6c426ddd637d30f05",
   "planetiler_version": "0.10.2",
   "osm_timestamp": "2026-11-05T21:23:02Z",
-  "demand_points": 24943,
+  "demand_points": 78404,
   "synthetic_commuters": 12646700,
   "binary_encoder_byte_compatibility_test": "passed against Depot",
   "building_count": 30000,
@@ -17,15 +17,19 @@
   "build_mode": "lightweight",
   "stored_max_zoom": 13,
   "full_buildings_in_package": false,
-  "structural_validation": "passed",
+  "structural_validation": "passed independent StageB gate",
   "road_features": 414732,
   "airport_features": 454,
-  "package_bytes": 40528830,
   "in_game_checks": [
-    "Demand panel displays12,646,700 modelled working trip-makers",
-    "Workers spatial layer displays successfully"
+    "Cold app restart and fresh Jabodetabek sandbox using final installed demand",
+    "Residents and Workers layers rendered",
+    "UI demand total 12,646,700 before and after save/load",
+    "Point details: 1,300 Workers (13 pops), origin-destination links visible",
+    "Pan and zoom responsive in inspected viewport",
+    "New save Jabodetabek Organic v4 Final QA created successfully",
+    "Final QA save loaded as city=JKT; both layers and total checked again"
   ],
-  "demand_version": 3,
+  "demand_version": 4,
   "official_population_controls": 446,
   "administrative_villages": 1502,
   "source_level_population_checks": "passed",
@@ -33,5 +37,13 @@
   "limitations": [
     "Population references2025 except Kabupaten Bogor2022",
     "Detailed jobs and OD remain estimates; comprehensive current local-government workplace census unavailable"
-  ]
+  ],
+  "population_geolocated": 32615007,
+  "unlocated_population": 0,
+  "organic_validation": "docs/organic-stage-b/validation.json",
+  "rollback": "docs/organic-stage-b/rollback-v3",
+  "runtime_verification": "docs/organic-stage-b/runtime_verification.json",
+  "game_assets_bytes": 39177265,
+  "previous_v3_package_bytes": 40528830,
+  "asset_preservation": "docs/organic-stage-b/asset_preservation.json"
 }

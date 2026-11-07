@@ -1,0 +1,167 @@
+[
+  {
+    "priority": "P0",
+    "name": "Sudirman\u2013Thamrin\u2013SCBD",
+    "bbox": [
+      106.79,
+      -6.245,
+      106.835,
+      -6.175
+    ],
+    "bbox_role": "audit window only; overlapping; never used as a weight or boost"
+  },
+  {
+    "priority": "P0",
+    "name": "Kuningan\u2013Mega Kuningan\u2013Rasuna Said",
+    "bbox": [
+      106.818,
+      -6.245,
+      106.845,
+      -6.205
+    ],
+    "bbox_role": "audit window only; overlapping; never used as a weight or boost"
+  },
+  {
+    "priority": "P0",
+    "name": "Gatot Subroto\u2013Semanggi",
+    "bbox": [
+      106.79,
+      -6.245,
+      106.852,
+      -6.22
+    ],
+    "bbox_role": "audit window only; overlapping; never used as a weight or boost"
+  },
+  {
+    "priority": "P0",
+    "name": "TB Simatupang\u2013Cilandak",
+    "bbox": [
+      106.765,
+      -6.31,
+      106.855,
+      -6.278
+    ],
+    "bbox_role": "audit window only; overlapping; never used as a weight or boost"
+  },
+  {
+    "priority": "P0",
+    "name": "Cikarang\u2013Cibitung\u2013MM2100\u2013Jababeka",
+    "bbox": [
+      107.01,
+      -6.375,
+      107.21,
+      -6.225
+    ],
+    "bbox_role": "audit window only; overlapping; never used as a weight or boost"
+  },
+  {
+    "priority": "P1",
+    "name": "BSD\u2013Serpong",
+    "bbox": [
+      106.61,
+      -6.325,
+      106.69,
+      -6.265
+    ],
+    "bbox_role": "audit window only; overlapping; never used as a weight or boost"
+  },
+  {
+    "priority": "P1",
+    "name": "Alam Sutera\u2013Gading Serpong",
+    "bbox": [
+      106.605,
+      -6.265,
+      106.68,
+      -6.215
+    ],
+    "bbox_role": "audit window only; overlapping; never used as a weight or boost"
+  },
+  {
+    "priority": "P1",
+    "name": "Sunter\u2013Kelapa Gading",
+    "bbox": [
+      106.852,
+      -6.19,
+      106.93,
+      -6.12
+    ],
+    "bbox_role": "audit window only; overlapping; never used as a weight or boost"
+  },
+  {
+    "priority": "P1",
+    "name": "Cakung\u2013Pulogadung",
+    "bbox": [
+      106.887,
+      -6.235,
+      106.985,
+      -6.16
+    ],
+    "bbox_role": "audit window only; overlapping; never used as a weight or boost"
+  },
+  {
+    "priority": "P1",
+    "name": "Slipi\u2013Palmerah\u2013Grogol",
+    "bbox": [
+      106.775,
+      -6.215,
+      106.815,
+      -6.15
+    ],
+    "bbox_role": "audit window only; overlapping; never used as a weight or boost"
+  },
+  {
+    "priority": "P1",
+    "name": "Pluit\u2013PIK\u2013Penjaringan",
+    "bbox": [
+      106.7,
+      -6.14,
+      106.805,
+      -6.075
+    ],
+    "bbox_role": "audit window only; overlapping; never used as a weight or boost"
+  },
+  {
+    "priority": "P1",
+    "name": "Jatiuwung\u2013Batuceper\u2013Balaraja",
+    "bbox": [
+      106.415,
+      -6.255,
+      106.665,
+      -6.115
+    ],
+    "bbox_role": "audit window only; overlapping; never used as a weight or boost"
+  },
+  {
+    "priority": "P2",
+    "name": "Margonda\u2013Depok",
+    "bbox": [
+      106.81,
+      -6.415,
+      106.845,
+      -6.345
+    ],
+    "bbox_role": "audit window only; overlapping; never used as a weight or boost"
+  },
+  {
+    "priority": "P2",
+    "name": "Bekasi Selatan\u2013Summarecon",
+    "bbox": [
+      106.975,
+      -6.27,
+      107.035,
+      -6.205
+    ],
+    "bbox_role": "audit window only; overlapping; never used as a weight or boost"
+  },
+  {
+    "priority": "P2",
+    "name": "Bogor Tengah\u2013Baranangsiang",
+    "bbox": [
+      106.785,
+      -6.625,
+      106.835,
+      -6.575
+    ],
+    "bbox_role": "audit window only; overlapping; never used as a weight or boost"
+  }
+]

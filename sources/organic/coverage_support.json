@@ -1,0 +1,2452 @@
+{
+  "baseline_candidate_sha256": "8cb1622d3bd5f54d2fc6e10a4e5190ccaa2c67a1a8b20d62f1993d88cbf088cf",
+  "reason": "Frozen coverage-risk inputs from pre-supplementv4; not recalculated from already supplemented capacities during rebuild",
+  "mandatory_admin_ids": [
+    "32.01.06.2005",
+    "32.01.06.2012",
+    "32.01.06.2013",
+    "32.01.08.2001",
+    "32.01.08.2004",
+    "32.01.08.2006",
+    "32.01.08.2007",
+    "32.01.08.2010",
+    "32.01.09.2006",
+    "32.01.09.2007",
+    "32.01.09.2010",
+    "32.01.10.2002",
+    "32.01.10.2003",
+    "32.01.14.2003",
+    "32.01.14.2005",
+    "32.01.15.2002",
+    "32.01.15.2004",
+    "32.01.15.2006",
+    "32.01.15.2007",
+    "32.01.15.2013",
+    "32.01.16.2001",
+    "32.01.16.2002",
+    "32.01.16.2005",
+    "32.01.16.2009",
+    "32.01.16.2012",
+    "32.01.16.2013",
+    "32.01.16.2014",
+    "32.01.17.2003",
+    "32.01.17.2006",
+    "32.01.17.2007",
+    "32.01.17.2009",
+    "32.01.17.2010",
+    "32.01.17.2011",
+    "32.01.19.2002",
+    "32.01.19.2007",
+    "32.01.19.2010",
+    "32.01.19.2011",
+    "32.01.20.2002",
+    "32.01.21.2002",
+    "32.01.21.2003",
+    "32.01.21.2005",
+    "32.01.21.2006",
+    "32.01.21.2007",
+    "32.01.21.2009",
+    "32.01.21.2010",
+    "32.01.22.2001",
+    "32.01.22.2002",
+    "32.01.22.2008",
+    "32.01.22.2010",
+    "32.01.22.2011",
+    "32.01.30.2001",
+    "32.01.30.2005",
+    "32.01.30.2006",
+    "32.01.32.2008",
+    "32.01.33.2008",
+    "32.01.35.2009",
+    "32.01.36.2001",
+    "32.01.36.2002",
+    "32.01.36.2003",
+    "32.01.36.2005",
+    "32.01.36.2007",
+    "32.01.38.2009",
+    "32.01.39.2002",
+    "32.01.39.2003",
+    "32.01.39.2004",
+    "32.01.39.2005",
+    "32.01.39.2006",
+    "32.01.39.2007",
+    "32.01.40.2002",
+    "32.01.40.2003",
+    "32.01.40.2004",
+    "32.01.40.2005",
+    "32.01.40.2006",
+    "32.01.40.2007",
+    "36.71.03.1004",
+    "36.71.05.1005"
+  ],
+  "flagged_villages": [
+    {
+      "admin_id": "32.01.19.2003",
+      "region": "Bogor",
+      "kecamatan": "Jasinga",
+      "kelurahan": "Kalongsawah",
+      "population": 10660,
+      "relative_residential_capacity": 2.138,
+      "population_to_prior_capacity": 4985.968194574369
+    },
+    {
+      "admin_id": "36.71.07.1014",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karawaci",
+      "kelurahan": "Sukajadi",
+      "population": 14060,
+      "relative_residential_capacity": 3.859,
+      "population_to_prior_capacity": 3643.4309406582015
+    },
+    {
+      "admin_id": "32.01.17.2014",
+      "region": "Bogor",
+      "kecamatan": "Pamijahan",
+      "kelurahan": "Gunung Sari",
+      "population": 18250,
+      "relative_residential_capacity": 8.941,
+      "population_to_prior_capacity": 2041.1587070797448
+    },
+    {
+      "admin_id": "32.01.17.2008",
+      "region": "Bogor",
+      "kecamatan": "Pamijahan",
+      "kelurahan": "Pamijahan",
+      "population": 12905,
+      "relative_residential_capacity": 6.504,
+      "population_to_prior_capacity": 1984.1635916359164
+    },
+    {
+      "admin_id": "32.01.03.2010",
+      "region": "Bogor",
+      "kecamatan": "Citeureup",
+      "kelurahan": "Gunungsari",
+      "population": 16174,
+      "relative_residential_capacity": 8.553,
+      "population_to_prior_capacity": 1891.0323862972054
+    },
+    {
+      "admin_id": "32.01.38.2007",
+      "region": "Bogor",
+      "kecamatan": "Cigombong",
+      "kelurahan": "Pasirjaya",
+      "population": 7937,
+      "relative_residential_capacity": 4.316000000000001,
+      "population_to_prior_capacity": 1838.971269694161
+    },
+    {
+      "admin_id": "32.01.20.2004",
+      "region": "Bogor",
+      "kecamatan": "Parungpanjang",
+      "kelurahan": "Pingku",
+      "population": 8795,
+      "relative_residential_capacity": 7.539,
+      "population_to_prior_capacity": 1166.6003448733254
+    },
+    {
+      "admin_id": "32.01.08.2005",
+      "region": "Bogor",
+      "kecamatan": "Cariu",
+      "kelurahan": "Cariu",
+      "population": 11984,
+      "relative_residential_capacity": 11.086,
+      "population_to_prior_capacity": 1081.0030669312646
+    },
+    {
+      "admin_id": "32.01.16.2003",
+      "region": "Bogor",
+      "kecamatan": "Cibungbulang",
+      "kelurahan": "Cemplang",
+      "population": 15020,
+      "relative_residential_capacity": 16.618,
+      "population_to_prior_capacity": 903.8392104946445
+    },
+    {
+      "admin_id": "36.74.06.1007",
+      "region": "Kota Tangerang Selatan",
+      "kecamatan": "Pamulang",
+      "kelurahan": "Bambu Apus",
+      "population": 37053,
+      "relative_residential_capacity": 46.849,
+      "population_to_prior_capacity": 790.9026873572542
+    },
+    {
+      "admin_id": "36.71.04.1001",
+      "region": "Kota Tangerang",
+      "kecamatan": "Benda",
+      "kelurahan": "Belendung",
+      "population": 17210,
+      "relative_residential_capacity": 22.729999999999997,
+      "population_to_prior_capacity": 757.1491421029477
+    },
+    {
+      "admin_id": "32.01.14.2004",
+      "region": "Bogor",
+      "kecamatan": "Leuwiliang",
+      "kelurahan": "Pabangbon",
+      "population": 4690,
+      "relative_residential_capacity": 7.299,
+      "population_to_prior_capacity": 642.5537744896561
+    },
+    {
+      "admin_id": "32.01.28.2001",
+      "region": "Bogor",
+      "kecamatan": "Cijeruk",
+      "kelurahan": "Cijeruk",
+      "population": 10639,
+      "relative_residential_capacity": 16.635,
+      "population_to_prior_capacity": 639.5551547941087
+    },
+    {
+      "admin_id": "36.71.13.1003",
+      "region": "Kota Tangerang",
+      "kecamatan": "Larangan",
+      "kelurahan": "Cipadu",
+      "population": 15348,
+      "relative_residential_capacity": 26.1,
+      "population_to_prior_capacity": 588.0459770114942
+    },
+    {
+      "admin_id": "36.71.03.1002",
+      "region": "Kota Tangerang",
+      "kecamatan": "Batuceper",
+      "kelurahan": "Batu Jaya",
+      "population": 12103,
+      "relative_residential_capacity": 20.759,
+      "population_to_prior_capacity": 583.0242304542608
+    },
+    {
+      "admin_id": "32.01.15.2005",
+      "region": "Bogor",
+      "kecamatan": "Ciampea",
+      "kelurahan": "Tegalwaru",
+      "population": 15497,
+      "relative_residential_capacity": 26.686,
+      "population_to_prior_capacity": 580.7164805516001
+    },
+    {
+      "admin_id": "32.01.08.2003",
+      "region": "Bogor",
+      "kecamatan": "Cariu",
+      "kelurahan": "Cikutamahi",
+      "population": 4092,
+      "relative_residential_capacity": 7.598000000000001,
+      "population_to_prior_capacity": 538.5627796788629
+    },
+    {
+      "admin_id": "32.01.15.2008",
+      "region": "Bogor",
+      "kecamatan": "Ciampea",
+      "kelurahan": "Cibadak",
+      "population": 14284,
+      "relative_residential_capacity": 26.834,
+      "population_to_prior_capacity": 532.3097562793471
+    },
+    {
+      "admin_id": "32.01.21.2011",
+      "region": "Bogor",
+      "kecamatan": "Nanggung",
+      "kelurahan": "Batu Tulis",
+      "population": 7216,
+      "relative_residential_capacity": 14.139,
+      "population_to_prior_capacity": 510.36141169813993
+    },
+    {
+      "admin_id": "32.01.30.2010",
+      "region": "Bogor",
+      "kecamatan": "Dramaga",
+      "kelurahan": "Neglasari",
+      "population": 7880,
+      "relative_residential_capacity": 18.401,
+      "population_to_prior_capacity": 428.2375957828379
+    },
+    {
+      "admin_id": "36.71.03.1001",
+      "region": "Kota Tangerang",
+      "kecamatan": "Batuceper",
+      "kelurahan": "Batuceper",
+      "population": 16604,
+      "relative_residential_capacity": 39.783,
+      "population_to_prior_capacity": 417.3642007892818
+    },
+    {
+      "admin_id": "32.01.09.2003",
+      "region": "Bogor",
+      "kecamatan": "Sukamakmur",
+      "kelurahan": "Sukadamai",
+      "population": 8446,
+      "relative_residential_capacity": 22.537,
+      "population_to_prior_capacity": 374.76150330567515
+    },
+    {
+      "admin_id": "36.71.11.1005",
+      "region": "Kota Tangerang",
+      "kecamatan": "Pinang",
+      "kelurahan": "Kunciran Indah",
+      "population": 26702,
+      "relative_residential_capacity": 71.868,
+      "population_to_prior_capacity": 371.54227194300665
+    },
+    {
+      "admin_id": "32.01.15.2003",
+      "region": "Bogor",
+      "kecamatan": "Ciampea",
+      "kelurahan": "Cihideung Udik",
+      "population": 17771,
+      "relative_residential_capacity": 48.809,
+      "population_to_prior_capacity": 364.0926878239669
+    },
+    {
+      "admin_id": "32.01.31.2008",
+      "region": "Bogor",
+      "kecamatan": "Tamansari",
+      "kelurahan": "Sukajadi",
+      "population": 8405,
+      "relative_residential_capacity": 23.883,
+      "population_to_prior_capacity": 351.92396265125825
+    },
+    {
+      "admin_id": "32.01.06.2011",
+      "region": "Bogor",
+      "kecamatan": "Jonggol",
+      "kelurahan": "Singasari",
+      "population": 11703,
+      "relative_residential_capacity": 36.659,
+      "population_to_prior_capacity": 319.2394773452631
+    },
+    {
+      "admin_id": "32.01.38.2003",
+      "region": "Bogor",
+      "kecamatan": "Cigombong",
+      "kelurahan": "Ciburuy",
+      "population": 13725,
+      "relative_residential_capacity": 45.010000000000005,
+      "population_to_prior_capacity": 304.9322372806043
+    },
+    {
+      "admin_id": "32.01.38.2008",
+      "region": "Bogor",
+      "kecamatan": "Cigombong",
+      "kelurahan": "Ciburayut",
+      "population": 12325,
+      "relative_residential_capacity": 41.263000000000005,
+      "population_to_prior_capacity": 298.6937450015752
+    },
+    {
+      "admin_id": "36.71.09.1001",
+      "region": "Kota Tangerang",
+      "kecamatan": "Cibodas",
+      "kelurahan": "Cibodas",
+      "population": 28356,
+      "relative_residential_capacity": 100.94799999999998,
+      "population_to_prior_capacity": 280.89709553433454
+    },
+    {
+      "admin_id": "36.71.02.1002",
+      "region": "Kota Tangerang",
+      "kecamatan": "Jatiuwung",
+      "kelurahan": "Jatake",
+      "population": 12847,
+      "relative_residential_capacity": 49.211999999999996,
+      "population_to_prior_capacity": 261.05421441924733
+    },
+    {
+      "admin_id": "36.71.06.1005",
+      "region": "Kota Tangerang",
+      "kecamatan": "Ciledug",
+      "kelurahan": "Parung Serab",
+      "population": 22788,
+      "relative_residential_capacity": 91.813,
+      "population_to_prior_capacity": 248.20014594883077
+    },
+    {
+      "admin_id": "32.75.07.1003",
+      "region": "Kota Bekasi",
+      "kecamatan": "Bantargebang",
+      "kelurahan": "Bantargebang",
+      "population": 35145,
+      "relative_residential_capacity": 142.71900000000002,
+      "population_to_prior_capacity": 246.25312677359003
+    },
+    {
+      "admin_id": "32.01.36.2004",
+      "region": "Bogor",
+      "kecamatan": "Tanjungsari",
+      "kelurahan": "Antajaya",
+      "population": 4966,
+      "relative_residential_capacity": 20.905,
+      "population_to_prior_capacity": 237.5508251614446
+    },
+    {
+      "admin_id": "32.75.07.1004",
+      "region": "Kota Bekasi",
+      "kecamatan": "Bantargebang",
+      "kelurahan": "Cikiwul",
+      "population": 29726,
+      "relative_residential_capacity": 136.04500000000002,
+      "population_to_prior_capacity": 218.5012312102613
+    },
+    {
+      "admin_id": "32.01.27.2002",
+      "region": "Bogor",
+      "kecamatan": "Caringin",
+      "kelurahan": "Cimande Hilir",
+      "population": 10359,
+      "relative_residential_capacity": 50.259,
+      "population_to_prior_capacity": 206.11233808870054
+    },
+    {
+      "admin_id": "32.01.31.2007",
+      "region": "Bogor",
+      "kecamatan": "Tamansari",
+      "kelurahan": "Sukajaya",
+      "population": 8806,
+      "relative_residential_capacity": 43.792,
+      "population_to_prior_capacity": 201.08695652173913
+    },
+    {
+      "admin_id": "32.01.33.2009",
+      "region": "Bogor",
+      "kecamatan": "Ciseeng",
+      "kelurahan": "Cibeuteung Muara",
+      "population": 10008,
+      "relative_residential_capacity": 50.739000000000004,
+      "population_to_prior_capacity": 197.24472299414649
+    },
+    {
+      "admin_id": "32.01.17.2005",
+      "region": "Bogor",
+      "kecamatan": "Pamijahan",
+      "kelurahan": "Gunung Bunder II",
+      "population": 12283,
+      "relative_residential_capacity": 63.49700000000001,
+      "population_to_prior_capacity": 193.44220986818272
+    },
+    {
+      "admin_id": "32.01.15.2009",
+      "region": "Bogor",
+      "kecamatan": "Ciampea",
+      "kelurahan": "Bojongrangkas",
+      "population": 14602,
+      "relative_residential_capacity": 76.469,
+      "population_to_prior_capacity": 190.9531967202396
+    },
+    {
+      "admin_id": "32.01.10.2008",
+      "region": "Bogor",
+      "kecamatan": "Parung",
+      "kelurahan": "Bojong Indah",
+      "population": 8263,
+      "relative_residential_capacity": 43.489999999999995,
+      "population_to_prior_capacity": 189.9977006208324
+    },
+    {
+      "admin_id": "32.01.33.2007",
+      "region": "Bogor",
+      "kecamatan": "Ciseeng",
+      "kelurahan": "Babakan",
+      "population": 24182,
+      "relative_residential_capacity": 128.00099999999998,
+      "population_to_prior_capacity": 188.9203990593824
+    },
+    {
+      "admin_id": "32.01.19.2008",
+      "region": "Bogor",
+      "kecamatan": "Jasinga",
+      "kelurahan": "Setu",
+      "population": 6966,
+      "relative_residential_capacity": 37.676,
+      "population_to_prior_capacity": 184.89223909119863
+    },
+    {
+      "admin_id": "32.01.12.2004",
+      "region": "Bogor",
+      "kecamatan": "Kemang",
+      "kelurahan": "Pabuaran",
+      "population": 13035,
+      "relative_residential_capacity": 74.213,
+      "population_to_prior_capacity": 175.64308140083276
+    },
+    {
+      "admin_id": "36.03.08.2010",
+      "region": "Tangerang",
+      "kecamatan": "Mauk",
+      "kelurahan": "Jatiwaringin",
+      "population": 11888,
+      "relative_residential_capacity": 67.834,
+      "population_to_prior_capacity": 175.25134888109207
+    },
+    {
+      "admin_id": "32.01.16.2007",
+      "region": "Bogor",
+      "kecamatan": "Cibungbulang",
+      "kelurahan": "Cimanggu I",
+      "population": 10620,
+      "relative_residential_capacity": 62.265,
+      "population_to_prior_capacity": 170.56131052758371
+    },
+    {
+      "admin_id": "36.71.07.1001",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karawaci",
+      "kelurahan": "Karawaci",
+      "population": 10472,
+      "relative_residential_capacity": 64.249,
+      "population_to_prior_capacity": 162.9908636710299
+    },
+    {
+      "admin_id": "36.71.07.1008",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karawaci",
+      "kelurahan": "Sumur Pacing",
+      "population": 5624,
+      "relative_residential_capacity": 34.812000000000005,
+      "population_to_prior_capacity": 161.55348730322876
+    },
+    {
+      "admin_id": "32.01.32.2009",
+      "region": "Bogor",
+      "kecamatan": "Klapanunggal",
+      "kelurahan": "Ligarmukti",
+      "population": 2094,
+      "relative_residential_capacity": 12.988,
+      "population_to_prior_capacity": 161.22574684323993
+    },
+    {
+      "admin_id": "32.01.16.2006",
+      "region": "Bogor",
+      "kecamatan": "Cibungbulang",
+      "kelurahan": "Leuweungkolot",
+      "population": 10058,
+      "relative_residential_capacity": 64.645,
+      "population_to_prior_capacity": 155.58821254544048
+    },
+    {
+      "admin_id": "32.01.33.2005",
+      "region": "Bogor",
+      "kecamatan": "Ciseeng",
+      "kelurahan": "Cibeuteung Udik",
+      "population": 10593,
+      "relative_residential_capacity": 68.21499999999999,
+      "population_to_prior_capacity": 155.2884262992011
+    },
+    {
+      "admin_id": "32.01.17.2004",
+      "region": "Bogor",
+      "kecamatan": "Pamijahan",
+      "kelurahan": "Gunung Menyan",
+      "population": 7705,
+      "relative_residential_capacity": 51.732,
+      "population_to_prior_capacity": 148.94069434779246
+    },
+    {
+      "admin_id": "36.71.13.1006",
+      "region": "Kota Tangerang",
+      "kecamatan": "Larangan",
+      "kelurahan": "Gaga",
+      "population": 19076,
+      "relative_residential_capacity": 150.002,
+      "population_to_prior_capacity": 127.17163771149717
+    },
+    {
+      "admin_id": "32.01.35.2006",
+      "region": "Bogor",
+      "kecamatan": "Sukajaya",
+      "kelurahan": "Kiarapandak",
+      "population": 6457,
+      "relative_residential_capacity": 51.93899999999999,
+      "population_to_prior_capacity": 124.31891257051542
+    },
+    {
+      "admin_id": "32.01.14.2008",
+      "region": "Bogor",
+      "kecamatan": "Leuwiliang",
+      "kelurahan": "Puraseda",
+      "population": 6981,
+      "relative_residential_capacity": 56.751000000000005,
+      "population_to_prior_capacity": 123.01104826346672
+    },
+    {
+      "admin_id": "32.01.30.2004",
+      "region": "Bogor",
+      "kecamatan": "Dramaga",
+      "kelurahan": "Sukawening",
+      "population": 7496,
+      "relative_residential_capacity": 63.75800000000001,
+      "population_to_prior_capacity": 117.56955989836568
+    },
+    {
+      "admin_id": "32.01.22.2013",
+      "region": "Bogor",
+      "kecamatan": "Cigudeg",
+      "kelurahan": "Banyuasih",
+      "population": 3023,
+      "relative_residential_capacity": 26.070999999999998,
+      "population_to_prior_capacity": 115.95259100149592
+    },
+    {
+      "admin_id": "32.01.09.2009",
+      "region": "Bogor",
+      "kecamatan": "Sukamakmur",
+      "kelurahan": "Sirnajaya",
+      "population": 7892,
+      "relative_residential_capacity": 69.201,
+      "population_to_prior_capacity": 114.04459473129002
+    },
+    {
+      "admin_id": "32.01.38.2005",
+      "region": "Bogor",
+      "kecamatan": "Cigombong",
+      "kelurahan": "Cisalada",
+      "population": 6186,
+      "relative_residential_capacity": 61.793000000000006,
+      "population_to_prior_capacity": 100.10842652080332
+    },
+    {
+      "admin_id": "32.01.20.2001",
+      "region": "Bogor",
+      "kecamatan": "Parungpanjang",
+      "kelurahan": "Jagabaya",
+      "population": 8476,
+      "relative_residential_capacity": 87.934,
+      "population_to_prior_capacity": 96.39047467418746
+    },
+    {
+      "admin_id": "32.01.03.2002",
+      "region": "Bogor",
+      "kecamatan": "Citeureup",
+      "kelurahan": "Citeureup",
+      "population": 27300,
+      "relative_residential_capacity": 284.2970000000001,
+      "population_to_prior_capacity": 96.02633865288762
+    },
+    {
+      "admin_id": "32.01.11.2002",
+      "region": "Bogor",
+      "kecamatan": "Gunungsindur",
+      "kelurahan": "Padurenan",
+      "population": 7975,
+      "relative_residential_capacity": 84.47200000000002,
+      "population_to_prior_capacity": 94.40998200587174
+    },
+    {
+      "admin_id": "32.01.10.2007",
+      "region": "Bogor",
+      "kecamatan": "Parung",
+      "kelurahan": "Waru Jaya",
+      "population": 13797,
+      "relative_residential_capacity": 147.489,
+      "population_to_prior_capacity": 93.54595935968106
+    },
+    {
+      "admin_id": "32.01.23.2002",
+      "region": "Bogor",
+      "kecamatan": "Tenjo",
+      "kelurahan": "Ciomas",
+      "population": 5222,
+      "relative_residential_capacity": 56.242999999999995,
+      "population_to_prior_capacity": 92.84710986256069
+    },
+    {
+      "admin_id": "32.01.35.2007",
+      "region": "Bogor",
+      "kecamatan": "Sukajaya",
+      "kelurahan": "Harkatjaya",
+      "population": 8448,
+      "relative_residential_capacity": 96.57499999999999,
+      "population_to_prior_capacity": 87.47605487962724
+    },
+    {
+      "admin_id": "32.75.05.1004",
+      "region": "Kota Bekasi",
+      "kecamatan": "Rawalumbu",
+      "kelurahan": "Bojongmenteng",
+      "population": 45542,
+      "relative_residential_capacity": 548.1940000000001,
+      "population_to_prior_capacity": 83.07642914734564
+    },
+    {
+      "admin_id": "32.01.10.2005",
+      "region": "Bogor",
+      "kecamatan": "Parung",
+      "kelurahan": "Cogreg",
+      "population": 16304,
+      "relative_residential_capacity": 209.23000000000002,
+      "population_to_prior_capacity": 77.92381589638197
+    },
+    {
+      "admin_id": "32.01.24.2004",
+      "region": "Bogor",
+      "kecamatan": "Ciawi",
+      "kelurahan": "Jambuluwuk",
+      "population": 6107,
+      "relative_residential_capacity": 80.98199999999999,
+      "population_to_prior_capacity": 75.41181991059743
+    },
+    {
+      "admin_id": "32.01.28.2003",
+      "region": "Bogor",
+      "kecamatan": "Cijeruk",
+      "kelurahan": "Warungmenteng",
+      "population": 11668,
+      "relative_residential_capacity": 157.47699999999998,
+      "population_to_prior_capacity": 74.09335966522096
+    },
+    {
+      "admin_id": "32.75.09.1001",
+      "region": "Kota Bekasi",
+      "kecamatan": "Jatiasih",
+      "kelurahan": "Jatimekar",
+      "population": 41937,
+      "relative_residential_capacity": 576.303,
+      "population_to_prior_capacity": 72.76901213424189
+    },
+    {
+      "admin_id": "32.01.33.2003",
+      "region": "Bogor",
+      "kecamatan": "Ciseeng",
+      "kelurahan": "Parigi Mekar",
+      "population": 11897,
+      "relative_residential_capacity": 164.358,
+      "population_to_prior_capacity": 72.38467248323781
+    },
+    {
+      "admin_id": "36.71.11.1001",
+      "region": "Kota Tangerang",
+      "kecamatan": "Pinang",
+      "kelurahan": "Pinang",
+      "population": 25624,
+      "relative_residential_capacity": 362.221,
+      "population_to_prior_capacity": 70.74134299226164
+    },
+    {
+      "admin_id": "36.71.06.1006",
+      "region": "Kota Tangerang",
+      "kecamatan": "Ciledug",
+      "kelurahan": "Sudimara Jaya",
+      "population": 15858,
+      "relative_residential_capacity": 227.05400000000003,
+      "population_to_prior_capacity": 69.84241634148704
+    },
+    {
+      "admin_id": "32.01.19.2013",
+      "region": "Bogor",
+      "kecamatan": "Jasinga",
+      "kelurahan": "Jugalajaya",
+      "population": 4719,
+      "relative_residential_capacity": 67.725,
+      "population_to_prior_capacity": 69.67884828349945
+    },
+    {
+      "admin_id": "32.01.14.2009",
+      "region": "Bogor",
+      "kecamatan": "Leuwiliang",
+      "kelurahan": "Cibeber I",
+      "population": 16107,
+      "relative_residential_capacity": 234.88899999999998,
+      "population_to_prior_capacity": 68.57281524464747
+    },
+    {
+      "admin_id": "32.01.17.2012",
+      "region": "Bogor",
+      "kecamatan": "Pamijahan",
+      "kelurahan": "Gunung Picung",
+      "population": 16276,
+      "relative_residential_capacity": 239.828,
+      "population_to_prior_capacity": 67.86530346748503
+    },
+    {
+      "admin_id": "32.01.35.2002",
+      "region": "Bogor",
+      "kecamatan": "Sukajaya",
+      "kelurahan": "Kiarasari",
+      "population": 9831,
+      "relative_residential_capacity": 148.21300000000002,
+      "population_to_prior_capacity": 66.33021394884388
+    },
+    {
+      "admin_id": "32.75.08.1003",
+      "region": "Kota Bekasi",
+      "kecamatan": "Pondokgede",
+      "kelurahan": "Jatimakmur",
+      "population": 62613,
+      "relative_residential_capacity": 948.723,
+      "population_to_prior_capacity": 65.99713509633476
+    },
+    {
+      "admin_id": "32.01.12.2008",
+      "region": "Bogor",
+      "kecamatan": "Kemang",
+      "kelurahan": "Pondok Udik",
+      "population": 12108,
+      "relative_residential_capacity": 190.65400000000002,
+      "population_to_prior_capacity": 63.507715547536364
+    },
+    {
+      "admin_id": "32.75.09.1003",
+      "region": "Kota Bekasi",
+      "kecamatan": "Jatiasih",
+      "kelurahan": "Jatikramat",
+      "population": 47423,
+      "relative_residential_capacity": 748.3220000000001,
+      "population_to_prior_capacity": 63.372451965864954
+    },
+    {
+      "admin_id": "32.01.14.2006",
+      "region": "Bogor",
+      "kecamatan": "Leuwiliang",
+      "kelurahan": "Barengkok",
+      "population": 14110,
+      "relative_residential_capacity": 224.29000000000002,
+      "population_to_prior_capacity": 62.9096259307147
+    },
+    {
+      "admin_id": "36.71.07.1006",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karawaci",
+      "kelurahan": "Cimone Jaya",
+      "population": 15382,
+      "relative_residential_capacity": 252.739,
+      "population_to_prior_capacity": 60.86120464194287
+    },
+    {
+      "admin_id": "32.01.16.2004",
+      "region": "Bogor",
+      "kecamatan": "Cibungbulang",
+      "kelurahan": "Cibatok I",
+      "population": 9512,
+      "relative_residential_capacity": 156.46499999999997,
+      "population_to_prior_capacity": 60.793148627488584
+    },
+    {
+      "admin_id": "32.01.11.2001",
+      "region": "Bogor",
+      "kecamatan": "Gunungsindur",
+      "kelurahan": "Cidokom",
+      "population": 7014,
+      "relative_residential_capacity": 115.50900000000001,
+      "population_to_prior_capacity": 60.72254110069345
+    },
+    {
+      "admin_id": "32.01.35.2010",
+      "region": "Bogor",
+      "kecamatan": "Sukajaya",
+      "kelurahan": "Urug",
+      "population": 5089,
+      "relative_residential_capacity": 86.08900000000001,
+      "population_to_prior_capacity": 59.11324327149809
+    },
+    {
+      "admin_id": "36.71.11.1003",
+      "region": "Kota Tangerang",
+      "kecamatan": "Pinang",
+      "kelurahan": "Neroktog",
+      "population": 23168,
+      "relative_residential_capacity": 395.066,
+      "population_to_prior_capacity": 58.64336591860601
+    },
+    {
+      "admin_id": "36.71.12.1003",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karang Tengah",
+      "kelurahan": "Pondok Bahar",
+      "population": 11190,
+      "relative_residential_capacity": 191.865,
+      "population_to_prior_capacity": 58.32225783754202
+    },
+    {
+      "admin_id": "32.01.33.2002",
+      "region": "Bogor",
+      "kecamatan": "Ciseeng",
+      "kelurahan": "Ciseeng",
+      "population": 10373,
+      "relative_residential_capacity": 188.61499999999998,
+      "population_to_prior_capacity": 54.995626010656636
+    },
+    {
+      "admin_id": "32.01.03.1006",
+      "region": "Bogor",
+      "kecamatan": "Citeureup",
+      "kelurahan": "Puspanegara",
+      "population": 19102,
+      "relative_residential_capacity": 347.947,
+      "population_to_prior_capacity": 54.89916567753135
+    },
+    {
+      "admin_id": "32.01.16.2015",
+      "region": "Bogor",
+      "kecamatan": "Cibungbulang",
+      "kelurahan": "Girimulya",
+      "population": 11308,
+      "relative_residential_capacity": 206.72800000000004,
+      "population_to_prior_capacity": 54.699895514879444
+    },
+    {
+      "admin_id": "36.71.07.1013",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karawaci",
+      "kelurahan": "Gerendeng",
+      "population": 13457,
+      "relative_residential_capacity": 256.174,
+      "population_to_prior_capacity": 52.53070178862804
+    },
+    {
+      "admin_id": "36.71.07.1005",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karawaci",
+      "kelurahan": "Cimone",
+      "population": 16469,
+      "relative_residential_capacity": 323.63399999999996,
+      "population_to_prior_capacity": 50.88773120253126
+    },
+    {
+      "admin_id": "32.01.34.2002",
+      "region": "Bogor",
+      "kecamatan": "Rancabungur",
+      "kelurahan": "Bantarsari",
+      "population": 8517,
+      "relative_residential_capacity": 168.07500000000002,
+      "population_to_prior_capacity": 50.673806336456934
+    },
+    {
+      "admin_id": "36.71.12.1004",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karang Tengah",
+      "kelurahan": "Pondok Pucung",
+      "population": 11517,
+      "relative_residential_capacity": 230.209,
+      "population_to_prior_capacity": 50.02845240629167
+    },
+    {
+      "admin_id": "32.01.31.2005",
+      "region": "Bogor",
+      "kecamatan": "Tamansari",
+      "kelurahan": "Sukaluyu",
+      "population": 8105,
+      "relative_residential_capacity": 162.242,
+      "population_to_prior_capacity": 49.9562382120536
+    },
+    {
+      "admin_id": "32.01.16.2010",
+      "region": "Bogor",
+      "kecamatan": "Cibungbulang",
+      "kelurahan": "Cijujung",
+      "population": 8143,
+      "relative_residential_capacity": 165.948,
+      "population_to_prior_capacity": 49.069588063730805
+    },
+    {
+      "admin_id": "32.01.34.2001",
+      "region": "Bogor",
+      "kecamatan": "Rancabungur",
+      "kelurahan": "Bantarjaya",
+      "population": 12302,
+      "relative_residential_capacity": 259.40400000000005,
+      "population_to_prior_capacity": 47.42409523368953
+    },
+    {
+      "admin_id": "36.71.11.1002",
+      "region": "Kota Tangerang",
+      "kecamatan": "Pinang",
+      "kelurahan": "Sudimara Pinang",
+      "population": 18951,
+      "relative_residential_capacity": 430.32800000000003,
+      "population_to_prior_capacity": 44.03850086445688
+    },
+    {
+      "admin_id": "32.01.17.2013",
+      "region": "Bogor",
+      "kecamatan": "Pamijahan",
+      "kelurahan": "Ciasihan",
+      "population": 12934,
+      "relative_residential_capacity": 294.51200000000006,
+      "population_to_prior_capacity": 43.916716466561624
+    },
+    {
+      "admin_id": "32.01.21.2008",
+      "region": "Bogor",
+      "kecamatan": "Nanggung",
+      "kelurahan": "Parakanmuncang",
+      "population": 6734,
+      "relative_residential_capacity": 154.603,
+      "population_to_prior_capacity": 43.55672270266424
+    },
+    {
+      "admin_id": "32.01.39.2008",
+      "region": "Bogor",
+      "kecamatan": "Leuwisadeng",
+      "kelurahan": "Sibanteng",
+      "population": 11171,
+      "relative_residential_capacity": 257.355,
+      "population_to_prior_capacity": 43.40696702997804
+    },
+    {
+      "admin_id": "32.01.16.2008",
+      "region": "Bogor",
+      "kecamatan": "Cibungbulang",
+      "kelurahan": "Cimanggu II",
+      "population": 9344,
+      "relative_residential_capacity": 222.65800000000002,
+      "population_to_prior_capacity": 41.965705252000824
+    },
+    {
+      "admin_id": "32.01.37.2004",
+      "region": "Bogor",
+      "kecamatan": "Tajurhalang",
+      "kelurahan": "Nanggerang",
+      "population": 11866,
+      "relative_residential_capacity": 286.91599999999994,
+      "population_to_prior_capacity": 41.35705223828578
+    },
+    {
+      "admin_id": "32.01.33.2004",
+      "region": "Bogor",
+      "kecamatan": "Ciseeng",
+      "kelurahan": "Cibentang",
+      "population": 12353,
+      "relative_residential_capacity": 299.381,
+      "population_to_prior_capacity": 41.26180352126555
+    },
+    {
+      "admin_id": "32.01.19.2004",
+      "region": "Bogor",
+      "kecamatan": "Jasinga",
+      "kelurahan": "Sipak",
+      "population": 10975,
+      "relative_residential_capacity": 267.11,
+      "population_to_prior_capacity": 41.08794129759275
+    },
+    {
+      "admin_id": "32.01.22.2003",
+      "region": "Bogor",
+      "kecamatan": "Cigudeg",
+      "kelurahan": "Bunar",
+      "population": 8597,
+      "relative_residential_capacity": 214.912,
+      "population_to_prior_capacity": 40.00241959499702
+    },
+    {
+      "admin_id": "32.01.15.2001",
+      "region": "Bogor",
+      "kecamatan": "Ciampea",
+      "kelurahan": "Ciampea",
+      "population": 12942,
+      "relative_residential_capacity": 331.23400000000004,
+      "population_to_prior_capacity": 39.0720759342338
+    },
+    {
+      "admin_id": "32.01.03.1007",
+      "region": "Bogor",
+      "kecamatan": "Citeureup",
+      "kelurahan": "Karang Asem Barat",
+      "population": 23886,
+      "relative_residential_capacity": 613.4619999999999,
+      "population_to_prior_capacity": 38.936397038447375
+    },
+    {
+      "admin_id": "36.71.13.1001",
+      "region": "Kota Tangerang",
+      "kecamatan": "Larangan",
+      "kelurahan": "Larangan Utara",
+      "population": 24102,
+      "relative_residential_capacity": 631.8969999999999,
+      "population_to_prior_capacity": 38.142292177364354
+    },
+    {
+      "admin_id": "36.71.05.1008",
+      "region": "Kota Tangerang",
+      "kecamatan": "Cipondoh",
+      "kelurahan": "Poris Plawad",
+      "population": 16449,
+      "relative_residential_capacity": 437.37800000000004,
+      "population_to_prior_capacity": 37.60820160136083
+    },
+    {
+      "admin_id": "32.01.39.2001",
+      "region": "Bogor",
+      "kecamatan": "Leuwisadeng",
+      "kelurahan": "Leuwisadeng",
+      "population": 15149,
+      "relative_residential_capacity": 421.78499999999997,
+      "population_to_prior_capacity": 35.916402906694174
+    },
+    {
+      "admin_id": "36.71.10.1002",
+      "region": "Kota Tangerang",
+      "kecamatan": "Neglasari",
+      "kelurahan": "Karang Sari",
+      "population": 30152,
+      "relative_residential_capacity": 848.0629999999999,
+      "population_to_prior_capacity": 35.553962382511685
+    },
+    {
+      "admin_id": "32.01.22.2004",
+      "region": "Bogor",
+      "kecamatan": "Cigudeg",
+      "kelurahan": "Banyuresmi",
+      "population": 6776,
+      "relative_residential_capacity": 192.05500000000004,
+      "population_to_prior_capacity": 35.28155996980031
+    },
+    {
+      "admin_id": "32.01.03.2014",
+      "region": "Bogor",
+      "kecamatan": "Citeureup",
+      "kelurahan": "Pasir Mukti",
+      "population": 10295,
+      "relative_residential_capacity": 292.76699999999994,
+      "population_to_prior_capacity": 35.16448233578239
+    },
+    {
+      "admin_id": "32.75.02.1005",
+      "region": "Kota Bekasi",
+      "kecamatan": "Bekasi Barat",
+      "kelurahan": "Jakasampurna",
+      "population": 75551,
+      "relative_residential_capacity": 2186.058,
+      "population_to_prior_capacity": 34.56038220394884
+    },
+    {
+      "admin_id": "32.01.30.2003",
+      "region": "Bogor",
+      "kecamatan": "Dramaga",
+      "kelurahan": "Sinarsari",
+      "population": 9601,
+      "relative_residential_capacity": 278.60800000000006,
+      "population_to_prior_capacity": 34.46060414632745
+    },
+    {
+      "admin_id": "32.01.14.2007",
+      "region": "Bogor",
+      "kecamatan": "Leuwiliang",
+      "kelurahan": "Leuwimekar",
+      "population": 16474,
+      "relative_residential_capacity": 479.071,
+      "population_to_prior_capacity": 34.387387255751236
+    },
+    {
+      "admin_id": "36.71.09.1006",
+      "region": "Kota Tangerang",
+      "kecamatan": "Cibodas",
+      "kelurahan": "Jatiuwung",
+      "population": 15465,
+      "relative_residential_capacity": 454.802,
+      "population_to_prior_capacity": 34.003808250623344
+    },
+    {
+      "admin_id": "32.01.19.2005",
+      "region": "Bogor",
+      "kecamatan": "Jasinga",
+      "kelurahan": "Jasinga",
+      "population": 6559,
+      "relative_residential_capacity": 192.959,
+      "population_to_prior_capacity": 33.991676988375765
+    },
+    {
+      "admin_id": "32.01.36.2008",
+      "region": "Bogor",
+      "kecamatan": "Tanjungsari",
+      "kelurahan": "Sirnasari",
+      "population": 3961,
+      "relative_residential_capacity": 116.624,
+      "population_to_prior_capacity": 33.96384963643847
+    },
+    {
+      "admin_id": "32.01.27.2009",
+      "region": "Bogor",
+      "kecamatan": "Caringin",
+      "kelurahan": "Muarajaya",
+      "population": 7952,
+      "relative_residential_capacity": 234.144,
+      "population_to_prior_capacity": 33.96200628672953
+    },
+    {
+      "admin_id": "32.01.14.2001",
+      "region": "Bogor",
+      "kecamatan": "Leuwiliang",
+      "kelurahan": "Leuwiliang",
+      "population": 22204,
+      "relative_residential_capacity": 665.2749999999999,
+      "population_to_prior_capacity": 33.37567171470445
+    },
+    {
+      "admin_id": "32.01.28.2002",
+      "region": "Bogor",
+      "kecamatan": "Cijeruk",
+      "kelurahan": "Cipelang",
+      "population": 12910,
+      "relative_residential_capacity": 398.00300000000004,
+      "population_to_prior_capacity": 32.43694143008972
+    },
+    {
+      "admin_id": "36.71.12.1006",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karang Tengah",
+      "kelurahan": "Padurenan",
+      "population": 12984,
+      "relative_residential_capacity": 402.4670000000001,
+      "population_to_prior_capacity": 32.2610300968775
+    },
+    {
+      "admin_id": "32.01.40.2001",
+      "region": "Bogor",
+      "kecamatan": "Tenjolaya",
+      "kelurahan": "Tapos I",
+      "population": 10558,
+      "relative_residential_capacity": 331.27700000000004,
+      "population_to_prior_capacity": 31.870609791805645
+    },
+    {
+      "admin_id": "32.01.24.2005",
+      "region": "Bogor",
+      "kecamatan": "Ciawi",
+      "kelurahan": "Banjarsari",
+      "population": 9121,
+      "relative_residential_capacity": 289.92599999999993,
+      "population_to_prior_capacity": 31.459751798734857
+    },
+    {
+      "admin_id": "32.75.04.1004",
+      "region": "Kota Bekasi",
+      "kecamatan": "Bekasi Selatan",
+      "kelurahan": "Jakasetia",
+      "population": 45041,
+      "relative_residential_capacity": 1436.0130000000001,
+      "population_to_prior_capacity": 31.365314937956686
+    },
+    {
+      "admin_id": "32.01.14.2010",
+      "region": "Bogor",
+      "kecamatan": "Leuwiliang",
+      "kelurahan": "Cibeber II",
+      "population": 7901,
+      "relative_residential_capacity": 252.24100000000004,
+      "population_to_prior_capacity": 31.323218667861287
+    },
+    {
+      "admin_id": "36.71.10.1006",
+      "region": "Kota Tangerang",
+      "kecamatan": "Neglasari",
+      "kelurahan": "Karang Anyar",
+      "population": 17284,
+      "relative_residential_capacity": 558.548,
+      "population_to_prior_capacity": 30.944520435128226
+    },
+    {
+      "admin_id": "32.01.34.2003",
+      "region": "Bogor",
+      "kecamatan": "Rancabungur",
+      "kelurahan": "Pasirgaok",
+      "population": 9565,
+      "relative_residential_capacity": 314.96999999999997,
+      "population_to_prior_capacity": 30.367971552846306
+    },
+    {
+      "admin_id": "32.01.22.2014",
+      "region": "Bogor",
+      "kecamatan": "Cigudeg",
+      "kelurahan": "Mekarjaya",
+      "population": 9108,
+      "relative_residential_capacity": 301.789,
+      "population_to_prior_capacity": 30.180026442315658
+    },
+    {
+      "admin_id": "32.75.08.1002",
+      "region": "Kota Bekasi",
+      "kecamatan": "Pondokgede",
+      "kelurahan": "Jatibening",
+      "population": 38260,
+      "relative_residential_capacity": 1279.6069999999997,
+      "population_to_prior_capacity": 29.899805174557507
+    },
+    {
+      "admin_id": "32.01.05.2005",
+      "region": "Bogor",
+      "kecamatan": "Babakan Madang",
+      "kelurahan": "Cipambuan",
+      "population": 5885,
+      "relative_residential_capacity": 201.13799999999998,
+      "population_to_prior_capacity": 29.258519026737865
+    },
+    {
+      "admin_id": "36.71.03.1006",
+      "region": "Kota Tangerang",
+      "kecamatan": "Batuceper",
+      "kelurahan": "Batu Sari",
+      "population": 11144,
+      "relative_residential_capacity": 383.89099999999996,
+      "population_to_prior_capacity": 29.029073356760126
+    },
+    {
+      "admin_id": "36.71.02.1003",
+      "region": "Kota Tangerang",
+      "kecamatan": "Jatiuwung",
+      "kelurahan": "Pasir Jaya",
+      "population": 24972,
+      "relative_residential_capacity": 878.2139999999999,
+      "population_to_prior_capacity": 28.43498281739986
+    },
+    {
+      "admin_id": "32.01.14.2011",
+      "region": "Bogor",
+      "kecamatan": "Leuwiliang",
+      "kelurahan": "Karehkel",
+      "population": 11841,
+      "relative_residential_capacity": 421.09799999999996,
+      "population_to_prior_capacity": 28.11934514056111
+    },
+    {
+      "admin_id": "32.01.22.2007",
+      "region": "Bogor",
+      "kecamatan": "Cigudeg",
+      "kelurahan": "Bangunjaya",
+      "population": 11656,
+      "relative_residential_capacity": 438.0929999999999,
+      "population_to_prior_capacity": 26.60622287961689
+    },
+    {
+      "admin_id": "36.74.06.1006",
+      "region": "Kota Tangerang Selatan",
+      "kecamatan": "Pamulang",
+      "kelurahan": "Kedaung",
+      "population": 38264,
+      "relative_residential_capacity": 1452.6230000000003,
+      "population_to_prior_capacity": 26.34131498675155
+    },
+    {
+      "admin_id": "32.01.22.2005",
+      "region": "Bogor",
+      "kecamatan": "Cigudeg",
+      "kelurahan": "Cintamanik",
+      "population": 7430,
+      "relative_residential_capacity": 284.996,
+      "population_to_prior_capacity": 26.070541340931104
+    },
+    {
+      "admin_id": "32.01.04.2013",
+      "region": "Bogor",
+      "kecamatan": "Sukaraja",
+      "kelurahan": "Pasirlaja",
+      "population": 11043,
+      "relative_residential_capacity": 428.6819999999999,
+      "population_to_prior_capacity": 25.760353828712198
+    },
+    {
+      "admin_id": "32.01.38.2004",
+      "region": "Bogor",
+      "kecamatan": "Cigombong",
+      "kelurahan": "Srogol",
+      "population": 8006,
+      "relative_residential_capacity": 311.666,
+      "population_to_prior_capacity": 25.687755481829907
+    },
+    {
+      "admin_id": "32.01.16.2011",
+      "region": "Bogor",
+      "kecamatan": "Cibungbulang",
+      "kelurahan": "Ciaruteun Ilir",
+      "population": 11501,
+      "relative_residential_capacity": 450.93600000000004,
+      "population_to_prior_capacity": 25.504727943654974
+    },
+    {
+      "admin_id": "36.71.06.1002",
+      "region": "Kota Tangerang",
+      "kecamatan": "Ciledug",
+      "kelurahan": "Sudimara Barat",
+      "population": 20039,
+      "relative_residential_capacity": 797.5710000000001,
+      "population_to_prior_capacity": 25.12503589022168
+    },
+    {
+      "admin_id": "32.01.34.2007",
+      "region": "Bogor",
+      "kecamatan": "Rancabungur",
+      "kelurahan": "Cimulang",
+      "population": 6190,
+      "relative_residential_capacity": 247.17600000000002,
+      "population_to_prior_capacity": 25.042884422435833
+    },
+    {
+      "admin_id": "36.71.11.1006",
+      "region": "Kota Tangerang",
+      "kecamatan": "Pinang",
+      "kelurahan": "Kunciran Jaya",
+      "population": 10591,
+      "relative_residential_capacity": 431.51299999999986,
+      "population_to_prior_capacity": 24.54387237464457
+    },
+    {
+      "admin_id": "32.01.19.2009",
+      "region": "Bogor",
+      "kecamatan": "Jasinga",
+      "kelurahan": "Barengkok",
+      "population": 10461,
+      "relative_residential_capacity": 429.09400000000005,
+      "population_to_prior_capacity": 24.379273539131283
+    },
+    {
+      "admin_id": "32.01.15.2011",
+      "region": "Bogor",
+      "kecamatan": "Ciampea",
+      "kelurahan": "Cibanteng",
+      "population": 19606,
+      "relative_residential_capacity": 818.7370000000001,
+      "population_to_prior_capacity": 23.946639763440515
+    },
+    {
+      "admin_id": "36.71.07.1015",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karawaci",
+      "kelurahan": "Pasar Baru",
+      "population": 8068,
+      "relative_residential_capacity": 337.0679999999999,
+      "population_to_prior_capacity": 23.935823038674695
+    },
+    {
+      "admin_id": "32.01.27.2004",
+      "region": "Bogor",
+      "kecamatan": "Caringin",
+      "kelurahan": "Caringin",
+      "population": 13916,
+      "relative_residential_capacity": 585.0089999999999,
+      "population_to_prior_capacity": 23.78766822390767
+    },
+    {
+      "admin_id": "32.01.09.2005",
+      "region": "Bogor",
+      "kecamatan": "Sukamakmur",
+      "kelurahan": "Cibadak",
+      "population": 8323,
+      "relative_residential_capacity": 351.205,
+      "population_to_prior_capacity": 23.698409760681084
+    },
+    {
+      "admin_id": "36.71.05.1009",
+      "region": "Kota Tangerang",
+      "kecamatan": "Cipondoh",
+      "kelurahan": "Poris Plawad Utara",
+      "population": 22369,
+      "relative_residential_capacity": 979.4620000000002,
+      "population_to_prior_capacity": 22.838047826255632
+    },
+    {
+      "admin_id": "36.03.13.2005",
+      "region": "Tangerang",
+      "kecamatan": "Teluknaga",
+      "kelurahan": "Pangkalan",
+      "population": 18755,
+      "relative_residential_capacity": 827.5720000000002,
+      "population_to_prior_capacity": 22.66268070935217
+    },
+    {
+      "admin_id": "32.01.34.2005",
+      "region": "Bogor",
+      "kecamatan": "Rancabungur",
+      "kelurahan": "Mekarsari",
+      "population": 6836,
+      "relative_residential_capacity": 305.175,
+      "population_to_prior_capacity": 22.40026214467109
+    },
+    {
+      "admin_id": "32.01.27.2008",
+      "region": "Bogor",
+      "kecamatan": "Caringin",
+      "kelurahan": "Pancawati",
+      "population": 15936,
+      "relative_residential_capacity": 721.0840000000001,
+      "population_to_prior_capacity": 22.100060464522855
+    },
+    {
+      "admin_id": "32.01.24.2011",
+      "region": "Bogor",
+      "kecamatan": "Ciawi",
+      "kelurahan": "Banjarwangi",
+      "population": 8789,
+      "relative_residential_capacity": 424.89799999999997,
+      "population_to_prior_capacity": 20.68496439145395
+    },
+    {
+      "admin_id": "32.01.38.2001",
+      "region": "Bogor",
+      "kecamatan": "Cigombong",
+      "kelurahan": "Cigombong",
+      "population": 11911,
+      "relative_residential_capacity": 577.9,
+      "population_to_prior_capacity": 20.610832323931476
+    },
+    {
+      "admin_id": "32.01.19.2012",
+      "region": "Bogor",
+      "kecamatan": "Jasinga",
+      "kelurahan": "Pamagersari",
+      "population": 8617,
+      "relative_residential_capacity": 431.786,
+      "population_to_prior_capacity": 19.956645189978367
+    },
+    {
+      "admin_id": "32.01.10.2004",
+      "region": "Bogor",
+      "kecamatan": "Parung",
+      "kelurahan": "Waru",
+      "population": 21660,
+      "relative_residential_capacity": 1085.701,
+      "population_to_prior_capacity": 19.950244127987354
+    },
+    {
+      "admin_id": "32.01.09.2008",
+      "region": "Bogor",
+      "kecamatan": "Sukamakmur",
+      "kelurahan": "Sukaharja",
+      "population": 10311,
+      "relative_residential_capacity": 540.158,
+      "population_to_prior_capacity": 19.08885918564568
+    },
+    {
+      "admin_id": "32.01.27.2001",
+      "region": "Bogor",
+      "kecamatan": "Caringin",
+      "kelurahan": "Pasirmuncang",
+      "population": 8769,
+      "relative_residential_capacity": 459.987,
+      "population_to_prior_capacity": 19.063582231671763
+    },
+    {
+      "admin_id": "32.01.19.2001",
+      "region": "Bogor",
+      "kecamatan": "Jasinga",
+      "kelurahan": "Curug",
+      "population": 5967,
+      "relative_residential_capacity": 314.69,
+      "population_to_prior_capacity": 18.96151768407004
+    },
+    {
+      "admin_id": "32.01.31.2004",
+      "region": "Bogor",
+      "kecamatan": "Tamansari",
+      "kelurahan": "Tamansari",
+      "population": 14391,
+      "relative_residential_capacity": 761.1689999999999,
+      "population_to_prior_capacity": 18.906445217816284
+    },
+    {
+      "admin_id": "32.01.27.2003",
+      "region": "Bogor",
+      "kecamatan": "Caringin",
+      "kelurahan": "Ciderum",
+      "population": 15486,
+      "relative_residential_capacity": 820.9410000000001,
+      "population_to_prior_capacity": 18.86371858635395
+    },
+    {
+      "admin_id": "32.01.35.2004",
+      "region": "Bogor",
+      "kecamatan": "Sukajaya",
+      "kelurahan": "Sipayung",
+      "population": 6928,
+      "relative_residential_capacity": 387.07000000000005,
+      "population_to_prior_capacity": 17.89857131784948
+    },
+    {
+      "admin_id": "32.75.10.1004",
+      "region": "Kota Bekasi",
+      "kecamatan": "Jatisampurna",
+      "kelurahan": "Jatirangga",
+      "population": 20146,
+      "relative_residential_capacity": 1128.852,
+      "population_to_prior_capacity": 17.846449313107474
+    },
+    {
+      "admin_id": "32.01.35.2003",
+      "region": "Bogor",
+      "kecamatan": "Sukajaya",
+      "kelurahan": "Sukajaya",
+      "population": 5165,
+      "relative_residential_capacity": 292.476,
+      "population_to_prior_capacity": 17.659568648367728
+    },
+    {
+      "admin_id": "36.71.12.1001",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karang Tengah",
+      "kelurahan": "Karang Tengah",
+      "population": 26916,
+      "relative_residential_capacity": 1525.252,
+      "population_to_prior_capacity": 17.646919984369795
+    },
+    {
+      "admin_id": "36.71.01.1003",
+      "region": "Kota Tangerang",
+      "kecamatan": "Tangerang",
+      "kelurahan": "Tanah Tinggi",
+      "population": 33407,
+      "relative_residential_capacity": 1895.23,
+      "population_to_prior_capacity": 17.62688433593812
+    },
+    {
+      "admin_id": "32.75.09.1002",
+      "region": "Kota Bekasi",
+      "kecamatan": "Jatiasih",
+      "kelurahan": "Jatiasih",
+      "population": 38639,
+      "relative_residential_capacity": 2268.6739999999995,
+      "population_to_prior_capacity": 17.03153472028154
+    },
+    {
+      "admin_id": "32.01.31.2006",
+      "region": "Bogor",
+      "kecamatan": "Tamansari",
+      "kelurahan": "Sukaresmi",
+      "population": 12441,
+      "relative_residential_capacity": 748.982,
+      "population_to_prior_capacity": 16.610546047835594
+    },
+    {
+      "admin_id": "32.01.33.2006",
+      "region": "Bogor",
+      "kecamatan": "Ciseeng",
+      "kelurahan": "Karihkil",
+      "population": 8111,
+      "relative_residential_capacity": 515.28,
+      "population_to_prior_capacity": 15.74095637323397
+    },
+    {
+      "admin_id": "36.71.05.1001",
+      "region": "Kota Tangerang",
+      "kecamatan": "Cipondoh",
+      "kelurahan": "Cipondoh",
+      "population": 22114,
+      "relative_residential_capacity": 1427.1730000000002,
+      "population_to_prior_capacity": 15.494968024198887
+    },
+    {
+      "admin_id": "32.75.08.1006",
+      "region": "Kota Bekasi",
+      "kecamatan": "Pondokgede",
+      "kelurahan": "Jatibening Baru",
+      "population": 39483,
+      "relative_residential_capacity": 2585.694,
+      "population_to_prior_capacity": 15.269788304416533
+    },
+    {
+      "admin_id": "36.71.13.1004",
+      "region": "Kota Tangerang",
+      "kecamatan": "Larangan",
+      "kelurahan": "Kreo",
+      "population": 20230,
+      "relative_residential_capacity": 1329.02,
+      "population_to_prior_capacity": 15.221742336458444
+    },
+    {
+      "admin_id": "32.01.05.2006",
+      "region": "Bogor",
+      "kecamatan": "Babakan Madang",
+      "kelurahan": "Kadumanggu",
+      "population": 14920,
+      "relative_residential_capacity": 1010.318,
+      "population_to_prior_capacity": 14.767627618235052
+    },
+    {
+      "admin_id": "36.71.06.1001",
+      "region": "Kota Tangerang",
+      "kecamatan": "Ciledug",
+      "kelurahan": "Paninggilan",
+      "population": 22260,
+      "relative_residential_capacity": 1511.265,
+      "population_to_prior_capacity": 14.729382338636837
+    },
+    {
+      "admin_id": "32.01.37.2007",
+      "region": "Bogor",
+      "kecamatan": "Tajurhalang",
+      "kelurahan": "Kalisuren",
+      "population": 23672,
+      "relative_residential_capacity": 1663.4329999999995,
+      "population_to_prior_capacity": 14.230810618762527
+    },
+    {
+      "admin_id": "32.01.35.2001",
+      "region": "Bogor",
+      "kecamatan": "Sukajaya",
+      "kelurahan": "Cisarua",
+      "population": 4747,
+      "relative_residential_capacity": 336.33200000000005,
+      "population_to_prior_capacity": 14.11403018446059
+    },
+    {
+      "admin_id": "32.01.29.2002",
+      "region": "Bogor",
+      "kecamatan": "Ciomas",
+      "kelurahan": "Sukaharja",
+      "population": 5032,
+      "relative_residential_capacity": 356.81199999999995,
+      "population_to_prior_capacity": 14.102664708586035
+    },
+    {
+      "admin_id": "32.01.25.2004",
+      "region": "Bogor",
+      "kecamatan": "Cisarua",
+      "kelurahan": "Cilember",
+      "population": 7470,
+      "relative_residential_capacity": 530.364,
+      "population_to_prior_capacity": 14.084666380071045
+    },
+    {
+      "admin_id": "32.01.36.2009",
+      "region": "Bogor",
+      "kecamatan": "Tanjungsari",
+      "kelurahan": "Buanajaya",
+      "population": 5571,
+      "relative_residential_capacity": 397.898,
+      "population_to_prior_capacity": 14.00107565255417
+    },
+    {
+      "admin_id": "32.75.04.1005",
+      "region": "Kota Bekasi",
+      "kecamatan": "Bekasi Selatan",
+      "kelurahan": "Kayuringinjaya",
+      "population": 58870,
+      "relative_residential_capacity": 4227.583999999999,
+      "population_to_prior_capacity": 13.925211184449562
+    },
+    {
+      "admin_id": "36.03.13.2004",
+      "region": "Tangerang",
+      "kecamatan": "Teluknaga",
+      "kelurahan": "Keboncau",
+      "population": 19996,
+      "relative_residential_capacity": 1441.648,
+      "population_to_prior_capacity": 13.8702373949813
+    },
+    {
+      "admin_id": "32.01.15.2010",
+      "region": "Bogor",
+      "kecamatan": "Ciampea",
+      "kelurahan": "Cihideung Ilir",
+      "population": 13273,
+      "relative_residential_capacity": 960.424,
+      "population_to_prior_capacity": 13.819937860778156
+    },
+    {
+      "admin_id": "32.01.12.2007",
+      "region": "Bogor",
+      "kecamatan": "Kemang",
+      "kelurahan": "Jampang",
+      "population": 17441,
+      "relative_residential_capacity": 1295.4759999999999,
+      "population_to_prior_capacity": 13.463005103915473
+    },
+    {
+      "admin_id": "32.01.18.2001",
+      "region": "Bogor",
+      "kecamatan": "Rumpin",
+      "kelurahan": "Rumpin",
+      "population": 6605,
+      "relative_residential_capacity": 492.186,
+      "population_to_prior_capacity": 13.419723437887303
+    },
+    {
+      "admin_id": "36.71.12.1007",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karang Tengah",
+      "kelurahan": "Parung Jaya",
+      "population": 10604,
+      "relative_residential_capacity": 793.5600000000001,
+      "population_to_prior_capacity": 13.362568677856746
+    },
+    {
+      "admin_id": "36.71.06.1008",
+      "region": "Kota Tangerang",
+      "kecamatan": "Ciledug",
+      "kelurahan": "Paninggilan Utara",
+      "population": 21144,
+      "relative_residential_capacity": 1595.2239999999997,
+      "population_to_prior_capacity": 13.254564876155326
+    },
+    {
+      "admin_id": "36.74.04.1005",
+      "region": "Kota Tangerang Selatan",
+      "kecamatan": "Ciputat",
+      "kelurahan": "Serua Indah",
+      "population": 26858,
+      "relative_residential_capacity": 2027.5930000000005,
+      "population_to_prior_capacity": 13.246248137570012
+    },
+    {
+      "admin_id": "32.01.35.2008",
+      "region": "Bogor",
+      "kecamatan": "Sukajaya",
+      "kelurahan": "Sukamulih",
+      "population": 5868,
+      "relative_residential_capacity": 448.29999999999995,
+      "population_to_prior_capacity": 13.089449029667634
+    },
+    {
+      "admin_id": "36.74.04.1006",
+      "region": "Kota Tangerang Selatan",
+      "kecamatan": "Ciputat",
+      "kelurahan": "Jombang",
+      "population": 43865,
+      "relative_residential_capacity": 3500.8090000000007,
+      "population_to_prior_capacity": 12.529960931887455
+    },
+    {
+      "admin_id": "32.01.38.2006",
+      "region": "Bogor",
+      "kecamatan": "Cigombong",
+      "kelurahan": "Tugujaya",
+      "population": 15833,
+      "relative_residential_capacity": 1267.539,
+      "population_to_prior_capacity": 12.491134395075813
+    },
+    {
+      "admin_id": "32.01.34.2004",
+      "region": "Bogor",
+      "kecamatan": "Rancabungur",
+      "kelurahan": "Rancabungur",
+      "population": 11870,
+      "relative_residential_capacity": 950.8399999999999,
+      "population_to_prior_capacity": 12.483698624374238
+    },
+    {
+      "admin_id": "36.71.01.1004",
+      "region": "Kota Tangerang",
+      "kecamatan": "Tangerang",
+      "kelurahan": "Buaran Indah",
+      "population": 22585,
+      "relative_residential_capacity": 1846.065,
+      "population_to_prior_capacity": 12.234130434193812
+    },
+    {
+      "admin_id": "32.01.35.2011",
+      "region": "Bogor",
+      "kecamatan": "Sukajaya",
+      "kelurahan": "Jayaraharja",
+      "population": 3744,
+      "relative_residential_capacity": 310.779,
+      "population_to_prior_capacity": 12.047146042686283
+    },
+    {
+      "admin_id": "32.01.11.2003",
+      "region": "Bogor",
+      "kecamatan": "Gunungsindur",
+      "kelurahan": "Pengasinan",
+      "population": 14727,
+      "relative_residential_capacity": 1246.2759999999998,
+      "population_to_prior_capacity": 11.816804624336825
+    },
+    {
+      "admin_id": "32.75.09.1005",
+      "region": "Kota Bekasi",
+      "kecamatan": "Jatiasih",
+      "kelurahan": "Jatiluhur",
+      "population": 37181,
+      "relative_residential_capacity": 3168.488999999999,
+      "population_to_prior_capacity": 11.734615458661844
+    },
+    {
+      "admin_id": "32.01.02.2004",
+      "region": "Bogor",
+      "kecamatan": "Gunungputri",
+      "kelurahan": "Gunungputri",
+      "population": 13657,
+      "relative_residential_capacity": 1170.675,
+      "population_to_prior_capacity": 11.665919234629595
+    },
+    {
+      "admin_id": "36.03.13.2003",
+      "region": "Tangerang",
+      "kecamatan": "Teluknaga",
+      "kelurahan": "Babakan Asem",
+      "population": 19051,
+      "relative_residential_capacity": 1645.714,
+      "population_to_prior_capacity": 11.576130481967098
+    },
+    {
+      "admin_id": "32.01.37.2005",
+      "region": "Bogor",
+      "kecamatan": "Tajurhalang",
+      "kelurahan": "Sukmajaya",
+      "population": 9530,
+      "relative_residential_capacity": 824.3480000000001,
+      "population_to_prior_capacity": 11.56065156948279
+    },
+    {
+      "admin_id": "32.01.03.2011",
+      "region": "Bogor",
+      "kecamatan": "Citeureup",
+      "kelurahan": "Tangkil",
+      "population": 4637,
+      "relative_residential_capacity": 405.0589999999999,
+      "population_to_prior_capacity": 11.44771502423104
+    },
+    {
+      "admin_id": "32.01.03.2004",
+      "region": "Bogor",
+      "kecamatan": "Citeureup",
+      "kelurahan": "Tajur",
+      "population": 11062,
+      "relative_residential_capacity": 990.4429999999999,
+      "population_to_prior_capacity": 11.168739644785214
+    },
+    {
+      "admin_id": "32.01.10.2009",
+      "region": "Bogor",
+      "kecamatan": "Parung",
+      "kelurahan": "Jabon Mekar",
+      "population": 12370,
+      "relative_residential_capacity": 1143.8849999999998,
+      "population_to_prior_capacity": 10.81402413704175
+    },
+    {
+      "admin_id": "32.75.02.1004",
+      "region": "Kota Bekasi",
+      "kecamatan": "Bekasi Barat",
+      "kelurahan": "Bintarajaya",
+      "population": 35569,
+      "relative_residential_capacity": 3384.7400000000002,
+      "population_to_prior_capacity": 10.508635818408504
+    },
+    {
+      "admin_id": "32.01.17.2015",
+      "region": "Bogor",
+      "kecamatan": "Pamijahan",
+      "kelurahan": "Ciasmara",
+      "population": 8497,
+      "relative_residential_capacity": 815.3530000000001,
+      "population_to_prior_capacity": 10.421253125946675
+    },
+    {
+      "admin_id": "36.71.05.1004",
+      "region": "Kota Tangerang",
+      "kecamatan": "Cipondoh",
+      "kelurahan": "Gondrong",
+      "population": 25649,
+      "relative_residential_capacity": 2484.7000000000003,
+      "population_to_prior_capacity": 10.322775385358392
+    },
+    {
+      "admin_id": "36.74.03.1006",
+      "region": "Kota Tangerang Selatan",
+      "kecamatan": "Pondok Aren",
+      "kelurahan": "Pondok Kacang Barat",
+      "population": 23666,
+      "relative_residential_capacity": 2425.095,
+      "population_to_prior_capacity": 9.758792954502814
+    },
+    {
+      "admin_id": "32.01.13.2003",
+      "region": "Bogor",
+      "kecamatan": "Bojonggede",
+      "kelurahan": "Susukan",
+      "population": 32992,
+      "relative_residential_capacity": 3383.181000000001,
+      "population_to_prior_capacity": 9.751769119062796
+    },
+    {
+      "admin_id": "36.74.04.1002",
+      "region": "Kota Tangerang Selatan",
+      "kecamatan": "Ciputat",
+      "kelurahan": "Serua",
+      "population": 46538,
+      "relative_residential_capacity": 4789.748,
+      "population_to_prior_capacity": 9.71616878382746
+    },
+    {
+      "admin_id": "32.01.03.2013",
+      "region": "Bogor",
+      "kecamatan": "Citeureup",
+      "kelurahan": "Hambalang",
+      "population": 10301,
+      "relative_residential_capacity": 1073.7109999999998,
+      "population_to_prior_capacity": 9.59382925200543
+    },
+    {
+      "admin_id": "36.03.19.2003",
+      "region": "Tangerang",
+      "kecamatan": "Panongan",
+      "kelurahan": "Peusar",
+      "population": 13612,
+      "relative_residential_capacity": 1431.674,
+      "population_to_prior_capacity": 9.507751066234352
+    },
+    {
+      "admin_id": "32.01.32.2004",
+      "region": "Bogor",
+      "kecamatan": "Klapanunggal",
+      "kelurahan": "Lulut",
+      "population": 12642,
+      "relative_residential_capacity": 1345.612,
+      "population_to_prior_capacity": 9.394981614313783
+    },
+    {
+      "admin_id": "36.71.06.1003",
+      "region": "Kota Tangerang",
+      "kecamatan": "Ciledug",
+      "kelurahan": "Sudimara Timur",
+      "population": 17943,
+      "relative_residential_capacity": 1928.8600000000004,
+      "population_to_prior_capacity": 9.302385865226091
+    },
+    {
+      "admin_id": "32.01.25.2002",
+      "region": "Bogor",
+      "kecamatan": "Cisarua",
+      "kelurahan": "Jogjogan",
+      "population": 8137,
+      "relative_residential_capacity": 875.2860000000002,
+      "population_to_prior_capacity": 9.296389979960834
+    },
+    {
+      "admin_id": "36.71.07.1016",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karawaci",
+      "kelurahan": "Koang Jaya",
+      "population": 8604,
+      "relative_residential_capacity": 926.531,
+      "population_to_prior_capacity": 9.286251620291173
+    },
+    {
+      "admin_id": "32.01.27.2007",
+      "region": "Bogor",
+      "kecamatan": "Caringin",
+      "kelurahan": "Cimande",
+      "population": 6492,
+      "relative_residential_capacity": 700.695,
+      "population_to_prior_capacity": 9.265086806670519
+    },
+    {
+      "admin_id": "32.01.38.2002",
+      "region": "Bogor",
+      "kecamatan": "Cigombong",
+      "kelurahan": "Wates Jaya",
+      "population": 12464,
+      "relative_residential_capacity": 1348.2839999999999,
+      "population_to_prior_capacity": 9.244343179923519
+    },
+    {
+      "admin_id": "32.01.23.2009",
+      "region": "Bogor",
+      "kecamatan": "Tenjo",
+      "kelurahan": "Bojong",
+      "population": 8305,
+      "relative_residential_capacity": 913.9240000000001,
+      "population_to_prior_capacity": 9.087188869096336
+    },
+    {
+      "admin_id": "32.01.03.2001",
+      "region": "Bogor",
+      "kecamatan": "Citeureup",
+      "kelurahan": "Puspasari",
+      "population": 17975,
+      "relative_residential_capacity": 2033.021,
+      "population_to_prior_capacity": 8.841522050190333
+    },
+    {
+      "admin_id": "32.01.05.2008",
+      "region": "Bogor",
+      "kecamatan": "Babakan Madang",
+      "kelurahan": "Babakan Madang",
+      "population": 10174,
+      "relative_residential_capacity": 1215.495,
+      "population_to_prior_capacity": 8.370252448590904
+    },
+    {
+      "admin_id": "32.01.11.2007",
+      "region": "Bogor",
+      "kecamatan": "Gunungsindur",
+      "kelurahan": "Cibadung",
+      "population": 6174,
+      "relative_residential_capacity": 758.1229999999999,
+      "population_to_prior_capacity": 8.143797246620931
+    },
+    {
+      "admin_id": "32.01.34.2006",
+      "region": "Bogor",
+      "kecamatan": "Rancabungur",
+      "kelurahan": "Candali",
+      "population": 7434,
+      "relative_residential_capacity": 915.1859999999999,
+      "population_to_prior_capacity": 8.122938943559015
+    },
+    {
+      "admin_id": "36.71.06.1004",
+      "region": "Kota Tangerang",
+      "kecamatan": "Ciledug",
+      "kelurahan": "Tajur",
+      "population": 20984,
+      "relative_residential_capacity": 2592.1149999999993,
+      "population_to_prior_capacity": 8.095319844991447
+    },
+    {
+      "admin_id": "36.03.08.2003",
+      "region": "Tangerang",
+      "kecamatan": "Mauk",
+      "kelurahan": "Tegal Kunir Kidul",
+      "population": 9226,
+      "relative_residential_capacity": 1152.435,
+      "population_to_prior_capacity": 8.005657585894216
+    },
+    {
+      "admin_id": "32.01.33.2001",
+      "region": "Bogor",
+      "kecamatan": "Ciseeng",
+      "kelurahan": "Putat Nutug",
+      "population": 16149,
+      "relative_residential_capacity": 2018.684,
+      "population_to_prior_capacity": 7.999766184306211
+    },
+    {
+      "admin_id": "36.71.07.1011",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karawaci",
+      "kelurahan": "Pabuaran Tumpeng",
+      "population": 10208,
+      "relative_residential_capacity": 1295.7439999999997,
+      "population_to_prior_capacity": 7.878099377654848
+    },
+    {
+      "admin_id": "36.71.06.1007",
+      "region": "Kota Tangerang",
+      "kecamatan": "Ciledug",
+      "kelurahan": "Sudimara Selatan",
+      "population": 16616,
+      "relative_residential_capacity": 2169.982,
+      "population_to_prior_capacity": 7.657206373140422
+    },
+    {
+      "admin_id": "32.01.29.2005",
+      "region": "Bogor",
+      "kecamatan": "Ciomas",
+      "kelurahan": "Ciomas",
+      "population": 11470,
+      "relative_residential_capacity": 1609.368,
+      "population_to_prior_capacity": 7.12702129034503
+    },
+    {
+      "admin_id": "36.74.03.1007",
+      "region": "Kota Tangerang Selatan",
+      "kecamatan": "Pondok Aren",
+      "kelurahan": "Pondok Kacang Timur",
+      "population": 33806,
+      "relative_residential_capacity": 4754.980999999999,
+      "population_to_prior_capacity": 7.1095972833540255
+    },
+    {
+      "admin_id": "36.03.27.2006",
+      "region": "Tangerang",
+      "kecamatan": "Sukamulya",
+      "kelurahan": "Merak",
+      "population": 12696,
+      "relative_residential_capacity": 1800.5749999999998,
+      "population_to_prior_capacity": 7.051080904710996
+    },
+    {
+      "admin_id": "32.75.04.1003",
+      "region": "Kota Bekasi",
+      "kecamatan": "Bekasi Selatan",
+      "kelurahan": "Jakamulya",
+      "population": 37736,
+      "relative_residential_capacity": 5449.435999999999,
+      "population_to_prior_capacity": 6.924753313920928
+    },
+    {
+      "admin_id": "32.01.02.2007",
+      "region": "Bogor",
+      "kecamatan": "Gunungputri",
+      "kelurahan": "Cicadas",
+      "population": 33049,
+      "relative_residential_capacity": 4786.542000000001,
+      "population_to_prior_capacity": 6.9045670130963
+    },
+    {
+      "admin_id": "36.71.13.1007",
+      "region": "Kota Tangerang",
+      "kecamatan": "Larangan",
+      "kelurahan": "Cipadu Jaya",
+      "population": 26158,
+      "relative_residential_capacity": 3796.461999999999,
+      "population_to_prior_capacity": 6.890099255570056
+    },
+    {
+      "admin_id": "32.01.30.2007",
+      "region": "Bogor",
+      "kecamatan": "Dramaga",
+      "kelurahan": "Cikarawang",
+      "population": 8517,
+      "relative_residential_capacity": 1257.509,
+      "population_to_prior_capacity": 6.772913752505946
+    },
+    {
+      "admin_id": "36.74.06.1008",
+      "region": "Kota Tangerang Selatan",
+      "kecamatan": "Pamulang",
+      "kelurahan": "Pamulang Timur",
+      "population": 36057,
+      "relative_residential_capacity": 5325.358000000002,
+      "population_to_prior_capacity": 6.770812403598028
+    },
+    {
+      "admin_id": "32.01.09.2002",
+      "region": "Bogor",
+      "kecamatan": "Sukamakmur",
+      "kelurahan": "Pabuaran",
+      "population": 11881,
+      "relative_residential_capacity": 1758.8819999999996,
+      "population_to_prior_capacity": 6.754859052511767
+    },
+    {
+      "admin_id": "32.01.05.2004",
+      "region": "Bogor",
+      "kecamatan": "Babakan Madang",
+      "kelurahan": "Karang Tengah",
+      "population": 12053,
+      "relative_residential_capacity": 1841.1949999999997,
+      "population_to_prior_capacity": 6.546291946263161
+    },
+    {
+      "admin_id": "36.71.07.1002",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karawaci",
+      "kelurahan": "Bojong Jaya",
+      "population": 10291,
+      "relative_residential_capacity": 1579.819,
+      "population_to_prior_capacity": 6.514037367571855
+    },
+    {
+      "admin_id": "36.03.20.2010",
+      "region": "Tangerang",
+      "kecamatan": "Legok",
+      "kelurahan": "Kemuning",
+      "population": 8568,
+      "relative_residential_capacity": 1390.162,
+      "population_to_prior_capacity": 6.1633104630971065
+    },
+    {
+      "admin_id": "32.01.22.2006",
+      "region": "Bogor",
+      "kecamatan": "Cigudeg",
+      "kelurahan": "Argapura",
+      "population": 12938,
+      "relative_residential_capacity": 2120.089,
+      "population_to_prior_capacity": 6.102573995714331
+    },
+    {
+      "admin_id": "36.03.02.2006",
+      "region": "Tangerang",
+      "kecamatan": "Jayanti",
+      "kelurahan": "Jayanti",
+      "population": 12553,
+      "relative_residential_capacity": 2065.694,
+      "population_to_prior_capacity": 6.076892318029679
+    },
+    {
+      "admin_id": "36.74.04.1001",
+      "region": "Kota Tangerang Selatan",
+      "kecamatan": "Ciputat",
+      "kelurahan": "Sawah Baru",
+      "population": 35367,
+      "relative_residential_capacity": 5873.490000000001,
+      "population_to_prior_capacity": 6.02146253760541
+    },
+    {
+      "admin_id": "32.01.12.2003",
+      "region": "Bogor",
+      "kecamatan": "Kemang",
+      "kelurahan": "Kemang",
+      "population": 17179,
+      "relative_residential_capacity": 2869.9969999999994,
+      "population_to_prior_capacity": 5.985720542565028
+    },
+    {
+      "admin_id": "36.71.08.1001",
+      "region": "Kota Tangerang",
+      "kecamatan": "Periuk",
+      "kelurahan": "Periuk",
+      "population": 30635,
+      "relative_residential_capacity": 5202.0740000000005,
+      "population_to_prior_capacity": 5.888997349903134
+    },
+    {
+      "admin_id": "32.01.25.2008",
+      "region": "Bogor",
+      "kecamatan": "Cisarua",
+      "kelurahan": "Kopo",
+      "population": 20049,
+      "relative_residential_capacity": 3459.423,
+      "population_to_prior_capacity": 5.795475141374733
+    },
+    {
+      "admin_id": "32.75.09.1004",
+      "region": "Kota Bekasi",
+      "kecamatan": "Jatiasih",
+      "kelurahan": "Jatirasa",
+      "population": 41994,
+      "relative_residential_capacity": 7246.237,
+      "population_to_prior_capacity": 5.795283814205911
+    },
+    {
+      "admin_id": "36.74.04.1004",
+      "region": "Kota Tangerang Selatan",
+      "kecamatan": "Ciputat",
+      "kelurahan": "Sawah",
+      "population": 34417,
+      "relative_residential_capacity": 5965.927,
+      "population_to_prior_capacity": 5.768927444133997
+    },
+    {
+      "admin_id": "36.71.03.1007",
+      "region": "Kota Tangerang",
+      "kecamatan": "Batuceper",
+      "kelurahan": "Poris Jaya",
+      "population": 13398,
+      "relative_residential_capacity": 2335.803,
+      "population_to_prior_capacity": 5.735928928937929
+    },
+    {
+      "admin_id": "32.01.05.2003",
+      "region": "Bogor",
+      "kecamatan": "Babakan Madang",
+      "kelurahan": "Sentul",
+      "population": 15540,
+      "relative_residential_capacity": 2752.0289999999995,
+      "population_to_prior_capacity": 5.646742821387421
+    },
+    {
+      "admin_id": "36.03.08.2005",
+      "region": "Tangerang",
+      "kecamatan": "Mauk",
+      "kelurahan": "Sasak",
+      "population": 7897,
+      "relative_residential_capacity": 1418.622,
+      "population_to_prior_capacity": 5.566669627286197
+    },
+    {
+      "admin_id": "36.71.03.1003",
+      "region": "Kota Tangerang",
+      "kecamatan": "Batuceper",
+      "kelurahan": "Poris Gaga",
+      "population": 21438,
+      "relative_residential_capacity": 3864.886000000001,
+      "population_to_prior_capacity": 5.546864771690548
+    },
+    {
+      "admin_id": "32.01.28.2009",
+      "region": "Bogor",
+      "kecamatan": "Cijeruk",
+      "kelurahan": "Tanjungsari",
+      "population": 5026,
+      "relative_residential_capacity": 913.237,
+      "population_to_prior_capacity": 5.503500186698524
+    },
+    {
+      "admin_id": "36.71.12.1002",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karang Tengah",
+      "kelurahan": "Karang Mulya",
+      "population": 31872,
+      "relative_residential_capacity": 5796.126999999999,
+      "population_to_prior_capacity": 5.498844314487934
+    },
+    {
+      "admin_id": "36.03.10.2002",
+      "region": "Tangerang",
+      "kecamatan": "Sukadiri",
+      "kelurahan": "Buaran Jati",
+      "population": 10616,
+      "relative_residential_capacity": 1936.9969999999996,
+      "population_to_prior_capacity": 5.4806486535601255
+    },
+    {
+      "admin_id": "32.01.29.2004",
+      "region": "Bogor",
+      "kecamatan": "Ciomas",
+      "kelurahan": "Parakan",
+      "population": 9006,
+      "relative_residential_capacity": 1649.9000000000005,
+      "population_to_prior_capacity": 5.458512637129521
+    },
+    {
+      "admin_id": "32.01.23.2001",
+      "region": "Bogor",
+      "kecamatan": "Tenjo",
+      "kelurahan": "Tapos",
+      "population": 6559,
+      "relative_residential_capacity": 1211.5919999999999,
+      "population_to_prior_capacity": 5.413538550931337
+    },
+    {
+      "admin_id": "32.01.10.2006",
+      "region": "Bogor",
+      "kecamatan": "Parung",
+      "kelurahan": "Pamegarsari",
+      "population": 20997,
+      "relative_residential_capacity": 3885.5820000000003,
+      "population_to_prior_capacity": 5.403823674291264
+    },
+    {
+      "admin_id": "36.74.02.1006",
+      "region": "Kota Tangerang Selatan",
+      "kecamatan": "Serpong Utara",
+      "kelurahan": "Jelupang",
+      "population": 36427,
+      "relative_residential_capacity": 6779.724000000001,
+      "population_to_prior_capacity": 5.37293258545628
+    },
+    {
+      "admin_id": "32.75.12.1003",
+      "region": "Kota Bekasi",
+      "kecamatan": "Pondokmelati",
+      "kelurahan": "Jatimelati",
+      "population": 22487,
+      "relative_residential_capacity": 4189.518,
+      "population_to_prior_capacity": 5.367443223778965
+    },
+    {
+      "admin_id": "32.01.06.2008",
+      "region": "Bogor",
+      "kecamatan": "Jonggol",
+      "kelurahan": "Cibodas",
+      "population": 2679,
+      "relative_residential_capacity": 520.856,
+      "population_to_prior_capacity": 5.143456156788057
+    },
+    {
+      "admin_id": "36.71.12.1005",
+      "region": "Kota Tangerang",
+      "kecamatan": "Karang Tengah",
+      "kelurahan": "Karang Timur",
+      "population": 18485,
+      "relative_residential_capacity": 3653.042,
+      "population_to_prior_capacity": 5.060166294282957
+    },
+    {
+      "admin_id": "32.01.13.2009",
+      "region": "Bogor",
+      "kecamatan": "Bojonggede",
+      "kelurahan": "Bojonggede",
+      "population": 40713,
+      "relative_residential_capacity": 8062.119999999997,
+      "population_to_prior_capacity": 5.049912429981198
+    },
+    {
+      "admin_id": "36.03.08.2011",
+      "region": "Tangerang",
+      "kecamatan": "Mauk",
+      "kelurahan": "Banyu Asih",
+      "population": 4662,
+      "relative_residential_capacity": 931.8479999999998,
+      "population_to_prior_capacity": 5.002961856440107
+    },
+    {
+      "admin_id": "32.01.17.2001",
+      "region": "Bogor",
+      "kecamatan": "Pamijahan",
+      "kelurahan": "Purwabakti",
+      "population": 7451,
+      "relative_residential_capacity": 1490.1980000000003,
+      "population_to_prior_capacity": 5.0000067105176615
+    }
+  ],
+  "criterion": "population / relative residential capacity >5; diagnostic, not measured overcrowding"
+}

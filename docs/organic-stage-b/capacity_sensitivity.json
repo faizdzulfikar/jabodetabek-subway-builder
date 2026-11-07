@@ -1,0 +1,756 @@
+{
+  "selected": {
+    "capacity_ceiling_multiplier": 2.0,
+    "minimum_unclassified_component": 0.2
+  },
+  "scenarios": [
+    {
+      "capacity_ceiling_multiplier": 1.5,
+      "minimum_unclassified_component": 0.1,
+      "jobs_total": 12646700,
+      "largest_anchor_jobs": 24500,
+      "unclassified_component_by_region": {
+        "Bekasi": 0.6768503938983591,
+        "Bogor": 0.8750177541250763,
+        "Kota Bekasi": 0.8009313758628898,
+        "Kota Bogor": 0.725271817558299,
+        "Kota Depok": 0.7463538102438102,
+        "Kota Jakarta Barat": 0.3945579337539432,
+        "Kota Jakarta Pusat": 0.4177060740493662,
+        "Kota Jakarta Selatan": 0.5783685012975779,
+        "Kota Jakarta Timur": 0.4454762699502316,
+        "Kota Jakarta Utara": 0.3283677080384943,
+        "Kota Tangerang": 0.8013462607013017,
+        "Kota Tangerang Selatan": 0.6238998831641448,
+        "Tangerang": 0.6046612944673506
+      },
+      "centers": [
+        {
+          "name": "Sudirman\u2013Thamrin\u2013SCBD",
+          "jobs": 1317200
+        },
+        {
+          "name": "Kuningan\u2013Mega Kuningan\u2013Rasuna Said",
+          "jobs": 546800
+        },
+        {
+          "name": "Gatot Subroto\u2013Semanggi",
+          "jobs": 621800
+        },
+        {
+          "name": "TB Simatupang\u2013Cilandak",
+          "jobs": 385400
+        },
+        {
+          "name": "Cikarang\u2013Cibitung\u2013MM2100\u2013Jababeka",
+          "jobs": 824300
+        },
+        {
+          "name": "BSD\u2013Serpong",
+          "jobs": 198500
+        },
+        {
+          "name": "Alam Sutera\u2013Gading Serpong",
+          "jobs": 237700
+        },
+        {
+          "name": "Sunter\u2013Kelapa Gading",
+          "jobs": 538600
+        },
+        {
+          "name": "Cakung\u2013Pulogadung",
+          "jobs": 332000
+        },
+        {
+          "name": "Slipi\u2013Palmerah\u2013Grogol",
+          "jobs": 375100
+        },
+        {
+          "name": "Pluit\u2013PIK\u2013Penjaringan",
+          "jobs": 287300
+        },
+        {
+          "name": "Jatiuwung\u2013Batuceper\u2013Balaraja",
+          "jobs": 910600
+        },
+        {
+          "name": "Margonda\u2013Depok",
+          "jobs": 145600
+        },
+        {
+          "name": "Bekasi Selatan\u2013Summarecon",
+          "jobs": 217800
+        },
+        {
+          "name": "Bogor Tengah\u2013Baranangsiang",
+          "jobs": 174000
+        }
+      ]
+    },
+    {
+      "capacity_ceiling_multiplier": 1.5,
+      "minimum_unclassified_component": 0.2,
+      "jobs_total": 12646700,
+      "largest_anchor_jobs": 24500,
+      "unclassified_component_by_region": {
+        "Bekasi": 0.6768503938983591,
+        "Bogor": 0.8750177541250763,
+        "Kota Bekasi": 0.8009313758628898,
+        "Kota Bogor": 0.725271817558299,
+        "Kota Depok": 0.7463538102438102,
+        "Kota Jakarta Barat": 0.3945579337539432,
+        "Kota Jakarta Pusat": 0.4177060740493662,
+        "Kota Jakarta Selatan": 0.5783685012975779,
+        "Kota Jakarta Timur": 0.4454762699502316,
+        "Kota Jakarta Utara": 0.3283677080384943,
+        "Kota Tangerang": 0.8013462607013017,
+        "Kota Tangerang Selatan": 0.6238998831641448,
+        "Tangerang": 0.6046612944673506
+      },
+      "centers": [
+        {
+          "name": "Sudirman\u2013Thamrin\u2013SCBD",
+          "jobs": 1317200
+        },
+        {
+          "name": "Kuningan\u2013Mega Kuningan\u2013Rasuna Said",
+          "jobs": 546800
+        },
+        {
+          "name": "Gatot Subroto\u2013Semanggi",
+          "jobs": 621800
+        },
+        {
+          "name": "TB Simatupang\u2013Cilandak",
+          "jobs": 385400
+        },
+        {
+          "name": "Cikarang\u2013Cibitung\u2013MM2100\u2013Jababeka",
+          "jobs": 824300
+        },
+        {
+          "name": "BSD\u2013Serpong",
+          "jobs": 198500
+        },
+        {
+          "name": "Alam Sutera\u2013Gading Serpong",
+          "jobs": 237700
+        },
+        {
+          "name": "Sunter\u2013Kelapa Gading",
+          "jobs": 538600
+        },
+        {
+          "name": "Cakung\u2013Pulogadung",
+          "jobs": 332000
+        },
+        {
+          "name": "Slipi\u2013Palmerah\u2013Grogol",
+          "jobs": 375100
+        },
+        {
+          "name": "Pluit\u2013PIK\u2013Penjaringan",
+          "jobs": 287300
+        },
+        {
+          "name": "Jatiuwung\u2013Batuceper\u2013Balaraja",
+          "jobs": 910600
+        },
+        {
+          "name": "Margonda\u2013Depok",
+          "jobs": 145600
+        },
+        {
+          "name": "Bekasi Selatan\u2013Summarecon",
+          "jobs": 217800
+        },
+        {
+          "name": "Bogor Tengah\u2013Baranangsiang",
+          "jobs": 174000
+        }
+      ]
+    },
+    {
+      "capacity_ceiling_multiplier": 1.5,
+      "minimum_unclassified_component": 0.3,
+      "jobs_total": 12646700,
+      "largest_anchor_jobs": 24500,
+      "unclassified_component_by_region": {
+        "Bekasi": 0.6768503938983591,
+        "Bogor": 0.8750177541250763,
+        "Kota Bekasi": 0.8009313758628898,
+        "Kota Bogor": 0.725271817558299,
+        "Kota Depok": 0.7463538102438102,
+        "Kota Jakarta Barat": 0.3945579337539432,
+        "Kota Jakarta Pusat": 0.4177060740493662,
+        "Kota Jakarta Selatan": 0.5783685012975779,
+        "Kota Jakarta Timur": 0.4454762699502316,
+        "Kota Jakarta Utara": 0.3283677080384943,
+        "Kota Tangerang": 0.8013462607013017,
+        "Kota Tangerang Selatan": 0.6238998831641448,
+        "Tangerang": 0.6046612944673506
+      },
+      "centers": [
+        {
+          "name": "Sudirman\u2013Thamrin\u2013SCBD",
+          "jobs": 1317200
+        },
+        {
+          "name": "Kuningan\u2013Mega Kuningan\u2013Rasuna Said",
+          "jobs": 546800
+        },
+        {
+          "name": "Gatot Subroto\u2013Semanggi",
+          "jobs": 621800
+        },
+        {
+          "name": "TB Simatupang\u2013Cilandak",
+          "jobs": 385400
+        },
+        {
+          "name": "Cikarang\u2013Cibitung\u2013MM2100\u2013Jababeka",
+          "jobs": 824300
+        },
+        {
+          "name": "BSD\u2013Serpong",
+          "jobs": 198500
+        },
+        {
+          "name": "Alam Sutera\u2013Gading Serpong",
+          "jobs": 237700
+        },
+        {
+          "name": "Sunter\u2013Kelapa Gading",
+          "jobs": 538600
+        },
+        {
+          "name": "Cakung\u2013Pulogadung",
+          "jobs": 332000
+        },
+        {
+          "name": "Slipi\u2013Palmerah\u2013Grogol",
+          "jobs": 375100
+        },
+        {
+          "name": "Pluit\u2013PIK\u2013Penjaringan",
+          "jobs": 287300
+        },
+        {
+          "name": "Jatiuwung\u2013Batuceper\u2013Balaraja",
+          "jobs": 910600
+        },
+        {
+          "name": "Margonda\u2013Depok",
+          "jobs": 145600
+        },
+        {
+          "name": "Bekasi Selatan\u2013Summarecon",
+          "jobs": 217800
+        },
+        {
+          "name": "Bogor Tengah\u2013Baranangsiang",
+          "jobs": 174000
+        }
+      ]
+    },
+    {
+      "capacity_ceiling_multiplier": 2.0,
+      "minimum_unclassified_component": 0.1,
+      "jobs_total": 12646700,
+      "largest_anchor_jobs": 32700,
+      "unclassified_component_by_region": {
+        "Bekasi": 0.5691338585311455,
+        "Bogor": 0.8333570055001019,
+        "Kota Bekasi": 0.7345751678171863,
+        "Kota Bogor": 0.6336957567443987,
+        "Kota Depok": 0.6618050803250802,
+        "Kota Jakarta Barat": 0.19274391167192423,
+        "Kota Jakarta Pusat": 0.22360809873248838,
+        "Kota Jakarta Selatan": 0.43782466839677037,
+        "Kota Jakarta Timur": 0.26063502660030896,
+        "Kota Jakarta Utara": 0.10449027738465887,
+        "Kota Tangerang": 0.7351283476017357,
+        "Kota Tangerang Selatan": 0.4985331775521931,
+        "Tangerang": 0.4728817259564675
+      },
+      "centers": [
+        {
+          "name": "Sudirman\u2013Thamrin\u2013SCBD",
+          "jobs": 1526500
+        },
+        {
+          "name": "Kuningan\u2013Mega Kuningan\u2013Rasuna Said",
+          "jobs": 642800
+        },
+        {
+          "name": "Gatot Subroto\u2013Semanggi",
+          "jobs": 724800
+        },
+        {
+          "name": "TB Simatupang\u2013Cilandak",
+          "jobs": 369600
+        },
+        {
+          "name": "Cikarang\u2013Cibitung\u2013MM2100\u2013Jababeka",
+          "jobs": 870900
+        },
+        {
+          "name": "BSD\u2013Serpong",
+          "jobs": 224300
+        },
+        {
+          "name": "Alam Sutera\u2013Gading Serpong",
+          "jobs": 266800
+        },
+        {
+          "name": "Sunter\u2013Kelapa Gading",
+          "jobs": 494000
+        },
+        {
+          "name": "Cakung\u2013Pulogadung",
+          "jobs": 346500
+        },
+        {
+          "name": "Slipi\u2013Palmerah\u2013Grogol",
+          "jobs": 387200
+        },
+        {
+          "name": "Pluit\u2013PIK\u2013Penjaringan",
+          "jobs": 301400
+        },
+        {
+          "name": "Jatiuwung\u2013Batuceper\u2013Balaraja",
+          "jobs": 941600
+        },
+        {
+          "name": "Margonda\u2013Depok",
+          "jobs": 150700
+        },
+        {
+          "name": "Bekasi Selatan\u2013Summarecon",
+          "jobs": 232100
+        },
+        {
+          "name": "Bogor Tengah\u2013Baranangsiang",
+          "jobs": 184400
+        }
+      ]
+    },
+    {
+      "capacity_ceiling_multiplier": 2.0,
+      "minimum_unclassified_component": 0.2,
+      "jobs_total": 12646700,
+      "largest_anchor_jobs": 32700,
+      "unclassified_component_by_region": {
+        "Bekasi": 0.5691338585311455,
+        "Bogor": 0.8333570055001019,
+        "Kota Bekasi": 0.7345751678171863,
+        "Kota Bogor": 0.6336957567443987,
+        "Kota Depok": 0.6618050803250802,
+        "Kota Jakarta Barat": 0.2000000000000001,
+        "Kota Jakarta Pusat": 0.22360809873248838,
+        "Kota Jakarta Selatan": 0.43782466839677037,
+        "Kota Jakarta Timur": 0.26063502660030896,
+        "Kota Jakarta Utara": 0.2,
+        "Kota Tangerang": 0.7351283476017357,
+        "Kota Tangerang Selatan": 0.4985331775521931,
+        "Tangerang": 0.4728817259564675
+      },
+      "centers": [
+        {
+          "name": "Sudirman\u2013Thamrin\u2013SCBD",
+          "jobs": 1525600
+        },
+        {
+          "name": "Kuningan\u2013Mega Kuningan\u2013Rasuna Said",
+          "jobs": 642800
+        },
+        {
+          "name": "Gatot Subroto\u2013Semanggi",
+          "jobs": 724800
+        },
+        {
+          "name": "TB Simatupang\u2013Cilandak",
+          "jobs": 369600
+        },
+        {
+          "name": "Cikarang\u2013Cibitung\u2013MM2100\u2013Jababeka",
+          "jobs": 870900
+        },
+        {
+          "name": "BSD\u2013Serpong",
+          "jobs": 224300
+        },
+        {
+          "name": "Alam Sutera\u2013Gading Serpong",
+          "jobs": 266800
+        },
+        {
+          "name": "Sunter\u2013Kelapa Gading",
+          "jobs": 495000
+        },
+        {
+          "name": "Cakung\u2013Pulogadung",
+          "jobs": 347600
+        },
+        {
+          "name": "Slipi\u2013Palmerah\u2013Grogol",
+          "jobs": 386300
+        },
+        {
+          "name": "Pluit\u2013PIK\u2013Penjaringan",
+          "jobs": 295400
+        },
+        {
+          "name": "Jatiuwung\u2013Batuceper\u2013Balaraja",
+          "jobs": 941600
+        },
+        {
+          "name": "Margonda\u2013Depok",
+          "jobs": 150700
+        },
+        {
+          "name": "Bekasi Selatan\u2013Summarecon",
+          "jobs": 232100
+        },
+        {
+          "name": "Bogor Tengah\u2013Baranangsiang",
+          "jobs": 184400
+        }
+      ]
+    },
+    {
+      "capacity_ceiling_multiplier": 2.0,
+      "minimum_unclassified_component": 0.3,
+      "jobs_total": 12646700,
+      "largest_anchor_jobs": 29500,
+      "unclassified_component_by_region": {
+        "Bekasi": 0.5691338585311455,
+        "Bogor": 0.8333570055001019,
+        "Kota Bekasi": 0.7345751678171863,
+        "Kota Bogor": 0.6336957567443987,
+        "Kota Depok": 0.6618050803250802,
+        "Kota Jakarta Barat": 0.3,
+        "Kota Jakarta Pusat": 0.3,
+        "Kota Jakarta Selatan": 0.43782466839677037,
+        "Kota Jakarta Timur": 0.2999999999999999,
+        "Kota Jakarta Utara": 0.30000000000000016,
+        "Kota Tangerang": 0.7351283476017357,
+        "Kota Tangerang Selatan": 0.4985331775521931,
+        "Tangerang": 0.4728817259564675
+      },
+      "centers": [
+        {
+          "name": "Sudirman\u2013Thamrin\u2013SCBD",
+          "jobs": 1489200
+        },
+        {
+          "name": "Kuningan\u2013Mega Kuningan\u2013Rasuna Said",
+          "jobs": 638200
+        },
+        {
+          "name": "Gatot Subroto\u2013Semanggi",
+          "jobs": 721600
+        },
+        {
+          "name": "TB Simatupang\u2013Cilandak",
+          "jobs": 369700
+        },
+        {
+          "name": "Cikarang\u2013Cibitung\u2013MM2100\u2013Jababeka",
+          "jobs": 870900
+        },
+        {
+          "name": "BSD\u2013Serpong",
+          "jobs": 224300
+        },
+        {
+          "name": "Alam Sutera\u2013Gading Serpong",
+          "jobs": 266800
+        },
+        {
+          "name": "Sunter\u2013Kelapa Gading",
+          "jobs": 513200
+        },
+        {
+          "name": "Cakung\u2013Pulogadung",
+          "jobs": 346200
+        },
+        {
+          "name": "Slipi\u2013Palmerah\u2013Grogol",
+          "jobs": 377000
+        },
+        {
+          "name": "Pluit\u2013PIK\u2013Penjaringan",
+          "jobs": 290700
+        },
+        {
+          "name": "Jatiuwung\u2013Batuceper\u2013Balaraja",
+          "jobs": 941600
+        },
+        {
+          "name": "Margonda\u2013Depok",
+          "jobs": 150700
+        },
+        {
+          "name": "Bekasi Selatan\u2013Summarecon",
+          "jobs": 232100
+        },
+        {
+          "name": "Bogor Tengah\u2013Baranangsiang",
+          "jobs": 184400
+        }
+      ]
+    },
+    {
+      "capacity_ceiling_multiplier": 3.0,
+      "minimum_unclassified_component": 0.1,
+      "jobs_total": 12646700,
+      "largest_anchor_jobs": 37900,
+      "unclassified_component_by_region": {
+        "Bekasi": 0.3537007877967181,
+        "Bogor": 0.7500355082501527,
+        "Kota Bekasi": 0.6018627517257796,
+        "Kota Bogor": 0.45054363511659806,
+        "Kota Depok": 0.4927076204876205,
+        "Kota Jakarta Barat": 0.10000000000000019,
+        "Kota Jakarta Pusat": 0.1,
+        "Kota Jakarta Selatan": 0.1567370025951557,
+        "Kota Jakarta Timur": 0.1,
+        "Kota Jakarta Utara": 0.1,
+        "Kota Tangerang": 0.6026925214026035,
+        "Kota Tangerang Selatan": 0.24779976632828965,
+        "Tangerang": 0.20932258893470124
+      },
+      "centers": [
+        {
+          "name": "Sudirman\u2013Thamrin\u2013SCBD",
+          "jobs": 1828000
+        },
+        {
+          "name": "Kuningan\u2013Mega Kuningan\u2013Rasuna Said",
+          "jobs": 820100
+        },
+        {
+          "name": "Gatot Subroto\u2013Semanggi",
+          "jobs": 917800
+        },
+        {
+          "name": "TB Simatupang\u2013Cilandak",
+          "jobs": 343800
+        },
+        {
+          "name": "Cikarang\u2013Cibitung\u2013MM2100\u2013Jababeka",
+          "jobs": 959200
+        },
+        {
+          "name": "BSD\u2013Serpong",
+          "jobs": 274200
+        },
+        {
+          "name": "Alam Sutera\u2013Gading Serpong",
+          "jobs": 328800
+        },
+        {
+          "name": "Sunter\u2013Kelapa Gading",
+          "jobs": 468900
+        },
+        {
+          "name": "Cakung\u2013Pulogadung",
+          "jobs": 368000
+        },
+        {
+          "name": "Slipi\u2013Palmerah\u2013Grogol",
+          "jobs": 389400
+        },
+        {
+          "name": "Pluit\u2013PIK\u2013Penjaringan",
+          "jobs": 307900
+        },
+        {
+          "name": "Jatiuwung\u2013Batuceper\u2013Balaraja",
+          "jobs": 1000500
+        },
+        {
+          "name": "Margonda\u2013Depok",
+          "jobs": 161200
+        },
+        {
+          "name": "Bekasi Selatan\u2013Summarecon",
+          "jobs": 262200
+        },
+        {
+          "name": "Bogor Tengah\u2013Baranangsiang",
+          "jobs": 202400
+        }
+      ]
+    },
+    {
+      "capacity_ceiling_multiplier": 3.0,
+      "minimum_unclassified_component": 0.2,
+      "jobs_total": 12646700,
+      "largest_anchor_jobs": 33700,
+      "unclassified_component_by_region": {
+        "Bekasi": 0.3537007877967181,
+        "Bogor": 0.7500355082501527,
+        "Kota Bekasi": 0.6018627517257796,
+        "Kota Bogor": 0.45054363511659806,
+        "Kota Depok": 0.4927076204876205,
+        "Kota Jakarta Barat": 0.2000000000000001,
+        "Kota Jakarta Pusat": 0.1999999999999999,
+        "Kota Jakarta Selatan": 0.2,
+        "Kota Jakarta Timur": 0.1999999999999999,
+        "Kota Jakarta Utara": 0.2,
+        "Kota Tangerang": 0.6026925214026035,
+        "Kota Tangerang Selatan": 0.24779976632828965,
+        "Tangerang": 0.20932258893470124
+      },
+      "centers": [
+        {
+          "name": "Sudirman\u2013Thamrin\u2013SCBD",
+          "jobs": 1741200
+        },
+        {
+          "name": "Kuningan\u2013Mega Kuningan\u2013Rasuna Said",
+          "jobs": 789400
+        },
+        {
+          "name": "Gatot Subroto\u2013Semanggi",
+          "jobs": 884400
+        },
+        {
+          "name": "TB Simatupang\u2013Cilandak",
+          "jobs": 347300
+        },
+        {
+          "name": "Cikarang\u2013Cibitung\u2013MM2100\u2013Jababeka",
+          "jobs": 959200
+        },
+        {
+          "name": "BSD\u2013Serpong",
+          "jobs": 274200
+        },
+        {
+          "name": "Alam Sutera\u2013Gading Serpong",
+          "jobs": 328800
+        },
+        {
+          "name": "Sunter\u2013Kelapa Gading",
+          "jobs": 490300
+        },
+        {
+          "name": "Cakung\u2013Pulogadung",
+          "jobs": 366900
+        },
+        {
+          "name": "Slipi\u2013Palmerah\u2013Grogol",
+          "jobs": 382500
+        },
+        {
+          "name": "Pluit\u2013PIK\u2013Penjaringan",
+          "jobs": 305400
+        },
+        {
+          "name": "Jatiuwung\u2013Batuceper\u2013Balaraja",
+          "jobs": 1000500
+        },
+        {
+          "name": "Margonda\u2013Depok",
+          "jobs": 161700
+        },
+        {
+          "name": "Bekasi Selatan\u2013Summarecon",
+          "jobs": 262200
+        },
+        {
+          "name": "Bogor Tengah\u2013Baranangsiang",
+          "jobs": 202400
+        }
+      ]
+    },
+    {
+      "capacity_ceiling_multiplier": 3.0,
+      "minimum_unclassified_component": 0.3,
+      "jobs_total": 12646700,
+      "largest_anchor_jobs": 29500,
+      "unclassified_component_by_region": {
+        "Bekasi": 0.3537007877967181,
+        "Bogor": 0.7500355082501527,
+        "Kota Bekasi": 0.6018627517257796,
+        "Kota Bogor": 0.45054363511659806,
+        "Kota Depok": 0.4927076204876205,
+        "Kota Jakarta Barat": 0.3,
+        "Kota Jakarta Pusat": 0.3,
+        "Kota Jakarta Selatan": 0.3000000000000001,
+        "Kota Jakarta Timur": 0.2999999999999999,
+        "Kota Jakarta Utara": 0.30000000000000016,
+        "Kota Tangerang": 0.6026925214026035,
+        "Kota Tangerang Selatan": 0.2999999999999999,
+        "Tangerang": 0.3
+      },
+      "centers": [
+        {
+          "name": "Sudirman\u2013Thamrin\u2013SCBD",
+          "jobs": 1610100
+        },
+        {
+          "name": "Kuningan\u2013Mega Kuningan\u2013Rasuna Said",
+          "jobs": 723500
+        },
+        {
+          "name": "Gatot Subroto\u2013Semanggi",
+          "jobs": 815300
+        },
+        {
+          "name": "TB Simatupang\u2013Cilandak",
+          "jobs": 357100
+        },
+        {
+          "name": "Cikarang\u2013Cibitung\u2013MM2100\u2013Jababeka",
+          "jobs": 959200
+        },
+        {
+          "name": "BSD\u2013Serpong",
+          "jobs": 260400
+        },
+        {
+          "name": "Alam Sutera\u2013Gading Serpong",
+          "jobs": 319600
+        },
+        {
+          "name": "Sunter\u2013Kelapa Gading",
+          "jobs": 513200
+        },
+        {
+          "name": "Cakung\u2013Pulogadung",
+          "jobs": 363400
+        },
+        {
+          "name": "Slipi\u2013Palmerah\u2013Grogol",
+          "jobs": 375200
+        },
+        {
+          "name": "Pluit\u2013PIK\u2013Penjaringan",
+          "jobs": 297400
+        },
+        {
+          "name": "Jatiuwung\u2013Batuceper\u2013Balaraja",
+          "jobs": 996400
+        },
+        {
+          "name": "Margonda\u2013Depok",
+          "jobs": 164000
+        },
+        {
+          "name": "Bekasi Selatan\u2013Summarecon",
+          "jobs": 262200
+        },
+        {
+          "name": "Bogor Tengah\u2013Baranangsiang",
+          "jobs": 202400
+        }
+      ]
+    }
+  ],
+  "meaning": "Scenario uncertainty; not confidence intervals or observed informal/homework shares"
+}

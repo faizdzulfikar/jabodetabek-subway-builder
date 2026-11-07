@@ -1,0 +1,374 @@
+[
+  {
+    "location": [
+      106.80847065,
+      -6.2266517
+    ],
+    "jobs_within_500m": 163100,
+    "region": "Kota Jakarta Selatan",
+    "kelurahan": "Senayan",
+    "inside_audit_windows": [
+      "Sudirman\u2013Thamrin\u2013SCBD",
+      "Gatot Subroto\u2013Semanggi"
+    ],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  },
+  {
+    "location": [
+      106.8211303391883,
+      -6.20715065
+    ],
+    "jobs_within_500m": 142800,
+    "region": "Kota Jakarta Pusat",
+    "kelurahan": "Karet Tengsin",
+    "inside_audit_windows": [
+      "Sudirman\u2013Thamrin\u2013SCBD",
+      "Kuningan\u2013Mega Kuningan\u2013Rasuna Said"
+    ],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  },
+  {
+    "location": [
+      106.65635215,
+      -6.2255281
+    ],
+    "jobs_within_500m": 109600,
+    "region": "Kota Tangerang",
+    "kelurahan": "Panunggangan Timur",
+    "inside_audit_windows": [
+      "Alam Sutera\u2013Gading Serpong",
+      "Jatiuwung\u2013Batuceper\u2013Balaraja"
+    ],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  },
+  {
+    "location": [
+      106.99018162513624,
+      -6.2528105
+    ],
+    "jobs_within_500m": 79700,
+    "region": "Kota Bekasi",
+    "kelurahan": "Pekayonjaya",
+    "inside_audit_windows": [
+      "Bekasi Selatan\u2013Summarecon"
+    ],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  },
+  {
+    "location": [
+      106.82823587155812,
+      -6.1846479500000004
+    ],
+    "jobs_within_500m": 62300,
+    "region": "Kota Jakarta Pusat",
+    "kelurahan": "Kebon Sirih",
+    "inside_audit_windows": [
+      "Sudirman\u2013Thamrin\u2013SCBD"
+    ],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  },
+  {
+    "location": [
+      106.78587982745086,
+      -6.2626931500000005
+    ],
+    "jobs_within_500m": 59700,
+    "region": "Kota Jakarta Selatan",
+    "kelurahan": "Gandaria Utara",
+    "inside_audit_windows": [],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  },
+  {
+    "location": [
+      106.96025377453245,
+      -6.3657494
+    ],
+    "jobs_within_500m": 58500,
+    "region": "Bogor",
+    "kelurahan": "Ciangsana",
+    "inside_audit_windows": [],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  },
+  {
+    "location": [
+      106.83124082564038,
+      -6.23282235
+    ],
+    "jobs_within_500m": 56000,
+    "region": "Kota Jakarta Selatan",
+    "kelurahan": "Kuningan Timur",
+    "inside_audit_windows": [
+      "Sudirman\u2013Thamrin\u2013SCBD",
+      "Kuningan\u2013Mega Kuningan\u2013Rasuna Said",
+      "Gatot Subroto\u2013Semanggi"
+    ],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  },
+  {
+    "location": [
+      106.79004910353672,
+      -6.174925200000001
+    ],
+    "jobs_within_500m": 54000,
+    "region": "Kota Jakarta Barat",
+    "kelurahan": "Tanjung Duren Selatan",
+    "inside_audit_windows": [
+      "Slipi\u2013Palmerah\u2013Grogol"
+    ],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  },
+  {
+    "location": [
+      106.79869461450618,
+      -6.2024756
+    ],
+    "jobs_within_500m": 49400,
+    "region": "Kota Jakarta Pusat",
+    "kelurahan": "Gelora",
+    "inside_audit_windows": [
+      "Sudirman\u2013Thamrin\u2013SCBD",
+      "Slipi\u2013Palmerah\u2013Grogol"
+    ],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  },
+  {
+    "location": [
+      106.83333951392257,
+      -6.29873725
+    ],
+    "jobs_within_500m": 48600,
+    "region": "Kota Jakarta Selatan",
+    "kelurahan": "Pasar Minggu",
+    "inside_audit_windows": [
+      "TB Simatupang\u2013Cilandak"
+    ],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  },
+  {
+    "location": [
+      106.85977565391225,
+      -6.5676147
+    ],
+    "jobs_within_500m": 46600,
+    "region": "Bogor",
+    "kelurahan": "Citaringgul",
+    "inside_audit_windows": [],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  },
+  {
+    "location": [
+      106.89445405000001,
+      -6.1491665
+    ],
+    "jobs_within_500m": 46400,
+    "region": "Kota Jakarta Utara",
+    "kelurahan": "Kelapa Gading Barat",
+    "inside_audit_windows": [
+      "Sunter\u2013Kelapa Gading"
+    ],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  },
+  {
+    "location": [
+      106.8382388,
+      -6.4847231999999995
+    ],
+    "jobs_within_500m": 44300,
+    "region": "Bogor",
+    "kelurahan": "Pakansari",
+    "inside_audit_windows": [],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  },
+  {
+    "location": [
+      106.84741409329575,
+      -6.35156
+    ],
+    "jobs_within_500m": 44100,
+    "region": "Kota Depok",
+    "kelurahan": "Pasir Gunung Selatan",
+    "inside_audit_windows": [],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  },
+  {
+    "location": [
+      106.79107743725459,
+      -6.59334105
+    ],
+    "jobs_within_500m": 42000,
+    "region": "Kota Bogor",
+    "kelurahan": "Cibogor",
+    "inside_audit_windows": [
+      "Bogor Tengah\u2013Baranangsiang"
+    ],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  },
+  {
+    "location": [
+      106.7847863145082,
+      -6.2943523
+    ],
+    "jobs_within_500m": 42000,
+    "region": "Kota Jakarta Selatan",
+    "kelurahan": "Cilandak Barat",
+    "inside_audit_windows": [
+      "TB Simatupang\u2013Cilandak"
+    ],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  },
+  {
+    "location": [
+      106.9972729124398,
+      -6.2252668
+    ],
+    "jobs_within_500m": 40800,
+    "region": "Kota Bekasi",
+    "kelurahan": "Harapanmulya",
+    "inside_audit_windows": [
+      "Bekasi Selatan\u2013Summarecon"
+    ],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  },
+  {
+    "location": [
+      106.8328989557858,
+      -6.3702977
+    ],
+    "jobs_within_500m": 39100,
+    "region": "Kota Depok",
+    "kelurahan": "Pondok Cina",
+    "inside_audit_windows": [
+      "Margonda\u2013Depok"
+    ],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  },
+  {
+    "location": [
+      106.63512352220697,
+      -6.19363495
+    ],
+    "jobs_within_500m": 37800,
+    "region": "Kota Tangerang",
+    "kelurahan": "Babakan",
+    "inside_audit_windows": [
+      "Jatiuwung\u2013Batuceper\u2013Balaraja"
+    ],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  },
+  {
+    "location": [
+      106.92346040599139,
+      -6.4391494
+    ],
+    "jobs_within_500m": 36800,
+    "region": "Bogor",
+    "kelurahan": "Cicadas",
+    "inside_audit_windows": [],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  },
+  {
+    "location": [
+      106.81868202421073,
+      -6.16292175
+    ],
+    "jobs_within_500m": 35900,
+    "region": "Kota Jakarta Pusat",
+    "kelurahan": "Petojo Utara",
+    "inside_audit_windows": [],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  },
+  {
+    "location": [
+      106.73921164697533,
+      -6.1061908
+    ],
+    "jobs_within_500m": 33700,
+    "region": "Kota Jakarta Utara",
+    "kelurahan": "Kamal Muara",
+    "inside_audit_windows": [
+      "Pluit\u2013PIK\u2013Penjaringan"
+    ],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  },
+  {
+    "location": [
+      106.96478768684784,
+      -6.391937
+    ],
+    "jobs_within_500m": 33600,
+    "region": "Bogor",
+    "kelurahan": "Limusnunggal",
+    "inside_audit_windows": [],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  },
+  {
+    "location": [
+      106.8547347,
+      -6.52278305
+    ],
+    "jobs_within_500m": 33000,
+    "region": "Bogor",
+    "kelurahan": "Sentul",
+    "inside_audit_windows": [],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  },
+  {
+    "location": [
+      106.87448192838613,
+      -6.16788685
+    ],
+    "jobs_within_500m": 32400,
+    "region": "Kota Jakarta Pusat",
+    "kelurahan": "Cempaka Putih Timur",
+    "inside_audit_windows": [
+      "Sunter\u2013Kelapa Gading"
+    ],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  },
+  {
+    "location": [
+      106.8271360287196,
+      -6.1377858
+    ],
+    "jobs_within_500m": 31900,
+    "region": "Kota Jakarta Pusat",
+    "kelurahan": "Mangga Dua Selatan",
+    "inside_audit_windows": [],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  },
+  {
+    "location": [
+      106.66752815,
+      -6.29560095
+    ],
+    "jobs_within_500m": 31100,
+    "region": "Kota Tangerang Selatan",
+    "kelurahan": "Lengkong Gudang",
+    "inside_audit_windows": [
+      "BSD\u2013Serpong"
+    ],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  },
+  {
+    "location": [
+      106.84582538491517,
+      -6.15206505
+    ],
+    "jobs_within_500m": 30300,
+    "region": "Kota Jakarta Utara",
+    "kelurahan": "Pademangan Timur",
+    "inside_audit_windows": [],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  },
+  {
+    "location": [
+      106.8547009365355,
+      -6.46444365
+    ],
+    "jobs_within_500m": 29300,
+    "region": "Bogor",
+    "kelurahan": "Pabuaran",
+    "inside_audit_windows": [],
+    "status": "model-derived cluster requiring review; overlapping radius totals not additive"
+  }
+]

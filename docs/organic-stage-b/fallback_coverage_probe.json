@@ -1,0 +1,452 @@
+[
+  {
+    "id": "32.01.32.2008",
+    "builtup_pixels": 3984,
+    "residential_landuse_m2": 792.5321864473344,
+    "population": 3659
+  },
+  {
+    "id": "32.01.19.2002",
+    "builtup_pixels": 2878,
+    "residential_landuse_m2": 271416.4698161481,
+    "population": 5121
+  },
+  {
+    "id": "32.01.19.2007",
+    "builtup_pixels": 3365,
+    "residential_landuse_m2": 219172.7987808372,
+    "population": 7123
+  },
+  {
+    "id": "32.01.19.2010",
+    "builtup_pixels": 4102,
+    "residential_landuse_m2": 306440.17568520736,
+    "population": 7618
+  },
+  {
+    "id": "32.01.30.2006",
+    "builtup_pixels": 4596,
+    "residential_landuse_m2": 0,
+    "population": 5715
+  },
+  {
+    "id": "32.01.30.2005",
+    "builtup_pixels": 7225,
+    "residential_landuse_m2": 76303.8748079077,
+    "population": 11308
+  },
+  {
+    "id": "32.01.30.2001",
+    "builtup_pixels": 4676,
+    "residential_landuse_m2": 0,
+    "population": 6765
+  },
+  {
+    "id": "32.01.15.2013",
+    "builtup_pixels": 6316,
+    "residential_landuse_m2": 0,
+    "population": 8747
+  },
+  {
+    "id": "32.01.15.2006",
+    "builtup_pixels": 5450,
+    "residential_landuse_m2": 0,
+    "population": 7479
+  },
+  {
+    "id": "32.01.15.2002",
+    "builtup_pixels": 9469,
+    "residential_landuse_m2": 6395.287054257764,
+    "population": 14861
+  },
+  {
+    "id": "32.01.15.2007",
+    "builtup_pixels": 8074,
+    "residential_landuse_m2": 0,
+    "population": 10118
+  },
+  {
+    "id": "32.01.15.2004",
+    "builtup_pixels": 6623,
+    "residential_landuse_m2": 0,
+    "population": 11211
+  },
+  {
+    "id": "32.01.21.2002",
+    "builtup_pixels": 6044,
+    "residential_landuse_m2": 2422.40823954049,
+    "population": 11076
+  },
+  {
+    "id": "32.01.21.2009",
+    "builtup_pixels": 3284,
+    "residential_landuse_m2": 0,
+    "population": 7523
+  },
+  {
+    "id": "32.01.21.2005",
+    "builtup_pixels": 3186,
+    "residential_landuse_m2": 0,
+    "population": 5408
+  },
+  {
+    "id": "32.01.21.2003",
+    "builtup_pixels": 6337,
+    "residential_landuse_m2": 0,
+    "population": 13760
+  },
+  {
+    "id": "32.01.21.2007",
+    "builtup_pixels": 4422,
+    "residential_landuse_m2": 0,
+    "population": 8399
+  },
+  {
+    "id": "32.01.16.2001",
+    "builtup_pixels": 8867,
+    "residential_landuse_m2": 61499.185389568695,
+    "population": 15260
+  },
+  {
+    "id": "32.01.16.2002",
+    "builtup_pixels": 6038,
+    "residential_landuse_m2": 0,
+    "population": 9982
+  },
+  {
+    "id": "32.01.16.2005",
+    "builtup_pixels": 3811,
+    "residential_landuse_m2": 0,
+    "population": 6962
+  },
+  {
+    "id": "32.01.16.2012",
+    "builtup_pixels": 5325,
+    "residential_landuse_m2": 0,
+    "population": 7878
+  },
+  {
+    "id": "32.01.16.2013",
+    "builtup_pixels": 5213,
+    "residential_landuse_m2": 0,
+    "population": 9613
+  },
+  {
+    "id": "32.01.16.2009",
+    "builtup_pixels": 4759,
+    "residential_landuse_m2": 3250.5066701842625,
+    "population": 7352
+  },
+  {
+    "id": "32.01.16.2014",
+    "builtup_pixels": 4197,
+    "residential_landuse_m2": 0,
+    "population": 8239
+  },
+  {
+    "id": "32.01.39.2007",
+    "builtup_pixels": 7050,
+    "residential_landuse_m2": 93745.04182857879,
+    "population": 13283
+  },
+  {
+    "id": "32.01.39.2004",
+    "builtup_pixels": 3961,
+    "residential_landuse_m2": 0,
+    "population": 7472
+  },
+  {
+    "id": "32.01.39.2003",
+    "builtup_pixels": 6175,
+    "residential_landuse_m2": 0,
+    "population": 13241
+  },
+  {
+    "id": "32.01.39.2002",
+    "builtup_pixels": 4156,
+    "residential_landuse_m2": 0,
+    "population": 8269
+  },
+  {
+    "id": "32.01.33.2008",
+    "builtup_pixels": 4514,
+    "residential_landuse_m2": 116529.93866107397,
+    "population": 7115
+  },
+  {
+    "id": "32.01.10.2002",
+    "builtup_pixels": 6609,
+    "residential_landuse_m2": 591019.8671312823,
+    "population": 7356
+  },
+  {
+    "id": "32.01.10.2003",
+    "builtup_pixels": 7191,
+    "residential_landuse_m2": 447988.2393237454,
+    "population": 7992
+  },
+  {
+    "id": "32.01.14.2005",
+    "builtup_pixels": 6160,
+    "residential_landuse_m2": 260341.09243882325,
+    "population": 11111
+  },
+  {
+    "id": "32.01.14.2003",
+    "builtup_pixels": 4062,
+    "residential_landuse_m2": 0,
+    "population": 7810
+  },
+  {
+    "id": "32.01.17.2009",
+    "builtup_pixels": 8655,
+    "residential_landuse_m2": 0,
+    "population": 15473
+  },
+  {
+    "id": "32.01.17.2011",
+    "builtup_pixels": 3296,
+    "residential_landuse_m2": 0,
+    "population": 5815
+  },
+  {
+    "id": "32.01.17.2003",
+    "builtup_pixels": 3406,
+    "residential_landuse_m2": 0,
+    "population": 6658
+  },
+  {
+    "id": "32.01.17.2007",
+    "builtup_pixels": 3839,
+    "residential_landuse_m2": 0,
+    "population": 6326
+  },
+  {
+    "id": "32.01.17.2010",
+    "builtup_pixels": 5821,
+    "residential_landuse_m2": 0,
+    "population": 10440
+  },
+  {
+    "id": "32.01.17.2006",
+    "builtup_pixels": 6749,
+    "residential_landuse_m2": 0,
+    "population": 11729
+  },
+  {
+    "id": "32.01.38.2009",
+    "builtup_pixels": 9505,
+    "residential_landuse_m2": 0,
+    "population": 12003
+  },
+  {
+    "id": "32.01.40.2006",
+    "builtup_pixels": 5519,
+    "residential_landuse_m2": 0,
+    "population": 9494
+  },
+  {
+    "id": "32.01.40.2007",
+    "builtup_pixels": 4289,
+    "residential_landuse_m2": 0,
+    "population": 7693
+  },
+  {
+    "id": "32.01.40.2002",
+    "builtup_pixels": 4442,
+    "residential_landuse_m2": 0,
+    "population": 7914
+  },
+  {
+    "id": "32.01.40.2003",
+    "builtup_pixels": 7010,
+    "residential_landuse_m2": 68725.7024743009,
+    "population": 11433
+  },
+  {
+    "id": "32.01.40.2004",
+    "builtup_pixels": 6018,
+    "residential_landuse_m2": 3658.3917268499645,
+    "population": 9994
+  },
+  {
+    "id": "32.01.40.2005",
+    "builtup_pixels": 6246,
+    "residential_landuse_m2": 10452.044027417141,
+    "population": 10592
+  },
+  {
+    "id": "32.01.22.2011",
+    "builtup_pixels": 5268,
+    "residential_landuse_m2": 0,
+    "population": 9302
+  },
+  {
+    "id": "32.01.35.2009",
+    "builtup_pixels": 2656,
+    "residential_landuse_m2": 264762.0910861988,
+    "population": 4371
+  },
+  {
+    "id": "32.01.22.2001",
+    "builtup_pixels": 4399,
+    "residential_landuse_m2": 83240.54295684975,
+    "population": 7260
+  },
+  {
+    "id": "32.01.22.2010",
+    "builtup_pixels": 3197,
+    "residential_landuse_m2": 0,
+    "population": 5228
+  },
+  {
+    "id": "32.01.19.2011",
+    "builtup_pixels": 3018,
+    "residential_landuse_m2": 253706.6882304668,
+    "population": 6027
+  },
+  {
+    "id": "32.01.06.2012",
+    "builtup_pixels": 3891,
+    "residential_landuse_m2": 4286.2410227944965,
+    "population": 6363
+  },
+  {
+    "id": "32.01.06.2005",
+    "builtup_pixels": 4417,
+    "residential_landuse_m2": 0,
+    "population": 3545
+  },
+  {
+    "id": "32.01.06.2013",
+    "builtup_pixels": 3561,
+    "residential_landuse_m2": 0,
+    "population": 3531
+  },
+  {
+    "id": "32.01.08.2007",
+    "builtup_pixels": 5420,
+    "residential_landuse_m2": 0,
+    "population": 4569
+  },
+  {
+    "id": "32.01.08.2010",
+    "builtup_pixels": 3851,
+    "residential_landuse_m2": 89930.30680806653,
+    "population": 3800
+  },
+  {
+    "id": "32.01.08.2001",
+    "builtup_pixels": 3066,
+    "residential_landuse_m2": 0,
+    "population": 3778
+  },
+  {
+    "id": "32.01.08.2004",
+    "builtup_pixels": 2693,
+    "residential_landuse_m2": 16859.068875300163,
+    "population": 3053
+  },
+  {
+    "id": "32.01.08.2006",
+    "builtup_pixels": 3586,
+    "residential_landuse_m2": 0,
+    "population": 4562
+  },
+  {
+    "id": "32.01.09.2006",
+    "builtup_pixels": 3051,
+    "residential_landuse_m2": 0,
+    "population": 8944
+  },
+  {
+    "id": "32.01.36.2005",
+    "builtup_pixels": 2886,
+    "residential_landuse_m2": 0,
+    "population": 3928
+  },
+  {
+    "id": "32.01.36.2002",
+    "builtup_pixels": 6063,
+    "residential_landuse_m2": 4368.111551037555,
+    "population": 9142
+  },
+  {
+    "id": "32.01.36.2007",
+    "builtup_pixels": 4818,
+    "residential_landuse_m2": 7179.832606159562,
+    "population": 6607
+  },
+  {
+    "id": "32.01.36.2003",
+    "builtup_pixels": 5202,
+    "residential_landuse_m2": 0,
+    "population": 6796
+  },
+  {
+    "id": "32.01.21.2006",
+    "builtup_pixels": 5269,
+    "residential_landuse_m2": 0,
+    "population": 9845
+  },
+  {
+    "id": "32.01.21.2010",
+    "builtup_pixels": 3048,
+    "residential_landuse_m2": 0,
+    "population": 4668
+  },
+  {
+    "id": "32.01.20.2002",
+    "builtup_pixels": 12971,
+    "residential_landuse_m2": 677013.4863168367,
+    "population": 12596
+  },
+  {
+    "id": "32.01.39.2006",
+    "builtup_pixels": 2585,
+    "residential_landuse_m2": 155589.8245735214,
+    "population": 5485
+  },
+  {
+    "id": "32.01.39.2005",
+    "builtup_pixels": 3022,
+    "residential_landuse_m2": 14554.516359814528,
+    "population": 7487
+  },
+  {
+    "id": "32.01.22.2008",
+    "builtup_pixels": 18834,
+    "residential_landuse_m2": 793079.4492940379,
+    "population": 16743
+  },
+  {
+    "id": "32.01.36.2001",
+    "builtup_pixels": 5221,
+    "residential_landuse_m2": 0,
+    "population": 7720
+  },
+  {
+    "id": "32.01.09.2007",
+    "builtup_pixels": 4737,
+    "residential_landuse_m2": 0,
+    "population": 7144
+  },
+  {
+    "id": "32.01.09.2010",
+    "builtup_pixels": 4577,
+    "residential_landuse_m2": 0,
+    "population": 6999
+  },
+  {
+    "id": "36.71.03.1004",
+    "builtup_pixels": 8826,
+    "residential_landuse_m2": 104410.52636572249,
+    "population": 11529
+  },
+  {
+    "id": "36.71.05.1005",
+    "builtup_pixels": 15844,
+    "residential_landuse_m2": 4635.616923948755,
+    "population": 22584
+  }
+]

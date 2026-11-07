@@ -1,0 +1,981 @@
+{
+  "sample_method": "96 demand-weighted distinct OD pairs,seed20261107",
+  "graph_nodes": 2574993,
+  "graph_undirected_edges": 2716500,
+  "graph_components": 2099,
+  "sample_pairs": [
+    {
+      "origin_index": 55049,
+      "destination_index": 38056,
+      "straight_m": 23338.856677317086,
+      "mapped_road_m": 29367.96593152734,
+      "same_component": true,
+      "origin_access_m": 18.385989856207956,
+      "destination_access_m": 49.43077551283226,
+      "ratio": 1.258329246268088
+    },
+    {
+      "origin_index": 80458,
+      "destination_index": 80484,
+      "straight_m": 721.3769979428221,
+      "mapped_road_m": 2851.904778514341,
+      "same_component": true,
+      "origin_access_m": 92.88514345297993,
+      "destination_access_m": 162.7447560831546,
+      "ratio": null
+    },
+    {
+      "origin_index": 38915,
+      "destination_index": 38925,
+      "straight_m": 1154.3624419433743,
+      "mapped_road_m": 3853.5259544648375,
+      "same_component": true,
+      "origin_access_m": 16.248815856295483,
+      "destination_access_m": 13.094383446547473,
+      "ratio": 3.338228804444997
+    },
+    {
+      "origin_index": 64344,
+      "destination_index": 81535,
+      "straight_m": 14237.37564706377,
+      "mapped_road_m": 18692.364752691064,
+      "same_component": true,
+      "origin_access_m": 27.91286184180268,
+      "destination_access_m": 17.123302056903142,
+      "ratio": 1.3129080257530512
+    },
+    {
+      "origin_index": 38870,
+      "destination_index": 38753,
+      "straight_m": 1610.9812012722432,
+      "mapped_road_m": 2466.998613735151,
+      "same_component": true,
+      "origin_access_m": 73.24729874315435,
+      "destination_access_m": 3.996507149768813,
+      "ratio": 1.531363998404751
+    },
+    {
+      "origin_index": 9463,
+      "destination_index": 9433,
+      "straight_m": 1008.1233432124166,
+      "mapped_road_m": 1336.5366420102998,
+      "same_component": true,
+      "origin_access_m": 44.04826083970103,
+      "destination_access_m": 76.01418975872458,
+      "ratio": 1.3257669817974693
+    },
+    {
+      "origin_index": 66728,
+      "destination_index": 54785,
+      "straight_m": 9352.625381240345,
+      "mapped_road_m": 12942.948784248734,
+      "same_component": true,
+      "origin_access_m": 50.47357713840598,
+      "destination_access_m": 58.19323235589752,
+      "ratio": 1.3838840172311317
+    },
+    {
+      "origin_index": 67707,
+      "destination_index": 69925,
+      "straight_m": 17750.66406400118,
+      "mapped_road_m": 22048.420709561837,
+      "same_component": true,
+      "origin_access_m": 11.962094644588358,
+      "destination_access_m": 50.598305381928,
+      "ratio": 1.242118076826017
+    },
+    {
+      "origin_index": 14271,
+      "destination_index": 14322,
+      "straight_m": 166.64496061595662,
+      "mapped_road_m": 312.26645795379164,
+      "same_component": true,
+      "origin_access_m": 29.5493333860971,
+      "destination_access_m": 34.103645678009975,
+      "ratio": null
+    },
+    {
+      "origin_index": 96360,
+      "destination_index": 59004,
+      "straight_m": 10937.780223474545,
+      "mapped_road_m": 14746.361699173922,
+      "same_component": true,
+      "origin_access_m": 46.91020169328223,
+      "destination_access_m": 9.059881719014433,
+      "ratio": 1.3482042423494156
+    },
+    {
+      "origin_index": 64631,
+      "destination_index": 101272,
+      "straight_m": 36816.149746098716,
+      "mapped_road_m": 45027.91200671244,
+      "same_component": true,
+      "origin_access_m": 12.37288534925468,
+      "destination_access_m": 35.22811519312944,
+      "ratio": 1.223047828663395
+    },
+    {
+      "origin_index": 60963,
+      "destination_index": 59900,
+      "straight_m": 972.2287393275215,
+      "mapped_road_m": 4299.070152874841,
+      "same_component": true,
+      "origin_access_m": 76.93356835443234,
+      "destination_access_m": 425.48330154506596,
+      "ratio": null
+    },
+    {
+      "origin_index": 65002,
+      "destination_index": 48798,
+      "straight_m": 2957.405998450503,
+      "mapped_road_m": 6462.102205466581,
+      "same_component": true,
+      "origin_access_m": 43.61835228522494,
+      "destination_access_m": 10.932864587942346,
+      "ratio": 2.185057516232915
+    },
+    {
+      "origin_index": 14578,
+      "destination_index": 11099,
+      "straight_m": 11236.846172999245,
+      "mapped_road_m": 15076.221656382435,
+      "same_component": true,
+      "origin_access_m": 67.45990003855154,
+      "destination_access_m": 198.8256960997515,
+      "ratio": 1.3416773197989251
+    },
+    {
+      "origin_index": 40919,
+      "destination_index": 39109,
+      "straight_m": 11526.080379782112,
+      "mapped_road_m": 14357.454556928038,
+      "same_component": true,
+      "origin_access_m": 28.997818445913637,
+      "destination_access_m": 12.212907979699308,
+      "ratio": 1.2456493520652898
+    },
+    {
+      "origin_index": 59367,
+      "destination_index": 59341,
+      "straight_m": 825.8592737870672,
+      "mapped_road_m": 3155.108121481462,
+      "same_component": true,
+      "origin_access_m": 22.766175932821792,
+      "destination_access_m": 49.85298513710243,
+      "ratio": null
+    },
+    {
+      "origin_index": 63075,
+      "destination_index": 33154,
+      "straight_m": 29536.38562227413,
+      "mapped_road_m": 38650.19836824955,
+      "same_component": true,
+      "origin_access_m": 42.528184231880395,
+      "destination_access_m": 7.991072943221896,
+      "ratio": 1.3085622209341168
+    },
+    {
+      "origin_index": 52357,
+      "destination_index": 34892,
+      "straight_m": 1007.7056209260884,
+      "mapped_road_m": 1855.6660518454864,
+      "same_component": true,
+      "origin_access_m": 85.93552199466804,
+      "destination_access_m": 3.9950274322788166,
+      "ratio": 1.8414763332768915
+    },
+    {
+      "origin_index": 61652,
+      "destination_index": 58538,
+      "straight_m": 11166.223604477333,
+      "mapped_road_m": 15295.603452847918,
+      "same_component": true,
+      "origin_access_m": 28.63015730306281,
+      "destination_access_m": 14.672404141990912,
+      "ratio": 1.3698098833266086
+    },
+    {
+      "origin_index": 54645,
+      "destination_index": 54663,
+      "straight_m": 454.2159148500835,
+      "mapped_road_m": 611.5083010527479,
+      "same_component": true,
+      "origin_access_m": 21.82315508717011,
+      "destination_access_m": 52.08424353604791,
+      "ratio": null
+    },
+    {
+      "origin_index": 42606,
+      "destination_index": 42051,
+      "straight_m": 2400.224261973975,
+      "mapped_road_m": 6837.379455604291,
+      "same_component": true,
+      "origin_access_m": 18.32207844001945,
+      "destination_access_m": 6.7384931791186835,
+      "ratio": 2.8486419223098527
+    },
+    {
+      "origin_index": 87310,
+      "destination_index": 83046,
+      "straight_m": 4077.752774269517,
+      "mapped_road_m": 5427.933485944612,
+      "same_component": true,
+      "origin_access_m": 51.85308615363229,
+      "destination_access_m": 29.724265249457922,
+      "ratio": 1.3311090167591055
+    },
+    {
+      "origin_index": 1763,
+      "destination_index": 1465,
+      "straight_m": 4380.073617548154,
+      "mapped_road_m": 8435.206528397634,
+      "same_component": true,
+      "origin_access_m": 19.847929712919214,
+      "destination_access_m": 3.996386368035778,
+      "ratio": 1.9258138709365875
+    },
+    {
+      "origin_index": 174,
+      "destination_index": 190,
+      "straight_m": 1057.8807648531176,
+      "mapped_road_m": 4939.619655084174,
+      "same_component": true,
+      "origin_access_m": 13.485075549335162,
+      "destination_access_m": 3.9966302259268884,
+      "ratio": 4.669353881077534
+    },
+    {
+      "origin_index": 84735,
+      "destination_index": 84782,
+      "straight_m": 907.691603714943,
+      "mapped_road_m": 1226.6867325351632,
+      "same_component": true,
+      "origin_access_m": 10.17857953884823,
+      "destination_access_m": 30.225876229342845,
+      "ratio": null
+    },
+    {
+      "origin_index": 2768,
+      "destination_index": 109479,
+      "straight_m": 5471.7214719765225,
+      "mapped_road_m": 8326.722273611042,
+      "same_component": true,
+      "origin_access_m": 32.59271944235284,
+      "destination_access_m": 61.948715496055854,
+      "ratio": 1.5217737811137564
+    },
+    {
+      "origin_index": 43691,
+      "destination_index": 43825,
+      "straight_m": 1279.126974824608,
+      "mapped_road_m": 1927.7076756066601,
+      "same_component": true,
+      "origin_access_m": 16.84955489134513,
+      "destination_access_m": 18.15309137559441,
+      "ratio": 1.5070495060672022
+    },
+    {
+      "origin_index": 20014,
+      "destination_index": 18836,
+      "straight_m": 17760.272131544763,
+      "mapped_road_m": 40050.782633065995,
+      "same_component": true,
+      "origin_access_m": 21.360745588880363,
+      "destination_access_m": 758.5505970713157,
+      "ratio": 2.2550770808252496
+    },
+    {
+      "origin_index": 52507,
+      "destination_index": 24165,
+      "straight_m": 10943.68543953365,
+      "mapped_road_m": 14971.854122288752,
+      "same_component": true,
+      "origin_access_m": 14.768119962700702,
+      "destination_access_m": 36.487006013145766,
+      "ratio": 1.3680815484885462
+    },
+    {
+      "origin_index": 75873,
+      "destination_index": 78050,
+      "straight_m": 16634.548531530978,
+      "mapped_road_m": 26149.633865805543,
+      "same_component": true,
+      "origin_access_m": 47.674992131589335,
+      "destination_access_m": 82.80148922407126,
+      "ratio": 1.5720074287702255
+    },
+    {
+      "origin_index": 56365,
+      "destination_index": 56517,
+      "straight_m": 738.3347895204438,
+      "mapped_road_m": 1393.2273807212755,
+      "same_component": true,
+      "origin_access_m": 3.996386368477685,
+      "destination_access_m": 3.9963863669335624,
+      "ratio": null
+    },
+    {
+      "origin_index": 93119,
+      "destination_index": 103399,
+      "straight_m": 488.1609477222764,
+      "mapped_road_m": 1580.1300754468741,
+      "same_component": true,
+      "origin_access_m": 115.40381431667565,
+      "destination_access_m": 71.59099114328158,
+      "ratio": null
+    },
+    {
+      "origin_index": 35688,
+      "destination_index": 60250,
+      "straight_m": 26876.087324274442,
+      "mapped_road_m": 35650.06664019522,
+      "same_component": true,
+      "origin_access_m": 5.158273996288609,
+      "destination_access_m": 28.461428605541126,
+      "ratio": 1.3264604408393974
+    },
+    {
+      "origin_index": 3851,
+      "destination_index": 105482,
+      "straight_m": 21686.566520875193,
+      "mapped_road_m": 25656.289665577257,
+      "same_component": true,
+      "origin_access_m": 9.374926030357237,
+      "destination_access_m": 71.14023682476662,
+      "ratio": 1.183049868262035
+    },
+    {
+      "origin_index": 77338,
+      "destination_index": 38542,
+      "straight_m": 46676.70265691995,
+      "mapped_road_m": 54167.6663408096,
+      "same_component": true,
+      "origin_access_m": 24.858507640239363,
+      "destination_access_m": 5.015161939559953,
+      "ratio": 1.1604861367125532
+    },
+    {
+      "origin_index": 29199,
+      "destination_index": 68095,
+      "straight_m": 22290.467856561285,
+      "mapped_road_m": 28125.71463488966,
+      "same_component": true,
+      "origin_access_m": 10.617887800015774,
+      "destination_access_m": 8.782828127476566,
+      "ratio": 1.2617821580003645
+    },
+    {
+      "origin_index": 31148,
+      "destination_index": 45729,
+      "straight_m": 24149.754394983138,
+      "mapped_road_m": 32101.22868844746,
+      "same_component": true,
+      "origin_access_m": 93.39249806844278,
+      "destination_access_m": 11.882414226442087,
+      "ratio": 1.329256942468788
+    },
+    {
+      "origin_index": 53515,
+      "destination_index": 1650,
+      "straight_m": 23586.15815182512,
+      "mapped_road_m": 29928.296692245676,
+      "same_component": true,
+      "origin_access_m": 61.369762544087905,
+      "destination_access_m": 3.9963863680990284,
+      "ratio": 1.2688923944118384
+    },
+    {
+      "origin_index": 53798,
+      "destination_index": 27692,
+      "straight_m": 6124.290144692969,
+      "mapped_road_m": 7606.310708051374,
+      "same_component": true,
+      "origin_access_m": 21.68373510371761,
+      "destination_access_m": 8.881723793039772,
+      "ratio": 1.2419905863935359
+    },
+    {
+      "origin_index": 60351,
+      "destination_index": 10854,
+      "straight_m": 45035.761700198156,
+      "mapped_road_m": 54232.86060285137,
+      "same_component": true,
+      "origin_access_m": 28.731670698804354,
+      "destination_access_m": 320.5952766934087,
+      "ratio": 1.204217682913371
+    },
+    {
+      "origin_index": 105310,
+      "destination_index": 96558,
+      "straight_m": 15940.004979917278,
+      "mapped_road_m": 21253.13755476436,
+      "same_component": true,
+      "origin_access_m": 13.609017193611262,
+      "destination_access_m": 36.32358478617883,
+      "ratio": 1.3333206345632305
+    },
+    {
+      "origin_index": 6109,
+      "destination_index": 32508,
+      "straight_m": 9906.7835379028,
+      "mapped_road_m": 15256.716507570438,
+      "same_component": true,
+      "origin_access_m": 208.41030051859883,
+      "destination_access_m": 16.80903923710912,
+      "ratio": 1.5400272398401653
+    },
+    {
+      "origin_index": 72090,
+      "destination_index": 77568,
+      "straight_m": 18117.9328445954,
+      "mapped_road_m": 23109.358065650802,
+      "same_component": true,
+      "origin_access_m": 54.183713282186105,
+      "destination_access_m": 69.59674694897315,
+      "ratio": 1.2754963970707258
+    },
+    {
+      "origin_index": 71696,
+      "destination_index": 71698,
+      "straight_m": 220.83111731801893,
+      "mapped_road_m": 320.8104782619417,
+      "same_component": true,
+      "origin_access_m": 11.555794444766468,
+      "destination_access_m": 19.043529220388862,
+      "ratio": null
+    },
+    {
+      "origin_index": 816,
+      "destination_index": 88365,
+      "straight_m": 18073.17834892109,
+      "mapped_road_m": 21883.890221506324,
+      "same_component": true,
+      "origin_access_m": 7.460717143041703,
+      "destination_access_m": 47.293322982576335,
+      "ratio": 1.210849016095319
+    },
+    {
+      "origin_index": 31883,
+      "destination_index": 61749,
+      "straight_m": 4846.3619886427705,
+      "mapped_road_m": 8210.611475986163,
+      "same_component": true,
+      "origin_access_m": 35.42977211883226,
+      "destination_access_m": 25.951793119711994,
+      "ratio": 1.694180396600039
+    },
+    {
+      "origin_index": 27667,
+      "destination_index": 60702,
+      "straight_m": 16333.24935284828,
+      "mapped_road_m": 21282.521553150425,
+      "same_component": true,
+      "origin_access_m": 89.60781913798508,
+      "destination_access_m": 15.452272802841197,
+      "ratio": 1.3030182233420116
+    },
+    {
+      "origin_index": 47688,
+      "destination_index": 47693,
+      "straight_m": 934.6739508177714,
+      "mapped_road_m": 1528.4006879837445,
+      "same_component": true,
+      "origin_access_m": 19.77985101148262,
+      "destination_access_m": 5.4840958852352095,
+      "ratio": null
+    },
+    {
+      "origin_index": 66842,
+      "destination_index": 48672,
+      "straight_m": 8181.342861319492,
+      "mapped_road_m": 9276.284639653486,
+      "same_component": true,
+      "origin_access_m": 42.459077113174175,
+      "destination_access_m": 35.48873415153187,
+      "ratio": 1.1338339924012673
+    },
+    {
+      "origin_index": 37239,
+      "destination_index": 37235,
+      "straight_m": 392.08899522895945,
+      "mapped_road_m": 420.1715753931197,
+      "same_component": true,
+      "origin_access_m": 24.61934358088369,
+      "destination_access_m": 137.97670032023066,
+      "ratio": null
+    },
+    {
+      "origin_index": 85873,
+      "destination_index": 96567,
+      "straight_m": 9104.088929024909,
+      "mapped_road_m": null,
+      "same_component": false,
+      "origin_access_m": 125.20287565467335,
+      "destination_access_m": 70.80380124995844,
+      "ratio": null
+    },
+    {
+      "origin_index": 63154,
+      "destination_index": 59914,
+      "straight_m": 9656.449064269527,
+      "mapped_road_m": 14145.398353278406,
+      "same_component": true,
+      "origin_access_m": 16.639503627669228,
+      "destination_access_m": 332.58211530127204,
+      "ratio": 1.4648654240427508
+    },
+    {
+      "origin_index": 107415,
+      "destination_index": 21016,
+      "straight_m": 41827.94646406823,
+      "mapped_road_m": 47465.45855563024,
+      "same_component": true,
+      "origin_access_m": 91.73128620405531,
+      "destination_access_m": 56.73754992414774,
+      "ratio": 1.1347786006278087
+    },
+    {
+      "origin_index": 107072,
+      "destination_index": 99284,
+      "straight_m": 7157.595743508736,
+      "mapped_road_m": 8897.182956238103,
+      "same_component": true,
+      "origin_access_m": 35.51446631132057,
+      "destination_access_m": 81.70027039835618,
+      "ratio": 1.2430407185690822
+    },
+    {
+      "origin_index": 33466,
+      "destination_index": 99536,
+      "straight_m": 14673.144863990541,
+      "mapped_road_m": 19674.64727118073,
+      "same_component": true,
+      "origin_access_m": 14.47299079974727,
+      "destination_access_m": 15.896054364521463,
+      "ratio": 1.3408609710836024
+    },
+    {
+      "origin_index": 101331,
+      "destination_index": 97921,
+      "straight_m": 4665.093867813377,
+      "mapped_road_m": 5592.633227151746,
+      "same_component": true,
+      "origin_access_m": 28.191088689340962,
+      "destination_access_m": 93.8822640459251,
+      "ratio": 1.1988254439504182
+    },
+    {
+      "origin_index": 115627,
+      "destination_index": 115637,
+      "straight_m": 371.0536933549256,
+      "mapped_road_m": 1192.6006178474665,
+      "same_component": true,
+      "origin_access_m": 25.41679070726362,
+      "destination_access_m": 45.37041316476452,
+      "ratio": null
+    },
+    {
+      "origin_index": 33748,
+      "destination_index": 83369,
+      "straight_m": 14005.622529952563,
+      "mapped_road_m": 18270.354731548414,
+      "same_component": true,
+      "origin_access_m": 14.31180266986532,
+      "destination_access_m": 52.2087352181154,
+      "ratio": 1.3045014380814028
+    },
+    {
+      "origin_index": 60352,
+      "destination_index": 30941,
+      "straight_m": 14117.723059389631,
+      "mapped_road_m": 20181.529164411928,
+      "same_component": true,
+      "origin_access_m": 38.069092795352304,
+      "destination_access_m": 100.0037818900891,
+      "ratio": 1.4295172868537953
+    },
+    {
+      "origin_index": 115814,
+      "destination_index": 111440,
+      "straight_m": 7393.008388160201,
+      "mapped_road_m": 9903.823863014253,
+      "same_component": true,
+      "origin_access_m": 22.79649989514831,
+      "destination_access_m": 88.78760138083142,
+      "ratio": 1.3396202659360008
+    },
+    {
+      "origin_index": 114319,
+      "destination_index": 111385,
+      "straight_m": 1288.1198140384738,
+      "mapped_road_m": 2672.5170546631916,
+      "same_component": true,
+      "origin_access_m": 38.197920391701224,
+      "destination_access_m": 40.75885419305052,
+      "ratio": 2.0747426019978668
+    },
+    {
+      "origin_index": 102406,
+      "destination_index": 88225,
+      "straight_m": 11525.09676712281,
+      "mapped_road_m": 13173.527860310189,
+      "same_component": true,
+      "origin_access_m": 20.973024987416544,
+      "destination_access_m": 76.41664564969867,
+      "ratio": 1.143029696539277
+    },
+    {
+      "origin_index": 40074,
+      "destination_index": 92335,
+      "straight_m": 44947.59854452662,
+      "mapped_road_m": 58495.86605577371,
+      "same_component": true,
+      "origin_access_m": 4.002737078823455,
+      "destination_access_m": 19.603978915014448,
+      "ratio": 1.3014236121608524
+    },
+    {
+      "origin_index": 29270,
+      "destination_index": 48711,
+      "straight_m": 30389.75181622,
+      "mapped_road_m": 39227.45973686463,
+      "same_component": true,
+      "origin_access_m": 51.2963772832727,
+      "destination_access_m": 68.46930484356457,
+      "ratio": 1.2908121123887446
+    },
+    {
+      "origin_index": 59089,
+      "destination_index": 58262,
+      "straight_m": 4918.517377211738,
+      "mapped_road_m": 7161.977224903988,
+      "same_component": true,
+      "origin_access_m": 27.03744514771414,
+      "destination_access_m": 48.01495872835107,
+      "ratio": 1.4561252254767973
+    },
+    {
+      "origin_index": 102917,
+      "destination_index": 11238,
+      "straight_m": 21030.29672942605,
+      "mapped_road_m": 26176.933475340677,
+      "same_component": true,
+      "origin_access_m": 20.0914550508003,
+      "destination_access_m": 342.9594939624352,
+      "ratio": 1.2447248753610471
+    },
+    {
+      "origin_index": 55889,
+      "destination_index": 23134,
+      "straight_m": 42374.70561539176,
+      "mapped_road_m": 51456.522785667454,
+      "same_component": true,
+      "origin_access_m": 3.996386368454633,
+      "destination_access_m": 45.34768891093108,
+      "ratio": 1.2143216581303378
+    },
+    {
+      "origin_index": 93877,
+      "destination_index": 93891,
+      "straight_m": 523.231127013708,
+      "mapped_road_m": 1905.386850878854,
+      "same_component": true,
+      "origin_access_m": 108.73077516540417,
+      "destination_access_m": 21.031965845089104,
+      "ratio": null
+    },
+    {
+      "origin_index": 752,
+      "destination_index": 110555,
+      "straight_m": 32440.63803652813,
+      "mapped_road_m": 39612.4844805693,
+      "same_component": true,
+      "origin_access_m": 41.70921240499276,
+      "destination_access_m": 50.98183827428287,
+      "ratio": 1.2210759984426225
+    },
+    {
+      "origin_index": 56590,
+      "destination_index": 56603,
+      "straight_m": 283.6216397852111,
+      "mapped_road_m": 429.1843254916933,
+      "same_component": true,
+      "origin_access_m": 9.665711767126316,
+      "destination_access_m": 29.399082887848675,
+      "ratio": null
+    },
+    {
+      "origin_index": 97155,
+      "destination_index": 113396,
+      "straight_m": 22734.96999696491,
+      "mapped_road_m": 26908.12594751397,
+      "same_component": true,
+      "origin_access_m": 28.355024093744174,
+      "destination_access_m": 29.669285695251833,
+      "ratio": 1.183556694867254
+    },
+    {
+      "origin_index": 15642,
+      "destination_index": 3902,
+      "straight_m": 4349.234438313312,
+      "mapped_road_m": 6254.323615632562,
+      "same_component": true,
+      "origin_access_m": 34.81822743178153,
+      "destination_access_m": 87.59955681928639,
+      "ratio": 1.4380286241957716
+    },
+    {
+      "origin_index": 37240,
+      "destination_index": 37328,
+      "straight_m": 1837.2441451154452,
+      "mapped_road_m": 2972.994879151456,
+      "same_component": true,
+      "origin_access_m": 21.25866556608202,
+      "destination_access_m": 13.736498701701956,
+      "ratio": 1.6181817136582275
+    },
+    {
+      "origin_index": 101239,
+      "destination_index": 101215,
+      "straight_m": 230.27768321033886,
+      "mapped_road_m": 910.6186196516355,
+      "same_component": true,
+      "origin_access_m": 39.359762710258124,
+      "destination_access_m": 26.164197686901844,
+      "ratio": null
+    },
+    {
+      "origin_index": 79819,
+      "destination_index": 79934,
+      "straight_m": 2105.1327425712248,
+      "mapped_road_m": 3235.031908015801,
+      "same_component": true,
+      "origin_access_m": 23.220449067891384,
+      "destination_access_m": 7.091193692861352,
+      "ratio": 1.5367353528806498
+    },
+    {
+      "origin_index": 49905,
+      "destination_index": 34545,
+      "straight_m": 9866.567901293507,
+      "mapped_road_m": 15878.428775195962,
+      "same_component": true,
+      "origin_access_m": 50.799494406211515,
+      "destination_access_m": 116.70400815751749,
+      "ratio": 1.6093163229651823
+    },
+    {
+      "origin_index": 33555,
+      "destination_index": 33193,
+      "straight_m": 6255.82092626672,
+      "mapped_road_m": 10074.937505005078,
+      "same_component": true,
+      "origin_access_m": 16.491544600794796,
+      "destination_access_m": 15.483874245419049,
+      "ratio": 1.6104900737651853
+    },
+    {
+      "origin_index": 59011,
+      "destination_index": 58954,
+      "straight_m": 1111.2156183351883,
+      "mapped_road_m": 1954.7911692438847,
+      "same_component": true,
+      "origin_access_m": 5.536462095644093,
+      "destination_access_m": 3.9963863677425473,
+      "ratio": 1.7591465931450212
+    },
+    {
+      "origin_index": 3231,
+      "destination_index": 3189,
+      "straight_m": 281.8885139910633,
+      "mapped_road_m": 636.2440841642824,
+      "same_component": true,
+      "origin_access_m": 16.281397535596597,
+      "destination_access_m": 10.419066487627653,
+      "ratio": null
+    },
+    {
+      "origin_index": 67591,
+      "destination_index": 67651,
+      "straight_m": 699.7828157048522,
+      "mapped_road_m": 2183.061092951911,
+      "same_component": true,
+      "origin_access_m": 14.337519576240162,
+      "destination_access_m": 109.59366380953568,
+      "ratio": null
+    },
+    {
+      "origin_index": 9471,
+      "destination_index": 112491,
+      "straight_m": 23394.970914196525,
+      "mapped_road_m": 29611.86653485784,
+      "same_component": true,
+      "origin_access_m": 34.43925756742416,
+      "destination_access_m": 72.9485057365014,
+      "ratio": 1.2657364116186518
+    },
+    {
+      "origin_index": 22152,
+      "destination_index": 21415,
+      "straight_m": 710.0308540403776,
+      "mapped_road_m": 5055.796626126525,
+      "same_component": true,
+      "origin_access_m": 12.981019823132053,
+      "destination_access_m": 129.58706034373287,
+      "ratio": null
+    },
+    {
+      "origin_index": 74440,
+      "destination_index": 74443,
+      "straight_m": 148.48207929772732,
+      "mapped_road_m": 278.17344690518854,
+      "same_component": true,
+      "origin_access_m": 35.63524407471165,
+      "destination_access_m": 10.648967029473418,
+      "ratio": null
+    },
+    {
+      "origin_index": 3449,
+      "destination_index": 105481,
+      "straight_m": 21753.27001645657,
+      "mapped_road_m": 26621.88485432483,
+      "same_component": true,
+      "origin_access_m": 17.833627190004897,
+      "destination_access_m": 46.793910874395394,
+      "ratio": 1.2238107114096
+    },
+    {
+      "origin_index": 88101,
+      "destination_index": 86963,
+      "straight_m": 5910.205098660323,
+      "mapped_road_m": 8035.877730765251,
+      "same_component": true,
+      "origin_access_m": 97.84252925013561,
+      "destination_access_m": 44.96935414766428,
+      "ratio": 1.3596613986520973
+    },
+    {
+      "origin_index": 46562,
+      "destination_index": 46551,
+      "straight_m": 2069.201628139184,
+      "mapped_road_m": 2683.066116223379,
+      "same_component": true,
+      "origin_access_m": 3.995563675519092,
+      "destination_access_m": 10.508392492746658,
+      "ratio": 1.2966673134875883
+    },
+    {
+      "origin_index": 26450,
+      "destination_index": 32340,
+      "straight_m": 19974.4871745896,
+      "mapped_road_m": 26416.389569453386,
+      "same_component": true,
+      "origin_access_m": 76.38322228752219,
+      "destination_access_m": 266.7578688399825,
+      "ratio": 1.3225065223731403
+    },
+    {
+      "origin_index": 71151,
+      "destination_index": 64923,
+      "straight_m": 18500.622627858655,
+      "mapped_road_m": 22720.104368143544,
+      "same_component": true,
+      "origin_access_m": 35.225393867409,
+      "destination_access_m": 260.3621381248743,
+      "ratio": 1.2280724181645162
+    },
+    {
+      "origin_index": 34539,
+      "destination_index": 25048,
+      "straight_m": 4114.354389245232,
+      "mapped_road_m": 7366.780133536917,
+      "same_component": true,
+      "origin_access_m": 13.060144884834372,
+      "destination_access_m": 39.557296869040464,
+      "ratio": 1.7905069511740175
+    },
+    {
+      "origin_index": 114616,
+      "destination_index": 97804,
+      "straight_m": 2807.697127310316,
+      "mapped_road_m": 4380.940010546154,
+      "same_component": true,
+      "origin_access_m": 23.435706024713365,
+      "destination_access_m": 74.13955175430726,
+      "ratio": 1.5603321198476112
+    },
+    {
+      "origin_index": 816,
+      "destination_index": 829,
+      "straight_m": 682.7916854816315,
+      "mapped_road_m": 932.8666239900743,
+      "same_component": true,
+      "origin_access_m": 7.460717143041703,
+      "destination_access_m": 157.1883878475594,
+      "ratio": null
+    },
+    {
+      "origin_index": 68578,
+      "destination_index": 68599,
+      "straight_m": 679.7951367622413,
+      "mapped_road_m": 1065.156568201969,
+      "same_component": true,
+      "origin_access_m": 3.997178088277333,
+      "destination_access_m": 80.86474861809205,
+      "ratio": null
+    },
+    {
+      "origin_index": 90457,
+      "destination_index": 61011,
+      "straight_m": 19754.44757444223,
+      "mapped_road_m": 25673.636345446594,
+      "same_component": true,
+      "origin_access_m": 40.985672239077275,
+      "destination_access_m": 23.70171948948993,
+      "ratio": 1.2996382839205511
+    },
+    {
+      "origin_index": 5835,
+      "destination_index": 5832,
+      "straight_m": 811.3424686753289,
+      "mapped_road_m": 1022.0236348084685,
+      "same_component": true,
+      "origin_access_m": 9.875291196460761,
+      "destination_access_m": 11.473528371836037,
+      "ratio": null
+    },
+    {
+      "origin_index": 90272,
+      "destination_index": 90281,
+      "straight_m": 373.77715513455695,
+      "mapped_road_m": 566.3290717894566,
+      "same_component": true,
+      "origin_access_m": 50.10621446131079,
+      "destination_access_m": 42.24485029400079,
+      "ratio": null
+    },
+    {
+      "origin_index": 102198,
+      "destination_index": 11241,
+      "straight_m": 30354.448742218945,
+      "mapped_road_m": 34609.43692241862,
+      "same_component": true,
+      "origin_access_m": 22.518309298006805,
+      "destination_access_m": 79.36791322958666,
+      "ratio": 1.140176756835039
+    }
+  ],
+  "reachable_pairs": 95,
+  "detour_ratio_median_p90": [
+    1.3278586916540926,
+    1.836379395066604
+  ],
+  "seconds": 55.40989641699707,
+  "limitations": [
+    "All packaged minor roads admitted; driving access and turn restrictions unavailable",
+    "Bridges/tunnels share only exactly coincident mapped coordinate vertices; no geometric crossing insertion",
+    "Nearest graph vertex introduces access distance",
+    "Sample diagnostics do not imply every generated drivingDistance is road-routed",
+    "No measured congestion; engine time remains explicit proxy1.35/24kmh+180s"
+  ]
+}

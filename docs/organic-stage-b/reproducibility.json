@@ -1,0 +1,8 @@
+{
+  "candidate_sha256": "8c6f5a75ec22fac174fd664359baccde19ed832c6a2dea3cb2bcd57e61fd4808",
+  "previous_candidate_sha256": "8c6f5a75ec22fac174fd664359baccde19ed832c6a2dea3cb2bcd57e61fd4808",
+  "two_demand_generations_byte_identical": true,
+  "allocation_and_od_rerun_byte_identical": true,
+  "seed": 20261107,
+  "scope": "Complete cached allocation, employment and point OD reproduced byte for byte"
+}

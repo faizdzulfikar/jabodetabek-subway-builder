@@ -1,0 +1,24 @@
+{
+  "python": "3.14.6",
+  "platform": "macOS-27.0-arm64-arm-64bit-Mach-O",
+  "packages": {
+    "osmium": "4.3.2",
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "shapely": "2.2.0",
+    "pyproj": "3.8.0",
+    "matplotlib": "3.11.2"
+  },
+  "pbf": {
+    "download_url": "https://download.geofabrik.de/asia/indonesia/java-latest.osm.pbf",
+    "snapshot_utc": "2026-11-05T21:23:02Z",
+    "sha256": "5d3fdd1b8883ddc3d9e42c3aaf375a67863efa89f4e7b373f1967059ca324122"
+  },
+  "inventory_stats": {
+    "buildings": 5111995,
+    "geometry_errors": 5,
+    "seconds": 503.1288687089982,
+    "context": 97104,
+    "pois": 30375
+  }
+}

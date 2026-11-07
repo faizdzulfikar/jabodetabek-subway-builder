@@ -1,0 +1,11 @@
+origin,destination,workers_baseline,workers_tau18_cross40,meaning
+Bekasi,Kota Jakarta Pusat,91300,58700,synthetic regional scenarios; not observed flows
+Bekasi,Kota Jakarta Selatan,128500,81400,synthetic regional scenarios; not observed flows
+Kota Bekasi,Kota Jakarta Selatan,162800,117600,synthetic regional scenarios; not observed flows
+Kota Depok,Kota Jakarta Selatan,162100,130700,synthetic regional scenarios; not observed flows
+Kota Depok,Kota Jakarta Pusat,57900,61400,synthetic regional scenarios; not observed flows
+Tangerang,Kota Jakarta Selatan,147400,123400,synthetic regional scenarios; not observed flows
+Kota Tangerang Selatan,Kota Jakarta Selatan,129300,92700,synthetic regional scenarios; not observed flows
+Kota Depok,Bekasi,41400,22000,synthetic regional scenarios; not observed flows
+Kota Tangerang,Kota Tangerang Selatan,47900,24200,synthetic regional scenarios; not observed flows
+Kota Bekasi,Kota Tangerang Selatan,25100,13700,synthetic regional scenarios; not observed flows
