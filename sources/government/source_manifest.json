@@ -1,0 +1,136 @@
+{
+  "retrieved_on": "2026-11-07",
+  "sources": [
+    {
+      "id": "jakarta-rt2025",
+      "producer": "Pemprov DKI Jakarta, Dinas Dukcapil",
+      "reference_period": "2025",
+      "level_and_scope": "RT aggregated to kelurahan",
+      "url": "https://satudata.jakarta.go.id/open-data/detail?kategori=dataset&page_url=data-penduduk",
+      "download_sha256": "7a04870b4f5c58227b64680fb0153437ee8f12f0335b055547566947b19af337"
+    },
+    {
+      "id": "jakarta-occupations",
+      "producer": "Pemprov DKI Jakarta, Dinas Dukcapil",
+      "reference_period": "2025",
+      "level_and_scope": "reported occupations by kelurahan; incomplete population coverage",
+      "url": "https://satudata.jakarta.go.id/open-data/detail?kategori=dataset&page_url=data-pekerjaan",
+      "download_sha256": "a11e671f6c6dda2ad3675ec62dbc6e80cb4d972c6504722229b0dbf15eef4c85"
+    },
+    {
+      "id": "jakarta-registered-workplaces",
+      "producer": "Pemprov DKI Jakarta, Disnakertransgi",
+      "reference_period": "202406",
+      "level_and_scope": "Jamsostek memberships at registered companies by administrative city; partial workplace proxy",
+      "url": "https://satudata.jakarta.go.id/open-data/detail?kategori=dataset&page_url=data-jumlah-pekerjaburuh-pada-perusahaan-di-wilayah-provinsi-dki-jakarta-yang-menjadi-peserta-jamsostek-tahun-2023",
+      "download_sha256": "7a5689b4f36a64a6c1c5e677339212c4332c86480180db51b19fdf69f6702444"
+    },
+    {
+      "id": "bogorkab-pop",
+      "producer": "Pemkab Bogor, Dinas Dukcapil",
+      "reference_period": "2022",
+      "level_and_scope": "kecamatan; no temporal extrapolation to2025",
+      "url": "https://opendata.bogorkab.go.id/dataset/jumlah-penduduk-berdasarkan-kecamatan-di-kabupaten-bogor",
+      "download_sha256": "8de69bc785cb2139ea65a25676ccebd236309f4ebf18aff67ab0b9c187c6d139"
+    },
+    {
+      "id": "bogorkota-pop",
+      "producer": "Pemkot Bogor, Dinas Dukcapil",
+      "reference_period": "2025",
+      "level_and_scope": "kecamatan",
+      "url": "https://opendata.kotabogor.go.id/dataset/jumlah-penduduk-di-kota-bogor",
+      "download_sha256": "c0b71d9c5168a4126296f713c7a8f97cf0918e6a46d2d00f50ba5546d75d1d00"
+    },
+    {
+      "id": "depok-pop",
+      "producer": "Pemkot Depok, Dinas Dukcapil",
+      "reference_period": "2025",
+      "level_and_scope": "kecamatan",
+      "url": "https://satudata.depok.go.id/User/detail_dataset/f44bdd0e-cde1-4d65-9c69-1faa298e9990",
+      "download_sha256": "48131bf70e4bd1ec627ec9681d2379926ec30d00046f2815c4c5282433a2d69e"
+    },
+    {
+      "id": "bekasikab-pop",
+      "producer": "Pemkab Bekasi, Dinas Dukcapil",
+      "reference_period": "2025 semester2",
+      "level_and_scope": "kecamatan, summed male/female",
+      "url": "https://opendata.bekasikab.go.id/dataset/data-penduduk-berdasarkan-jenis-kelamin-dan-kecamatan-di-kabupaten-bekasi",
+      "download_sha256": "2c9547ccd4a2514b612a6d65bd3910ddb01c9bc850313ce602ce763d5a2bc955"
+    },
+    {
+      "id": "bekasikota-marital2025",
+      "producer": "Pemkot Bekasi, Dinas Dukcapil",
+      "reference_period": "2025",
+      "level_and_scope": "kelurahan; sum four exhaustive marital-status categories",
+      "url": "https://opendata.bekasikota.go.id/dataset/jumlah-penduduk-berdasarkan-status-perkawinan-menurut-kelurahan-di-kota-bekasi",
+      "download_sha256": "295e5e25a4e1e4f3bb742b299e5b0aad53f7d68a2d54b420e88e038cbbe6a6d4"
+    },
+    {
+      "id": "kabtang-dkb2025",
+      "producer": "Pemkab Tangerang, Dinas Dukcapil",
+      "reference_period": "2025 semester2",
+      "level_and_scope": "kecamatan; PDF37-38 / printed19-20",
+      "url": "https://opendata.tangerangkab.go.id/sites/default/files/Buku%20Profil%20Kependudukan%20DKB%20Semester%20II%20Tahun%202025.pdf",
+      "download_sha256": "239c182ada99c234683ad9a037dd7ebfdb4557905208c1e74763ac5a3a9eb60f"
+    },
+    {
+      "id": "tangsel-dkb2025",
+      "producer": "Pemkot Tangerang Selatan, Dinas Dukcapil",
+      "reference_period": "2025 semester2",
+      "level_and_scope": "kecamatan page1; occupations pages9-13",
+      "url": "https://disdukcapil.tangerangselatankota.go.id/uploads/demografi/KESELURUHAN1773377345944.pdf"
+    },
+    {
+      "id": "tangerangkota-dkb2025",
+      "producer": "Pemkot Tangerang, Dinas Dukcapil",
+      "reference_period": "2025 semester2",
+      "level_and_scope": "kecamatan totals visually read PDF13-16; Larangan residual from city total, flagged separately",
+      "url": "https://disdukcapil.tangerangkota.go.id/assets/uploads/informationpublic_20260915_1789463004.pdf",
+      "download_sha256": "2c5a1c947ef939ca18bd0f3c0a988d73ab2276e069f641c20c02fad74582a7b5"
+    },
+    {
+      "id": "bekasikab-industry-sites",
+      "producer": "Pemkab Bekasi, Satu Peta",
+      "reference_period": "retrieved2026-11-07; point record dates vary",
+      "level_and_scope": "526 mapped industrial establishments, no staffing counts",
+      "url": "https://satupeta.bekasikab.go.id/maps",
+      "download_sha256": "ff733dcd1c9e5347bc391fa0a1f5bc569e4103468c3883eb317c6cc61d0aabd3"
+    },
+    {
+      "id": "bekasikota-industry",
+      "producer": "Pemkot Bekasi, Dinas Perdagangan dan Perindustrian",
+      "reference_period": "2025",
+      "level_and_scope": "registered company counts by kecamatan, three geographical reporting groups",
+      "url": "https://opendata.bekasikota.go.id/api/datasets?search=industri&per_page=100"
+    },
+    {
+      "id": "tangerangkota-industry",
+      "producer": "Pemkot Tangerang, Diskominfo; industry agency",
+      "reference_period": "2023",
+      "level_and_scope": "105 large industries by kecamatan, Table2.9 PDF67",
+      "url": "https://satudata.tangerangkota.go.id/public/user-content/93b685da677c78c7e51c5ab10d905472.pdf",
+      "download_sha256": "1bf59f44db006831b7c42121b045ff5d3153f29abbac5fcd3e16b3301e4135d9"
+    },
+    {
+      "id": "big-administrative-boundaries",
+      "producer": "Badan Informasi Geospasial",
+      "reference_period": "June2026",
+      "level_and_scope": "kelurahan/desa geometry; excluded undefined uncoded reclamation polygon",
+      "url": "https://geoservices.big.go.id/rbi/rest/services/BATASWILAYAH/BATAS_DESAKEL_AR/MapServer",
+      "download_sha256": "b43fa31d399a1328026c0ef126a41cbe4e80852eb75f3dc25d557601d4da99a0"
+    }
+  ],
+  "method": "Official residential counts at their published level, spatially disaggregated using WorldPop2025. Registered business and membership data are proxies only; missing workplace totals retain historical JUTPI2018 shares and are estimated.",
+  "unavailable_comprehensive_workplace_counts": [
+    "Bogor",
+    "Kota Bogor",
+    "Kota Depok",
+    "Bekasi",
+    "Kota Bekasi",
+    "Tangerang",
+    "Kota Tangerang",
+    "Kota Tangerang Selatan"
+  ],
+  "worldpop": "https://doi.org/10.5258/SOTON/WP00839",
+  "historical_workplace_fallback": "https://openjicareport.jica.go.jp/pdf/12356382.pdf (Table39)"
+}

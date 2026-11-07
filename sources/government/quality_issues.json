@@ -1,0 +1,8 @@
+[
+  "Jakarta occupation table 2025 sums to fewer people than the RT population table. Working-resident counts are a distribution proxy, not a complete labour-force census.",
+  "Rejected Bogor dataset17266: alphabetic district names are paired with counts from a different district order; used dataset17326 with original BPS order instead. No 2025 growth extrapolation applied to its 2022 population.",
+  "Rejected Kabupaten Tangerang density table printed11-12 due to shifted name/count pairs. Used population Table1 printed19-20, cross-checked with population history table.",
+  "Kota Tangerang 2025S2 scanned table omits Larangan. Its district total157616 is the residual1976599 minus the12 printed district totals; recorded as derived, not directly printed. Kelurahan allocations below kecamatan are estimates.",
+  "Jakarta Jamsostek membership counts are a registered-office distribution proxy, not a complete count at physical workplaces. Duplicate NPP within the same city collapsed using maximum reported membership; sums are not added to historical employment totals.",
+  "Depok Tenaga Kerja dataset E11 rejected as a total job control: definition unclear and series jumps from142803 to1258740 to72353. Industrial permits and vacancies are not counted as jobs."
+]

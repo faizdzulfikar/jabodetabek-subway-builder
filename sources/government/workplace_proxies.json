@@ -1,0 +1,37 @@
+{
+  "bekasikota_companies_by_kecamatan": {
+    "RAWALUMBU": 4,
+    "MUSTIKAJAYA": 4,
+    "BEKASITIMUR": 4,
+    "MEDANSATRIA": 6,
+    "BEKASIBARAT": 6,
+    "BEKASIUTARA": 7,
+    "BEKASISELATAN": 13,
+    "JATIASIH": 12,
+    "JATISAMPURNA": 5,
+    "PONDOKGEDE": 1
+  },
+  "jakarta_registered_jamsostek_by_city": {
+    "Kota Jakarta Timur": 517707,
+    "Kota Jakarta Selatan": 1848695,
+    "Kota Jakarta Utara": 627795,
+    "Kota Jakarta Pusat": 1065387,
+    "Kota Jakarta Barat": 563294
+  },
+  "industrial_site_count": 526,
+  "tangerangkota_large_industries_2023": {
+    "CILEDUG": 0,
+    "LARANGAN": 0,
+    "KARANGTENGAH": 1,
+    "CIPONDOH": 3,
+    "PINANG": 0,
+    "TANGERANG": 4,
+    "KARAWACI": 16,
+    "JATIUWUNG": 32,
+    "CIBODAS": 10,
+    "PERIUK": 14,
+    "BATUCEPER": 19,
+    "NEGLASARI": 4,
+    "BENDA": 2
+  }
+}
