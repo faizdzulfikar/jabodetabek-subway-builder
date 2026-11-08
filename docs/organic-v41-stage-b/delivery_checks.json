@@ -1,0 +1,25 @@
+{
+  "status": "B_V41_COMPLETE",
+  "runtime_verified": true,
+  "production_candidate_sha256": "745238dcdef5351b39eb32eca9ff69322985fa695c3a0fd8701d6124a4e500db",
+  "local_asset_server_sha256": "745238dcdef5351b39eb32eca9ff69322985fa695c3a0fd8701d6124a4e500db",
+  "protected_production_paths_checked": 18,
+  "changed_protected_paths": [
+    "assets/JKT/demand-method.json",
+    "assets/JKT/demand_data.json.gz",
+    "mod/demand_data.json.gz",
+    "mod/config.json",
+    "mod/index.js",
+    "mod/manifest.json",
+    "config.json",
+    "BUILD_STATUS.json"
+  ],
+  "geometry_assets_unchanged": true,
+  "ignored_desktop_metadata_paths": [
+    "assets/.DS_Store"
+  ],
+  "rollback_verified_files": 11,
+  "population_csv_total": 32615007,
+  "origin_and_job_csv_total": 12646700,
+  "report_local_links_valid": true
+}

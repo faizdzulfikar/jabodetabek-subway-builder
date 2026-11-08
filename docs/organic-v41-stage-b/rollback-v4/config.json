@@ -1,0 +1,25 @@
+{
+  "code": "JKT",
+  "name": "Jabodetabek",
+  "bbox": [
+    106.3,
+    -6.85,
+    107.35,
+    -5.9
+  ],
+  "initialViewState": {
+    "longitude": 106.8272,
+    "latitude": -6.1754,
+    "zoom": 11.5,
+    "bearing": 0
+  },
+  "maxzoom": 13,
+  "building_filter_m2": 40,
+  "building_limit": 30000,
+  "building_sample_grid_m": 500,
+  "seed": 20261107,
+  "data_port": 18765,
+  "tile_port": 18766,
+  "notes": "Organic building/parcel demand v4. Full OSM inventory offline; lightweight game geometry unchanged. Official population controls2022/2025; workplace and OD allocations remain estimates.",
+  "demand_version": 4
+}

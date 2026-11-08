@@ -1,0 +1,18 @@
+{
+  "approved": "S0+OD40",
+  "baseline_anchors": 115929,
+  "anchors": 115994,
+  "original_clusters_rebuilt": 33,
+  "constituent_buildings_reviewed": 238,
+  "excluded_tank_parking_members": 146,
+  "restored_hangars": 6,
+  "population": 32615007,
+  "workers": 12646700,
+  "jobs": 12646700,
+  "exact_village_population": true,
+  "exact_village_origins": true,
+  "unaffected_villages_point_allocations_unchanged": true,
+  "member_capacity_split": "Prior v4 aggregate capacities split proportionally by constituent v4 prior weights; only positively identified functions reclassified. Untargeted geography untouched.",
+  "access_limit": "Mapped road-side inferred, not surveyed staff gate or live routing",
+  "seconds": 9.102972459018929
+}

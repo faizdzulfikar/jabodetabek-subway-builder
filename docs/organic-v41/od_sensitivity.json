@@ -1,0 +1,99 @@
+{
+  "scenarios": [
+    {
+      "scenario": "tau12_cross30",
+      "decay_km": 12,
+      "cross_region_workers": 3793900,
+      "cross_region_fraction": 0.2999913020788032,
+      "regional_origin_residual": 0,
+      "regional_job_residual": 0,
+      "diagonal_boost": 12.252616438049047,
+      "point_margins": "Only regional in this table; full point transport separately for tau18cross30"
+    },
+    {
+      "scenario": "tau12_cross35",
+      "decay_km": 12,
+      "cross_region_workers": 4426500,
+      "cross_region_fraction": 0.3500122561616864,
+      "regional_origin_residual": 0,
+      "regional_job_residual": 0,
+      "diagonal_boost": 8.278962153360986,
+      "point_margins": "Only regional in this table; full point transport separately for tau18cross30"
+    },
+    {
+      "scenario": "tau12_cross40",
+      "decay_km": 12,
+      "cross_region_workers": 5058800,
+      "cross_region_fraction": 0.4000094886413056,
+      "regional_origin_residual": 0,
+      "regional_job_residual": 0,
+      "diagonal_boost": 6.017112733119411,
+      "point_margins": "Only regional in this table; full point transport separately for tau18cross30"
+    },
+    {
+      "scenario": "tau18_cross30",
+      "decay_km": 18,
+      "cross_region_workers": 3793900,
+      "cross_region_fraction": 0.2999913020788032,
+      "regional_origin_residual": 0,
+      "regional_job_residual": 0,
+      "diagonal_boost": 17.445179768410917,
+      "point_margins": "Only regional in this table; full point transport separately for tau18cross30"
+    },
+    {
+      "scenario": "tau18_cross35",
+      "decay_km": 18,
+      "cross_region_workers": 4426400,
+      "cross_region_fraction": 0.3500043489605984,
+      "regional_origin_residual": 0,
+      "regional_job_residual": 0,
+      "diagonal_boost": 11.787874146452081,
+      "point_margins": "Only regional in this table; full point transport separately for tau18cross30"
+    },
+    {
+      "scenario": "tau18_cross40",
+      "decay_km": 18,
+      "cross_region_workers": 5058800,
+      "cross_region_fraction": 0.4000094886413056,
+      "regional_origin_residual": 0,
+      "regional_job_residual": 0,
+      "diagonal_boost": 8.578161917530126,
+      "point_margins": "Only regional in this table; full point transport separately for tau18cross30"
+    },
+    {
+      "scenario": "tau30_cross30",
+      "decay_km": 30,
+      "cross_region_workers": 3794100,
+      "cross_region_fraction": 0.3000071164809792,
+      "regional_origin_residual": 0,
+      "regional_job_residual": 0,
+      "diagonal_boost": 24.74596300113158,
+      "point_margins": "Only regional in this table; full point transport separately for tau18cross30"
+    },
+    {
+      "scenario": "tau30_cross35",
+      "decay_km": 30,
+      "cross_region_workers": 4426300,
+      "cross_region_fraction": 0.3499964417595104,
+      "regional_origin_residual": 0,
+      "regional_job_residual": 0,
+      "diagonal_boost": 16.6730539731088,
+      "point_margins": "Only regional in this table; full point transport separately for tau18cross30"
+    },
+    {
+      "scenario": "tau30_cross40",
+      "decay_km": 30,
+      "cross_region_workers": 5058600,
+      "cross_region_fraction": 0.39999367423912957,
+      "regional_origin_residual": 0,
+      "regional_job_residual": 0,
+      "diagonal_boost": 12.123719851094293,
+      "point_margins": "Only regional in this table; full point transport separately for tau18cross30"
+    }
+  ],
+  "minimum_feasible_cross_workers": 2071500,
+  "bps_2023_work_cross_boundary": 3614673,
+  "bps_work_number_divided_by_model_worker_total": 0.28581946278475806,
+  "interpretation": "Illustrative ratio across different reference years and model participation; not an observed share of this model.30% is a review scenario, not automatically a fitted2025 rate. Preserve40% comparison for review.",
+  "seconds": 0.27488787498441525
+}

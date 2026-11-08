@@ -1,0 +1,63 @@
+area,kind,population_v4,population_v41,working_origins_v4,working_origins_v41,jobs_v4,jobs_v41,boundary_confidence
+Serpong · Kota Tangerang Selatan,residential_admin,174979,174979,60500,60500,100500,100500,Observed boundary; inferred sub-village allocation
+Serpong Utara · Kota Tangerang Selatan,residential_admin,146305,146305,58000,58000,79700,79700,Observed boundary; inferred sub-village allocation
+Cisauk · Tangerang,residential_admin,101292,101292,38900,38900,45700,45500,Observed boundary; inferred sub-village allocation
+Pagedangan · Tangerang,residential_admin,124010,124010,46900,46900,109700,109700,Observed boundary; inferred sub-village allocation
+Kelapa Dua · Tangerang,residential_admin,176856,176856,69700,69700,122300,122200,Observed boundary; inferred sub-village allocation
+Cikupa · Tangerang,residential_admin,217637,217637,86500,86500,87700,87700,Observed boundary; inferred sub-village allocation
+Balaraja · Tangerang,residential_admin,132628,132628,51300,51300,51700,51800,Observed boundary; inferred sub-village allocation
+Tambun Selatan · Bekasi,residential_admin,454767,454767,178500,178500,106200,106200,Observed boundary; inferred sub-village allocation
+Tambun Utara · Bekasi,residential_admin,215396,215396,81900,81900,54600,54600,Observed boundary; inferred sub-village allocation
+Cibitung · Bekasi,residential_admin,288993,288993,107300,107300,63000,63000,Observed boundary; inferred sub-village allocation
+Cikarang Barat · Bekasi,residential_admin,223090,223090,87300,87300,161100,161100,Observed boundary; inferred sub-village allocation
+Cikarang Utara · Bekasi,residential_admin,252335,252335,102600,102600,168500,168500,Observed boundary; inferred sub-village allocation
+Cikarang Selatan · Bekasi,residential_admin,186614,186614,65200,65200,146700,146700,Observed boundary; inferred sub-village allocation
+Cikarang Pusat · Bekasi,residential_admin,72276,72276,27300,27300,98000,98000,Observed boundary; inferred sub-village allocation
+Klapanunggal · Bogor,residential_admin,108056,108056,44700,44700,37400,37400,Observed boundary; inferred sub-village allocation
+Gunung Putri · Bogor,residential_admin,291673,291673,111500,111500,128000,128000,Observed boundary; inferred sub-village allocation
+Citeureup · Bogor,residential_admin,219520,219520,86600,86600,96700,96700,Observed boundary; inferred sub-village allocation
+Cileungsi · Bogor,residential_admin,269651,269651,102900,102900,83500,83500,Observed boundary; inferred sub-village allocation
+Cibinong · Bogor,residential_admin,361127,361127,142200,142200,123300,123300,Observed boundary; inferred sub-village allocation
+Bojonggede · Bogor,residential_admin,262003,262003,107900,107900,83200,83200,Observed boundary; inferred sub-village allocation
+Tajurhalang · Bogor,residential_admin,122489,122489,47000,47000,47300,47300,Observed boundary; inferred sub-village allocation
+Parung · Bogor,residential_admin,126689,126689,44900,44900,71100,71100,Observed boundary; inferred sub-village allocation
+Kemang · Bogor,residential_admin,125641,125641,52800,52800,42300,42300,Observed boundary; inferred sub-village allocation
+Dramaga · Bogor,residential_admin,112265,112265,42400,42400,43000,43000,Observed boundary; inferred sub-village allocation
+Babakan Madang · Bogor,residential_admin,119231,119231,48100,48100,85100,85100,Observed boundary; inferred sub-village allocation
+Sukaraja · Bogor,residential_admin,199452,199452,79000,79000,47200,47200,Observed boundary; inferred sub-village allocation
+Kota Bekasi,residential_admin,2595927,2595927,1010100,1010100,840200,840200,Observed boundary; inferred sub-village allocation
+Kota Bogor,residential_admin,1156543,1156543,450000,450000,437400,437400,Observed boundary; inferred sub-village allocation
+Rawa Buntu,residential_admin,30657,30657,11800,11800,12600,12600,Observed boundary; allocated population may be derived
+Nambo,residential_admin,10300,10300,3900,3900,6000,6000,Observed boundary; allocated population may be derived
+BSD City mapped housing parcels,residential_named,174813,174620,64500,64400,190000,189900,Observed mapped subset; incomplete township coverage
+Gading Serpong mapped housing parcels,residential_named,86989,87080,36500,36600,83300,83300,Observed mapped subset; incomplete township coverage
+Alam Sutera mapped housing parcels,residential_named,62209,62209,25600,25600,75400,75400,Observed mapped subset; incomplete township coverage
+Sentul mapped housing parcels,residential_named,46673,46673,19300,19300,31200,31200,Observed mapped subset; incomplete township coverage
+Jababeka,industrial,9825,9825,3100,3100,75900,75900,Observed mapped footprint; occupancy/facility function inferred
+MM2100,industrial,9579,9579,3300,3300,80200,80200,Observed mapped footprint; occupancy/facility function inferred
+EJIP,industrial,1497,1497,400,400,21500,21500,Observed mapped footprint; occupancy/facility function inferred
+Lippo Cikarang industrial parcels,industrial,970,970,300,300,53600,53600,Observed mapped footprint; occupancy/facility function inferred
+GIIC / Kota Deltamas industrial,industrial,755,755,300,300,48100,48100,Observed mapped footprint; occupancy/facility function inferred
+Marunda,industrial,117,117,0,0,15600,15600,Observed mapped footprint; occupancy/facility function inferred
+Pulogadung,industrial,2194,2194,600,600,39800,39800,Observed mapped footprint; occupancy/facility function inferred
+Cikupa Mas,industrial,0,0,0,0,4100,4100,Observed mapped footprint; occupancy/facility function inferred
+Balaraja named industrial parcels,industrial,0,0,0,0,4500,4500,Observed mapped footprint; occupancy/facility function inferred
+Cibitung industrial clusters,industrial,80,80,0,0,100,100,Inferred industrial subset; not operator boundary
+Cakung industrial clusters,industrial,6419,6419,1200,1200,93500,93500,Inferred industrial subset; not operator boundary
+Jatiuwung industrial clusters,industrial,20517,20517,7400,7400,20000,19900,Inferred industrial subset; not operator boundary
+Soekarno–Hatta airport,airport,7996,6325,2800,1900,13500,16200,Observed mapped aerodrome footprint
+Sudirman–Thamrin–SCBD,employment_core,68071,68155,29600,29600,824600,824300,Inferred activity footprint; corridor boundary not legal
+Kuningan–Mega Kuningan–Rasuna Said,employment_core,22667,22667,9500,9500,320100,320100,Inferred activity footprint; corridor boundary not legal
+Gatot Subroto–Semanggi,employment_core,30694,30683,13000,13000,494800,494500,Inferred activity footprint; corridor boundary not legal
+TB Simatupang–Cilandak,employment_core,23576,23554,9200,9200,137900,137900,Inferred activity footprint; corridor boundary not legal
+Cikarang–Cibitung–MM2100–Jababeka,employment_core,57720,57720,19500,19500,385900,385900,Inferred activity footprint; corridor boundary not legal
+BSD–Serpong,employment_core,26718,26740,9600,9600,135100,135100,Inferred activity footprint; corridor boundary not legal
+Alam Sutera–Gading Serpong,employment_core,22058,22064,8600,8600,153400,153400,Inferred activity footprint; corridor boundary not legal
+Sunter–Kelapa Gading,employment_core,64151,64151,24800,24800,260700,260500,Inferred activity footprint; corridor boundary not legal
+Cakung–Pulogadung,employment_core,38832,38832,13700,13700,183000,183000,Inferred activity footprint; corridor boundary not legal
+Slipi–Palmerah–Grogol,employment_core,67162,67164,28700,28700,146200,146300,Inferred activity footprint; corridor boundary not legal
+Pluit–PIK–Penjaringan,employment_core,49124,47968,18300,17800,155900,156100,Inferred activity footprint; corridor boundary not legal
+Jatiuwung–Batuceper–Balaraja,employment_core,90157,88291,32600,31700,327800,330600,Inferred activity footprint; corridor boundary not legal
+Margonda–Depok,employment_core,15188,15188,5000,5000,36100,36100,Inferred activity footprint; corridor boundary not legal
+Bekasi Selatan–Summarecon,employment_core,53154,53154,21400,21400,78300,78300,Inferred activity footprint; corridor boundary not legal
+Bogor Tengah–Baranangsiang,employment_core,22102,22102,9200,9200,42800,42800,Inferred activity footprint; corridor boundary not legal

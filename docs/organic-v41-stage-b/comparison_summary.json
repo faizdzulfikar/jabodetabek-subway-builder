@@ -1,0 +1,21 @@
+{
+  "population_moved_between_source_anchors_half_l1": 11968,
+  "worker_origins_moved_half_l1": 4800,
+  "jobs_moved_half_l1": 6800,
+  "positively_reclassified_constituents": 159,
+  "all_reclassified_nonresidential_origins_and_population_zero": true,
+  "restored_hangar_jobs": 2200,
+  "airport": {
+    "area": "Soekarno\u2013Hatta airport",
+    "kind": "airport",
+    "population_v4": 7996,
+    "population_v41": 6325,
+    "working_origins_v4": 2800,
+    "working_origins_v41": 1900,
+    "jobs_v4": 13500,
+    "jobs_v41": 16200,
+    "boundary_confidence": "Observed mapped aerodrome footprint"
+  },
+  "unchanged_regional_margins": true,
+  "different_from_stageA_preview": "Member-level split retains residential neighbors, corrects primary service function, and selects mapped-road-side interiors. StageA preview numbers are not final release numbers."
+}

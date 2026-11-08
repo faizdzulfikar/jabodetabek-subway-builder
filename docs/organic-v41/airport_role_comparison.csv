@@ -1,0 +1,9 @@
+airport_role,current_population,proposed_population,current_jobs,proposed_jobs_S0,pilot_jobs_S1,anchors,confidence
+ground_handling,176,0,300,200,200,2,"Named/tags only; unclassified remainder retained for audit, no invented facility staffing"
+maintenance_hangars,0,0,0,2200,3300,6,"Named/tags only; unclassified remainder retained for audit, no invented facility staffing"
+operator_airline_offices,1861,0,800,500,500,2,"Named/tags only; unclassified remainder retained for audit, no invented facility staffing"
+passenger_terminal_buildings,0,0,5900,5900,11200,6,"Named/tags only; unclassified remainder retained for audit, no invented facility staffing"
+retail_hospitality,0,0,0,0,0,1,"Named/tags only; unclassified remainder retained for audit, no invented facility staffing"
+support_operations,672,0,100,100,100,2,"Named/tags only; unclassified remainder retained for audit, no invented facility staffing"
+unclassified_or_neighborhood,5287,5104,6300,6000,5900,35,"Named/tags only; unclassified remainder retained for audit, no invented facility staffing"
+warehouses_unclassified,0,0,100,100,100,3,"Named/tags only; unclassified remainder retained for audit, no invented facility staffing"

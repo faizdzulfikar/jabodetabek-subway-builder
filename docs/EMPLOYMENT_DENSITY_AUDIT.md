@@ -1,71 +1,87 @@
-# Employment density audit — Stage A
+# Audit kepadatan pekerjaan v4.1
 
-Semua hitungan jobs di bawah adalah **alokasi model**, bukan jumlah pekerja teramati. Jendela audit saling tumpang tindih dan bukan batas pusat ekonomi. Tidak ada Gaussian boost, faktor multiplier berbasis nama pusat, atau bobot seragam seluruh kecamatan.
+**Stage A — audit dan proposal, 8 November 2026. Belum diinstal dan belum diuji di game.** Produksi tetap Organic v4 / mod 0.2.1, commit `dfec7f2`. Tidak ada perubahan engine, peta, atau aset game.
 
-## 15 pusat prioritas
+Angka “penduduk” di dokumen ini adalah seluruh inhabitants; “asal pekerja” adalah model working trip-makers; “jobs” adalah estimasi tujuan kerja. S0 adalah koreksi klasifikasi konservatif. S1 adalah sensitivitas intensitas, **bukan** target pegawai hasil observasi. OD30 dan OD40 adalah skenario terpisah dari koreksi geografis S0.
 
-| Prioritas / pusat | Jobs lama | Jobs preview | Perubahan | Penilaian dan tindak lanjut |
-|---|---|---|---|---|
-| P0 Sudirman–Thamrin–SCBD | 820,300 | 1,663,500 | 102.8% | Prioritas lantai menara meningkatkan bobot; cek podium, parts dan okupansi sebelum menerima lonjakan. |
-| P0 Kuningan–Mega Kuningan–Rasuna Said | 331,000 | 705,300 | 113.1% | Office corridor terdeteksi; pisahkan menara, rumah dan retail Rasuna tanpa booster seluruh kelurahan. |
-| P0 Gatot Subroto–Semanggi | 516,900 | 823,900 | 59.4% | Overlap SCBD/Kuningan; hitungan jendela tidak boleh dijumlahkan. |
-| P0 TB Simatupang–Cilandak | 615,300 | 370,600 | -39.8% | Penurunan preview adalah flag kemungkinan office/floor coverage lemah; bukan bukti penurunan pekerjaan riil. |
-| P0 Cikarang–Cibitung–MM2100–Jababeka | 904,800 | 1,039,900 | 14.9% | Pertahankan footprint pabrik terpisah gudang; join526 situs industri sebagai bukti lokasi, bukan staffing. |
-| P1 BSD–Serpong | 277,800 | 285,000 | 2.6% | Angka jendela relatif stabil; BSD punya office/retail/institusi, jangan ratakan seluruh Serpong. |
-| P1 Alam Sutera–Gading Serpong | 323,900 | 447,700 | 38.2% | Pusat suburban menguat dari geometri; validasi mall versus kantor dan area kosong. |
-| P1 Sunter–Kelapa Gading | 691,200 | 500,800 | -27.5% | Penurunan harus diperiksa terhadap warehouse, pelabuhan dan fungsi low-rise yang kurang bertag. |
-| P1 Cakung–Pulogadung | 449,600 | 441,900 | -1.7% | Pisahkan estate/factory/logistics dari rumah di Cakung; angka sama tidak membuktikan distribusi sama. |
-| P1 Slipi–Palmerah–Grogol | 458,900 | 387,400 | -15.6% | Koridor retail/institusi beragam; fallback neighborhood membantu tetapi masih asumsi. |
-| P1 Pluit–PIK–Penjaringan | 249,500 | 302,000 | 21.0% | Reklamasi, perairan dan perkembangan baru sensitif terhadap tanggal coastline dan coverage. |
-| P1 Jatiuwung–Batuceper–Balaraja | 1,117,600 | 1,196,900 | 7.1% | Jendela sangat lebar dan menggabungkan pusat terpisah; footprint estate adalah unit yang tepat. |
-| P2 Margonda–Depok | 333,700 | 183,600 | -45.0% | Penurunan preview tidak boleh langsung diterima: UI, kampus, retail dan mixed towers perlu parts/POI. |
-| P2 Bekasi Selatan–Summarecon | 254,200 | 395,600 | 55.6% | Pusat lokal meningkat; cek kantor/retail Summarecon dan kerja lingkungan secara terpisah. |
-| P2 Bogor Tengah–Baranangsiang | 215,400 | 233,400 | 8.4% | Pusat kota/institusi terwakili; jangan geser jobs dari desa Bogor yang minim mapping ke sini. |
+Batas kecamatan/desa memakai union batas BIG Juni 2026. Kompleks industri memakai poligon OSM bernama; koridor bisnis memakai potongan poligon aktivitas dalam jendela audit. BSD/Gading Serpong/Alam Sutera/Sentul memiliki subset hunian terpetakan atau envelope administratif yang dilabeli: tidak diklaim sebagai batas legal township lengkap. Area tumpang tindih **tidak boleh dijumlahkan**. [Semua batas dan label cakupan](organic-v41/audit_boundaries.geojson.gz).
 
+Audit v4 terdahulu diarsipkan [di sini](organic-v41/archive_v4_EMPLOYMENT_DENSITY_AUDIT.md). Kode aktif yang diperiksa adalah `scripts/organic/allocate.py`, `enrich.py`, `calibrate_jobs.py`, dan `demand.py`, bukan generator grid v3.
 
-Total jendela tidak aditif; khusus Jatiuwung–Batuceper–Balaraja gunakan tiga subarea saat inspeksi lanjutan. Perubahan batas jendela juga dapat mengubah jumlah tanpa perubahan ekonomi. Lihat [CSV](organic-stage-a/employment_centers.csv) dan [bbox eksplisit](organic-stage-a/employment_centers.json).
+## Konsentrasi pusat metropolitan
 
-## Bukti fisik, fungsi dan kapasitas
+Angka berikut memakai **core aktivitas terpetakan**, bukan seluruh kecamatan maupun batas township legal. Residential mixed-use corridors yang tidak bertag aktivitas dapat berada di luar core; semua metrik lengkap dan kepastian batas ada di [AREA_DETAILS](organic-v41/AREA_DETAILS.md). Jobs/ha memakai luas poligon, bukan floor-space intensity.
 
-Footprint dan tag OSM merupakan bukti geometri/fungsi yang dicatat pemeta, bukan pengukuran okupansi. Point-on-surface berada di gedung sumbernya. Dalam preview, kontributor hanya diagregasi dalam fungsi dan desa yang sama dengan radius maksimum500m. Kuota jobs tetap per region. Residential/mixed use juga menerima komponen neighborhood employment20%; ini prior skenario, bukan statistik terukur.
+| Pusat | Populasi current→S0 | Asal pekerja current→S0 | Jobs current→S0 | Jobs S1 pilot | Jobs/ha current→S0 |
+|---|---|---|---|---|---|
+| Sudirman–Thamrin–SCBD | 68,071 → 68,153 | 29,600 → 29,600 | 824,600 → 824,300 | 824,300 | 1114.97 → 1114.57 |
+| Kuningan–Mega Kuningan–Rasuna Said | 22,667 → 22,667 | 9,500 → 9,500 | 320,100 → 320,100 | 320,100 | 1317.01 → 1317.01 |
+| Gatot Subroto–Semanggi | 30,694 → 30,683 | 13,000 → 13,000 | 494,800 → 494,500 | 494,600 | 1034.85 → 1034.22 |
+| TB Simatupang–Cilandak | 23,576 → 23,554 | 9,200 → 9,200 | 137,900 → 137,900 | 138,000 | 393.42 → 393.42 |
+| Cikarang–Cibitung–MM2100–Jababeka | 57,720 → 57,720 | 19,500 → 19,500 | 385,900 → 385,900 | 414,200 | 50.4 → 50.4 |
+| BSD–Serpong | 26,718 → 26,740 | 9,600 → 9,600 | 135,100 → 135,100 | 135,400 | 234.64 → 234.64 |
+| Alam Sutera–Gading Serpong | 22,058 → 22,064 | 8,600 → 8,600 | 153,400 → 153,400 | 153,300 | 248.7 → 248.7 |
+| Sunter–Kelapa Gading | 64,151 → 64,151 | 24,800 → 24,800 | 260,700 → 260,900 | 262,600 | 160.7 → 160.82 |
+| Cakung–Pulogadung | 38,832 → 38,832 | 13,700 → 13,700 | 183,000 → 183,100 | 186,800 | 84.49 → 84.54 |
+| Slipi–Palmerah–Grogol | 67,162 → 67,162 | 28,700 → 28,700 | 146,200 → 146,300 | 146,200 | 411.58 → 411.86 |
+| Pluit–PIK–Penjaringan | 49,124 → 47,828 | 18,300 → 17,800 | 155,900 → 155,800 | 154,600 | 164.55 → 164.44 |
+| Jatiuwung–Batuceper–Balaraja | 90,157 → 87,940 | 32,600 → 31,700 | 327,800 → 329,200 | 339,500 | 52.52 → 52.75 |
+| Margonda–Depok | 15,188 → 15,188 | 5,000 → 5,000 | 36,100 → 36,100 | 36,200 | 239.56 → 239.56 |
+| Bekasi Selatan–Summarecon | 53,154 → 53,154 | 21,400 → 21,400 | 78,300 → 78,300 | 78,300 | 205.31 → 205.31 |
+| Bogor Tengah–Baranangsiang | 22,102 → 22,102 | 9,200 → 9,200 | 42,800 → 42,800 | 43,000 | 227.82 → 227.82 |
 
-Office, government, factory, warehouse, retail, pasar, universitas, sekolah, rumah sakit, hotel, exhibition, community dan transport dibedakan. Tag `shop=mall` mendahului `building=commercial`; `building=industrial` mendahului `office=company`. Storage tanks dan hangar airside dikeluarkan; terminal bandara diperlakukan nonhunian; tempat ibadah dan bangunan transport tidak dihitung sebagai rumah generik. Mall dengan envelope lebih dari8lantai ditandai mixed-use secara inferensial; podium/tower harus diperiksa sebelum produksi.
+## Mengapa fallback bisa mengencerkan pusat kerja
 
-Potensi distorsi tersisa: banyak fungsi tidak bertag; factory1lantai dan kantor3lantai adalah fallback; parts659 belum digabung; nodePOI30.375 belum di-join; situs industri resmi belum dimasukkan kembali ke preview. Floor area yang tersedia di-normalisasi ke margin region sehingga kandidat yang jarang bisa tetap menerima terlalu banyak jobs. Karena itu outlier baru bukan kapasitas bangunan yang terukur.
+Aturan v4 aktual: `floor = min(0.8 × regional_jobs × capacity / sum_capacity, 2 × capacity)`. Sisa dibagi memakai kapasitas residential/mixed. Minimum residual20% timbul dari desain80/20; saat coverage workplace tipis, residual menjadi jauh lebih besar. Ini **prior lokasi untuk pekerjaan tak terklasifikasi**, bukan pengukuran share informal/home-working. Tidak semua pekerjaan yang menempel residential benar-benar berada di rumah.
 
-ITC Cempaka Mas menerima164.600 jobs di model lama. Titik itu berada dalam footprint OSM mall13lantai; tidak ditemukan sumber staffing yang membenarkan angka tersebut. Ini contoh kebutuhan pemeriksaan fungsi campuran, luas lantai dan besaran catchment, bukan alasan menghapus konsentrasi ekonomi di sana.
+| Region | Jobs current=S0 | v4 neighborhood-prior share | S0 share | S1 pilot share | S0 jobs dipindah |
+|---|---|---|---|---|---|
+| Bekasi | 1,255,400 | 56.9% | 56.9% | 54.7% | 0 |
+| Bogor | 1,963,600 | 83.3% | 83.3% | 82.8% | 0 |
+| Kota Bekasi | 840,200 | 73.5% | 73.5% | 73.4% | 0 |
+| Kota Bogor | 437,400 | 63.4% | 63.4% | 63.1% | 0 |
+| Kota Depok | 529,100 | 66.2% | 66.2% | 66.3% | 0 |
+| Kota Jakarta Barat | 634,000 | 20.0% | 20.0% | 20.0% | 0 |
+| Kota Jakarta Pusat | 1,199,200 | 22.4% | 22.4% | 22.4% | 800 |
+| Kota Jakarta Selatan | 2,080,800 | 43.8% | 43.8% | 43.8% | 1,000 |
+| Kota Jakarta Timur | 582,700 | 26.1% | 26.2% | 25.5% | 700 |
+| Kota Jakarta Utara | 706,600 | 20.0% | 20.0% | 20.0% | 600 |
+| Kota Tangerang | 852,700 | 73.5% | 73.3% | 72.2% | 2,200 |
+| Kota Tangerang Selatan | 522,100 | 49.9% | 49.9% | 48.7% | 0 |
+| Tangerang | 1,042,900 | 47.3% | 47.3% | 46.9% | 400 |
 
-## Regional: pertahankan dahulu, jangan jadikan registrasi sebagai physical census
+S0 tidak mengganti pembagian total regional. Dampak5700jobs hanya koreksi fasilitas/titik dan pembulatan ulang. S1 mengubah4,472 kapasitas fasilitas bertag: factory75→50m²/model-worker, warehouse140→180, terminal150→80, hanggar150→100. Nilai itu **asumsi sensitivitas**, bukan employee-per-building yang teramati; inferred factory dari industrial landuse tidak otomatis dinaikkan. Perubahan ini belum cukup menutup kekurangan bukti pekerjaan di Kabupaten Bogor atau membuktikan workforce Jababeka.
 
-| Region | Asal pekerja tetap | Jobs tetap | Rasio jobs/asal |
-|---|---|---|---|
-| Bekasi | 1,350,000 | 1,255,400 | 0.93 |
-| Bogor | 2,129,800 | 1,963,600 | 0.92 |
-| Kota Bekasi | 1,010,100 | 840,200 | 0.83 |
-| Kota Bogor | 450,000 | 437,400 | 0.97 |
-| Kota Depok | 793,200 | 529,100 | 0.67 |
-| Kota Jakarta Barat | 980,800 | 634,000 | 0.65 |
-| Kota Jakarta Pusat | 408,600 | 1,199,200 | 2.93 |
-| Kota Jakarta Selatan | 923,000 | 2,080,800 | 2.25 |
-| Kota Jakarta Timur | 1,212,200 | 582,700 | 0.48 |
-| Kota Jakarta Utara | 667,100 | 706,600 | 1.06 |
-| Kota Tangerang | 769,100 | 852,700 | 1.11 |
-| Kota Tangerang Selatan | 564,600 | 522,100 | 0.92 |
-| Tangerang | 1,388,200 | 1,042,900 | 0.75 |
+`function_observed` di provenance v4 sering berarti tag bangunan non-generik; itu bukan observasi staf. `capacity_mix` adalah kapasitas relatif konstituen cluster, bukan hitungan pekerjaan per fungsi yang diamati. Perbandingan floor/neighborhood dipisah menurut flag dalam [employment_evidence_components.csv](organic-v41/employment_evidence_components.csv). Memakai footprint nyata tidak membuat angka staffing menjadi observed.
 
+## Fungsi dan intervensi yang tepat
 
-JUTPI2018 adalah prior historis. Jamsostek202406 mendistribusikan porsi DKI berdasarkan alamat perusahaan terdaftar, berisiko mengonsentrasikan payroll kantor pusat. JICA [Annex04 socioeconomic](https://openjicareport.jica.go.jp/pdf/12356382.pdf), Table39, merupakan sumber historis, bukan kontrol2026. Jumlah perusahaan,105 industri besar Tangerang,526 situs Bekasi dan daftar perusahaan Bekasi Kota adalah proksi keberadaan/struktur, bukan jumlah pekerja. Jangan mengubahnya menjadi staffing presisi.
+| Fungsi | v4 m² / relative worker | Intervensi proposal |
+|---|---|---|
+| Corporate offices | 20 | Pertahankan; perbaiki lantai/parts dari bukti gedung, jangan blanket CBD multiplier |
+| Government | 25 | Alamat instansi dan lantai; jangan ikutkan semua warga administratif |
+| Factory | 75 | S0 tetap; S1=50 hanya tag positif, uji tenaga kerja fasilitas |
+| Warehouse / logistics | 140 | S0 tetap; S1=180, bukan factory intensity |
+| Retail / mall | 35 | Bedakan podium retail dari tower mixed-use; no arbitrary mall staffing target |
+| Traditional market | 45 | Gunakan pasar nyata, hindari duplikasi toko dan polygon pasar |
+| University / school | 50 / 70 | Untuk staf; enrolment pelajar bukan jobs staf |
+| Hospital | 45 | Staf saja; patient trips perlu ledger berbeda |
+| Hotel | 100 | Staf; bukan occupancy pengunjung |
+| Transport | 150 | Hanggar CGK dipulihkan pada S0; airport-specific intensities hanya S1 |
+| Neighborhood / informal | Residual regional | Tetap ada; tidak dihapus hanya untuk membesarkan CBD |
+| Generic large mixed | 60%res /40%activity | Inferred; perlu screening fasilitas operasional/tangki/parkir |
 
-Rekomendasi StageA: **tidak mengubah margin regional sekarang**. Uji redistribusi dalam region dahulu. Sebelum rebalancing, bandingkan payroll menurut alamat fisik, tenaga kerja perusahaan/kawasan, commuter workplace survey dan luas lantai aktif. Jalankan skenario pemindahan5/10/15% porsi jobs pusat ke suburban hanya bila bukti independen mendukung, dengan zero-sum regional ledger dan interval ketidakpastian. Skenario tersebut belum dijalankan dan tidak disajikan sebagai fakta.
+## Diagnosis sumber underrepresentation
 
-## Cluster tambahan
+1. **Geometry:** enam hanggar dibuang dari eligible allocation; banyak polygon industri tidak punya fungsi gedung eksplisit.
+2. **Classification:** generic mixed membolehkan penghuni pada fungsi operasional/tangki/parkir; bukti positif teridentifikasi33anchor.
+3. **Levels:** airport hanya sedikit level tercatat; tower kantor bisa terlalu rendah, tetapi jumlah pegawai aktual belum tersedia.
+4. **Area per worker:** berbeda antara factory, warehouse, data center, office dan terminal; S1 menguji, tidak mengklaim mengukur.
+5. **Ceiling2:** membatasi ekspansi kapasitas sparse; tabel1/2/3 menunjukkan tradeoff terhadap residual dan konsentrasi.
+6. **Fallback:**83% Kabupaten Bogor membuat pekerjaan mengikuti prior residential lebih kuat daripada pusat ekonomi teramati.
+7. **Regional totals:** JUTPI2018/alamat perusahaan bisa mengunci jobs di region keliru; tidak diperbaiki dengan multiplier dalamregion.
+8. **Aggregation:** jobs masuk anchor sefungsi dalam desa, sehingga jarak200–500m dapat menggeser tampilan relatif ke compound kecil. StageB perlu batas fasilitas sebagai barrier tambahan dan entry point pekerja; tidak hanya menambah points.
 
-Algoritme mengurutkan jobs dalam radius500m, kemudian mengambil puncak yang terpisah minimal2,5km. Ini menemukan konsentrasi **model**, bukan pusat nyata yang sudah terverifikasi. [Daftar30 cluster](organic-stage-a/discovered_clusters.json) mencatat koordinat, region, desa dan apakah berada di jendela prioritas. Kandidat di luar jendela perlu penamaan/verifikasi manual terhadap fungsi bangunan; jangan otomatis menambahkan booster dari puncak model sendiri.
+No independent current physical-workplace census supports a numeric regional rebalancing here. All13job margins remain baseline. An employer registered in South Jakarta but staffed in Cikarang must be assigned once to its physical workplace when evidence exists, rather than added to both.
 
-## Visual untuk pemeriksaan
-
-![Pusat kantor](organic-stage-a/focus_cbd.png)
-![Industri Cikarang](organic-stage-a/focus_cikarang_industrial.png)
-![BSD](organic-stage-a/focus_bsd_mixed_urban_fabric.png)
-
-Simbol dan skala warna identik untuk before/after; jumlah per titik adalah agregat, bukan karyawan gedung anchor. Footprint abu-abu memberikan konteks fisik. Sumbu lon/lat; lokasi dapat dicocokkan melalui OSM ID pada allocation JSON.
+[Jobs menurut kelas anchor](organic-v41/function_comparison.csv), [capacity sensitivity](organic-v41/capacity_sensitivity.csv), [per-fasilitas](organic-v41/facility_capacity_changes.csv), [regional](organic-v41/regional_comparison.csv). [Provenance](ORGANIC_V41_MASTER_AUDIT.md#provenance-dan-tingkat-kepastian).

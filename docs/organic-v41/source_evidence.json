@@ -1,0 +1,165 @@
+{
+  "sources": [
+    {
+      "id": "BPS_COMMUTER_2023",
+      "publisher": "BPS Indonesia",
+      "url": "https://www.bps.go.id/en/publication/2024/03/28/33b6bef825944e576e7ea3ba/commuter-statistics-of-jabodetabek-results-of-jabodetabek-commuter-surveys-2023.html",
+      "pdf_url": "https://web-api.bps.go.id/download.php?f=sZwl+ONrd0moaNIAozTkdHlGdjdlVXEybnZaVzF0ZHNUQStZSE5JU0o0MlRqdmt2Y1FHNmJpRW8yRFJtWVNxUGZSTktGeEd6VEhoRkhwOUlpL1ptS3Zyb3VqbktNd2dmT1h1WTVFaU52TWpieXdWMG5nL2hxa2cweFFHZjQ0VktPbE54MWxwdm0wT05iMFhvYXZGTmpkMkJkTkxHdnM1MFFCNG1KajJYSCtjam0zeW9xMTM2enhkUlAzYnp3YzIwNkR5ekhveHJXVU5rcnR1RmoyLy9yd2xNYURmNnlrbUNSSWpHUEhNOHluMGl0WmRKaEhDWThqNWFoUk5MS2hJMDhTa3FpZjB4bVNHeXJDYzVTTnlWWEhPNDFldHRGS09uS2N2U29NRTh0bHlmQ3V3MDFXbmVPaGZHWUtDYnh0aDN0SFpNZHBKNW10Si9CSSts",
+      "year": 2023,
+      "access": "Publication HTML403; official PDF searched/opened successfully",
+      "evidence_class": "Observed survey estimate",
+      "facts": {
+        "work_cross_kabkota_persons": 3614673,
+        "study_cross_kabkota_persons": 800301,
+        "all_cross_kabkota_persons": 4414974
+      },
+      "scope": "Age5+ regular same-day cross-kabupaten/kota commuters, Table4/5; not all employed residents, not daily passenger boardings. Includes five Jakarta cities separately. Sampling and reference-year mismatch remain.",
+      "checked_on": "2026-11-08"
+    },
+    {
+      "id": "BPS_DKI_LABOUR_2025",
+      "publisher": "BPS DKI Jakarta",
+      "url": "https://jakarta.bps.go.id/id/pressrelease/2025/11/05/1243/keadaan-ketenagakerjaan-provinsi-dki-jakarta-agustus-2025.html",
+      "year": 2025,
+      "evidence_class": "Observed survey estimate",
+      "facts": {
+        "employed_residents_rounded": 5130000,
+        "labour_force_rounded": 5460000,
+        "lfpr_percent": 64.75,
+        "unemployment_percent": 6.05,
+        "informal_employment_percent": 36.63
+      },
+      "scope": "Sakernas August2025 by residence, Jakarta province including Seribu; cannot become physical-workplace destinations",
+      "checked_on": "2026-11-08"
+    },
+    {
+      "id": "BPS_BOGOR_LABOUR_2025",
+      "publisher": "BPS Kabupaten Bogor",
+      "url": "https://bogorkab.bps.go.id/id/pressrelease/2025/12/22/386/labor-force-conditions-in-bogor-regency--august-2025.html",
+      "year": 2025,
+      "evidence_class": "Observed survey estimate",
+      "facts": {
+        "employed_residents_rounded": 2620000,
+        "labour_force_rounded": 2840000,
+        "lfpr_percent": 64.67,
+        "unemployment_percent": 7.69,
+        "formal_employment_percent": 52.54
+      },
+      "scope": "Resident employment, not jobs inside regency; baseline resident population reference2022 differs",
+      "checked_on": "2026-11-08"
+    },
+    {
+      "id": "BPS_BOGOR_CITY_LABOUR_2025",
+      "publisher": "BPS Kota Bogor",
+      "url": "https://bogorkota.bps.go.id/id/statistics-table/2/MTE0OSMy/jumlah-penduduk-usia-kerja-angkatan-kerja-bekerja-pengangguran-terbuka-dan-tingkat-partisipasi-angkatan-kerja-dan-tingkat-pengangguran-terbuka-di-kota-bogor.html",
+      "year": 2025,
+      "access": "Official search extract accessible; direct table403. Not used as hard control.",
+      "evidence_class": "Observed published rounded table; access-limited",
+      "facts": {
+        "working_age_rounded": 845800,
+        "employed_residents_rounded": 507500,
+        "lfpr_percent": 65.18
+      },
+      "scope": "Units thousand persons checked from table context; indicative only; no calibration target",
+      "checked_on": "2026-11-08"
+    },
+    {
+      "id": "CGK_APII_2022",
+      "publisher": "AP II President Director statement carried by ANTARA",
+      "url": "https://mandalika.antaranews.com/berita/3294487/ap-ii-proyeksi-bandara-soekarno-hatta-layani-80-juta-penumpang-di-2030",
+      "year": 2022,
+      "evidence_class": "Observed reported statement, not audited staffing census",
+      "facts": {
+        "reported_daily_worker_community_range": [
+          50000,
+          60000
+        ]
+      },
+      "scope": "Broad airport worker community per day, unclear unique headcount/contractors/shifts/offsite coverage. NOT verified40000–50000 current payroll target. Future Terminal4/Cargo Village proposals in article are NOT built into scenario.",
+      "checked_on": "2026-11-08"
+    },
+    {
+      "id": "JABABEKA_PROFILE",
+      "publisher": "PT Jababeka",
+      "url": "https://www.jababeka.com/id/tentang-kami/",
+      "year": null,
+      "evidence_class": "Observed operator disclosure; stale/ambiguous scope",
+      "facts": {
+        "township_area_ha": 5600,
+        "companies_approx": 1650,
+        "workers_claim_lower_bound": 700000
+      },
+      "scope": "Undated township profile including other functions; not a2025 measured sum of jobs in OSM industrial polygons",
+      "checked_on": "2026-11-08"
+    },
+    {
+      "id": "JABABEKA_2026_MARKETING",
+      "publisher": "PT Jababeka",
+      "url": "https://www.jababeka.com/jababeka-handover-of-units-jababeka-bizpark-phase-i/",
+      "year": 2026,
+      "evidence_class": "Observed operator marketing disclosure",
+      "facts": {
+        "captive_market_workers_claim": 1000000
+      },
+      "scope": "Captive market includes township and surrounding economy; not a staffing target; not added to older700000 disclosure",
+      "checked_on": "2026-11-08"
+    },
+    {
+      "id": "MM2100_2025",
+      "publisher": "Marubeni operator/investor",
+      "url": "https://marubeni-industrialpark.com/articles/20251110_01j",
+      "year": 2025,
+      "evidence_class": "Observed operator disclosure",
+      "facts": {
+        "total_development_with_partners_ha_approx": 2000
+      },
+      "scope": "Article10November2025; partner areas included, not occupied factory land;200 companies attending anniversary is NOT a complete tenant or worker census",
+      "checked_on": "2026-11-08"
+    },
+    {
+      "id": "EJIP_PROFILE",
+      "publisher": "PT East Jakarta Industrial Park",
+      "url": "https://www.ejip.co.id/id/outline",
+      "year": null,
+      "access": "Official indexed extract accessible; direct page502",
+      "evidence_class": "Observed operator disclosure, undated",
+      "facts": {
+        "estate_area_ha": 320,
+        "tenants": 91,
+        "manufacturing_tenants": 75,
+        "service_tenants": 16
+      },
+      "scope": "No verified employee total on profile; tenant counts not converted to invented per-company staffing",
+      "checked_on": "2026-11-08"
+    },
+    {
+      "id": "GIIC_PROFILE",
+      "publisher": "PT Puradelta Lestari",
+      "url": "https://deltamas.id/en/",
+      "year": null,
+      "evidence_class": "Observed operator disclosure, mixed dates",
+      "facts": {
+        "tenants_approx": 170,
+        "data_center_tenants_by2024": 14
+      },
+      "scope": "Tenant count not staffing. Data centers are not labour-intensive generic factories; no announced expansion treated as built floor area",
+      "checked_on": "2026-11-08"
+    },
+    {
+      "id": "DEPOT",
+      "publisher": "Subway-Builder-Modded",
+      "url": "https://github.com/Subway-Builder-Modded/depot",
+      "commit": "ef4ab40dce4b3787e4c994f6c426ddd637d30f05",
+      "evidence_class": "Observed open-source implementation",
+      "scope": "DemandData special-demand generator and type definitions; checked against installed1.7.2 bundles, not assumed feature parity",
+      "checked_on": "2026-11-08"
+    }
+  ],
+  "local_government_sources": "../../sources/government/source_manifest.json",
+  "geometry_source": "OSM Java snapshot2026-11-05; BIG June2026 boundaries, full inventory offline; WorldCover2021 fallback explicitly historical",
+  "uncertainty_classes": {
+    "Observed": "Published survey/control, footprint/tag or operator statement; does not imply observed staffing",
+    "Inferred": "Functional interpretation, floor space and within-control allocation",
+    "Gameplay calibration": "Capacity intensities, ceiling and synthetic OD parameters"
+  }
+}

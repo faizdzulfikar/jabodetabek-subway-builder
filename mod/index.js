@@ -47,8 +47,6 @@
           credit.style.cssText = 'position:absolute;left:50%;transform:translateX(-50%);bottom:72px;z-index:5;padding:3px 6px;background:rgba(255,255,255,.88);color:#222;font:10px sans-serif;border-radius:3px;pointer-events:auto;white-space:nowrap';
           for (const [text, href] of [['© OpenMapTiles','https://openmaptiles.org/'],
                                     [' © OpenStreetMap contributors','https://www.openstreetmap.org/copyright'],
-                                    [' © ESA WorldCover2021','https://esa-worldcover.org/en/data-access'],
-                                    [' © ESA WorldCover2021','https://esa-worldcover.org/en/data-access'],
                                     [' © ESA WorldCover2021','https://esa-worldcover.org/en/data-access']]) {
             const link = document.createElement('a');
             link.textContent = text; link.href = href; link.target = '_blank';
@@ -74,7 +72,7 @@
   });
   api.hooks.onGameInit(() => {
     if (api.utils.getCityCode() === 'JKT') {
-      api.ui.showNotification('© OpenMapTiles © OpenStreetMap contributors. Jabodetabek v4: organic demand; population controls conserved. Workplaces/OD remain estimates.', 'info');
+      api.ui.showNotification('© OpenMapTiles © OpenStreetMap contributors. Jabodetabek v4.1 S0: corrected organic demand; population controls conserved. Workplaces/OD remain estimates.', 'info');
     }
   });
   console.log('[Jabodetabek] Registered JKT; asset servers required on ports 18765/18766.');

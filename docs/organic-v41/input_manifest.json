@@ -1,0 +1,50 @@
+{
+  "DATA_GUIDE.md": {
+    "sha256": "16662bd2bd0bbae0127215db90802a95b25a224a2fb2965cfad47f5ee5c3a822",
+    "bytes": 3008
+  },
+  "BUILD_STATUS.json": {
+    "sha256": "22dd0cbad029cec1f0cdaaa4051f973d988870b6bfd1b48912e517fc554ec925",
+    "bytes": 2192
+  },
+  "assets/JKT/demand-method.json": {
+    "sha256": "e507b884e9860985fb416506acb38dacc6e2df4c992419a43f37920b6872fe00",
+    "bytes": 3670
+  },
+  "sources/government/COVERAGE.md": {
+    "sha256": "b167a84747c576bc2947bcaa216601fccbae622f0d83064a88c319d16eeace85",
+    "bytes": 3517
+  },
+  "sources/government/population_controls.json": {
+    "sha256": "78537d73217e9a594a5070e9ff78580c233790ea0086cd3323ed3867ba53dcfa",
+    "bytes": 129553
+  },
+  "sources/government/kelurahan_estimates.csv": {
+    "sha256": "cbcc1d25d71e8df2339b717e12a47ab7fba82c442220c0af127f38b8cc572b05",
+    "bytes": 252679
+  },
+  "sources/government/workplace_proxies.json": {
+    "sha256": "6f8972bc9a8fd0afcb9c319179a3a0f3601ee98c4368ee94aee0024c6d0e875f",
+    "bytes": 819
+  },
+  "sources/government/source_manifest.json": {
+    "sha256": "077ee4a29dd6da10ce30b9bc619f40e8e43839b63511c0530dcde79a607f41bc",
+    "bytes": 6882
+  },
+  "sources/government/quality_issues.json": {
+    "sha256": "630fae003169696790d5e16072e291e838f4d761010aaf01706d6565d386ffe4",
+    "bytes": 1272
+  },
+  "docs/organic-stage-b/organic_parameters.json": {
+    "sha256": "6db6c1a3fdbbd6118609ba401e6de45dcbbd4b941a031c4093bd001afff07c24",
+    "bytes": 3645
+  },
+  "docs/organic-stage-b/employment_capacity_regularization.json": {
+    "sha256": "613513830d97362479da49c841ba38a26446a47121932dc24ace7f1036d640ce",
+    "bytes": 5746
+  },
+  "docs/organic-stage-b/validation.json": {
+    "sha256": "0b67c4f353ef956760d5204f426a2d0f6b6c150c6303c7487677b47ffe49c408",
+    "bytes": 1206
+  }
+}

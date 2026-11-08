@@ -1,0 +1,32 @@
+{
+  "current": {
+    "workers": 12646700,
+    "cross_region_workers": 5058600,
+    "cross_region_fraction": 0.39999367423912957,
+    "distance_km_p10_p50_p90_p95_p99": [
+      0.4113798223738548,
+      5.781505921672172,
+      27.16445171984939,
+      34.5140970643141,
+      48.35360050493338
+    ],
+    "trips_over50km": 98100,
+    "onsite_workers": 141200
+  },
+  "proposed_S0_tau18_cross30": {
+    "workers": 12646700,
+    "cross_region_workers": 3793900,
+    "cross_region_fraction": 0.29999130207880315,
+    "distance_km_p10_p50_p90_p95_p99": [
+      0.3604006978689667,
+      4.019592604347048,
+      23.604513394641465,
+      30.54993989619606,
+      44.906895261225536
+    ],
+    "trips_over50km": 58500,
+    "onsite_workers": 159200
+  },
+  "caution": "30% and40% use administrative kab/kota including Jakarta cities; travel seconds remain proxy, not congestion",
+  "not_work_trip_to_passenger_trip_conversion": true
+}

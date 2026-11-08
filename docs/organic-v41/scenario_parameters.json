@@ -1,0 +1,41 @@
+{
+  "stage": "A_NOT_INSTALLED",
+  "recommended_S0": {
+    "name": "classification_and_hangar_correction",
+    "residential_corrections": "28 positive nonresidential tags +5inferred airport operational names; preserve village totals",
+    "employment_intensities": "All v4 priors unchanged; six restored CGK hangars use transport150m2/relative-worker",
+    "floor_ceiling_multiplier": 2,
+    "minimum_neighborhood_share": 0.2,
+    "regional_jobs": "unchanged",
+    "population_and_working_origins_by_village": "unchanged"
+  },
+  "sensitivity_S1": {
+    "name": "function_specific_capacity_pilot",
+    "factory_m2_per_relative_worker": 50,
+    "warehouse_m2_per_relative_worker": 180,
+    "CGK_terminal_m2_per_relative_worker": 80,
+    "CGK_hangar_m2_per_relative_worker": 100,
+    "eligibility": "positively tagged facilities only, no blanket inferred-industrial multiplier",
+    "status": "Sensitivity only; coefficients not measured staffing or recommended release defaults"
+  },
+  "OD": {
+    "review_cross_region_fraction": 0.3,
+    "baseline_control_fraction": 0.4,
+    "regional_sensitivity_fractions": [
+      0.3,
+      0.35,
+      0.4
+    ],
+    "decay_km": 18,
+    "decay_sensitivity_km": [
+      12,
+      18,
+      30
+    ],
+    "within_region_noise_km": 6,
+    "status": "Gameplay choices pending explicit user selection; no fitted2025 claim"
+  },
+  "confidence": "Observed geometry/tags; inferred floor/capacity; gameplay OD and ceiling",
+  "population_total": 32615007,
+  "working_tripmakers_total": 12646700
+}

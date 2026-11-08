@@ -1,6 +1,6 @@
 # Data pemda dan estimasi wilayah
 
-Versi 3 memakai data pemda untuk penduduk. Jumlah dan lokasi pekerjaan yang belum tercatat lengkap tetap berupa estimasi; tabel ini tidak menyatakan sensus tempat kerja lengkap.
+Versi 4.1 mempertahankan kontrol penduduk pemda yang disiapkan sejak v3. Jumlah dan lokasi pekerjaan yang belum tercatat lengkap tetap berupa estimasi; tabel ini tidak menyatakan sensus tempat kerja lengkap.
 
 | Wilayah | Tahun penduduk | Rincian sumber | Penduduk |
 |---|---|---|---:|
@@ -18,7 +18,7 @@ Versi 3 memakai data pemda untuk penduduk. Jumlah dan lokasi pekerjaan yang belu
 | Kota Tangerang Selatan | 2025 | 7 kecamatan | 1,486,118 |
 | Tangerang | 2025 | 29 kecamatan | 3,567,531 |
 
-317 kelurahan mempunyai kontrol penduduk langsung. 1.185 desa/kelurahan lain diestimasi dari total kecamatan dengan proporsi raster WorldPop 100 m. Hasilnya diringkas ke grid500 m. Total setiap unit sumber tetap dipertahankan. Batas desa/kelurahan memakai layanan BIG Juni2026; kecocokan nama/kode diperiksa sebelum model dibuat.
+317 kelurahan mempunyai kontrol penduduk langsung. 1.185 desa/kelurahan lain diestimasi dari total kecamatan dengan proporsi raster WorldPop 100 m. Sel v3 500m dipertahankan sebagai arsip persiapan; koordinat demand aktif v4.1 mengikuti bangunan/parcel nyata, tanpa grid final. Total setiap unit sumber tetap dipertahankan. Batas desa/kelurahan memakai layanan BIG Juni2026; kecocokan nama/kode diperiksa sebelum model dibuat.
 
 Residents di game mewakili pekerja model, bukan semua penduduk. Bobot pekerja memakai pekerjaan SIAK Jakarta dan Tangsel jika tersedia. Untuk wilayah lain, rasio partisipasi diperkirakan dari median sumber yang tersedia. Dataset pekerjaan Jakarta tidak mencakup seluruh populasi pada tabel RT, sehingga tidak dianggap sensus tenaga kerja lengkap.
 

@@ -1,0 +1,19 @@
+osm_id,anchor,name,function,usable_floor_m2_inferred,levels_observed,old_relative_capacity,proposed_relative_capacity,area_per_worker_scenario,confidence
+w167421106,115929,Hangar 1,airport_maintenance,27937.36,False,0,279.374,100,Observed footprint/function; inferred usable floor and staffing intensity
+w167421177,115930,Hangar 3,airport_maintenance,31497.83,False,0,314.978,100,Observed footprint/function; inferred usable floor and staffing intensity
+w203212758,115931,Metro Batavia Hangar,airport_maintenance,9154.7,False,0,91.547,100,Observed footprint/function; inferred usable floor and staffing intensity
+w203215398,55621,,warehouse,1292.46,False,9.232,7.18,180,Observed footprint/function; inferred usable floor and staffing intensity
+w203314303,55622,Lion Air Shop,warehouse,1680.37,False,12.003,9.335,180,Observed footprint/function; inferred usable floor and staffing intensity
+w203314334,55622,PT. JAS,warehouse,1853.83,False,13.242,10.299,180,Observed footprint/function; inferred usable floor and staffing intensity
+w324942864,115932,Hangar 2,airport_maintenance,31459.17,False,0,314.592,100,Observed footprint/function; inferred usable floor and staffing intensity
+w324942865,115933,Hangar 4,airport_maintenance,64625.25,False,0,646.252,100,Observed footprint/function; inferred usable floor and staffing intensity
+r5559239,55665,Terminal 1,airport_terminal,105562.24,False,703.748,1319.528,80,Observed footprint/function; inferred usable floor and staffing intensity
+w395874320,74274,Terminal 3,airport_terminal,144088.9,False,960.593,1801.111,80,Observed footprint/function; inferred usable floor and staffing intensity
+r6424732,55666,Terminal 2,airport_terminal,150019.47,False,1000.13,1875.243,80,Observed footprint/function; inferred usable floor and staffing intensity
+w475892266,55624,,warehouse,1519.26,False,10.852,8.44,180,Observed footprint/function; inferred usable floor and staffing intensity
+w1121170990,115934,,airport_maintenance,2004.91,False,0,20.049,100,Observed footprint/function; inferred usable floor and staffing intensity
+w1122282540,74276,Terminal 3,airport_terminal,17660.77,False,117.738,220.76,80,Observed footprint/function; inferred usable floor and staffing intensity
+w1122485409,74277,Terminal 3,airport_terminal,16459.62,False,109.731,205.745,80,Observed footprint/function; inferred usable floor and staffing intensity
+w1122485411,55669,,airport_terminal,8590.51,False,57.27,107.381,80,Observed footprint/function; inferred usable floor and staffing intensity
+w1122762835,55622,,warehouse,1827.92,False,13.057,10.155,180,Observed footprint/function; inferred usable floor and staffing intensity
+w1123926219,55621,,warehouse,1292.46,False,9.232,7.18,180,Observed footprint/function; inferred usable floor and staffing intensity

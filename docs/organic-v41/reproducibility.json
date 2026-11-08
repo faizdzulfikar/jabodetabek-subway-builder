@@ -1,0 +1,8 @@
+{
+  "test": "Cached S0 allocation to full point OD30 and serialized candidate regenerated twice",
+  "first_sha256": "4f81e2a3ebf266e23704eafc91fb38d7ddca3719b945432a360d9a64a3ad579a",
+  "repeat_sha256": "4f81e2a3ebf266e23704eafc91fb38d7ddca3719b945432a360d9a64a3ad579a",
+  "byte_identical": true,
+  "seed": 20261107,
+  "scope": "Does not independently reproduce full OSM inventory extraction; geometry/input hashes tracked separately"
+}

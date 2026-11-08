@@ -1,0 +1,25 @@
+{
+  "stage": "A_COMPLETE_PROPOSAL_ONLY",
+  "production_unchanged": true,
+  "protected_asset_paths_checked": 19,
+  "production_changed_paths": [],
+  "baseline_runtime_verified": true,
+  "proposal_runtime_verified": false,
+  "candidate_static_gate": "passed",
+  "official_controls_exact": 446,
+  "all_village_population_and_worker_origin_totals_unchanged": true,
+  "regional_job_totals_unchanged": true,
+  "full_point_od_scenarios_verified": [
+    0.3,
+    0.4
+  ],
+  "capacity_and_regional_od_sensitivity_tables": "passed exact marginal checks",
+  "total_population": 32615007,
+  "total_working_tripmakers": 12646700,
+  "total_jobs": 12646700,
+  "population_relocated": 12142,
+  "production_demand_sha256": "8c6f5a75ec22fac174fd664359baccde19ed832c6a2dea3cb2bcd57e61fd4808",
+  "proposed_demand_sha256": "4f81e2a3ebf266e23704eafc91fb38d7ddca3719b945432a360d9a64a3ad579a",
+  "approval_required_before_install": true,
+  "expected_next_action": "User selects spatial S0 and OD30/40; S1 capacity pilot not recommended without stronger facility evidence"
+}

@@ -20,6 +20,6 @@
   "seed": 20261107,
   "data_port": 18765,
   "tile_port": 18766,
-  "notes": "Organic building/parcel demand v4. Full OSM inventory offline; lightweight game geometry unchanged. Official population controls2022/2025; workplace and OD allocations remain estimates.",
-  "demand_version": 4
+  "notes": "Organic demand v4.1 S0+OD40. Corrected constituent nonresidential functions;6restored hangars. All village population/worker and regional job totals unchanged. Lightweight map geometry unchanged.",
+  "demand_version": "4.1"
 }

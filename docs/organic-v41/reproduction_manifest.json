@@ -1,0 +1,45 @@
+{
+  "stage": "A_AUDIT_AND_PROPOSAL",
+  "python": "3.14.6 (v3.14.6:c63aec69bd5, Jun 10 2026, 08:07:54) [Clang 21.0.0 (clang-2100.1.1.101)]",
+  "packages": {
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "shapely": "2.2.0",
+    "pyproj": "3.8.0",
+    "rasterio": "1.5.2",
+    "osmium": "4.3.2",
+    "ortools": "9.15.6755",
+    "matplotlib": "3.11.2"
+  },
+  "cached_inputs": {
+    "work/organic-audit/inventory.sqlite": {
+      "bytes": 985509888,
+      "sha256": "7cb200108ced3ea5fff88673615cb128639d228aa50e6b5098ce261d4c9a736e"
+    },
+    "work/organic-audit/jabodetabek.osm.pbf": {
+      "bytes": 181121816,
+      "sha256": "2a090fb0f41c80a32b7591c9e7abd415cab9491722dc2ddb0a130f61c316403a"
+    },
+    "work/organic-audit/packaged_water.wkb": {
+      "bytes": 5028719,
+      "sha256": "bf179aa79c9a1dd94d71153f20125b859d2b215a88b0413e49607ef7589b618e"
+    },
+    "work/organic-stage-b/building_candidates.npz": {
+      "bytes": 194178421,
+      "sha256": "37746b924663112e4e3d422564564ebdc1864083f2766bfb81b8b1060180138c"
+    },
+    "work/organic-stage-b/cluster_members.npz": {
+      "bytes": 8509210,
+      "sha256": "ec7fe19a7a6c68451dda519b8d6db16f07cb75e1110755066616cc056602f3e4"
+    },
+    "work/organic-stage-b/worldcover2021_S09E105.tif": {
+      "bytes": 35646411,
+      "sha256": "2578bd221a6817c939222c5e1cc1727f994f675483d3579c057d1e4ccb642f39"
+    },
+    "work/demand-v3/jakarta-worker-all.json.gz": {
+      "bytes": 1094105,
+      "sha256": "a11e671f6c6dda2ad3675ec62dbc6e80cb4d972c6504722229b0dbf15eef4c85"
+    }
+  },
+  "limitations": "Inputs reproduce cached model stages; no claim all web pages or full fresh OSM extract can be recreated from repo alone. Sources include archived primary metadata and access limitations."
+}

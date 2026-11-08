@@ -1,0 +1,26 @@
+{
+  "current": {
+    "gzip_bytes": 3895853,
+    "points": 78404,
+    "groups": 126467,
+    "parse_seconds": 0.16884658302296884,
+    "python_peak_rss_bytes_macos": 218169344
+  },
+  "S0_OD30_candidate": {
+    "gzip_bytes": 3797067,
+    "points": 78526,
+    "groups": 126467,
+    "parse_seconds": 0.15853549999883398,
+    "python_peak_rss_bytes_macos": 219398144
+  },
+  "S0_OD40_control": {
+    "gzip_bytes": 3895337,
+    "points": 78407,
+    "groups": 126467,
+    "parse_seconds": 0.15812208299757913,
+    "python_peak_rss_bytes_macos": 218120192
+  },
+  "scope": "Single fresh Python process per file; warm OS cache, macOS ru_maxrss bytes. No FPS, network simulation or proposed game-runtime claim.",
+  "baseline_runtime_evidence": "../organic-stage-b/runtime_verification.json",
+  "candidate_runtime": "Not run, StageA does not install assets"
+}

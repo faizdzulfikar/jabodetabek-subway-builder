@@ -1,0 +1,29 @@
+{
+  "status": "B_V41_RUNTIME_VERIFIED",
+  "in_game_verified": true,
+  "candidate_sha256": "745238dcdef5351b39eb32eca9ff69322985fa695c3a0fd8701d6124a4e500db",
+  "verified_candidate_sha256": "745238dcdef5351b39eb32eca9ff69322985fa695c3a0fd8701d6124a4e500db",
+  "game_version": "1.7.2",
+  "mod_version": "0.2.2",
+  "verified_in_ui": [
+    "Cold app restart and fresh Jabodetabek sandbox after installation",
+    "Residents and Workers rendered; total12,646,700 before and after save/load",
+    "Selected point displays2,300Workers/23pops with OD lines",
+    "Pan/zoom viewport inspected; UI responsive qualitatively",
+    "New unique save Jabodetabek Organic v4.1 S0 OD40 QA created successfully",
+    "Loaded that save as city=JKT; both layers checked again",
+    "WorldCover attribution appears once; no existing saves overwritten"
+  ],
+  "save_name": "Jabodetabek Organic v4.1 S0 OD40 QA",
+  "verified_on": "2026-11-08",
+  "inspected_point_workers": 2300,
+  "game_process_rss_kib_after": 602720,
+  "performance_scope": "Qualitative rendering, switching layers, point details, pan/zoom and save/load only. RSS snapshot includes other mods and viewport/cache state; no isolated memory/FPS or large-network simulation benchmark.",
+  "screenshots": [
+    "game-v41-workers.jpg",
+    "game-v41-residents.jpg",
+    "game-v41-point-od.jpg",
+    "game-v41-saved.jpg",
+    "game-v41-reloaded.jpg"
+  ]
+}

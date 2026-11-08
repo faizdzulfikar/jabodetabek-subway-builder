@@ -1,0 +1,34 @@
+anchor,osm_id,reason,population_removed_from_anchor,working_origins_removed_from_anchor,admin_id,evidence
+92598,w48036383,parking_structure,531,200,31.71.07.1003,Observed tag
+111497,w137292478,storage_vessel,318,100,31.72.03.1001,Observed tag
+111498,w137292479,storage_vessel,585,200,31.72.03.1001,Observed tag
+111573,w137292487,storage_vessel,245,100,31.72.03.1001,Observed tag
+111499,w137292490,storage_vessel,499,200,31.72.03.1001,Observed tag
+111500,w137292491,storage_vessel,246,100,31.72.03.1001,Observed tag
+111574,w137292523,storage_vessel,210,100,31.72.03.1001,Observed tag
+55634,w203215402,named_airport_operations,347,100,36.71.04.1004,Inferred function from named operational building inside aerodrome
+55639,w203439457,named_airport_operations,754,300,36.71.04.1004,Inferred function from named operational building inside aerodrome
+55573,w297144829,named_airport_operations,325,100,36.71.04.1004,Inferred function from named operational building inside aerodrome
+55640,w297146119,named_airport_operations,176,100,36.71.04.1004,Inferred function from named operational building inside aerodrome
+88263,w367718921,parking_structure,6,0,31.71.07.1001,Observed tag
+111575,w402798580,storage_vessel,37,0,31.72.03.1001,Observed tag
+100272,w481927067,parking_structure,148,100,31.74.04.1006,Observed tag
+62279,w537074600,parking_structure,120,0,36.74.05.1002,Observed tag
+113042,w652989473,parking_structure,1564,600,31.72.01.1001,Observed tag
+86491,w822163256,parking_structure,1271,400,31.75.09.1001,Observed tag
+66685,w854089761,parking_structure,8,0,36.03.22.2006,Observed tag
+60918,w877546088,parking_structure,284,100,36.74.01.1001,Observed tag
+107197,w1046834892,parking_structure,22,0,31.74.09.1005,Observed tag
+55652,r15028035,named_airport_operations,1107,400,36.71.04.1004,Inferred function from named operational building inside aerodrome
+64521,w1125300610,parking_structure,219,100,36.03.23.2011,Observed tag
+55586,w1137262890,parking_structure,352,100,36.71.04.1004,Observed tag
+65999,w1190520916,parking_structure,118,100,36.03.23.2006,Observed tag
+84928,w1234091636,parking_structure,434,200,31.75.10.1001,Observed tag
+105517,w1244589742,parking_structure,37,0,31.74.07.1006,Observed tag
+68312,w1286073663,parking_structure,117,100,36.03.28.2006,Observed tag
+55656,w1417274266,storage_vessel,501,200,36.71.04.1004,Observed tag
+55657,w1417274271,storage_vessel,195,100,36.71.04.1004,Observed tag
+92605,w1443040480,parking_structure,157,100,31.71.07.1003,Observed tag
+97094,w1510606414,parking_structure,852,300,31.74.09.1004,Observed tag
+78070,w1552315321,parking_structure,234,100,36.03.14.1003,Observed tag
+75939,w1562560328,parking_structure,123,100,36.03.13.2001,Observed tag

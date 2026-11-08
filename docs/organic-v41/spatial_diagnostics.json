@@ -1,0 +1,30 @@
+{
+  "anchor_coordinate_phase_within10m_both_axes_of500m_centers": 0.0016733514469314701,
+  "phase_histogram25m": [
+    11427,
+    11541,
+    11588,
+    11679,
+    11575,
+    11685,
+    11645,
+    11452,
+    11668,
+    11698,
+    11740,
+    11727,
+    11639,
+    11517,
+    11601,
+    11567,
+    11501,
+    11569,
+    11638,
+    11413
+  ],
+  "population_anchor_count": 91138,
+  "working_origin_anchor_count": 64587,
+  "job_anchor_count": 57267,
+  "no_grid_method": "Coordinates identical to v4 actual building/parcel interiors plus6restored hangar interiors; no jitter or grid-placement operation",
+  "note": "Point sparsity can reflect100-person rounding and aggregation; all-inhabitants layer is only audit data, not game Residents."
+}

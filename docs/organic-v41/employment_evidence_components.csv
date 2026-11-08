@@ -1,0 +1,27 @@
+region,anchor_function_flag,current_jobs,proposed_jobs,proposed_floor_prior_jobs,proposed_neighborhood_prior_jobs,warning
+Bekasi,explicit_tag,200500,200500,149506,53976,Flag != workplace staffing observation; all job values are model estimates
+Bekasi,inferred_function,1054900,1054900,391404,660514,Flag != workplace staffing observation; all job values are model estimates
+Bogor,explicit_tag,180600,180600,143077,45182,Flag != workplace staffing observation; all job values are model estimates
+Bogor,inferred_function,1783000,1783000,184144,1591197,Flag != workplace staffing observation; all job values are model estimates
+Kota Bekasi,explicit_tag,141100,141100,128632,17181,Flag != workplace staffing observation; all job values are model estimates
+Kota Bekasi,inferred_function,699100,699100,94378,600009,Flag != workplace staffing observation; all job values are model estimates
+Kota Bogor,explicit_tag,104900,104900,92466,17599,Flag != workplace staffing observation; all job values are model estimates
+Kota Bogor,inferred_function,332500,332500,67755,259579,Flag != workplace staffing observation; all job values are model estimates
+Kota Depok,explicit_tag,92600,92600,88800,10117,Flag != workplace staffing observation; all job values are model estimates
+Kota Depok,inferred_function,436500,436500,90139,340044,Flag != workplace staffing observation; all job values are model estimates
+Kota Jakarta Barat,explicit_tag,353900,353900,348192,9937,Flag != workplace staffing observation; all job values are model estimates
+Kota Jakarta Barat,inferred_function,280100,280100,159008,116863,Flag != workplace staffing observation; all job values are model estimates
+Kota Jakarta Pusat,explicit_tag,817100,816300,761622,60380,Flag != workplace staffing observation; all job values are model estimates
+Kota Jakarta Pusat,inferred_function,382100,382900,169045,208153,Flag != workplace staffing observation; all job values are model estimates
+Kota Jakarta Selatan,explicit_tag,1026700,1025900,920035,119842,Flag != workplace staffing observation; all job values are model estimates
+Kota Jakarta Selatan,inferred_function,1054100,1054900,249264,791658,Flag != workplace staffing observation; all job values are model estimates
+Kota Jakarta Timur,explicit_tag,259200,258600,258697,4477,Flag != workplace staffing observation; all job values are model estimates
+Kota Jakarta Timur,inferred_function,323500,324100,171577,147949,Flag != workplace staffing observation; all job values are model estimates
+Kota Jakarta Utara,explicit_tag,313300,313200,306391,14100,Flag != workplace staffing observation; all job values are model estimates
+Kota Jakarta Utara,inferred_function,393300,393400,258889,127220,Flag != workplace staffing observation; all job values are model estimates
+Kota Tangerang,explicit_tag,149100,151000,135364,16656,Flag != workplace staffing observation; all job values are model estimates
+Kota Tangerang,inferred_function,703600,701700,92607,608072,Flag != workplace staffing observation; all job values are model estimates
+Kota Tangerang Selatan,explicit_tag,184200,184200,173946,12955,Flag != workplace staffing observation; all job values are model estimates
+Kota Tangerang Selatan,inferred_function,337900,337900,87870,247329,Flag != workplace staffing observation; all job values are model estimates
+Tangerang,explicit_tag,282100,281700,241049,38511,Flag != workplace staffing observation; all job values are model estimates
+Tangerang,inferred_function,760800,761200,308434,454907,Flag != workplace staffing observation; all job values are model estimates

@@ -1,0 +1,277 @@
+{
+  "status": "B_V41_COMPLETE",
+  "files": {
+    "BUILD_STATUS.json": {
+      "bytes": 2222,
+      "sha256": "87a3433f86a3d6855d1633eabfd6eefea6981b8d0628ae14c790240d560ac4bc"
+    },
+    "DATA_GUIDE.md": {
+      "bytes": 2905,
+      "sha256": "8e5b7e78a208502248d46612e704df66a4b9cc2ef9151de5a92ae2f3e102d5e5"
+    },
+    "README.md": {
+      "bytes": 8594,
+      "sha256": "272df1705bae8db5490076651bd1a65fc63a1b69367b6d1dc97d3e36f2023e0e"
+    },
+    "assets/JKT/demand-method.json": {
+      "bytes": 3932,
+      "sha256": "8879e86838da2c1bcc044113687d95c43d02df6d700fc813d1e043f3fc4ead50"
+    },
+    "docs/ORGANIC_V41_IMPLEMENTATION.md": {
+      "bytes": 7345,
+      "sha256": "ea91da9669015581f52ab4c20dc6f51d6481c3b71ecf86d3b93d59dbeec64143"
+    },
+    "docs/organic-v41-stage-b/area_comparison.csv": {
+      "bytes": 8128,
+      "sha256": "310fb15d817c8587cadf02a4f77cf5d288e6fa7419127848698c21eb06c59bcb"
+    },
+    "docs/organic-v41-stage-b/build_checks.json": {
+      "bytes": 734,
+      "sha256": "b32b226cfbe3dcbc146d0887ac5349701b9a88a8e7f0540f7a856c055baeb835"
+    },
+    "docs/organic-v41-stage-b/candidate-demand.json.gz": {
+      "bytes": 3894292,
+      "sha256": "745238dcdef5351b39eb32eca9ff69322985fa695c3a0fd8701d6124a4e500db"
+    },
+    "docs/organic-v41-stage-b/changed_source_anchors.csv": {
+      "bytes": 131704,
+      "sha256": "29b17710c2e89beaa5f4ed2cbf0bcd92cc8dc9e5a8f4bcc53e6b2ecdf7febb9d"
+    },
+    "docs/organic-v41-stage-b/comparison_summary.json": {
+      "bytes": 854,
+      "sha256": "007b8ea8055df283ea51c2441dde69358162d6ee4dc597354e929667b3ff1a38"
+    },
+    "docs/organic-v41-stage-b/delivery_checks.json": {
+      "bytes": 806,
+      "sha256": "28a71af7e81a6b928c7b88f3b57e4aa6b4ac34d9da04886e9b1a5d1f1f8c4739"
+    },
+    "docs/organic-v41-stage-b/demand_checks.json": {
+      "bytes": 1399,
+      "sha256": "5360496cc64611fdc2421b9dd7478d8b8e9fd5cda9199496f98a62e21b32565c"
+    },
+    "docs/organic-v41-stage-b/employment_capacity_regularization.json": {
+      "bytes": 2482,
+      "sha256": "967dbdd4ac6119130b21176ea8a2ee34468c3bb4d1ecfd48f22341cd32474376"
+    },
+    "docs/organic-v41-stage-b/engine_point_sources.json.gz": {
+      "bytes": 386418,
+      "sha256": "6b4fff5b408c66453459262d1675ecafd79921e7ca61830bf0a937f7dab41d1b"
+    },
+    "docs/organic-v41-stage-b/facility_access.csv": {
+      "bytes": 2822,
+      "sha256": "e431e6de822711f07479214f00daf8467c873020e10fcab64d40d3ca846415ba"
+    },
+    "docs/organic-v41-stage-b/game-v41-point-od.jpg": {
+      "bytes": 1225533,
+      "sha256": "386c57110ca73867786f6bd40fcfb83bac7897529423d7b924ef4592f2b2106a"
+    },
+    "docs/organic-v41-stage-b/game-v41-reloaded.jpg": {
+      "bytes": 1445351,
+      "sha256": "eeab6f78f60df2647c671c17dd8e8b736493dcca991529084eb435aa45cafea1"
+    },
+    "docs/organic-v41-stage-b/game-v41-residents.jpg": {
+      "bytes": 1672326,
+      "sha256": "1d0f56027c2700c8c82d68aaa9d7049a726846a2f78f626afb2ae59f138e40f2"
+    },
+    "docs/organic-v41-stage-b/game-v41-saved.jpg": {
+      "bytes": 335975,
+      "sha256": "be816cb099607b528d3cf6a2ff463e1c6ad80953c04dfc4c83fcd267aef2f9d6"
+    },
+    "docs/organic-v41-stage-b/game-v41-workers.jpg": {
+      "bytes": 1586353,
+      "sha256": "3c0edcfd87fbd7cd588b3b333f325dd2e6deac6a023071d4d1646f6e7824b54c"
+    },
+    "docs/organic-v41-stage-b/game_process_final.txt": {
+      "bytes": 656,
+      "sha256": "cc2efc53d58ba427ed3b8a830e9ea1fd6a672be412b02b9a1766fa1c8452ddc1"
+    },
+    "docs/organic-v41-stage-b/member_reclassification.csv": {
+      "bytes": 35467,
+      "sha256": "37418c47ff85bf8bc063f3e79bd61210a6d1ef1e6d1a1a8d7cae9e55bcac5d1a"
+    },
+    "docs/organic-v41-stage-b/od_pairs.npz": {
+      "bytes": 479567,
+      "sha256": "39acb104306e7fda26a98babffeacacbbf9bca586cbb9c690c1716c87d887028"
+    },
+    "docs/organic-v41-stage-b/parameters.json": {
+      "bytes": 593,
+      "sha256": "0d52f7c4c67fd4eaddd7b397ae6635572b47c1f223b4058e5edfb782174b26e1"
+    },
+    "docs/organic-v41-stage-b/population_control_checks.json": {
+      "bytes": 72652,
+      "sha256": "f9f20c2ae9007a8302e6d428b1532f383c274cc18af722b282667ebeb51b2af8"
+    },
+    "docs/organic-v41-stage-b/proposed_allocations.json.gz": {
+      "bytes": 4876837,
+      "sha256": "649709132311e445f515f45154a04a6a9122cb4cddbdf30af593c3f44fa82448"
+    },
+    "docs/organic-v41-stage-b/proposed_arrays.npz": {
+      "bytes": 4455378,
+      "sha256": "36a1c98550342c272660507e6700343b17beff092621ff01cd316c90b6eddbd7"
+    },
+    "docs/organic-v41-stage-b/regional_comparison.csv": {
+      "bytes": 876,
+      "sha256": "d15cdb79204ca7397886e3898dd91ab0ccdf5402a00bf11a852632704826f8f4"
+    },
+    "docs/organic-v41-stage-b/regional_od.csv": {
+      "bytes": 1390,
+      "sha256": "b48c80d80c5aa008c36172abef5a515f5795f69ed8510e231f7ca380441be7cd"
+    },
+    "docs/organic-v41-stage-b/regional_od_units.npy": {
+      "bytes": 1480,
+      "sha256": "4b7c12330f17301ddedf1f4a97de3d31b6bc567fb96d17b04bd2760a8c68d634"
+    },
+    "docs/organic-v41-stage-b/reproducibility.json": {
+      "bytes": 536,
+      "sha256": "89d60091a749ef0b3446cbd16f9779c55b6d0e4e858cb3afce260086d6968318"
+    },
+    "docs/organic-v41-stage-b/rollback-v4/BUILD_STATUS.json": {
+      "bytes": 2192,
+      "sha256": "22dd0cbad029cec1f0cdaaa4051f973d988870b6bfd1b48912e517fc554ec925"
+    },
+    "docs/organic-v41-stage-b/rollback-v4/DATA_GUIDE.md": {
+      "bytes": 3008,
+      "sha256": "16662bd2bd0bbae0127215db90802a95b25a224a2fb2965cfad47f5ee5c3a822"
+    },
+    "docs/organic-v41-stage-b/rollback-v4/README.md": {
+      "bytes": 8503,
+      "sha256": "d659d054e7a10bbb973479a2697f17429f3ff5191d703198486092cc834a9135"
+    },
+    "docs/organic-v41-stage-b/rollback-v4/assets/JKT/demand-method.json": {
+      "bytes": 3670,
+      "sha256": "e507b884e9860985fb416506acb38dacc6e2df4c992419a43f37920b6872fe00"
+    },
+    "docs/organic-v41-stage-b/rollback-v4/assets/JKT/demand_data.json.gz": {
+      "bytes": 3895853,
+      "sha256": "8c6f5a75ec22fac174fd664359baccde19ed832c6a2dea3cb2bcd57e61fd4808"
+    },
+    "docs/organic-v41-stage-b/rollback-v4/config.json": {
+      "bytes": 613,
+      "sha256": "af1fe629ab06e067fe9e02f637df2f454551e7d1a37aeb5ec70e0632416effe0"
+    },
+    "docs/organic-v41-stage-b/rollback-v4/manifest.json": {
+      "bytes": 1042,
+      "sha256": "4eff78ff9e37bee06e9e57f743667e5b95b3406acb5b98c115c364e069f139e3"
+    },
+    "docs/organic-v41-stage-b/rollback-v4/mod/config.json": {
+      "bytes": 392,
+      "sha256": "7bfd6a9254f87ba92858d7a848439aa7896595cbf187fa3a6f02947666baf042"
+    },
+    "docs/organic-v41-stage-b/rollback-v4/mod/index.js": {
+      "bytes": 4320,
+      "sha256": "f349dc1239ed94a4cb49390c66e68c5efb70c54877206896500d45f80b8b0805"
+    },
+    "docs/organic-v41-stage-b/rollback-v4/mod/manifest.json": {
+      "bytes": 355,
+      "sha256": "d2fcfe5be0866c78eab0f375a2215ac569b6e176f327df0756df6d80d34b9b60"
+    },
+    "docs/organic-v41-stage-b/rollback-v4/sources/government/COVERAGE.md": {
+      "bytes": 3517,
+      "sha256": "b167a84747c576bc2947bcaa216601fccbae622f0d83064a88c319d16eeace85"
+    },
+    "docs/organic-v41-stage-b/rollback-v4/sources/government/kelurahan_estimates.csv": {
+      "bytes": 252679,
+      "sha256": "cbcc1d25d71e8df2339b717e12a47ab7fba82c442220c0af127f38b8cc572b05"
+    },
+    "docs/organic-v41-stage-b/route_sample.json": {
+      "bytes": 30691,
+      "sha256": "ddd7f86e70a7c23dbb814e5860557e99f15584487564d501de199c1e08023c59"
+    },
+    "docs/organic-v41-stage-b/runtime_verification.json": {
+      "bytes": 1394,
+      "sha256": "d85f3f38522e4de62784a758cb6a2260ec21bfdad1a2a2d426f4a583162c8fa9"
+    },
+    "docs/organic-v41-stage-b/validation.json": {
+      "bytes": 1210,
+      "sha256": "14a908d518fef835595b4cd16b042dff6313bfd28f2e9fe42121a1cde1e8c482"
+    },
+    "scripts/organic_v41/audit.py": {
+      "bytes": 27633,
+      "sha256": "b2c8893956d885fcafd49e08035f813ec10bdb1244268709704951ad117d0b16"
+    },
+    "scripts/organic_v41/build_demand.py": {
+      "bytes": 8744,
+      "sha256": "8d4843150ebec5c98b2650528db7752f902a7bc0e438124039af8830f2f0f8fe"
+    },
+    "scripts/organic_v41/build_s0.py": {
+      "bytes": 12510,
+      "sha256": "37f8861a9ab22ff21c7677f45f24c6ce7eb26506d2c5865132485e76869b2d5a"
+    },
+    "scripts/organic_v41/demand_preview.py": {
+      "bytes": 8219,
+      "sha256": "6ecac8918fb72b99a139a1cd39531af48ced8dabb11ec8775b516adb24b45e62"
+    },
+    "scripts/organic_v41/developed_area.py": {
+      "bytes": 1944,
+      "sha256": "0a26434b046d4e00579531b78edc7123beda127708ec5311552ece670e9232a2"
+    },
+    "scripts/organic_v41/diagnostics.py": {
+      "bytes": 14833,
+      "sha256": "b10bfc51957f5eab80b3ff887d6b256d7e85da872be8c6cee60fe12622faae3c"
+    },
+    "scripts/organic_v41/extract_engine.mjs": {
+      "bytes": 667,
+      "sha256": "c8ce2a9ab54c9afa2f44bfc9cae167ecd0861add88778bb7b498669c002166b5"
+    },
+    "scripts/organic_v41/final_checks.py": {
+      "bytes": 5052,
+      "sha256": "4626c7dbd327425ed9f648337b331322c7ca89ab6c1d095caa9a1803220f4176"
+    },
+    "scripts/organic_v41/final_release_checks.py": {
+      "bytes": 3446,
+      "sha256": "2cdaec3d1a6eaa19dacd04e99becd31697e49c3bb78d275304ec60a738eb6886"
+    },
+    "scripts/organic_v41/install_s0.py": {
+      "bytes": 8569,
+      "sha256": "6e9f14f1c3d9e6c3e10694e02a1da65bae4f0e076d375827bfd732db408a64fe"
+    },
+    "scripts/organic_v41/od_review.py": {
+      "bytes": 2474,
+      "sha256": "9c7d40d0acb751e6da3e22d07443551be5ef8a7d5283b7964dd47ea3b7f589a2"
+    },
+    "scripts/organic_v41/performance.py": {
+      "bytes": 1221,
+      "sha256": "3b9d8b9164e3beb284c2f6a0ed510300e070c9e2f3f0723f43e87a5c7b2839c8"
+    },
+    "scripts/organic_v41/release_comparison.py": {
+      "bytes": 4234,
+      "sha256": "2b6ec0e9d0dd9c876054928275ad78f824589452ce0f105737cd78dee688fee0"
+    },
+    "scripts/organic_v41/release_report.py": {
+      "bytes": 9062,
+      "sha256": "f50cba538b64b96ae7a5dfe03012935eb307b5d8d8e196669d67ddd9b553bf75"
+    },
+    "scripts/organic_v41/reports.py": {
+      "bytes": 44305,
+      "sha256": "b6a860333e93545652c36d65a0d28c44bfad59bf200d3d54e3232a4f4335d0b6"
+    },
+    "scripts/organic_v41/research_sources.py": {
+      "bytes": 9803,
+      "sha256": "6a2cf6a03ed1dd9cb2fb9f4ba611ceeae3c05ef7c7f813c733f9339f13bcfae0"
+    },
+    "scripts/organic_v41/residential_visuals.py": {
+      "bytes": 2520,
+      "sha256": "3f6b79639fed1506fc03f0fee45225226678ae822950824324c45e68fef2acea"
+    },
+    "scripts/organic_v41/review_manifest.py": {
+      "bytes": 2796,
+      "sha256": "716aeb8b5b324eea05ec132e9ec818ca8aad487f899d5ca84fbc0878aaf88afd"
+    },
+    "scripts/organic_v41/rollback_v4.py": {
+      "bytes": 855,
+      "sha256": "78c83c0a18e05ec6bfedaae677db04b04ccae7c2cec349b216db9738137d38d6"
+    },
+    "scripts/organic_v41/route_release.py": {
+      "bytes": 3757,
+      "sha256": "bbff6df3073cfd2d981aac6067f7b0f6637e2fe40d9cf1e4141f5ac44f1c31c7"
+    },
+    "scripts/organic_v41/verify.py": {
+      "bytes": 6828,
+      "sha256": "05400079987b93b0f0ee6fd22a6bd189bd6d95062de3bd6e0d009f843546ecc0"
+    },
+    "scripts/organic_v41/verify_release.py": {
+      "bytes": 6834,
+      "sha256": "17572e49c121fcbcca1a92e19457212432efa115cd3891cbb35aa7f4cc23b2fa"
+    }
+  }
+}

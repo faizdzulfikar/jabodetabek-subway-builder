@@ -1,0 +1,16 @@
+osm_id,name,type,road_distance_m,anchor_longitude,anchor_latitude,access_evidence,crosses_mapped_airside_or_water
+w297144829,Emergency Hall,transport,230.16,106.64450734795415,-6.128121424301617,inferred nearest mapped local road outside runway/taxiway/apron; not surveyed employee entrance,False
+w203215402,Utility Building,transport,50.85,106.63692062587992,-6.134121972776115,inferred nearest mapped local road outside runway/taxiway/apron; not surveyed employee entrance,False
+w203215384,Multipurpose Building,community,88.34,106.64045947935571,-6.133072083706421,inferred nearest mapped local road outside runway/taxiway/apron; not surveyed employee entrance,False
+w203215385,Management Building,office,59.96,106.63951126571136,-6.133169395716024,inferred nearest mapped local road outside runway/taxiway/apron; not surveyed employee entrance,False
+w203439457,Marketing Office,office,179.43,106.63880607607504,-6.134612594287076,inferred nearest mapped local road outside runway/taxiway/apron; not surveyed employee entrance,False
+w297146119,Ground Support Equipment,transport,738.69,106.6594643700035,-6.131501553964537,inferred nearest mapped local road outside runway/taxiway/apron; not surveyed employee entrance,False
+w203215410,Reservation Center,office,81.97,106.64379236094645,-6.131683013344333,inferred nearest mapped local road outside runway/taxiway/apron; not surveyed employee entrance,False
+w297143778,Garuda Club,community,67.01,106.64130775892025,-6.132531054446518,inferred nearest mapped local road outside runway/taxiway/apron; not surveyed employee entrance,False
+r15028035,Garuda City Centre,office,144.76,106.64230452313646,-6.132888606968597,inferred nearest mapped local road outside runway/taxiway/apron; not surveyed employee entrance,False
+w167421106,Hangar 1,hangar,529.38,106.64178414744039,-6.1368360987689385,inferred nearest mapped local road outside runway/taxiway/apron; not surveyed employee entrance,False
+w167421177,Hangar 3,hangar,590.41,106.6445019928717,-6.135325851173384,inferred nearest mapped local road outside runway/taxiway/apron; not surveyed employee entrance,False
+w203212758,Metro Batavia Hangar,hangar,596.73,106.64293388166539,-6.125171193809555,inferred nearest mapped local road outside runway/taxiway/apron; not surveyed employee entrance,False
+w324942864,Hangar 2,hangar,816.38,106.64254909575658,-6.137276832495324,inferred nearest mapped local road outside runway/taxiway/apron; not surveyed employee entrance,False
+w324942865,Hangar 4,hangar,286.77,106.64624011364698,-6.132715113764298,inferred nearest mapped local road outside runway/taxiway/apron; not surveyed employee entrance,False
+w1121170990,,hangar,276.05,106.64427059248662,-6.133381388845148,inferred nearest mapped local road outside runway/taxiway/apron; not surveyed employee entrance,False

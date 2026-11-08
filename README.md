@@ -11,13 +11,14 @@ The map starts empty, for building your own network.
 
 ## Status
 
-Final organic v4 data (mod 0.2.1) is installed and passed structural, spatial and
-conservation checks. Verified in Subway Builder 1.7.2 on 8 November 2026: fresh
-sandbox, Residents/Workers, point details, pan/zoom, and save/load. The new save is
-**Jabodetabek Organic v4 Final QA**; existing saves were not overwritten.
-See [Stage B report](docs/ORGANIC_DEMAND_STAGE_B.md) and
-[runtime evidence](docs/organic-stage-b/runtime_verification.json).
-Keep the local tile server running while playing. Local jobs and OD remain estimates.
+Organic demand v4.1 S0+OD40 (mod 0.2.2) is installed and passed independent
+spatial/statistical/schema gates. Verified in Subway Builder 1.7.2 on 8 November 2026:
+fresh sandbox, Residents/Workers, point/OD details, pan/zoom and save/load.
+Save: **Jabodetabek Organic v4.1 S0 OD40 QA**; older saves were not overwritten.
+All population, village working-origin and regional job totals are unchanged.
+See [v4.1 release report](docs/ORGANIC_V41_IMPLEMENTATION.md) and
+[runtime evidence](docs/organic-v41-stage-b/runtime_verification.json).
+Keep the local tile server running while playing. Workplaces and OD remain estimates.
 
 ## Data and limitations
 

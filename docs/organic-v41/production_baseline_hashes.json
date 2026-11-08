@@ -1,0 +1,21 @@
+{
+  "assets/.DS_Store": "a8e04fb4fb5da6cc16cb679744e47c212945bbd49086d2e66f222beaf73e94f5",
+  "assets/JKT.pmtiles": "479c077008c1326fd84ef4093861c5e8bf4934d48d27964a3a6ae4f802214750",
+  "assets/JKT_foundations.pmtiles": "d2381bf8cc6694c47d261d5a5477097e8c1aed8787d0a6bd71a99db4db33cfdf",
+  "assets/JKT/demand-method.json": "e507b884e9860985fb416506acb38dacc6e2df4c992419a43f37920b6872fe00",
+  "assets/JKT/demand_data.json.gz": "8c6f5a75ec22fac174fd664359baccde19ed832c6a2dea3cb2bcd57e61fd4808",
+  "assets/JKT/government_inputs.json.gz": "9cbb71db3b8c3e9adddf3f6833a094e0b02e74459e3aa815d4720b6b550c6d7a",
+  "assets/JKT/buildings_index.bin.gz": "3fcf883716623e8247359d7471e2f581304222b2ba65a0113c956491a021a35b",
+  "assets/JKT/calibration_inputs.json.gz": "254ca8ffee9e820a6bfffc0839a8fd95d3989557ea5cecde0aebfbc1ccd41ad1",
+  "assets/JKT/runways_taxiways.geojson.gz": "e14eae1c2184346163dbcfcf39682234cf832b1570c4a206c16d027ef116a00f",
+  "assets/JKT/roads.geojson.gz": "871057406cb5581c3a227696548a8f2ec907de9ca9f0da8b9c25c3a03a4d0273",
+  "mod/demand_data.json.gz": "8c6f5a75ec22fac174fd664359baccde19ed832c6a2dea3cb2bcd57e61fd4808",
+  "mod/config.json": "7bfd6a9254f87ba92858d7a848439aa7896595cbf187fa3a6f02947666baf042",
+  "mod/index.js": "f349dc1239ed94a4cb49390c66e68c5efb70c54877206896500d45f80b8b0805",
+  "mod/buildings_index.bin.gz": "3fcf883716623e8247359d7471e2f581304222b2ba65a0113c956491a021a35b",
+  "mod/manifest.json": "d2fcfe5be0866c78eab0f375a2215ac569b6e176f327df0756df6d80d34b9b60",
+  "mod/runways_taxiways.geojson.gz": "e14eae1c2184346163dbcfcf39682234cf832b1570c4a206c16d027ef116a00f",
+  "mod/roads.geojson.gz": "871057406cb5581c3a227696548a8f2ec907de9ca9f0da8b9c25c3a03a4d0273",
+  "config.json": "af1fe629ab06e067fe9e02f637df2f454551e7d1a37aeb5ec70e0632416effe0",
+  "BUILD_STATUS.json": "22dd0cbad029cec1f0cdaaa4051f973d988870b6bfd1b48912e517fc554ec925"
+}

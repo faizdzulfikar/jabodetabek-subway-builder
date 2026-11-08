@@ -1,0 +1,13 @@
+{
+  "allocation_byte_identical": true,
+  "demand_byte_identical": true,
+  "first": {
+    "proposed_allocations.json.gz": "649709132311e445f515f45154a04a6a9122cb4cddbdf30af593c3f44fa82448",
+    "candidate-demand.json.gz": "745238dcdef5351b39eb32eca9ff69322985fa695c3a0fd8701d6124a4e500db"
+  },
+  "repeat": {
+    "proposed_allocations.json.gz": "649709132311e445f515f45154a04a6a9122cb4cddbdf30af593c3f44fa82448",
+    "candidate-demand.json.gz": "745238dcdef5351b39eb32eca9ff69322985fa695c3a0fd8701d6124a4e500db"
+  },
+  "seed": 20261107
+}

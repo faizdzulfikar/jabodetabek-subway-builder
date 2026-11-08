@@ -1,0 +1,389 @@
+{
+  "stage": "A_COMPLETE_PROPOSAL_ONLY",
+  "production_assets_unchanged": true,
+  "proposal_not_installed": true,
+  "proposal_not_game_verified": true,
+  "required_reports": [
+    "ORGANIC_V41_MASTER_AUDIT.md",
+    "SUBURBAN_RESIDENTIAL_AUDIT.md",
+    "EMPLOYMENT_DENSITY_AUDIT.md",
+    "AIRPORT_INDUSTRIAL_EMPLOYMENT_AUDIT.md",
+    "POPULATION_DEMAND_GAP_AUDIT.md",
+    "ORGANIC_V41_CALIBRATION_PROPOSAL.md"
+  ],
+  "local_markdown_links": "passed",
+  "files": {
+    "docs/AIRPORT_INDUSTRIAL_EMPLOYMENT_AUDIT.md": {
+      "bytes": 7739,
+      "sha256": "f6ce4fac6396581fb94365c7e0b1cfa1f6f3a8d45d6a109f083507a604d55c85"
+    },
+    "docs/EMPLOYMENT_DENSITY_AUDIT.md": {
+      "bytes": 8917,
+      "sha256": "268e256aec35f024206dbad00913b520f9c33f63d914bed8b8becf1c69a9503f"
+    },
+    "docs/ORGANIC_V41_CALIBRATION_PROPOSAL.md": {
+      "bytes": 7808,
+      "sha256": "8cfbfba97adc7eb46f78d85b829ad9410fa03c36cc5aad1d062b1113a8bf49fd"
+    },
+    "docs/ORGANIC_V41_MASTER_AUDIT.md": {
+      "bytes": 11706,
+      "sha256": "781855cc2730357994db6077a18da54321a0f8e48ec66cb2606b21907e67748d"
+    },
+    "docs/POPULATION_DEMAND_GAP_AUDIT.md": {
+      "bytes": 5499,
+      "sha256": "1e0ae63f95b930cb49407210022ec97996a95d3b95a4ba7a0be30cad491b0fe9"
+    },
+    "docs/SUBURBAN_RESIDENTIAL_AUDIT.md": {
+      "bytes": 9751,
+      "sha256": "e30ea845017804fc25f56050d928da29e4dd4e750a67c683de061a85f980d6fd"
+    },
+    "docs/organic-v41/AREA_DETAILS.md": {
+      "bytes": 66834,
+      "sha256": "b320d9b69a133e954925052de3ad5d61fbe0058e2947bd331cb5c914ae7c4cfa"
+    },
+    "docs/organic-v41/README.md": {
+      "bytes": 373,
+      "sha256": "82587f84f87a9e4fb025decfc2570cb278d7f3b3ca4895ef8f3a7c467ba8411c"
+    },
+    "docs/organic-v41/additional_coverage_review.csv": {
+      "bytes": 1862,
+      "sha256": "54fad6d097e8ccf3c021c963bb5ff3a5772e52d118046e4d88784cdc1b611433"
+    },
+    "docs/organic-v41/airport_facility_capacity.csv": {
+      "bytes": 2779,
+      "sha256": "ae69db51c1a16cddd813c2e8e6cab3bdcf1c397f912f1dbc258ead95a453c721"
+    },
+    "docs/organic-v41/airport_residential.png": {
+      "bytes": 335409,
+      "sha256": "09bb377f01b5895d00cf300d7bbe8e04a9e049925287999ec094be349d25b2ee"
+    },
+    "docs/organic-v41/airport_role_comparison.csv": {
+      "bytes": 1191,
+      "sha256": "f34fd1d48a53164dde58ff4930f5e0a87eb85f35fcbea2f667981d57d49d99d5"
+    },
+    "docs/organic-v41/all_district_comparison.csv": {
+      "bytes": 19021,
+      "sha256": "7512508c8a3b6bfd7799d10c2aa096cd4dbc8852b20380a4a78dc71f39bf22dc"
+    },
+    "docs/organic-v41/archive_v4_EMPLOYMENT_DENSITY_AUDIT.md": {
+      "bytes": 7520,
+      "sha256": "48b20d70ea3b5f4d9bb1a8007149d3f47a767144ab20d5ea96f5e332254c38ec"
+    },
+    "docs/organic-v41/area_comparison.csv": {
+      "bytes": 39857,
+      "sha256": "653215df860bb6deb57e542b235fab57a90e9779e21bffd67cad76aa7220fa0e"
+    },
+    "docs/organic-v41/area_masks.npz": {
+      "bytes": 26829,
+      "sha256": "e8e41583e25a63b1dedb3a180f40c4f8c40f3c439f8b5d57da93629552ac2831"
+    },
+    "docs/organic-v41/area_order.json": {
+      "bytes": 1735,
+      "sha256": "bac71e70ea6e86fbae3f38a44b416dcf53fc27a87c498d98e720ce0c410b0b5d"
+    },
+    "docs/organic-v41/audit_boundaries.geojson.gz": {
+      "bytes": 681323,
+      "sha256": "b94814fa41ccdaf053f5ed54115f886d393e1bb72c106a60546f68e67c8f222e"
+    },
+    "docs/organic-v41/audit_checks.json": {
+      "bytes": 1331,
+      "sha256": "d818ae4067c18c0ed1641a17efc57f49e560be402c6069b99695ec35247d26ed"
+    },
+    "docs/organic-v41/bekasi_residential.png": {
+      "bytes": 1188169,
+      "sha256": "bdf3d279328534e8a64382b16165810ca42b337763395805a89dfdef6d6c2a78"
+    },
+    "docs/organic-v41/bogor_residential.png": {
+      "bytes": 1276217,
+      "sha256": "26548320123801bacb8e42c8e2167a747935b8977a6cfb53b612c5eaabbd096b"
+    },
+    "docs/organic-v41/bsd_residential.png": {
+      "bytes": 879651,
+      "sha256": "694654d9d78acabc32c529666c1c8a0b48c19ba92c532dc2a6ee19004cbed568"
+    },
+    "docs/organic-v41/candidate-demand.json.gz": {
+      "bytes": 3797067,
+      "sha256": "4f81e2a3ebf266e23704eafc91fb38d7ddca3719b945432a360d9a64a3ad579a"
+    },
+    "docs/organic-v41/capacity_sensitivity.csv": {
+      "bytes": 20976,
+      "sha256": "f0527deef838550975f79170b395e136d4e4e03b9951e827012aace334dce40f"
+    },
+    "docs/organic-v41/completion_checks.json": {
+      "bytes": 1050,
+      "sha256": "7212adf574e9612774af48f523f2ce71adf251446c010898720ffd57bbffffdd"
+    },
+    "docs/organic-v41/demand_checks.json": {
+      "bytes": 1419,
+      "sha256": "b24283d7fa2816f9843040283a67da00565a6491a69750f58c1607f9a6dce846"
+    },
+    "docs/organic-v41/diagnostic_checks.json": {
+      "bytes": 470,
+      "sha256": "d3a52e483225e4224c524ea0433ffbc3a32430dab2b01f1bd3cbafbe472a0af8"
+    },
+    "docs/organic-v41/employment_evidence_components.csv": {
+      "bytes": 3573,
+      "sha256": "878deb367184f24387a32729dcb9ea4789a88f493e1dc81a31c1732006bc8610"
+    },
+    "docs/organic-v41/engine_point_sources.json.gz": {
+      "bytes": 387598,
+      "sha256": "c4c4102c66aa858e0bf6efba26ef72cef3ad9e6f2424451b338c3863f09088a1"
+    },
+    "docs/organic-v41/engine_semantics.json": {
+      "bytes": 4072,
+      "sha256": "f3cc73492f6e14ea01e0c444fde7b41e36ee59b8bc9b8a12eb715e62ed23232e"
+    },
+    "docs/organic-v41/facility_capacity_changes.csv": {
+      "bytes": 589419,
+      "sha256": "82543de7c6d455715e8b40be928a73cd8b1a623b3fd3fe5f9385142a09c23581"
+    },
+    "docs/organic-v41/focus_airport.png": {
+      "bytes": 210249,
+      "sha256": "e13cc4a96b38b52ee24437f1ffa013cfadb1a6070ba89e67aa2560e7770e057d"
+    },
+    "docs/organic-v41/focus_bogor_nambo.png": {
+      "bytes": 958962,
+      "sha256": "f73d9501706982fe84950f323bd7b28795e5d8af1caa7c4e5db30baa3e1622b2"
+    },
+    "docs/organic-v41/focus_bsd.png": {
+      "bytes": 545508,
+      "sha256": "7365f2a05679ab29a9689fcd0dd82ae14fdb224664d831728a3bf66426b55b61"
+    },
+    "docs/organic-v41/focus_cikarang.png": {
+      "bytes": 667637,
+      "sha256": "aa3c16bc5bdf0b17d32d2bb573bb0e17d7d4b281c0f608484bec4702cef37893"
+    },
+    "docs/organic-v41/function_comparison.csv": {
+      "bytes": 2033,
+      "sha256": "ba9403c7a7d92fa73f398a6d149fe95cf769ed410dc1acfaaee26da390f2bb19"
+    },
+    "docs/organic-v41/input_manifest.json": {
+      "bytes": 1794,
+      "sha256": "9c9887c4bde34b51202a292f5af04ee9be5508e618342df1164db512106c0b7b"
+    },
+    "docs/organic-v41/jakarta_occupation_subset.json": {
+      "bytes": 2934,
+      "sha256": "3f5e171dc38abb4affa848ee92bf8e98150eb1d8be6afd9002fd19b0ed5d3722"
+    },
+    "docs/organic-v41/local_corridor_od.csv": {
+      "bytes": 3249,
+      "sha256": "3b9c58d31c3ad55bfc3f4b565f1914bf44448912c892921cb5f935ebd9f96875"
+    },
+    "docs/organic-v41/metro_before_after.png": {
+      "bytes": 2823710,
+      "sha256": "f6d825bb2f17968c26e583e4f60ba705b024ee5cd57595fe7c90886d4a387d0a"
+    },
+    "docs/organic-v41/od40/candidate-demand.json.gz": {
+      "bytes": 3895337,
+      "sha256": "47cb801fb3f2a42d50c9ac9ee0916456fb15eff1c6b6aa21a4e3e3b652cfcd67"
+    },
+    "docs/organic-v41/od40/demand_checks.json": {
+      "bytes": 1431,
+      "sha256": "2245803049c8414f98292b2e5cf7134a18ef7aba705a7bae77e089aff15c7417"
+    },
+    "docs/organic-v41/od40/engine_point_sources.json.gz": {
+      "bytes": 386876,
+      "sha256": "6c46bb973dec455b19e5e57914ebcd5c7e85a0c7d5b0b4b6e20c520d7e38fe91"
+    },
+    "docs/organic-v41/od40/od_pairs.npz": {
+      "bytes": 479886,
+      "sha256": "3b13a51476193498b9c2eed9b4327e9a180c9fd634117ab7b75c5073e0dae291"
+    },
+    "docs/organic-v41/od40/regional_od.csv": {
+      "bytes": 1390,
+      "sha256": "be573f0d8a192621f18586755742d0fe7de5d9efeb57ab2fd90621e701a7d430"
+    },
+    "docs/organic-v41/od40/regional_od_units.npy": {
+      "bytes": 1480,
+      "sha256": "846a03a8fd607f6d75e525c4613118822a704314a4d0ae5c45da1e81700b316f"
+    },
+    "docs/organic-v41/od_diagnostics.json": {
+      "bytes": 927,
+      "sha256": "36d0e355f8320f36a3f2dd445377b855d7a1be1c5bb2beec82e9ca18a49e5265"
+    },
+    "docs/organic-v41/od_pairs.npz": {
+      "bytes": 452873,
+      "sha256": "a980624889b5205ebfd1a0317e1de768f3ac9a2529e92ba832cb27cbf9513e48"
+    },
+    "docs/organic-v41/od_scenarios.npz": {
+      "bytes": 6786,
+      "sha256": "8ca14cb2f2cbcdaa1713033e57cf2f6b8beefe90ccd95b1e5364d44f6ac410e5"
+    },
+    "docs/organic-v41/od_sensitivity.json": {
+      "bytes": 3849,
+      "sha256": "8624c2f88b5ac2b59b522251e7cffdee9fa5ae74d2eab18c12a734b2ed8e749c"
+    },
+    "docs/organic-v41/od_tau12_cross30.csv": {
+      "bytes": 1343,
+      "sha256": "ac4c68e17c53b27b762615ca5ee5e40755072fd3c4342fbce0944e627a63c1e0"
+    },
+    "docs/organic-v41/od_tau12_cross35.csv": {
+      "bytes": 1365,
+      "sha256": "a7f977d676995b29b19a9fa2876f6f372752d853a42402bc4252afe10a30366c"
+    },
+    "docs/organic-v41/od_tau12_cross40.csv": {
+      "bytes": 1379,
+      "sha256": "26c919ccdc4fba9be6c375f9077f5bdc7d932197f57e110df064e0a582acc045"
+    },
+    "docs/organic-v41/od_tau18_cross30.csv": {
+      "bytes": 1358,
+      "sha256": "4646a55142475d3dd0a73dd800f869a3e6da63461f0600164f8c92b319f89bec"
+    },
+    "docs/organic-v41/od_tau18_cross35.csv": {
+      "bytes": 1373,
+      "sha256": "0200e89e4805d700dbc8a78b1c88acbdabf6675c436592f7eb0af469b8d57ce6"
+    },
+    "docs/organic-v41/od_tau18_cross40.csv": {
+      "bytes": 1390,
+      "sha256": "be573f0d8a192621f18586755742d0fe7de5d9efeb57ab2fd90621e701a7d430"
+    },
+    "docs/organic-v41/od_tau30_cross30.csv": {
+      "bytes": 1359,
+      "sha256": "48a4ac73dfc9c6bf2bb913a7776caeafba61d73eb6c08faadb3945b997b1be99"
+    },
+    "docs/organic-v41/od_tau30_cross35.csv": {
+      "bytes": 1382,
+      "sha256": "0e0878a0dd0cf38bb8d10cc69c499ea58fa3671e4d1cdf1caf1c3625473cab83"
+    },
+    "docs/organic-v41/od_tau30_cross40.csv": {
+      "bytes": 1397,
+      "sha256": "304dc0eae6310205ebc3d0397f7c4227589dd1a89941231d332f23fc0ffc3b2a"
+    },
+    "docs/organic-v41/performance.json": {
+      "bytes": 846,
+      "sha256": "876a7a19bd770cf98a16a2532a27bc9401d50db68719f4b66b391965f09905fa"
+    },
+    "docs/organic-v41/pilot_allocations.json.gz": {
+      "bytes": 4872697,
+      "sha256": "e26807c58f6a99ea09e0aa98ea6f49df23f8efb83e5fb47463e09b89a85a8477"
+    },
+    "docs/organic-v41/pilot_arrays.npz": {
+      "bytes": 4077756,
+      "sha256": "f4f86b7fd4daad3d9ded6e68b5aa031f5c9ef40725f3d6814206ddf269d24e8c"
+    },
+    "docs/organic-v41/point_comparison.csv.gz": {
+      "bytes": 3489931,
+      "sha256": "de39f99729a5cf2f69888ffbc1ae3d3e946c5cb64e46c494edae7ea9503e7468"
+    },
+    "docs/organic-v41/population_control_checks.json": {
+      "bytes": 72652,
+      "sha256": "f9f20c2ae9007a8302e6d428b1532f383c274cc18af722b282667ebeb51b2af8"
+    },
+    "docs/organic-v41/production_baseline_hashes.json": {
+      "bytes": 1875,
+      "sha256": "c950a313079de8ad4c741fe9fd2f287b5aa2ff8efa0e2fd6c1454efd96d51f45"
+    },
+    "docs/organic-v41/proposed_allocations.json.gz": {
+      "bytes": 4872670,
+      "sha256": "a684a9ae68dc2b018cf3137ddf109d136d41d440e1e6c0bd0bb9a3f96dc632a1"
+    },
+    "docs/organic-v41/proposed_arrays.npz": {
+      "bytes": 4077748,
+      "sha256": "e5a402ab233e31323d23f182bb4ad3f014eca5ed704ed0c5568aa79d5283e189"
+    },
+    "docs/organic-v41/regional_comparison.csv": {
+      "bytes": 2595,
+      "sha256": "9481b84f030c3a48aacb43272e1cb9f26cbca45241a1fff31ccf0b070e0f335c"
+    },
+    "docs/organic-v41/regional_corridor_od.csv": {
+      "bytes": 968,
+      "sha256": "df674faff2209b513afdd12ebdf9828527d16514d1437f336ed76dd3b898623f"
+    },
+    "docs/organic-v41/regional_od.csv": {
+      "bytes": 1358,
+      "sha256": "4646a55142475d3dd0a73dd800f869a3e6da63461f0600164f8c92b319f89bec"
+    },
+    "docs/organic-v41/regional_od_comparison.png": {
+      "bytes": 161240,
+      "sha256": "5dc01139484878cd7771317d234efd54c4f8ed5b38416b22a5e9476421d217fc"
+    },
+    "docs/organic-v41/regional_od_units.npy": {
+      "bytes": 1480,
+      "sha256": "d74d2562bc3ce6017e6d9917e5832f61851ad4e07dc4b3abe00d1f386f783771"
+    },
+    "docs/organic-v41/reproducibility.json": {
+      "bytes": 437,
+      "sha256": "1ab7cf8e9a3264f3e01a2141c33fe393b9103424d3850690ce662a422fdbc847"
+    },
+    "docs/organic-v41/reproduction_manifest.json": {
+      "bytes": 1746,
+      "sha256": "49218626565f1fbf0d41583f57130014b72e953a8d1ab3e16a3de22cf5df7ad2"
+    },
+    "docs/organic-v41/residential_anchor_corrections.csv": {
+      "bytes": 2700,
+      "sha256": "17fb0dca0349c1df2dc60fa915968448b1e996c65c2f56e7638938b7a520ea6e"
+    },
+    "docs/organic-v41/scenario_parameters.json": {
+      "bytes": 1525,
+      "sha256": "f353a5253101677ed84aff7407cf009efc0eabecfb6e6a61aa4c5c9ea906ca62"
+    },
+    "docs/organic-v41/source_evidence.json": {
+      "bytes": 7946,
+      "sha256": "79a1f3e84c622c372f7c7837968b4f3da9f3291f8ed6d1fd6f564fc66778de70"
+    },
+    "docs/organic-v41/spatial_diagnostics.json": {
+      "bytes": 737,
+      "sha256": "06ebd94de13c4e4d95c323095ae38f8b076c9201a96cded2291156a56df4e7a6"
+    },
+    "docs/organic-v41/validation.json": {
+      "bytes": 1212,
+      "sha256": "127d31eb2ea64c23b71b9465489a7013b1fd5e7dcdc62931a48af8c0813475dd"
+    },
+    "docs/organic-v41/village_comparison.csv": {
+      "bytes": 182543,
+      "sha256": "0b2443da9267845186e5b008453bf13468169b2d576cba8e3f5099ff4cc8e6bd"
+    },
+    "scripts/organic_v41/audit.py": {
+      "bytes": 27633,
+      "sha256": "b2c8893956d885fcafd49e08035f813ec10bdb1244268709704951ad117d0b16"
+    },
+    "scripts/organic_v41/demand_preview.py": {
+      "bytes": 8219,
+      "sha256": "6ecac8918fb72b99a139a1cd39531af48ced8dabb11ec8775b516adb24b45e62"
+    },
+    "scripts/organic_v41/developed_area.py": {
+      "bytes": 1944,
+      "sha256": "0a26434b046d4e00579531b78edc7123beda127708ec5311552ece670e9232a2"
+    },
+    "scripts/organic_v41/diagnostics.py": {
+      "bytes": 14833,
+      "sha256": "b10bfc51957f5eab80b3ff887d6b256d7e85da872be8c6cee60fe12622faae3c"
+    },
+    "scripts/organic_v41/extract_engine.mjs": {
+      "bytes": 667,
+      "sha256": "c8ce2a9ab54c9afa2f44bfc9cae167ecd0861add88778bb7b498669c002166b5"
+    },
+    "scripts/organic_v41/final_checks.py": {
+      "bytes": 5052,
+      "sha256": "4626c7dbd327425ed9f648337b331322c7ca89ab6c1d095caa9a1803220f4176"
+    },
+    "scripts/organic_v41/od_review.py": {
+      "bytes": 2474,
+      "sha256": "9c7d40d0acb751e6da3e22d07443551be5ef8a7d5283b7964dd47ea3b7f589a2"
+    },
+    "scripts/organic_v41/performance.py": {
+      "bytes": 1221,
+      "sha256": "3b9d8b9164e3beb284c2f6a0ed510300e070c9e2f3f0723f43e87a5c7b2839c8"
+    },
+    "scripts/organic_v41/reports.py": {
+      "bytes": 44305,
+      "sha256": "b6a860333e93545652c36d65a0d28c44bfad59bf200d3d54e3232a4f4335d0b6"
+    },
+    "scripts/organic_v41/research_sources.py": {
+      "bytes": 9803,
+      "sha256": "6a2cf6a03ed1dd9cb2fb9f4ba611ceeae3c05ef7c7f813c733f9339f13bcfae0"
+    },
+    "scripts/organic_v41/residential_visuals.py": {
+      "bytes": 2520,
+      "sha256": "3f6b79639fed1506fc03f0fee45225226678ae822950824324c45e68fef2acea"
+    },
+    "scripts/organic_v41/review_manifest.py": {
+      "bytes": 2796,
+      "sha256": "716aeb8b5b324eea05ec132e9ec818ca8aad487f899d5ca84fbc0878aaf88afd"
+    },
+    "scripts/organic_v41/verify.py": {
+      "bytes": 6828,
+      "sha256": "05400079987b93b0f0ee6fd22a6bd189bd6d95062de3bd6e0d009f843546ecc0"
+    }
+  }
+}

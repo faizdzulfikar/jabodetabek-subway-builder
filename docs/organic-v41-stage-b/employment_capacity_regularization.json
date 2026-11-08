@@ -1,0 +1,84 @@
+{
+  "regions": [
+    {
+      "region": "Bekasi",
+      "jobs": 1255400,
+      "floor_component_ceiling_multiplier": 2,
+      "unclassified_neighborhood_component_share": 0.5691338585311455
+    },
+    {
+      "region": "Bogor",
+      "jobs": 1963600,
+      "floor_component_ceiling_multiplier": 2,
+      "unclassified_neighborhood_component_share": 0.8333570055001019
+    },
+    {
+      "region": "Kota Bekasi",
+      "jobs": 840200,
+      "floor_component_ceiling_multiplier": 2,
+      "unclassified_neighborhood_component_share": 0.7345751678171863
+    },
+    {
+      "region": "Kota Bogor",
+      "jobs": 437400,
+      "floor_component_ceiling_multiplier": 2,
+      "unclassified_neighborhood_component_share": 0.6336957567443987
+    },
+    {
+      "region": "Kota Depok",
+      "jobs": 529100,
+      "floor_component_ceiling_multiplier": 2,
+      "unclassified_neighborhood_component_share": 0.6618050803250802
+    },
+    {
+      "region": "Kota Jakarta Barat",
+      "jobs": 634000,
+      "floor_component_ceiling_multiplier": 2,
+      "unclassified_neighborhood_component_share": 0.2000000000000001
+    },
+    {
+      "region": "Kota Jakarta Pusat",
+      "jobs": 1199200,
+      "floor_component_ceiling_multiplier": 2,
+      "unclassified_neighborhood_component_share": 0.22382086081122773
+    },
+    {
+      "region": "Kota Jakarta Selatan",
+      "jobs": 2080800,
+      "floor_component_ceiling_multiplier": 2,
+      "unclassified_neighborhood_component_share": 0.43807633714097727
+    },
+    {
+      "region": "Kota Jakarta Timur",
+      "jobs": 582700,
+      "floor_component_ceiling_multiplier": 2,
+      "unclassified_neighborhood_component_share": 0.2612197349533681
+    },
+    {
+      "region": "Kota Jakarta Utara",
+      "jobs": 706600,
+      "floor_component_ceiling_multiplier": 2,
+      "unclassified_neighborhood_component_share": 0.2
+    },
+    {
+      "region": "Kota Tangerang",
+      "jobs": 852700,
+      "floor_component_ceiling_multiplier": 2,
+      "unclassified_neighborhood_component_share": 0.7311021425815398
+    },
+    {
+      "region": "Kota Tangerang Selatan",
+      "jobs": 522100,
+      "floor_component_ceiling_multiplier": 2,
+      "unclassified_neighborhood_component_share": 0.49853317755219306
+    },
+    {
+      "region": "Tangerang",
+      "jobs": 1042900,
+      "floor_component_ceiling_multiplier": 2,
+      "unclassified_neighborhood_component_share": 0.473180709680056
+    }
+  ],
+  "ceiling": 2,
+  "new_intensity_parameters": false
+}

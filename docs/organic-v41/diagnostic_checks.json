@@ -1,0 +1,12 @@
+{
+  "all_district_population_margins_exact": true,
+  "all_district_origin_margins_exact": true,
+  "capacity_scenarios_conserve_regions": true,
+  "airport_roles_no_double_count": true,
+  "additional_clusters_reviewed": 15,
+  "all_districts_reviewed": 183,
+  "current_game_checks": "../organic-stage-b/runtime_verification.json",
+  "proposal_game_test": "NOT RUN: StageA must not install",
+  "current_demand_gzip_bytes": 3895853,
+  "proposed_demand_gzip_bytes": 3797067
+}

@@ -1,0 +1,174 @@
+{
+  "engine-index-naXCc2CR.js": {
+    "sha256": "bbb8cfc548f1dac9fedbd810436494c9f8f9c952f7fb1be707cddaddd47b224a",
+    "bytes": 10648870,
+    "symbols": {
+      "residenceId": {
+        "matches": 12,
+        "first_line": 136683
+      },
+      "jobId": {
+        "matches": 14,
+        "first_line": 136683
+      },
+      "popIds": {
+        "matches": 25,
+        "first_line": 187034
+      },
+      "assignCommuteTimes": {
+        "matches": 6,
+        "first_line": 136908
+      },
+      "UNI_": {
+        "matches": 2,
+        "first_line": 136939
+      },
+      "AIR_": {
+        "matches": 1,
+        "first_line": 136908
+      },
+      "BRD_": {
+        "matches": 0,
+        "first_line": null
+      },
+      "workDepartureTime": {
+        "matches": 14,
+        "first_line": 136908
+      },
+      "homeDepartureTime": {
+        "matches": 15,
+        "first_line": 129781
+      },
+      "tripPurpose": {
+        "matches": 0,
+        "first_line": null
+      }
+    }
+  },
+  "engine-GameMain-Dka5B2n3.js": {
+    "sha256": "dd19fc803ae561622b33ba28f9332554bbbc1337396ac7e375cb97effa972bc3",
+    "bytes": 3872244,
+    "symbols": {
+      "residenceId": {
+        "matches": 10,
+        "first_line": 5611
+      },
+      "jobId": {
+        "matches": 12,
+        "first_line": 5611
+      },
+      "popIds": {
+        "matches": 17,
+        "first_line": 15275
+      },
+      "assignCommuteTimes": {
+        "matches": 0,
+        "first_line": null
+      },
+      "UNI_": {
+        "matches": 3,
+        "first_line": 15214
+      },
+      "AIR_": {
+        "matches": 5,
+        "first_line": 15213
+      },
+      "BRD_": {
+        "matches": 4,
+        "first_line": 15215
+      },
+      "workDepartureTime": {
+        "matches": 5,
+        "first_line": 14861
+      },
+      "homeDepartureTime": {
+        "matches": 5,
+        "first_line": 14861
+      },
+      "tripPurpose": {
+        "matches": 0,
+        "first_line": null
+      }
+    }
+  },
+  "engine-popCommuteWorker.worker-CW0eS6S-.js": {
+    "sha256": "7936aaef62bd82c7523038d7f1362a9a1395a53281fd4e3bd9ad3a2823cc9d9e",
+    "bytes": 1245448,
+    "symbols": {
+      "residenceId": {
+        "matches": 2,
+        "first_line": 31187
+      },
+      "jobId": {
+        "matches": 1,
+        "first_line": 31187
+      },
+      "popIds": {
+        "matches": 0,
+        "first_line": null
+      },
+      "assignCommuteTimes": {
+        "matches": 0,
+        "first_line": null
+      },
+      "UNI_": {
+        "matches": 1,
+        "first_line": 31187
+      },
+      "AIR_": {
+        "matches": 1,
+        "first_line": 31187
+      },
+      "BRD_": {
+        "matches": 0,
+        "first_line": null
+      },
+      "workDepartureTime": {
+        "matches": 1,
+        "first_line": 31187
+      },
+      "homeDepartureTime": {
+        "matches": 1,
+        "first_line": 31187
+      },
+      "tripPurpose": {
+        "matches": 0,
+        "first_line": null
+      }
+    }
+  },
+  "installed_data": {
+    "point_fields": [
+      "id",
+      "location",
+      "residents",
+      "jobs",
+      "popIds"
+    ],
+    "pop_fields": [
+      "id",
+      "size",
+      "residenceId",
+      "jobId",
+      "drivingDistance",
+      "drivingSeconds"
+    ],
+    "special_prefix_points": {
+      "AIR_": 0,
+      "UNI_": 0,
+      "BRD_": 0
+    },
+    "point_residents_sum": 12646700,
+    "point_jobs_sum": 12646700,
+    "pop_sizes_sum": 12646700
+  },
+  "findings": [
+    "Residents aggregates pop residenceId, not a separate all-inhabitants stock",
+    "Workers aggregates jobId; jobs vocabulary also used for special destination pops",
+    "UNI_ student and AIR_ passenger destinations receive special timing/dampening",
+    "Current v4 has no special destination prefixes; school/shopping/health/leisure trips not represented separately",
+    "Time-dependent departures/returns supported; no general arbitrary multi-stop purpose-chain field established in checked schema",
+    "Do not label airport staff AIR_: airline passenger timing is different from employment commuting",
+    "No engine modifications in StageA"
+  ]
+}

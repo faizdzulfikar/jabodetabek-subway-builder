@@ -1,0 +1,39 @@
+{
+  "version": 4,
+  "stage": "A_V41_PREVIEW_NOT_INSTALLED",
+  "seed": 20261107,
+  "population": 32615007,
+  "allocation_anchors": 115935,
+  "engine_points": 78407,
+  "onsite_clone_points": 1022,
+  "groups": 126467,
+  "workers": 12646700,
+  "regional_origins_exact": true,
+  "regional_destinations_exact": true,
+  "all_point_origins_exact": true,
+  "all_point_jobs_exact": true,
+  "cross_region_workers": 5058800,
+  "cross_region_fraction": 0.4000094886413056,
+  "decay_km": 18,
+  "diagonal_preference": 8.578161917530126,
+  "within_region_distance_noise_km": 6,
+  "sparse_candidate_k_max": 32,
+  "straight_distance_km_p10_p50_p90_p95_p99": [
+    0.40800451896181267,
+    5.828019563105816,
+    27.054243506645165,
+    34.424863398358106,
+    48.31419666281596
+  ],
+  "proxy_travel_minutes_p50_p90_p95": [
+    22.666666666666668,
+    94.30499999999999,
+    119.18333333333334
+  ],
+  "onsite_worker_fraction": 0.012034760055982984,
+  "candidate_gzip_bytes": 3895337,
+  "seconds": 6.44327349998639,
+  "travel_time_status": "Proxy:1.35*straight distance,24km/h+180s; network-routing sample audited separately, not measured congestion",
+  "od_status": "Synthetic40% cross-region sensitivity scenario, not an observed2026 OD census",
+  "transport_method": "Entropy-kernel IPF + integer min-cost rounding for point-to-region marginals; perturbed sparse min-cost matching within each regional pair. All point and regional margins exact."
+}

@@ -1,8 +1,8 @@
 {
   "id": "local.faiz.jabodetabek",
   "name": "Jabodetabek \u2014 Experimental Map",
-  "description": "Lightweight mainland Jabodetabek with organic building/parcel demand v4. Official population controls; estimated workplaces and OD. Start included local asset server.",
-  "version": "0.2.1",
+  "description": "Lightweight Jabodetabek organic demand v4.1 S0+OD40; official population controls; workplaces/OD remain estimates.",
+  "version": "0.2.2",
   "author": {
     "name": "Faiz"
   },

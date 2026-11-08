@@ -1,0 +1,14 @@
+{
+  "version": "4.1",
+  "approval": "User said lanjut after recommendationS0+OD40",
+  "stage": "B_V41_VERIFIED",
+  "regional_and_village_margins": "v4 unchanged",
+  "OD_cross_region": 0.4,
+  "decay_km": 18,
+  "cost_noise_km": 6,
+  "floor_ceiling": 2,
+  "function_intensities": "existing v4 priors only; S1 excluded",
+  "rebuild": "33identified clusters expanded to individual member building interiors to avoid nonresidential source/facility aggregation",
+  "access": "mapped local-road side inferred; not surveyed entrance",
+  "source_model": "docs/organic-stage-b/organic_parameters.json"
+}
